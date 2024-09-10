@@ -1,0 +1,613 @@
+id,class_session_id,lesson_question_id,user_id,group_id,logged_in_user,text,updated_on,parent_id,ip,visible
+405473,13579,22749,22315,NULL,NULL,"&lt;p&gt;That synthesis won&#039;t occur because of some bond strain. The bicyclo[3.3.1]nonane is able to perform up and down alternating axial and equatorial bonds where as the bicyclo[2.2.1] is not able to do so as the bridge disrupts that pattern. Therefore, this may cause some bond strain or make the location for the substitution not very accessible and cause a 0%. Although both locations make tertiary carbocations, situation B won&#039;t occur due to the strain caused by the disruption of the axial and equatorial bond patterns.&nbsp;&lt;/p&gt;
+","2020-11-02 14:38:16",0,67.68.160.165,1
+405655,13579,22749,21204,NULL,NULL,,"2020-11-02 17:04:45",0,70.53.160.156,1
+405656,13579,22749,21204,NULL,NULL,"&lt;p&gt;Your explanation has the same basic element as me but your explanation is much more complete. Actually make me understand details I didn&#039;t think of, thank you and great job!&lt;/p&gt;
+","2020-11-02 17:06:45",405473,70.53.160.156,1
+405658,13579,22749,21095,NULL,NULL,"&lt;p&gt;Maybe because&nbsp;B has a lot of bond strain, so free radical not stable so less likely to form whereas A barely has any bond strain because it can bend to assume stable configuration so radical formed stabilized by hyperconjugation so likely to form&lt;/p&gt;
+","2020-11-02 17:07:37",0,50.101.181.21,1
+405659,13579,22749,21095,NULL,NULL,"&lt;p&gt;I like your explanation. I was thinking the same thing! Keep up the good work!&lt;/p&gt;
+","2020-11-02 17:09:33",405473,50.101.181.21,1
+405661,13579,22749,21719,NULL,NULL,"&lt;p&gt;Radical halogenation mechanisms will always prefer the formation of a stable radical. The pathway in which the most stable radical is formed has the less amount of activation energy and is therefore preferred. In reaction A, the radical is located 100% of the time at the bridgehead, this makes sense as the bridgehead is 3prime and the &quot;double boat-chair conformation&quot; allows for potential rotations&nbsp;to reduce the amount of strain. However, in reaction B no such rotations&nbsp;are possible to stabilize the radical created at the bridgehead, it is under huge amounts of strain. Therefore the activation energy for this pathway is way higher and the reaction will not follow it.&nbsp;&lt;/p&gt;
+","2020-11-02 17:12:35",0,184.163.0.38,1
+405662,13579,22749,21719,NULL,NULL,"&lt;p&gt;Amazing answer Vivan&lt;/p&gt;
+","2020-11-02 17:14:07",405473,184.163.0.38,1
+405665,13579,22749,21358,NULL,NULL,"&lt;p&gt;When bicyclo(3.3.1)nonane is treated with Br2 under irradiation, the bromine that substitutes the hydrogen is mostly in the equatorial position due to the chair flip conformations. Since bromine is a big atom, this allows for less interactions with the many other substituents that are close by. However, in bicyclo(2.2.1)heptane, there are no chair flip conformations, so the big bromine atom would have a lot of interaction with nearby substituents. Therefore, it is possible the reaction would not take place as the product would be too unstable compared to the reactant.&lt;/p&gt;
+","2020-11-02 17:29:34",0,88.125.130.55,1
+405671,13579,22749,21358,NULL,NULL,"&lt;p&gt;Very nice color-coded diagrams that give a clear answer. Good job!&lt;/p&gt;
+","2020-11-02 17:37:26",405655,88.125.130.55,1
+405700,13579,22749,21279,NULL,NULL,"&lt;p&gt;The Bicyclo[3.3.1]nonane is a large component, therefore because of the hyperconjugation system that is larger, the H is more unstable and a substitution can occur&quot; However, the bicyclo[2.2.1]heptane has a smaller hyperconjugated system therefore, the radical Br does not react with the H.&lt;/p&gt;
+","2020-11-02 18:26:44",0,173.176.63.111,1
+405701,13579,22749,22176,NULL,NULL,,"2020-11-02 18:27:28",0,76.68.190.90,1
+405702,13579,22749,21279,NULL,NULL,"&lt;p&gt;Oh yeah that makes a lot of sens. Good explanation it is clear and concise.&lt;/p&gt;
+","2020-11-02 18:28:04",405665,173.176.63.111,1
+405703,13579,22749,21279,NULL,NULL,"&lt;p&gt;Great answer Vivian! It is really well explained.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2020-11-02 18:28:58",405473,173.176.63.111,1
+405706,13579,22749,22177,NULL,NULL,"&lt;p&gt;No substitution is observed for rxn B because of bond strain. &nbsp;There are no chair flip conformations, leaving bromine in a highly reactive position due to its size. &nbsp;Rad halogenation prefers stability.&nbsp;&lt;/p&gt;
+","2020-11-02 18:33:23",0,76.68.190.90,1
+405707,13579,22749,22177,NULL,NULL,"&lt;p&gt;Excellent work. Nice answer&nbsp;&lt;/p&gt;
+","2020-11-02 18:33:53",405701,76.68.190.90,1
+405708,13579,22749,22177,NULL,NULL,"&lt;p&gt;This makes sense!&lt;/p&gt;
+","2020-11-02 18:34:01",405658,76.68.190.90,1
+405709,13579,22749,22176,NULL,NULL,"&lt;p&gt;Well done and to the point answer, Good job!&lt;/p&gt;
+","2020-11-02 18:34:04",405706,76.68.190.90,1
+405710,13579,22749,22177,NULL,NULL,"&lt;p&gt;Well done!&lt;/p&gt;
+","2020-11-02 18:34:15",405665,76.68.190.90,1
+405727,13579,22749,21780,NULL,NULL,"&lt;p&gt;The ring structure in A is large enough such that it becomes more stable from the addition of the bromine atom. However, the smaller ring structure in B forms a less stable radical, thus the addition of bromine is not preferred, so the structure would rather remain the same and not react at all.&lt;/p&gt;
+","2020-11-02 18:51:25",0,67.68.231.82,1
+405739,13579,22749,21780,NULL,NULL,"&lt;p&gt;Your diagrams are very clear, and make it easy to understand why the product does not form in B. Nice job!&lt;/p&gt;
+","2020-11-02 18:53:17",405655,67.68.231.82,1
+405886,13579,22749,21107,NULL,NULL,,"2020-11-02 19:16:08",0,135.84.23.245,1
+405922,13579,22749,21151,NULL,NULL,,"2020-11-02 19:25:11",0,75.158.149.85,1
+405928,13579,22749,21151,NULL,NULL,"&lt;p&gt;Thinking about in terms of stability of the radical intermediate never occurred to me, this makes sense!&lt;/p&gt;
+","2020-11-02 19:26:30",405658,75.158.149.85,1
+405929,13579,22749,21151,NULL,NULL,"&lt;p&gt;This is well put and concise. Thanks!&lt;/p&gt;
+","2020-11-02 19:26:55",405727,75.158.149.85,1
+405935,13579,22749,21151,NULL,NULL,"&lt;p&gt;I&#039;m not sure if there&#039;s resonance, but I do see how the larger compound may be able to provide more stability to the radical - this makes sense&lt;/p&gt;
+","2020-11-02 19:28:21",405886,75.158.149.85,1
+405941,13579,22749,21151,NULL,NULL,"&lt;p&gt;The hyperconjugation argument makes sense, and you explain it well!&lt;/p&gt;
+","2020-11-02 19:29:02",405700,75.158.149.85,1
+405958,13579,22749,21151,NULL,NULL,"&lt;p&gt;Thanks for providing all the background info about the reaction! I&#039;m not sure what you mean about polarity - is it something like how large atoms are more polarizable?&lt;/p&gt;
+","2020-11-02 19:30:39",405701,75.158.149.85,1
+405963,13579,22749,21151,NULL,NULL,"&lt;p&gt;The chair conformations and stability puts it in a way that makes sense for me. Thanks!&lt;/p&gt;
+","2020-11-02 19:31:15",405706,75.158.149.85,1
+405968,13579,22749,21151,NULL,NULL,"&lt;p&gt;Your explanation is clear and detailed. Nice work&lt;/p&gt;
+","2020-11-02 19:31:52",405661,75.158.149.85,1
+405982,13579,22749,18029,NULL,NULL,,"2020-11-02 19:40:14",0,142.118.222.112,1
+405983,13579,22749,21073,NULL,NULL,"&lt;p&gt;The bonds in bicyclo[2.2.1] heptane are already under a lot of strain because they are being held at angles much less than their ideal. The bridgeheads are under the most strain and so, attempting to make them a free radical is extremely unstable and would not be favoured. It is for this reason that we see 0% of the product being a bridgehead bromination. For the nonane, on the other hand, their bonds being held fairly close to the ideal angle and due to this, the tertiary radical that would be formed at the bridgehead carbon is very stable.&nbsp;&lt;/p&gt;
+","2020-11-02 19:40:48",0,107.159.31.104,1
+405984,13579,22749,18029,NULL,NULL,"&lt;p&gt;Love you answer! The visual aid with color-coding makes your conclusion very clear and easy to follow. Nice work :)&lt;/p&gt;
+","2020-11-02 19:40:57",405655,142.118.222.112,1
+405986,13579,22749,20995,NULL,NULL,"&lt;p&gt;The substitution of Br onto the bridgehead involves the formation of a radical at the bridgeheads. Radicals typically prefer an sp2 planar geometry. The first structure A is capable of forming planar geometry because it is larger and more flexible. The second structure B is not capable of forming planar geometry at the bridgehead becasue its structure is very rigid. This is why Br will not substitute at the bridgehead of structure B because it is not favourable to form a radical.&nbsp;&lt;/p&gt;
+","2020-11-02 19:42:35",0,184.64.126.120,1
+406019,13579,22749,20995,NULL,NULL,"&lt;p&gt;I agree with your explanation, and I like how you explained the stability of the free radical in terms of bond angle. I did not consider this in my answer. Great job!&lt;/p&gt;
+","2020-11-02 19:47:06",405983,184.64.126.120,1
+406022,13579,22749,21257,NULL,NULL,"&lt;p&gt;The bromination with light takes place via a radical mechanism. For a radical to be stable, it must be in a sp2 hybridized carbon intermediate and needs to be planar. In the compound B, the radical that will be formed will be unstable because it will be out of the plane.&lt;/p&gt;
+
+&lt;p&gt;In the Bicyclo[3.3.1]nonane, the radical intermediate is possible, because the two rings have two more carbons and therefore they are more flexible which will let the bridgehead go through a planar conformation to form an sp2 hybridized radical intermediate in order to undergo the substitution.&lt;/p&gt;
+","2020-11-02 19:49:40",0,65.92.251.217,1
+406023,13579,22749,22065,NULL,NULL,"&lt;p&gt;I would expect that this reaction would not take place because it is not energetically favorable. Its possible that the radical halogenation of the bicyclononane is exothermic whilst the the same reaction with the bicycloheptane is endothermic. These types of reactions do not typically take place if they require too much energy to get started.&nbsp;&nbsp;&lt;/p&gt;
+","2020-11-02 19:50:15",0,69.10.40.19,1
+406024,13579,22749,21257,NULL,NULL,"&lt;p&gt;Great explanation, it is very clear!&lt;/p&gt;
+","2020-11-02 19:50:19",405473,65.92.251.217,1
+406025,13579,22749,21257,NULL,NULL,"&lt;p&gt;I really like your diagram and the use of color! it made everything more clear!&lt;/p&gt;
+","2020-11-02 19:51:05",405655,65.92.251.217,1
+406026,13579,22749,22065,NULL,NULL,"&lt;p&gt;Good explanation, I understand what you&#039;re saying. I didn&#039;t think about this in my own answer so this was helpful and improved my own understanding.&lt;/p&gt;
+","2020-11-02 19:51:17",405661,69.10.40.19,1
+406028,13579,22749,21014,NULL,NULL,"&lt;p&gt;A has two cyclohexanes connected by a bridge, while B has two cyclopentanes connected by a bridge.&nbsp;The cyclohexane has less ring strain, so adding the Br presents less of a problem in terms of steric hindrance. While for cyclopentane, although it is very stable and doesn&#039;t want to add the Br because that could add steric hindrance, so it is not favored.&lt;/p&gt;
+","2020-11-02 19:53:47",0,209.6.137.112,1
+406032,13579,22749,21014,NULL,NULL,"&lt;p&gt;You had a very clear explanation that made the question make more sense to me! I wrote a similar idea, but you really solidified it in your answer. Nice job!&lt;/p&gt;
+","2020-11-02 19:54:38",405473,209.6.137.112,1
+406069,13579,22749,21513,NULL,NULL,,"2020-11-02 19:59:22",0,142.118.222.112,1
+406074,13579,22749,21513,NULL,NULL,"&lt;p&gt;This is a really well explained answer. I like how you talked about the possibility of rotation to stabilize the radical.&nbsp;&lt;/p&gt;
+","2020-11-02 20:01:16",405661,142.118.222.112,1
+406075,13579,22749,21946,NULL,NULL,"&lt;p&gt;Due to steric hindrance.&nbsp; There is no space to put a Br there.&lt;/p&gt;
+","2020-11-02 20:01:24",0,102.112.186.147,1
+406076,13579,22749,21946,NULL,NULL,"&lt;p&gt;It is exactly what I thought.&lt;/p&gt;
+","2020-11-02 20:03:40",406028,102.112.186.147,1
+406077,13579,22749,21295,NULL,NULL,"&lt;p&gt;I think the reason for the observed phenomenon is due to strain in the rings. The C-C bonds on each end of&nbsp;Bicyclo[2.2.1]heptane are in right angles, so there is greater angular strain compared to in Bicyclo[3.3.1]nonane. This is important because there is an inverse relationship between strain and stability in cyclic alkanes. As Bicyclo[3.3.1]nonane experiences less strain, it is more stable and therefore forms a more stable radical. Hence substitution can take place with Br2. Conversely, Bicyclo[2.2.1]heptane is significantly less stable so it is not favorable to carry out the substitution reaction.&lt;/p&gt;
+","2020-11-02 20:04:04",0,217.164.42.79,1
+406080,13579,22749,22299,NULL,NULL,"&lt;p&gt;Since bicycle[3.3.1]nonane has larger bridges (loops) than bicyclo[2.2.1]heptane, this may allow the structure to make more conformations that can minimize stress (ie. repulsion and steric hinderances) that would be added by Br.&nbsp;&lt;/p&gt;
+","2020-11-02 20:05:32",0,174.112.13.55,1
+406081,13579,22749,22299,NULL,NULL,"&lt;p&gt;Clear explanation!&lt;/p&gt;
+","2020-11-02 20:07:03",406069,174.112.13.55,1
+406082,13579,22749,21295,NULL,NULL,"&lt;p&gt;I had a similar idea to you&nbsp;but&nbsp;your explanation helped me understand the reasoning behind the answer better. Great job!&lt;/p&gt;
+","2020-11-02 20:07:04",405986,217.164.42.79,1
+406089,13579,22749,22845,NULL,NULL,"&lt;p&gt;When the radical intermediates form, the hybridization of the&nbsp;carbons with the radicals go from sp3 to sp2. For the bicyclo[2.2.1]heptane, this new planar geometry&nbsp;causes extremely high amounts of ring and angle strain. This strain is too high for the radical intermediate to feasibly form and therefore substitution is not observed.&nbsp;However since the&nbsp;bicyclo[3.3.1]nonane has more carbons in the main ring, the amount of strain produced is far less. Because of this, substitution is observed for the&nbsp;bicyclo[3.3.1]nonane but not for the&nbsp;bicyclo[2.2.1]heptane.&nbsp;&lt;/p&gt;
+","2020-11-02 20:16:14",0,173.179.7.98,1
+406091,13579,22749,22845,NULL,NULL,"&lt;p&gt;Great answer! I was thinking the same thing for the bond strain but hadn&#039;t thought of the chair flips before reading your answer. It&#039;s a&nbsp;great thought to add!&lt;/p&gt;
+","2020-11-02 20:19:45",405706,173.179.7.98,1
+406094,13579,22749,21262,NULL,NULL,"&lt;p&gt;It may be that in the first reaction, the reaction takes place at the bridgehead carbon due to the fact that pi-orbitals are aligned and are parallel to each other, making the reaction possible, however in the second structure, the 3-D view of the pi-orbitals show that they are perpendicular to each other, thus inhibiting the reaction from occurring as the bridgehead carbon is unstable&nbsp;&nbsp;&lt;/p&gt;
+","2020-11-02 20:26:58",0,76.65.186.153,1
+406095,13579,22749,22576,NULL,NULL,"&lt;p&gt;A possible explanation to the bicyclo[3.3.1]nonane reacting and not the bicyco[2.2.1] is the ring strain in cyclopentane that is minimized in cyclohexane (due to the possible chair conformations). The bicyclo[3.3.1]nonane is formed of cyclohexane which has minimized ring strain allowing it to react with Br2 in the presence of light. While bicyclo[2.2.1] is formed of cyclopentane which has neighbouring carbons that causes some hindrances.&lt;/p&gt;
+","2020-11-02 20:27:54",0,72.141.21.18,1
+406097,13579,22749,21262,NULL,NULL,"&lt;p&gt;Very well thought out answer, the depth of your answer is incredible as your detailed explanation is very understandable to the blank-state reader. Great job!&lt;/p&gt;
+","2020-11-02 20:28:52",405701,76.65.186.153,1
+406098,13579,22749,21039,NULL,NULL,"&lt;p&gt;Compound&nbsp;A is much more spaced than component B, meaning that all carbons bond together the wey it is drawn here. But, since compound B is much more compact, all carbon can interact with each other, creating a cloud of electrons around each atom that is denser than in compound A, since any atoms can bond with any other. This probably creates steric collisions that block Br2 from attacking an H atom, leading to the bromination.&lt;/p&gt;
+","2020-11-02 20:29:36",0,24.202.56.62,1
+406101,13579,22749,22576,NULL,NULL,"&lt;p&gt;I like you explanation! Well done!&lt;/p&gt;
+","2020-11-02 20:30:40",406080,72.141.21.18,1
+406102,13579,22749,21039,NULL,NULL,"&lt;p&gt;Very good explanation, similar to what I thought but forgot to add the mention of the chair conformation. Makes it more clear!&lt;/p&gt;
+","2020-11-02 20:31:38",406069,24.202.56.62,1
+406103,13579,22749,22576,NULL,NULL,"&lt;p&gt;Well explained! I like how you mentioned the ring strained and the stability of the structures&lt;/p&gt;
+","2020-11-02 20:32:26",406069,72.141.21.18,1
+406104,13579,22749,21884,NULL,NULL,"&lt;p&gt;I&#039;m not really sure but the only thing i can think of it that for molecule B, the Br will not attach to that position because formation of a radical at that bridge head is too unstable compared to the original structure. However, the formation of a radical at the bridgehead in molecule A can happen because the original structure is not as stable.&lt;/p&gt;
+","2020-11-02 20:32:26",0,67.68.238.110,1
+406105,13579,22749,22576,NULL,NULL,"&lt;p&gt;Great explanation! I agree with you regarding the strain being too high&lt;/p&gt;
+","2020-11-02 20:34:26",406089,72.141.21.18,1
+406106,13579,22749,21884,NULL,NULL,"&lt;p&gt;This was explained very clearly, thank you for helping me understand.&lt;/p&gt;
+","2020-11-02 20:35:41",405473,67.68.238.110,1
+406109,13579,22749,21884,NULL,NULL,"&lt;p&gt;I like your picture! It really helped me understand :)&lt;/p&gt;
+","2020-11-02 20:37:05",405655,67.68.238.110,1
+406110,13579,22749,21282,NULL,NULL,"&lt;p&gt;Structure A is more likely to react because it contains a chair conformation within the structure which has a low energy of activation. Structure B contains a cyclopentane which has low ring strain and will therefore be less likely to react.&lt;/p&gt;
+","2020-11-02 20:38:45",0,67.68.238.110,1
+406111,13579,22749,21282,NULL,NULL,"&lt;p&gt;Your diagrams are so clear and detailed!&lt;/p&gt;
+","2020-11-02 20:39:13",405655,67.68.238.110,1
+406112,13579,22749,21282,NULL,NULL,"&lt;p&gt;your answer is very clear, thank you!&lt;/p&gt;
+","2020-11-02 20:39:49",405701,67.68.238.110,1
+406117,13579,22749,21564,NULL,NULL,,"2020-11-02 20:51:11",0,70.54.157.180,1
+406121,13579,22749,21564,NULL,NULL,"&lt;p&gt;This explanation was really clear and detailed! Great work!&lt;/p&gt;
+","2020-11-02 20:54:47",405473,70.54.157.180,1
+406123,13579,22749,21564,NULL,NULL,"&lt;p&gt;This is a really clear and concise explanation! I agree with your thought process :)&lt;/p&gt;
+","2020-11-02 20:58:25",406110,70.54.157.180,1
+406126,13579,22749,21917,NULL,NULL,"&lt;p&gt;The steric strain between the bromine substituent and the ring is more unfavourable in bicycloheptane where the downwards&nbsp;conformation of the ring impedes the reaction to occur at bridgeheads. Rather, bicyclononane&#039;s ring conformation allows for substitution because of the asymmetric upwards/downwards orientation on either side of the bridge.&nbsp;&lt;/p&gt;
+","2020-11-02 21:06:44",0,67.216.61.96,1
+406133,13579,22749,21749,NULL,NULL,"&lt;p&gt;The first molecule&nbsp;(A) is more flexible than the second one, therefore the radical can adopt a more stable configuration, leaving place for the bromine to attack it. In the B, the structure is too planar leaving no place for the bromine to attack the radical.&lt;/p&gt;
+","2020-11-02 21:33:40",0,76.64.91.50,1
+406134,13579,22749,21749,NULL,NULL,"&lt;p&gt;Very clear, I didn&#039;t really know what to say but you clarified alot!&lt;/p&gt;
+","2020-11-02 21:35:02",405655,76.64.91.50,1
+406135,13579,22749,21445,NULL,NULL,"&lt;p&gt;In bicyclo[3.3.1]nonane, bromination occurs through a radical mechanism. This is possible because the intermediate has a ring with two more carbons than bicyclo[2.2.1]heptane. That said, the bicyclo[3.3.1]heptane ring is much more flexible and the bridged carbon can go through planar intermediate conformation. This forms an&nbsp;sp2&nbsp;hybridized radical intermediate to form the brominated product.&lt;/p&gt;
+
+&lt;p&gt;However, in bicyclo[2.2.1]heptane, a planar intermediate at the bridged carbon isn&rsquo;t possible since that position is highly strained (lacking the two extra carbons) which prevents it from becoming planar. That said, the bromination does not occur because sp2&nbsp;hybridization is not possible.&nbsp;&lt;/p&gt;
+","2020-11-02 21:35:58",0,96.21.174.240,1
+406136,13579,22749,21749,NULL,NULL,"&lt;p&gt;I like the way you explained it, I was thinking the same but you really put the good words to say it.&lt;/p&gt;
+","2020-11-02 21:37:14",405983,76.64.91.50,1
+406137,13579,22749,21445,NULL,NULL,"&lt;p&gt;Your explanation was great. You used all the good terms and that helped me understand this challenge question much more. Great job!&lt;/p&gt;
+","2020-11-02 21:37:59",405473,96.21.174.240,1
+406140,13579,22749,21445,NULL,NULL,"&lt;p&gt;wow I really enjoyed the way you presented your explanation. This was very interesting, I didn&#039;t think of this problem from the chair conformation perspective. You have great ideas!&lt;/p&gt;
+","2020-11-02 21:40:25",405655,96.21.174.240,1
+406144,13579,22749,21235,NULL,NULL,,"2020-11-02 21:47:52",0,135.84.23.245,1
+406149,13579,22749,21604,NULL,NULL,"&lt;p&gt;I think that the angle strain in compound B is too big for a third bond to form. The compound A is composed of one boat and one chair conformation of an hexane, which doesn&#039;t show as much strain and can adopt a bromine on this 3&deg; carbon.&lt;/p&gt;
+","2020-11-02 22:15:08",0,24.201.215.207,1
+406151,13579,22749,21604,NULL,NULL,"&lt;p&gt;Good answer, great job&lt;/p&gt;
+","2020-11-02 22:15:49",405701,24.201.215.207,1
+406152,13579,22749,21604,NULL,NULL,"&lt;p&gt;I didn&#039;t talk about reactivity, well done!&lt;/p&gt;
+","2020-11-02 22:16:22",405706,24.201.215.207,1
+406155,13579,22749,21075,NULL,NULL,"&lt;p&gt;Since the bicyclo[3.3.1]nonane, is constituted of two cyclohexane rings, it is more stable (it has less ring strain)&nbsp;than bicyclo[2.2.1]heptane, which is constituted of 2 cyclopentane rings. The superior stability in the bicyclo[3.3.1]nonane will allow an hydrogen bond to be broken much more easily than in the bicyclo[2.2.1]heptane. Since&nbsp;bicyclo[2.2.1]heptane is already not very stable (it has high ring strain), breaking an hydrogen bond would make it even less stable, which is why it&nbsp;does not react with Br2 and light.&nbsp;&lt;/p&gt;
+","2020-11-02 22:21:13",0,24.202.251.41,1
+406157,13579,22749,21075,NULL,NULL,"&lt;p&gt;Very well explained! The colors also helped a lot to understand. Good job!&lt;/p&gt;
+","2020-11-02 22:26:02",405655,24.202.251.41,1
+406173,13579,22749,21393,NULL,NULL,"&lt;p&gt;When forming the radical intermediate, bicyclo[3.3.1]nonane is more stable at the bridghead, however bicyclo[2.2.1]heptane is more stable when the radical is formed on the carbon to left of the bridgehead&lt;/p&gt;
+","2020-11-02 23:20:53",0,NULL,1
+406174,13579,22749,21393,NULL,NULL,"&lt;p&gt;Your explanation and drawings&nbsp;ware&nbsp;very clear and helped me really understand the problem and why my answer could have been further developed&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2020-11-02 23:23:40",405655,NULL,1
+406181,13579,22749,21169,NULL,NULL,"&lt;p&gt;It&#039;s possible that the ring strain on (A) is lower than the ring strain on (B) because its ring is larger with more carbons. Because of this, maybe the bridgehead on (B) cannot adopt a stable geometry to hold a radical, and therefore cannot be brominated at that location.&nbsp;&lt;/p&gt;
+","2020-11-03 00:14:17",0,207.102.87.135,1
+406182,13579,22749,21169,NULL,NULL,"&lt;p&gt;It makes sense that the ring/angle strain is too high for the radical intermediate. Good explanation!&lt;/p&gt;
+","2020-11-03 00:16:13",406089,207.102.87.135,1
+406183,13579,22749,21169,NULL,NULL,"&lt;p&gt;I totally agree. This is a super clear explanation of the ring strain!&lt;/p&gt;
+","2020-11-03 00:17:46",406095,207.102.87.135,1
+406205,13579,22749,22315,NULL,NULL,"&lt;p&gt;wow i can&#039;t believe your answer just blew my mind... amazing&lt;/p&gt;
+","2020-11-03 01:11:17",405661,67.68.160.165,1
+406209,13579,22749,22322,NULL,NULL,"&lt;p&gt;The bicyclo[3.3.1]nonane undergoes bromination with a 100% product because we have stabilization&nbsp;from the classic chair flip we know and love. Also, the bridgehead where the bromine attaches allows for this bromination reaction, as the pi-orbitals of the bridgehead C and the adjacent ones are in the same plane.&nbsp;This chair flip allows the bromine ion to be unobstructed by the rest of the molecule., which is a privilege that bicylco[2.2.1] heptane does not have. He is chair flippless!!! So he cannot be stabilized!!!&nbsp;I have a&nbsp;midterm tomorrow. I don&#039;t know &amp;lt;3&lt;/p&gt;
+","2020-11-03 01:19:03",0,135.84.23.245,1
+406210,13579,22749,22321,NULL,NULL,,"2020-11-03 01:20:28",0,135.84.23.245,1
+406211,13579,22749,21328,NULL,NULL,"&lt;p&gt;I think that it&#039;s because the ring in bicyclo[2.2.1]heptane isn&#039;t large enough that a fourth bond can be added at the bridgehead: it would be unstable with four bonds.&nbsp;Whereas, in bicyclo[3.3.1]nonane, the ring is large enough for four bonds at the bridgehead: it is stable.&lt;/p&gt;
+","2020-11-03 01:21:17",0,96.21.10.150,1
+406213,13579,22749,21328,NULL,NULL,"&lt;p&gt;That&#039;s what I thought! You make it easy to understand.&lt;/p&gt;
+","2020-11-03 01:23:50",406080,96.21.10.150,1
+406214,13579,22749,22321,NULL,NULL,"&lt;p&gt;your eyes shine like capa green&lt;/p&gt;
+
+&lt;p&gt;you feel dangerous like capa red&lt;/p&gt;
+
+&lt;p&gt;you intrigue me like capa yellow&lt;/p&gt;
+
+&lt;p&gt;my love my light&lt;/p&gt;
+
+&lt;p&gt;looking into your eyes tonight... I am home &amp;lt;3&lt;/p&gt;
+","2020-11-03 01:23:55",406144,135.84.23.245,1
+406215,13579,22749,22321,NULL,NULL,"&lt;p&gt;when i am blue you make me green... capa green&lt;/p&gt;
+
+&lt;p&gt;reminiscing on physics tonight... that was really hard &amp;lt;3&lt;/p&gt;
+
+&lt;p&gt;we are... endgame.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;elope with me...&lt;/p&gt;
+
+&lt;p&gt;ive been saving up&lt;/p&gt;
+
+&lt;p&gt;ive forged&nbsp;you a ring (metalwork..)&lt;/p&gt;
+
+&lt;p&gt;we are endgame... i love you...&nbsp;&lt;/p&gt;
+","2020-11-03 01:26:25",406209,135.84.23.245,1
+406216,13579,22749,21328,NULL,NULL,"&lt;p&gt;this makes sense and your color coded drawings help a lot!&lt;/p&gt;
+","2020-11-03 01:26:31",405655,96.21.10.150,1
+406218,13579,22749,22321,NULL,NULL,"&lt;p&gt;there is always resonance... if you look close enough...&lt;/p&gt;
+
+&lt;p&gt;your eyes sparkle, your smile makes me blush&lt;/p&gt;
+
+&lt;p&gt;check your doorstep... knock knock... its me &amp;lt;3&lt;/p&gt;
+
+&lt;p&gt;I&#039;m here to ask for your hand... I&#039;m here to ask for your heart...&lt;/p&gt;
+
+&lt;p&gt;xoxo you know who...&lt;/p&gt;
+","2020-11-03 01:29:02",405886,135.84.23.245,1
+406219,13579,22749,21235,NULL,NULL,"&lt;p&gt;I am crying. I have learned something today. and that is all one can ask for before they lay to rest. Love to all and to all love. thank you.&nbsp;&lt;/p&gt;
+","2020-11-03 01:29:42",406209,135.84.23.245,1
+406222,13579,22749,21235,NULL,NULL,"&lt;p&gt;You have made my stomach toss, turn, backflip, 360 spin back forth spin back all again and again. I now know all of chemistry from this answer. Love to you miss Kate.&nbsp;&lt;/p&gt;
+","2020-11-03 01:31:42",406210,135.84.23.245,1
+406223,13579,22749,22321,NULL,NULL,"&lt;p&gt;A poem...for you &amp;lt;3&lt;/p&gt;
+
+&lt;p&gt;Can&#039;t stop thinking about you... about us...&lt;/p&gt;
+
+&lt;p&gt;I don&#039;t want to sound mean... but your eyes shine like capa green&lt;/p&gt;
+
+&lt;p&gt;I hope this doesn&#039;t get to your head... but compared to you, everyone else is capa red&lt;/p&gt;
+
+&lt;p&gt;If I called you on the phone, would you say hello? Baby, you&#039;re my capa yellow&lt;/p&gt;
+","2020-11-03 01:31:55",406209,135.84.23.245,1
+406224,13579,22749,21107,NULL,NULL,"&lt;p&gt;Kate M.....&nbsp; M&nbsp;stands for mysterious because im in love with you like summer and afternoons. i think we should meet sometime?&nbsp;&lt;/p&gt;
+","2020-11-03 01:32:41",405886,135.84.23.245,1
+406226,13579,22749,22321,NULL,NULL,"&lt;p&gt;When you talk about steric hindrance... i blush&lt;/p&gt;
+
+&lt;p&gt;Can&#039;t get visual classrooms out of my head... or maybe it&#039;s just you...&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2020-11-03 01:35:58",406028,135.84.23.245,1
+406227,13579,22749,21235,NULL,NULL,"&lt;p&gt;forest, trees, plants, flowers. This is an answer and that is ALL one can hope for.&nbsp;&lt;/p&gt;
+","2020-11-03 01:36:15",405886,135.84.23.245,1
+406229,13579,22749,22322,NULL,NULL,"&lt;p&gt;something in the way the pen flows across the Ipad, as our chem tutorial TA says... everything is ...... correct&lt;/p&gt;
+","2020-11-03 01:36:36",406144,135.84.23.245,1
+406231,13579,22749,21107,NULL,NULL,"&lt;p&gt;caitlin caitlin mamma mia ..... stop making me blush. gimme all your love, ive fallen.... for you . you make me as unstable as a primary cation.... i practically do not exist&nbsp;&lt;/p&gt;
+","2020-11-03 01:38:09",406144,135.84.23.245,1
+406232,13579,22749,22321,NULL,NULL,"&lt;p&gt;Hard for me to express... how much I love this answer...&lt;/p&gt;
+
+&lt;p&gt;Feelings i&#039;ve never felt...&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Like a song I can&#039;t get out of my head...&nbsp;&lt;/p&gt;
+
+&lt;p&gt;You sir... have a gift... I guess that&#039;s&nbsp;why they call it the present?&nbsp;&lt;/p&gt;
+","2020-11-03 01:39:22",406155,135.84.23.245,1
+406233,13579,22749,21107,NULL,NULL,"&lt;p&gt;So much is going on&lt;br /&gt;
+But you can always come around&lt;br /&gt;
+Why don&#039;t you sit with me for just a little while&lt;br /&gt;
+Tell me, what&#039;s wrong&lt;/p&gt;
+
+&lt;p&gt;And you just give me all your love&lt;br /&gt;
+Give me all you got baby&lt;/p&gt;
+
+&lt;p&gt;Give me all your love&lt;br /&gt;
+That I know&lt;/p&gt;
+
+&lt;p&gt;So tell me what you wanna do&lt;br /&gt;
+They say ---- you&lt;br /&gt;
+Why don&#039;t tell to me just a little why&lt;br /&gt;
+I don&#039;t know the time&lt;br /&gt;
+Make your way&lt;/p&gt;
+
+&lt;p&gt;And you just give me all your love&lt;br /&gt;
+Give me all you got baby&lt;/p&gt;
+
+&lt;p&gt;Give me all your love&lt;/p&gt;
+
+&lt;p&gt;Give me all your love&lt;/p&gt;
+
+&lt;p&gt;Give me all your love&lt;br /&gt;
+Baby&lt;/p&gt;
+
+&lt;p&gt;Just give me all your love&lt;/p&gt;
+","2020-11-03 01:40:04",406209,135.84.23.245,1
+406235,13579,22749,21235,NULL,NULL,"&lt;p&gt;Short but sweet, love this answer! &amp;lt;3&lt;/p&gt;
+","2020-11-03 01:44:32",406075,135.84.23.245,1
+406238,13579,22749,22322,NULL,NULL,"&lt;p&gt;this answer is dashing like banana.&nbsp;&lt;/p&gt;
+","2020-11-03 01:46:09",405661,135.84.23.245,1
+406240,13579,22749,22321,NULL,NULL,"&lt;p&gt;this answer is dashing like banana&lt;/p&gt;
+","2020-11-03 01:46:33",405661,135.84.23.245,1
+406241,13579,22749,21107,NULL,NULL,"&lt;p&gt;kate.............&lt;/p&gt;
+
+&lt;p&gt;i . am . at. a . loss. of . words&lt;/p&gt;
+
+&lt;p&gt;you take me down the yellow brick road... yellow like capa yellow.... mysterious .&lt;/p&gt;
+
+&lt;p&gt;missy you&#039;ve taken my breath away&lt;/p&gt;
+","2020-11-03 01:48:36",406210,135.84.23.245,1
+406242,13579,22749,21107,NULL,NULL,"&lt;p&gt;delicious and nutritious&nbsp;&lt;/p&gt;
+","2020-11-03 01:49:21",406210,135.84.23.245,1
+406243,13579,22749,22322,NULL,NULL,"&lt;p&gt;This is exactly what i thought&lt;/p&gt;
+","2020-11-03 01:51:51",406210,135.84.23.245,1
+406245,13579,22749,22322,NULL,NULL,"&lt;p&gt;i am getting driven.... not round town... no. no NO. I&#039;m being driven bizurk.&nbsp;bizurk because I feel ashamed of my answer now... looking back.... maybe ashamed of it all...... but we live and let live.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Realeyes&lt;/p&gt;
+
+&lt;p&gt;realize&lt;/p&gt;
+
+&lt;p&gt;real lies&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;3&lt;/p&gt;
+","2020-11-03 01:54:06",406210,135.84.23.245,1
+406247,13579,22749,22322,NULL,NULL,"&lt;p&gt;not only do you discuss resonance, i feel my love for this answer resonate&nbsp;in my heart, my toes, back up, side to side. I feel euphoric reading your answer.... pure ecstasy.&nbsp;&lt;/p&gt;
+","2020-11-03 01:58:17",405886,135.84.23.245,1
+406248,13579,22749,21017,NULL,NULL,,"2020-11-03 01:58:48",0,135.0.28.50,1
+406249,13579,22749,21017,NULL,NULL,"&lt;p&gt;Very interesting answer! I did not think of taking an MO approach, but it makes sense!&lt;/p&gt;
+","2020-11-03 02:01:56",405982,135.0.28.50,1
+406254,13579,22749,21771,NULL,NULL,"&lt;p&gt;I&#039;m not 100% sure, but my working idea is that in bicyclo[3.3.1]nonane, the ring is flexible and stabilizes the bridge head radical, due to both flexibility and the pi-orbital being in the same plane (see diagram for a visualization). As a result, the reaction is able to occur, and Br is able to be attached. On the other hand, bicyclo[2.2.1]heptane is rigid, and therefore doesn&#039;t allow the bridgehead to become planar to allow this reaction to occur, and also, the pi-orbital is perpendicular, and therefore, no reaction is possible.&nbsp;&lt;/p&gt;
+","2020-11-03 02:20:08",0,146.115.101.41,1
+406256,13579,22749,21771,NULL,NULL,"&lt;p&gt;This is a really clear and detailed explanation, and I really like your diagrams! (Also, not directly related to the answer, but your handwriting is super neat + easy to understand!)&lt;/p&gt;
+","2020-11-03 02:21:47",405655,146.115.101.41,1
+406271,13579,22749,21719,NULL,NULL,"&lt;p&gt;Greate answer! Well done keep it goin!&lt;/p&gt;
+","2020-11-03 03:22:57",406248,184.163.0.38,1
+406275,13579,22749,21342,NULL,NULL,"&lt;p&gt;I think that perhaps the intermediate carbon radical cannot form. When the halide radical abstract a hydrogen from a carbon, it leaves a carbon radical which is sp2 hybridized. I think that because bicyclo[3.3.1]nonane allows for a planar sp2 hybridization to form, while the&nbsp;bicyclo[2.2.1]heptane does not. I think this is because the 8 carbon ring is large enough for the bridging carbon to fit within the ring, thus allowing for the planar sp2 hybridization to form temporarily and for the radical carbon to be brominated. With the&nbsp;bicyclo[2.2.1]heptane, the six carbon ring is not large enough for the bridging carbon to fit within it. Thus, the carbon is stuck in its tetrahedral shape and it will not reacti with the bromine radical. (This is just a theory)&lt;/p&gt;
+","2020-11-03 03:50:00",0,96.23.120.191,1
+406277,13579,22749,21342,NULL,NULL,"&lt;p&gt;I definitely agree with your explanation. I definitely suspected the geometry of the carbon first, because the only thing that changes between compound A and compound B is the size of the ring. I agree with your explanation. 100%&lt;/p&gt;
+","2020-11-03 03:55:22",405986,96.23.120.191,1
+406278,13579,22749,21342,NULL,NULL,"&lt;p&gt;Oh my! I did not see the two cyclohexanes&nbsp;that compose compound A. Yeah, your explanation does make a lot of sense. Good job!&lt;/p&gt;
+","2020-11-03 04:00:12",405661,96.23.120.191,1
+406279,13579,22749,21342,NULL,NULL,"&lt;p&gt;Great job illustrating your point with the colours and the rings outlined. It really helped me understand your explanation.&lt;/p&gt;
+","2020-11-03 04:01:17",405655,96.23.120.191,1
+406281,13579,22749,21342,NULL,NULL,"&lt;p&gt;Thank you for your succinct and simple answer. I feel it really hit the nail on the head.&lt;/p&gt;
+","2020-11-03 04:04:54",405658,96.23.120.191,1
+406284,13579,22749,21342,NULL,NULL,"&lt;p&gt;Wow! I did not see the chair conformations of compound A. It really makes sense when you analyze the compounds based on ring stability. Good job!&lt;/p&gt;
+","2020-11-03 04:06:13",405665,96.23.120.191,1
+406285,13579,22749,21910,NULL,NULL,"&lt;p&gt;Compound B is in effect a hexane with a bridge and compund A is an octane with a bridge. The bridge reduces the flexibility of the compounds but Compound B is much less flexible and therefore does not have as many possible conformations as Compound A. Since bromine has a larger electron cloud than hydrogen the Compounds will want to readjust to reduce steric repulsion however Compound B wont be capable of shifting sufficiently in order to make the brominated product more desirable than the original molecule.&nbsp;&lt;/p&gt;
+","2020-11-03 04:17:21",0,187.213.96.5,1
+406286,13579,22749,21910,NULL,NULL,"&lt;p&gt;The visual explanation is very impressive and despite having few words it explains everything it has to explain. I had similar reasoning but I didn&#039;t see the chair configuration, however, your answer made it immediately clear. Great work!&lt;/p&gt;
+","2020-11-03 04:21:46",405655,187.213.96.5,1
+406291,13579,22749,21125,NULL,NULL,"&lt;p&gt;I assume that the reason has something to do with Bredt&lsquo;s Rule which stated that for a small ring bicyclic compound (less than 7 carbons), the bridgehead atom is extremely unstable and hardly isolated. So even the rule mainly refers to the double bone structure, but I think the radical&nbsp;intermediate shares some similar properties, and the rule still apply. In our case, due to the poor orbital overlap, the radical intermediate is too unstable and unable to be obtained and thus the second step of substitution will not pursue.&lt;/p&gt;
+","2020-11-03 05:14:07",0,70.81.89.177,1
+406298,13579,22749,22089,NULL,NULL,"&lt;p&gt;The substitution occurs on the bridgehead of A, but not B because of the structure&#039;s rigidity. Because B is more rigid than A, it most likely does not prefer going into sp2 hybridization to form a radical at the bridgehead (geometry has to be planar), whereas A has more flexibility from having more carbons. If radical cannot be formed, this type of bromination cannot occur, which is why I believe that this substitution does not occur on B.&nbsp;&lt;/p&gt;
+","2020-11-03 06:08:00",0,65.94.215.101,1
+406300,13579,22749,22089,NULL,NULL,"&lt;p&gt;I had the same idea that compound A will have more flexibility in terms of its geometry to form a planar conformation, allowing the formation of a radical. However, I wouldn&#039;t say 8C and 6C ring respectively, since the bridge carbon is still technically part of both rings (hence why it&#039;s called nonane and heptane, not octane and hexane). Other than that, seems like a great answer!&lt;/p&gt;
+","2020-11-03 06:14:31",406275,65.94.215.101,1
+406303,13579,22749,21131,NULL,NULL,"&lt;p&gt;I wasn&#039;t entirely sure but that&#039;s what I came up with...&lt;/p&gt;
+","2020-11-03 07:04:20",0,96.51.161.230,1
+406304,13579,22749,21131,NULL,NULL,"&lt;p&gt;Your explanation is amazing! It really helped solidify the ideas for me.&lt;/p&gt;
+","2020-11-03 07:06:07",405655,96.51.161.230,1
+406305,13579,22749,21131,NULL,NULL,"&lt;p&gt;Completely agree with your concise explanation, well done!&lt;/p&gt;
+","2020-11-03 07:07:24",406069,96.51.161.230,1
+406306,13579,22749,21131,NULL,NULL,"&lt;p&gt;Awesome explanation, I had the same idea as you, yet your response was so much clearer and thoroughly developed, great job!&lt;/p&gt;
+","2020-11-03 07:08:52",406117,96.51.161.230,1
+406311,13579,22749,21785,NULL,NULL,,"2020-11-03 08:07:54",0,2.51.235.103,1
+406312,13579,22749,21785,NULL,NULL,"&lt;p&gt;I hadn&#039;t thought about the geometry of the carbon intermediate, which seems very useful here! Your explanation for&nbsp;that was really clear and precise.&nbsp;&lt;/p&gt;
+","2020-11-03 08:15:01",406022,2.51.235.103,1
+406313,13579,22749,20882,NULL,NULL,"&lt;p&gt;The only difference between structure A and structure B is that the cyclic structure in structure B has two less carbons. Structure A is able to undergo radical halogenation at the bridgehead, but structure B is unable to undergo radical halogenation at the bridgehead. From my understanding from the lecture recordings, molecules will undergo radical halogenation in a way that it creates the most stable radical intermediate, which for structure A is at the bridgehead (tertiery radical). Similarly, I would expect the structure B to be similar and create a tertiery radical at the bridgehead as well. However, this is not the case for structure B. Unfortunately, I do not know why substitution does not take place at the bridgehead for structure B... :(&lt;/p&gt;
+","2020-11-03 09:15:39",0,160.178.231.33,1
+406314,13579,22749,20882,NULL,NULL,"&lt;p&gt;Your drawing is really clear, and your explanation really helped me understand the reason why structure B does not undergo the reaction at the bridgehead. Great job, and thanks for the clear explanation!&lt;/p&gt;
+","2020-11-03 09:21:25",405655,160.178.231.33,1
+406315,13579,22749,21177,NULL,NULL,"&lt;p&gt;The addition of another pi orbital in the Bicyclononane makes it possible for the substitution, as opposed to no substitution in the Bicycloheptane&nbsp;&lt;/p&gt;
+","2020-11-03 10:23:58",0,102.65.159.201,1
+406316,13579,22749,21177,NULL,NULL,"&lt;p&gt;Really like this explanation, thanks for explaining it so well.&lt;/p&gt;
+","2020-11-03 10:24:36",405473,102.65.159.201,1
+406320,13579,22749,21541,NULL,NULL,,"2020-11-03 11:42:19",0,37.172.226.108,1
+406321,13579,22749,21541,NULL,NULL,"&lt;p&gt;The substitution in situation A takes place at 100% probably because A is able to have equatorial and axial bonds (up and down) enabled the substitution to take place. However, B is not able to do this because it is disrupted by the bridge and therefore, there is too much bond strain in the molecule, explaining why there is a 0% chance of substitution: the disruption of the axial and equatorial bond patterns by the bridge disables any substitution in molecule B.&lt;/p&gt;
+","2020-11-03 11:52:21",406320,37.172.226.108,1
+406322,13579,22749,21541,NULL,NULL,"&lt;p&gt;Great diagram!&lt;/p&gt;
+","2020-11-03 11:52:40",405655,37.172.226.108,1
+406323,13579,22749,21541,NULL,NULL,"&lt;p&gt;Your explanation is very clear! It helped me understand the problem.&lt;/p&gt;
+","2020-11-03 11:53:08",405473,37.172.226.108,1
+406324,13579,22749,22874,NULL,NULL,,"2020-11-03 11:54:37",0,41.230.72.218,1
+406325,13579,22749,21541,NULL,NULL,"&lt;p&gt;PS: sorry for the image, the transfer of my picture didn&#039;t work I had to write it down on visual classrooms.&lt;/p&gt;
+","2020-11-03 11:55:50",406320,37.172.226.108,1
+406326,13579,22749,21541,NULL,NULL,"&lt;p&gt;Your answer is very original compared to the rest, but it makes sense! Good job!&lt;/p&gt;
+","2020-11-03 11:57:10",405982,37.172.226.108,1
+406327,13579,22749,22874,NULL,NULL,"&lt;p&gt;Wow this is very different to my answer! It was very clever of you to answer this question using&nbsp;the chair flips and it makes sense. I just wish you&#039;ve&nbsp;included a diagram to make it clearer. Great job!&lt;/p&gt;
+","2020-11-03 12:06:13",405665,41.230.72.218,1
+406335,13579,22749,21175,NULL,NULL,"&lt;p&gt;In the first reaction, bromination takes place at the bridged carbon due to the presence of a pi orbital in the same plane.So substitution and elimination reactions are possible. In the second reaction, the formation of the carbocation would be unstable. The pi orbital is perpendicular to the plane. So the reactions would not be able to occur&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2020-11-03 13:26:22",0,46.176.190.77,1
+406336,13579,22749,21175,NULL,NULL,"&lt;p&gt;Your explanation is very clear&lt;/p&gt;
+","2020-11-03 13:26:52",405661,46.176.190.77,1
+406337,13579,22749,21246,NULL,NULL,"&lt;p&gt;I think, the compound (A) reacts more than compound (B) is because compound (A) has more carbon, therefore&nbsp;can fold in&nbsp;more advantageous positions. This lower the energy of the ring and also the energy&nbsp;needed for the reaction to occur, so the reaction can happen&nbsp;for a bicyclo (3.3.1)nonane. For bicyclo(2.2.1)heptane, there are&nbsp;no possibilities of the ring to fold, so it always stays in the same position, therefore being very energetic, and the reaction cannot occur.&nbsp;&lt;/p&gt;
+","2020-11-03 13:39:11",0,92.184.105.110,1
+406338,13579,22749,21246,NULL,NULL,"&lt;p&gt;Your answer is very clear and explains well what happens during the reactions. Your explanation is complete. Good job !&lt;/p&gt;
+","2020-11-03 13:41:19",405665,92.184.105.110,1
+406351,13579,22749,21192,NULL,NULL,"&lt;p&gt;Starting by SN1, we know that it needs the formation of a carbocation&nbsp;that needs a trigonal planar geometry but in this structure it can&#039;t happen since it is a trigonal pyramidal planar.&lt;/p&gt;
+
+&lt;p&gt;Also for SN2, we know that it only&nbsp;works on primary or secondary, but here we have a tertiary alkyl halide which makes it unreactive to SN2.&lt;/p&gt;
+","2020-11-03 13:55:11",0,94.204.212.89,1
+406398,13579,22749,21028,NULL,NULL,"&lt;p&gt;The second reaction does not occur because the ring is inflexible and will not allow the formation of a planar bridgehead. Therefore, no reaction will occur. However, in the first reaction, the ring has two more carbons. Thus, the bridgehead radical has added stability allowing the formation of a&nbsp;bridgehead.&nbsp;&lt;/p&gt;
+","2020-11-03 14:57:05",0,174.93.252.170,1
+406399,13579,22749,21028,NULL,NULL,"&lt;p&gt;Your explanation was very thorough and concise. Great job!!&lt;/p&gt;
+","2020-11-03 14:59:44",406022,174.93.252.170,1
+406402,13579,22749,21211,NULL,NULL,"&lt;p&gt;Ideally, at the bridgehead, carbons should be tetrahedral to avoid a ring strain. Bicyclo[2.2.1]heptane is the compound having the least number of carbons (compared to B). Consequently, the molecule should have less&nbsp;ring strain. Indeed, in its&nbsp;chair conformation we could perceive tetrahedral carbons&nbsp;contributing to the stabilization of the structure. However, for bicyclo[3.3.1]nonane (compound with the highest number of carbons),&nbsp;bridgehead carbons have a smaller bond angle, resulting in a higher strain. As a consequence the structure is considered as being less stabilized and&nbsp;thus, more reactive. This is why molecule A is preferred to&nbsp;undergo a substitution reaction when treated with Br2 under irradiation.&lt;/p&gt;
+","2020-11-03 15:07:13",0,86.99.188.228,1
+406403,13579,22749,21211,NULL,NULL,"&lt;p&gt;Nice approach of the problem. I did not think of mentioning potential double bonds&nbsp;&nbsp;but you showed that it cold make sense!&lt;/p&gt;
+","2020-11-03 15:12:22",405982,86.99.188.228,1
+406420,13579,22749,20843,NULL,NULL,,"2020-11-03 16:08:12",0,67.230.160.124,1
+406421,13579,22749,20843,NULL,NULL,"&lt;p&gt;So great to point out the alternating axial and equatorial bonds involved in&nbsp;bicyclo [3.3.1] nonane!&nbsp;&lt;/p&gt;
+","2020-11-03 16:10:58",405473,67.230.160.124,1
+406422,13579,22749,20843,NULL,NULL,"&lt;p&gt;Your explanation helps&nbsp;me grab a much better understanding of the ring constrain. Thank you for pointing out the half-chair configuration which really stabilizes the compound.&nbsp;&lt;/p&gt;
+","2020-11-03 16:13:59",405655,67.230.160.124,1
+406423,13579,22749,21427,NULL,NULL,"&lt;p&gt;I don&#039;t have a clear idea for this question, but a rough idea is the bicyclo 3.3.1 nonane has a chair structure and can flip to form its most stable way,&lt;/p&gt;
+
+&lt;p&gt;However the bicyclo 2.2.1 heptane may not flip and thus maybe the Br can not add to this bridgehead position, instead the Br&nbsp;will add to the other position of the main ring.&lt;/p&gt;
+","2020-11-03 16:16:15",0,103.82.4.163,1
+406426,13579,22749,21427,NULL,NULL,"&lt;p&gt;very clear answer! this really makes sense.&lt;/p&gt;
+","2020-11-03 16:18:18",405701,43.245.196.159,1
+406439,13579,22749,22710,NULL,NULL,"&lt;p&gt;Bromination under light occurs through a radical reaction mechanism. In order for a radical reaction to proceed, the intermediate must be sufficiently stable such that the Ea barrier is not too high. A stable radical intermediate would need to be planar and have sp2 hybridized carbons. For reaction B, this is not possible because the radical will be formed out of the plane. For reaction A, the formation of a radical intermediate is possible since each side of the carbon ring have enough carbons to allow for flexibility; this will permit the bridgehead to enter a planar conformation such that an sp2 hybridized, planar, radical intermediate can be formed, allowing for bromine substitution to occur.&lt;/p&gt;
+","2020-11-03 17:04:28",0,66.131.250.81,1
+406441,13579,22749,22710,NULL,NULL,"&lt;p&gt;Wow, this is a really straightforward and concise answer! It definitely helped me understand this question better.&lt;/p&gt;
+","2020-11-03 17:05:42",406398,66.131.250.81,1
+406443,13579,22749,22710,NULL,NULL,"&lt;p&gt;This is a great explanation! The inclusion of the diagrams definitely helped!&lt;/p&gt;
+","2020-11-03 17:06:22",406069,66.131.250.81,1
+406444,13579,22749,22710,NULL,NULL,"&lt;p&gt;This was a really good, concise, answer!&nbsp;&lt;/p&gt;
+","2020-11-03 17:07:04",406126,66.131.250.81,1
+406475,13579,22749,24065,NULL,NULL,,"2020-11-03 17:43:39",0,135.19.254.151,1
+406483,13579,22749,21061,NULL,NULL,,"2020-11-03 17:50:56",0,66.131.68.183,1
+406485,13579,22749,21061,NULL,NULL,"&lt;p&gt;Great answer! It is very clear and to the point&lt;/p&gt;
+","2020-11-03 17:52:46",406248,66.131.68.183,1
+406491,13579,22749,23273,NULL,NULL,"&lt;p&gt;There is no substitution observed at the bridgehead of bicyclo[2.2.1]heptane due to the angle strain and torsional strain in the molecule. Although the Br2 would want to react with a tertiary radical, there could be more strain due to the proximity of the larger groups on the symmetrical bicyclo structure. Also since bromine is a less reactive agent and more stereoselective than another halogens, like chlorine, it could affect the placement of the substitution.&nbsp;&lt;/p&gt;
+","2020-11-03 18:03:22",0,173.179.3.125,1
+406492,13579,22749,23275,NULL,NULL,"&lt;p&gt;Not entirely sure. It may be due to B being symmetrical and therefore the addition of the Br group would create too much bond stain on the product. Additionally, it could be that Br is just not reactive enough to react with molecule B if it&#039;s stable.&nbsp;&lt;/p&gt;
+","2020-11-03 18:03:52",0,173.179.3.125,1
+406493,13579,22749,23275,NULL,NULL,"&lt;p&gt;Great use of a diagram in your explanation!&lt;/p&gt;
+","2020-11-03 18:04:15",405655,173.179.3.125,1
+406494,13579,22749,23273,NULL,NULL,"&lt;p&gt;Clear diagram and great explanation.&lt;/p&gt;
+","2020-11-03 18:04:17",405922,173.179.3.125,1
+406500,13579,22749,21588,NULL,NULL,,"2020-11-03 18:12:04",0,66.131.250.81,1
+406501,13579,22749,21588,NULL,NULL,"&lt;p&gt;Thanks for your explanation! I liked how you used colour, it made me see the ring better and understand why it occurs in Compound A. Good work!&lt;/p&gt;
+","2020-11-03 18:13:24",406117,66.131.250.81,1
+406518,13579,22749,21197,NULL,NULL,"&lt;p&gt;Both of these reactions are called radical halogenations because, in the presence of light, the alkanes within these&nbsp;2 compounds are able to form alkyl halides. Substitution by Br2 and light&nbsp;on Bicyclo[3.3.1]nonane gives us 100% of a product because Br can better extract a hydrogen atom from the alkane C-H bonds. This will increase the yield of reaction with compound A.&lt;/p&gt;
+","2020-11-03 18:32:54",0,82.81.173.34,1
+406522,13579,22749,21197,NULL,NULL,"&lt;p&gt;In addition, the&nbsp;bicyclo[2.2.1]heptane has a lot of bond strain, so the free radicals are&nbsp;unstable. Therefore there is less likelihood for it to form whereas bicylco[3.3.1]nonane&nbsp;barely has any bond strain due to its stability.&nbsp;&lt;/p&gt;
+","2020-11-03 18:40:53",406518,82.81.173.34,1
+406523,13579,22749,21197,NULL,NULL,"&lt;p&gt;Great Job. I liked how you used a clear diagram to explain your ideas&lt;/p&gt;
+","2020-11-03 18:42:29",406117,82.81.173.34,1
+406530,13579,22749,21159,NULL,NULL,"&lt;p&gt;The configuration of the bicyclo[3.3.1]nonane presents two conformations. The chair conformations have no ring straIn on them and therefore are the most stable conformation with the lowest energies. In comparison the bicyclo[2.2.1]heptane has ring strain and is not as stable&nbsp;as structure A. The mechanism described involves the formation of a radical. Due to the fact that structure A is stable, the radical intermediate can form however because structure B exhibits strain the radical is very unstable and therefore the product does not form.&nbsp;&lt;/p&gt;
+","2020-11-03 18:57:39",0,NULL,1
+406565,13579,22749,23272,NULL,NULL,"&lt;p&gt;in structure A, bromination occurs at the bridged carbon due to the pressure from the pi orbital in the same plane. Therefore, substitution can take place.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;in structure B, the carbocation formation would be unstable at the bridged carbon. The instability is due to the the pi orbital perpendicular to the plane. Therefore, no substitution can occur.&nbsp;&lt;/p&gt;
+","2020-11-03 19:45:40",0,135.84.21.68,1
+406577,13579,22749,21300,NULL,NULL,,"2020-11-03 19:58:44",0,142.157.252.107,1
+406578,13579,22749,21300,NULL,NULL,"&lt;p&gt;I love your explanation, helped me a lot as I was confused and said something completely different.&lt;/p&gt;
+","2020-11-03 20:00:53",405655,142.157.252.107,1
+406601,13579,22749,21368,NULL,NULL,,"2020-11-03 20:31:42",0,184.161.77.133,1
+406603,13579,22749,23310,NULL,NULL,"The bicyclo nonane may have more electron density due to more C atom which would make the molecule more reactive than the bicyclo hexane and tend toward the bromination, as it increases that density even more.","2020-11-03 20:33:52",0,78.101.181.64,1
+406606,13579,22749,21368,NULL,NULL,"&lt;p&gt;I really liked your analysis of the specific positioning of the Br (equatorial) to better understand why it is more stable. I mainly just thought about bond strain but your explanation makes a lot of sense.&lt;/p&gt;
+","2020-11-03 20:36:10",405665,184.161.77.133,1
+406609,13579,22749,21368,NULL,NULL,"&lt;p&gt;I agree with your reasoning. Your explanation is clear and concise.&lt;/p&gt;
+","2020-11-03 20:37:18",406023,184.161.77.133,1
+406611,13579,22749,21819,NULL,NULL,"&lt;p&gt;In bicyclo[3.3.1]nonane the position with the least angular strain&nbsp;due to the orientation given to it by being part of multiple rings&nbsp;likely the bridgehead, making it the most stable. However, in bicyclo[2.2.1]heptane it is the opposite, where the most strained&nbsp;position for the sp2 carbon radical is the bridgehead so it does not form.&lt;/p&gt;
+","2020-11-03 20:39:24",0,142.117.198.238,1
+406612,13579,22749,21368,NULL,NULL,"&lt;p&gt;I used the same reasoning. Nice job!&lt;/p&gt;
+","2020-11-03 20:40:23",406069,184.161.77.133,1
+406616,13579,22749,21368,NULL,NULL,"&lt;p&gt;I hadn&#039;t thought about the stability of the radical in terms of the orbital and bonds being parallel but it makes sense. I like that you also explained the result of a much slower reaction. You digram helped with the clarity of your explanation!&lt;/p&gt;
+","2020-11-03 20:45:52",406311,184.161.77.133,1
+406634,13579,22749,21285,NULL,NULL,,"2020-11-03 21:13:17",0,24.48.89.155,1
+406636,13579,22749,21250,NULL,NULL,"&lt;p&gt;The bicycloheptane is a relatively small compound and smaller alkane are less reactive, and therefore less prone to have any substitution. Also, it contains less available hydrogen atom than the bicyclononane has.&lt;/p&gt;
+","2020-11-03 21:15:10",0,23.233.220.58,1
+406638,13579,22749,21250,NULL,NULL,"&lt;p&gt;Your explaination is very clear and I like your use of color to make it easy to understand.&lt;/p&gt;
+","2020-11-03 21:17:02",405655,23.233.220.58,1
+406669,13579,22749,21329,NULL,NULL,"&lt;p&gt;Compound A is a larger molecule so there is less strain at the bridgehead. The halogenation can occur easier since it forms a more stable radical intermediate. Compound B is more strained around the bridgehead so the intermediate formed is very unstable. So, the activation energy is great enough such that it does not proceed.&lt;/p&gt;
+","2020-11-03 22:07:19",0,NULL,1
+406670,13579,22749,21329,NULL,NULL,"&lt;p&gt;This explanation is really clear and helpful! Well done!&lt;/p&gt;
+","2020-11-03 22:09:04",405473,NULL,1
+406687,13579,22749,21599,NULL,NULL,"&lt;p&gt;&lt;strong&gt;The conformation of the bicyclo[3.3.1]nonane is much more stable than the one of the bicyclo[2.2.1]heptane. Bicyclo[3.3.1]nonane, in contrast to the other molecule, has one end of its structure pointing upwards and the other end pointing downwards (which brings back a similar aspect of a highly stabilized cyclohexane conformation). This enables reduction of steric hindrance within the molecule, thus making it more stable. This cannot be seen in the bicycle[2.2.1]heptane, where both its ends point downwards. In this case, steric hindrance will cause repulsions within the molecule making it less stable. Evidently, a more stable molecule will interact better in this reaction because the radical will be more stable. &lt;/strong&gt;&lt;/p&gt;
+","2020-11-03 22:27:54",0,174.91.186.226,1
+406688,13579,22749,21599,NULL,NULL,"&lt;p&gt;Love the way you explained the alternating axial positions. Great job!&lt;/p&gt;
+","2020-11-03 22:28:35",405473,174.91.186.226,1
+406690,13579,22749,21599,NULL,NULL,"&lt;p&gt;I love how informative yet concise this is. Great work!&lt;/p&gt;
+","2020-11-03 22:30:37",405706,174.91.186.226,1
+406698,13579,22749,22325,NULL,NULL,"&lt;p&gt;The Br substitution can occur on structure A because structure A is less sterically hindered than structure B.&nbsp;Since structure A is nonane, it has a bigger bicyclo structure; in other words, the carbons are more spread out. This factors allows the radical halogenation of the Br to the bridgehead due to less steric hinderance by the hydrogens attached to the carbons.&nbsp;On the other hand, structure B has less carbons on the bicyclo structure, making the structure more compact and thus more sterically hindered. The radical halogenation of Br cannot happen here because there are too many bulky C-H groups surrounding the point of substitution at the bridgehead.&nbsp;&lt;/p&gt;
+","2020-11-03 22:41:14",0,NULL,1
+406700,13579,22749,22325,NULL,NULL,"&lt;p&gt;Well said! A very clear and concise explanation!&nbsp;&lt;/p&gt;
+","2020-11-03 22:42:27",406075,NULL,1
+406705,13579,22749,21297,NULL,NULL,"&lt;p&gt;Compound B doesn&#039;t react at all to Br2 and light because it has too few carbons in the ring structures, whereas Compound A has more and therefore it is less rigid in its conformation. If you were to assemble compound B with a molecular kit you would notice that it doesn&#039;t bend and that it is rigid. This can translate to its reactivity under this substitution. On the other hand, the increased number of carbons in the ring of compound A is much more reactive in this chair conformation and causes the bond lengths to vary, thus making it weaker and giving it the ability to react under these substitution conditions.&lt;/p&gt;
+","2020-11-03 22:53:15",0,184.144.194.250,1
+406719,13579,22749,22090,NULL,NULL,"&lt;p&gt;In bromination with light, there will be radical intermediate. The stability of this radical intermediate will determine if the reaction will follow through. In order to have a sufficiently stable radical, the carbon should be in a planar configuration. Molecule A has enough carbons around it to allow for flexibility around the bridgeheads to reach a stable configuration. However, molecule B is not able to do that because it is formed out of the plane.&nbsp;&lt;/p&gt;
+","2020-11-03 23:32:02",0,66.131.2.177,1
+406720,13579,22749,22090,NULL,NULL,"&lt;p&gt;This is a great explanation and helped me understand the question a little more. I liked that you used axial and equatorial bonds in your response!&lt;/p&gt;
+","2020-11-03 23:33:07",405473,66.131.2.177,1
+406721,13579,22749,22090,NULL,NULL,"&lt;p&gt;Wow! Great answer! Really concise and clear.&nbsp;&lt;/p&gt;
+","2020-11-03 23:34:24",406439,66.131.2.177,1
+406723,13579,22749,22090,NULL,NULL,"&lt;p&gt;Great use of the diagram. This really helped me visualize the question!&lt;/p&gt;
+","2020-11-03 23:35:49",405655,66.131.2.177,1
+406724,13579,22749,22090,NULL,NULL,"&lt;p&gt;Nice interpretation! Really helped me get a different perspective on this question. Great job!&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2020-11-03 23:37:31",405982,66.131.2.177,1
+406725,13579,22749,21872,NULL,NULL,"&lt;p&gt;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;/p&gt;
+","2020-11-03 23:39:22",0,166.48.211.164,1
+406727,13579,22749,21553,NULL,NULL,"&lt;p&gt;A plausible explanation:&lt;/p&gt;
+
+&lt;p&gt;Since carbons that connect the bridgehead to the rest of the molecule are subject to heavy&nbsp;strain, it would be very difficult for it to be substituted. Because bicyclo[3.3.1]nonane has more ring carbons, it more degrees of freedom in terms of conformational states and perhaps this fact allows for substitution under irradiation. Bicyclo[2.2.1]heptane, however, has a smaller&nbsp;degree&nbsp;of freedom (i.e. fewer ring carbons). Hence, no substitution is observed for (B).&lt;/p&gt;
+","2020-11-03 23:47:18",0,184.163.10.111,1
+406729,13579,22749,21553,NULL,NULL,"&lt;p&gt;Nice explanation! very similar to what I said.&lt;/p&gt;
+","2020-11-03 23:48:21",406565,184.163.10.111,1
+406730,13579,22749,21553,NULL,NULL,"&lt;p&gt;Great work your diagram made me understand your rationale very well.&lt;/p&gt;
+","2020-11-03 23:49:20",405655,184.163.10.111,1
+406732,13579,22749,21553,NULL,NULL,"&lt;p&gt;I like your explanation! Nice and neat handwriting too.&lt;/p&gt;
+","2020-11-03 23:49:48",406248,184.163.10.111,1
+406733,13579,22749,22090,NULL,NULL,"&lt;p&gt;Super clear explanation! I totally agree with your response.&nbsp;&lt;/p&gt;
+","2020-11-03 23:51:30",406069,66.131.2.177,1
+406735,13579,22749,21774,NULL,NULL,"&lt;p&gt;maybe the sp3 carbon from bicycloheptnane is not as stable as bicyclononane(that has 2 more carbons) which makes B have a higher energy required to start the reaction.&lt;/p&gt;
+","2020-11-03 23:52:57",0,96.22.141.17,1
+406736,13579,22749,21774,NULL,NULL,"&lt;p&gt;I would never have thought of that !&lt;/p&gt;
+","2020-11-03 23:53:47",405473,96.22.141.17,1
+406737,13579,22749,21774,NULL,NULL,"&lt;p&gt;Nice hypothesis&lt;/p&gt;
+","2020-11-03 23:54:41",406209,96.22.141.17,1
+406739,13579,22749,21465,NULL,NULL,"&lt;p&gt;I believe that bicyclo[2.2.1]heptane does not react in the way depicted in the question as opposed to bicyclo[3.3.1]nonane because of of the number of carbons that make up the ring structure. In fact, carbonium ions are more easily formed&nbsp;at bridgehead positions when a structure&nbsp;can have a planar-like geometry&nbsp;at that position. This is rather achieved in larger ring systems as is observed in the case of bicyclo[3.3.1]nonane. If such geometric conditions are not met, then the energy will increase and the compound will become less stable.&lt;/p&gt;
+
+&lt;p&gt;Thus, due to the bigger ring structure in reaction A, planar-like geometry at the bridgehead position can be obtained and the product of the reaction is more stable.&lt;/p&gt;
+
+&lt;p&gt;Had a little hard time with this question, excited to read your answers...!&lt;/p&gt;
+","2020-11-04 00:02:47",0,206.172.105.212,1
+406741,13579,22749,21465,NULL,NULL,"&lt;p&gt;Wow, great sketch. I had a terribly hard time understanding the problem. Nice visual representation that helped me a lot.&lt;/p&gt;
+","2020-11-04 00:05:19",405655,206.172.105.212,1
+406742,13579,22749,21872,NULL,NULL,"&lt;p&gt;sorry, here&lt;/p&gt;
+","2020-11-04 00:06:27",406725,166.48.211.164,1
+406743,13579,22749,21465,NULL,NULL,"&lt;p&gt;I had a similar idea, but I think you expressed it better than I did. I agree with your approach to the problem regarding the planar geometry. Nice answer!&lt;/p&gt;
+","2020-11-04 00:06:52",406022,206.172.105.212,1
+406747,13579,22749,21872,NULL,NULL,"&lt;p&gt;Honestly, I have no idea what one Earth to say in regards to some of your comments and replies lmao. Don&#039;t feel blue, we&#039;re all clueless and have no idea what we&#039;re saying!&lt;/p&gt;
+
+&lt;p&gt;That being said, I actually disagree. I think you do know what you&#039;re saying somewhat. You have helpful drawn out diagrams and&nbsp;I think you have a really solid answer which I agree with. I also&nbsp;appreciate your effort to think of answering&nbsp;this question in different ways such as with the pi orbitals.&lt;/p&gt;
+
+&lt;p&gt;Great work Kate.&lt;/p&gt;
+","2020-11-04 00:16:45",406210,166.48.211.164,1
+406756,13579,22749,23247,NULL,NULL,,"2020-11-04 00:42:03",0,162.223.117.38,1
+406757,13579,22749,23247,NULL,NULL,"&lt;p&gt;I hadn&#039;t thought about the position of the bromine atom, but that makes a lot of sense! Good job with your answer!&lt;/p&gt;
+","2020-11-04 00:43:48",405665,162.223.117.38,1
+406759,13579,22749,23247,NULL,NULL,"&lt;p&gt;I think your answer makes a lot of sense and the drawings of the step by step reaction were super helpful! Good job!&lt;/p&gt;
+","2020-11-04 00:46:27",406303,162.223.117.38,1
+406787,13579,22749,22202,NULL,NULL,"&lt;p&gt;https://pubchem.ncbi.nlm.nih.gov/compound/637905#section=3D-Conformer&lt;/p&gt;
+
+&lt;p&gt;https://pubchem.ncbi.nlm.nih.gov/compound/98232#section=3D-Conformer&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Looking at those two structures, I would suggest that there is some kind of strain that forms. If we look at the 1-bromobicyclo[3.3.1]nonane, we can see that there is no strain, and thus the Br atom is quite stable in this position. However, there is more strain when it comes to bicyclo[2.2.1]heptane. Strain means unstability, and as we know, chemistry does not like unstable things. Br will prefer to attack a different carbon that is more stable if it means that the bond will be more stable.&lt;/p&gt;
+","2020-11-04 01:36:13",0,206.172.120.180,1
+406793,13579,22749,21331,NULL,NULL,,"2020-11-04 01:51:51",0,142.157.198.54,1
+406796,13579,22749,21038,NULL,NULL,"&lt;p&gt;In order to figure out the different outcomes, we have to observe both concerned structures : A and B. The only difference between these two molecules is the number of carbon atoms per ring : nine&nbsp;versus&nbsp;seven. However, they are similar in the sense that the ring contains solely carbon atoms. We can then understand that when we have carbon rings, as the atoms are closer to each other, there is the presence of steric hindrance between the atoms. And as we have more carbon atoms, we have more internal steric hindrance. With this being said, as A has more atoms per ring than B, it has increased steric hindrance, which means it is less stable, and therefore more reactive, which is why it can undergo bromine substitution.&lt;/p&gt;
+","2020-11-04 01:56:32",0,96.21.6.222,1
+406797,13579,22749,22968,NULL,NULL,"&lt;p&gt;In my opinion, the simplest explanation that could show why the substitution in bicyclo[3.3.1]nonane takes place is that since it is a bigger compound, it is more flexible and there is less ring strain, which allows the Br to attack the radical at the bridgehead 100%. In bicyclo[2.2.1]heptane, the structure has more ring strain because of its smaller size, therefore the compound would not be able to form a radical and no substitution would be observed.&nbsp;&lt;/p&gt;
+","2020-11-04 01:57:04",0,69.157.245.203,1
+406805,13579,22749,22968,NULL,NULL,"&lt;p&gt;This was a clear and really easy explanation to understand, good job!&lt;/p&gt;
+","2020-11-04 02:11:20",405701,69.157.245.203,1
+406806,13579,22749,22968,NULL,NULL,"&lt;p&gt;I like that you mentioned the interactions between bromine and the other substituents, it makes a lot of&nbsp;sense. Good job!&nbsp;&lt;/p&gt;
+","2020-11-04 02:13:07",405665,69.157.245.203,1
+406810,13579,22749,22968,NULL,NULL,"&lt;p&gt;Good job explaining how the angles they are at in heptane are unstable and would not be favoured. The explanation is simple, but straightforward!&nbsp;&lt;/p&gt;
+","2020-11-04 02:22:27",405983,69.157.245.203,1
+406814,13579,22749,20007,NULL,NULL,"&lt;p&gt;A&#039;s structure is more flexible than B&#039;s structure, and is closer to the preferred planar structure, thus the carbocation&#039;s energy would be minimized and the substitution can take place at the bridgehead&lt;/p&gt;
+","2020-11-04 02:39:55",0,142.113.85.237,1
+406816,13579,22749,21053,NULL,NULL,"&lt;p&gt;I think that because of the conformation of the bottom reaction makes it so the electron clouds are put closer together, and because its a smaller compound, so if there was an electron radical at the bridgehead,&nbsp;the&nbsp;increased repulsion would cause it to just not form.&lt;/p&gt;
+","2020-11-04 02:45:19",0,174.92.213.209,1
+406820,13579,22749,21053,NULL,NULL,"&lt;p&gt;The addition of the diagrams really help for the visualization of the problem, really nice answers!&lt;/p&gt;
+","2020-11-04 02:54:07",406117,174.92.213.209,1
+406821,13579,22749,21053,NULL,NULL,"&lt;p&gt;Very pleasing looking drawings make for an excellent answer!&lt;/p&gt;
+","2020-11-04 02:56:32",406303,174.92.213.209,1
+406822,13579,22749,21836,NULL,NULL,"&lt;p&gt;Bicyclo[3.3.1]nonane is larger and more flexible than bicyclo[2.2.1]heptane, which is more rigid. For substitution to occur, the substrate must be planar. Compound B, however, has a rigid structure which does not allow the bridgehead to become planar.on the other hand, molecule A is flexible and can bend to produce a planar bridgehead. Therefore, substitution can take place in molecule A but not B.&lt;/p&gt;
+","2020-11-04 02:58:59",0,142.182.75.183,1
+406837,13579,22749,20990,NULL,NULL,,"2020-11-04 03:25:21",0,66.171.170.155,1
+406842,13579,22749,22080,NULL,NULL,"&lt;p&gt;This is just a guess, but I think that in the bicyclononane, the intermediate form is unstable. &nbsp;So, due to the presence of a pi orbital perpendicular to the plane, no reaction would occur.&nbsp;&lt;/p&gt;
+","2020-11-04 03:30:06",0,142.157.229.120,1
+406843,13579,22749,22080,NULL,NULL,"&lt;p&gt;That makes sense, thanks Ali!&lt;/p&gt;
+","2020-11-04 03:30:51",405658,142.157.229.120,1
+406849,13579,22749,22703,NULL,NULL,"&lt;p&gt;Compound A is less stable than compound B. For this reason compound A is able to accept a halogen at the bridgehead while compund B doesnt.&lt;/p&gt;
+","2020-11-04 03:44:05",0,70.83.57.209,1
+406851,13579,22749,22703,NULL,NULL,"&lt;p&gt;Very clear explanation. It brought to my attention many things I had not thought about&nbsp;&lt;/p&gt;
+","2020-11-04 03:44:50",405473,70.83.57.209,1
+406854,13579,22749,22353,NULL,NULL,"&lt;p&gt;Through radical halogenation, in the presence of light, Br2 will dissociate to form halide radicals. The halide radical can then abstract a hydrogen atom from the alkane, leaving behind a carbon radical. Hypothetically, this will occur at the bridgeheads of these molecules because they are 3˚ carbons, this will form the most stable radical through&nbsp;hyperconjugation. The carbon radical then attacks Br2 and forms a C-Br sigma bond. For this to occur the carbon atom must be sp2 and planar. When&nbsp;bicyclo[2.2.1]heptane (B)&nbsp;is treated with Br2 under irradiation, no substitution takes place at the bridgehead because the ring is rigid and cannot become planar. However, A is a larger molecule and has more flexibility so it can become planar at the bridgehead so substitution is possible.&lt;/p&gt;
+","2020-11-04 03:49:45",0,184.160.14.236,1
+406860,13579,22749,21258,NULL,NULL,"&lt;p&gt;For A, there is enough hyper conjugation to stabilize a radical, compared two B. For B, It would be more stable for the bridge to break and form a double bond with the methyl group the bridge is attached two as the geometry of the structure of B is not suffice for hyper conjugation. While structure A has both more carbons and a ringed structure which greatly increase the stability of a radical, allowing Br to be able to be added.&lt;/p&gt;
+","2020-11-04 04:01:24",0,142.157.251.122,1
+406861,13579,22749,22353,NULL,NULL,"&lt;p&gt;Hey, I had the same answer! Your explanation is very clear and concise. Great job!&lt;/p&gt;
+","2020-11-04 04:01:25",406822,184.160.14.236,1
+406862,13579,22749,21258,NULL,NULL,"&lt;p&gt;Very cool, I was just thinking about the amount of carbons for hyper-conjugation but bond strains also make a lot of sence.&lt;/p&gt;
+","2020-11-04 04:02:06",405658,142.157.251.122,1
+406869,13579,22749,20996,NULL,NULL,"&lt;p&gt;This is because in scenario A, bicyclo[3.3.1]nonane has two more carbons than bicyclo[2.2.1]heptane which allows it to be much more flexible and undergo planar intermediate conformations and form the sp2 hybridized radical needed to produce the product at the bridgehead 100%, whereas in scenario B, the ring is not as flexible, preventing it from becoming planar, making sp2 hybridization impossible, and thus the reaction cannot proceed.&lt;/p&gt;
+","2020-11-04 04:15:37",0,154.5.28.164,1
+406878,13579,22749,21408,NULL,NULL,"&lt;p&gt;Bicyclo[3.3.1]nonane (A) does undergo Br2 free radical substitution because it produces a more stable radical than bicyclo[2.2.1]heptane (B) (more neighboring carbons and hydrogens to stabilize the radical and carbocation in future reactions). As well, A has greater steric flexibility and can undergo a chair flip whereas B is a more rigid structure with greater strain, therefore making it unlikely to proceed.&lt;/p&gt;
+","2020-11-04 04:32:26",0,142.157.199.252,1
+406880,13579,22749,21408,NULL,NULL,"&lt;p&gt;Nice explanation! The diagrams helped as well&lt;/p&gt;
+","2020-11-04 04:33:39",405922,142.157.199.252,1
+406882,13579,22749,21327,NULL,NULL,"&lt;p&gt;The only plausible explanation that I can surmise is that nonane is less stable than heptane as a bicyclic ring. Therefore, it is more reactive and has a greater probability undergoing bromination when exposed to light.&lt;/p&gt;
+","2020-11-04 04:34:51",0,24.167.251.12,1
+406884,13579,22749,21062,NULL,NULL,,"2020-11-04 04:35:28",0,68.206.30.129,1
+406885,13579,22749,21327,NULL,NULL,"&lt;p&gt;Great explanation! I thought it may have had something to do with that, but you clarified it for me very well.&lt;/p&gt;
+","2020-11-04 04:35:35",405473,24.167.251.12,1
+406887,13579,22749,21327,NULL,NULL,"&lt;p&gt;Great use of visuals to further your explanation.&lt;/p&gt;
+","2020-11-04 04:36:01",405655,24.167.251.12,1
+406889,13579,22749,21135,NULL,NULL,"&lt;p&gt;Substitution takes place at the bridge head of bicyclo[3.3.1]nonane because the ring structure is more stable and has more carbons than the ring structure of Bicyclo[2.2.1]. This is why a radical can be formed at the bridge head of&nbsp;bicyclo[3.3.1]nonane (which leads to the the substitution of Br in that position)&nbsp;but not of&nbsp;Bicyclo[2.2.1].&lt;/p&gt;
+","2020-11-04 04:37:26",0,24.71.253.24,1
+406891,13579,22749,21408,NULL,NULL,"&lt;p&gt;Nice explanation, it was very clear and concise!&lt;/p&gt;
+","2020-11-04 04:39:12",406149,142.157.199.252,1
+406894,13579,22749,21408,NULL,NULL,"&lt;p&gt;Your hyperconjugation explanation makes a lot of sense! I think the smaller hyperconjugated system along with the excess bond strain in&nbsp;bicyclo[2.2.1]heptane prevents it from reacting with the radical Br.&lt;/p&gt;
+","2020-11-04 04:44:17",405700,142.157.199.252,1
+406895,13579,22749,22386,NULL,NULL,,"2020-11-04 04:44:53",0,174.88.166.101,1
+406896,13579,22749,21099,NULL,NULL,"&lt;p&gt;There is a substitution is observed with A&nbsp;as opposed to B. Bicyclo[2.2.1]heptane has a an angle of 0 when in Newman projection which increases torsional strain. The latter contributes to the instability of substance B. On the other hand, bicyclo[3.3.1]nonane has an extra bond that helps reduce the torsional strain on the molecule. Therefore, substitution is observed in A, the more stable molecule as opposed to B, the more unstable molecule.&nbsp;&lt;/p&gt;
+","2020-11-04 04:48:50",0,173.178.67.99,1
+406899,13579,22749,21099,NULL,NULL,"&lt;p&gt;Very clear diagram and explanation. I completely agree with what you have said.&nbsp;&lt;/p&gt;
+","2020-11-04 04:50:06",406878,173.178.67.99,1
+406900,13579,22749,21099,NULL,NULL,"&lt;p&gt;I agree! I would consider what role strain takes in the stability and instability of these molecules as well!&lt;/p&gt;
+","2020-11-04 04:50:49",406842,173.178.67.99,1
+406903,13579,22749,22120,NULL,NULL,,"2020-11-04 04:53:50",0,142.127.19.19,1
+406908,13579,22749,22120,NULL,NULL,"&lt;p&gt;I didn&#039;t think of the geometrical aspect of it. That&#039;s really smart! The bromine would maybe even have more space to attack the first molecule. Nice explanation!&lt;/p&gt;
+","2020-11-04 04:55:43",406133,142.127.19.19,1
+406911,13579,22749,22386,NULL,NULL,"&lt;p&gt;Marco this was beautifully explained and I would have to agree with your answer.&nbsp;&lt;/p&gt;
+","2020-11-04 05:03:19",405661,174.88.166.101,1

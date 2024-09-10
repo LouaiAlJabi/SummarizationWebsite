@@ -1,0 +1,443 @@
+id,class_session_id,lesson_question_id,user_id,group_id,logged_in_user,text,updated_on,parent_id,ip,visible
+300818,11417,18424,16348,NULL,NULL,"&lt;p&gt;blue = community. 1&lt;/p&gt;
+
+&lt;p&gt;green= community 2&lt;/p&gt;
+","2020-04-16 16:14:51",0,74.96.191.227,1
+300819,11417,18424,16262,NULL,NULL,"&lt;p&gt;Red = Community1&lt;/p&gt;
+
+&lt;p&gt;Blue = Community 2&lt;/p&gt;
+
+&lt;p&gt;With 10 rare species in community 1, it would take more sampling to reach the actual number of species. When all the species are equally in common in community 2, it will take less sampling and it will be easier to accumulate the actual number of species present.&lt;/p&gt;
+","2020-04-16 16:15:51",0,70.15.28.63,1
+300820,11417,18424,16365,NULL,NULL,,"2020-04-16 16:16:07",0,69.140.3.43,1
+300821,11417,18424,16331,NULL,NULL,"&lt;p&gt;Community 1 will display a species accumulation curve that is slightly lower because there are 10 uncommon species, so they may not be found in the samples collected.&nbsp;&lt;/p&gt;
+","2020-04-16 16:16:12",0,107.77.204.83,1
+300822,11417,18424,16262,NULL,NULL,"&lt;p&gt;I agree, I said something very similar to this.&lt;/p&gt;
+","2020-04-16 16:16:15",300818,70.15.28.63,1
+300823,11417,18424,16303,NULL,NULL,,"2020-04-16 16:16:18",0,100.4.77.183,1
+300825,11417,18424,16365,NULL,NULL,"&lt;p&gt;I agree but i made my community one have a straight line instead&nbsp;&lt;/p&gt;
+","2020-04-16 16:16:35",300819,69.140.3.43,1
+300826,11417,18424,16236,NULL,NULL,,"2020-04-16 16:16:43",0,98.218.1.112,1
+300827,11417,18424,16365,NULL,NULL,"&lt;p&gt;I agree&lt;/p&gt;
+","2020-04-16 16:16:48",300823,69.140.3.43,1
+300829,11417,18424,16332,NULL,NULL,"&lt;p&gt;In community 1, there will be rare species that wont be counted and the curve will not hit saturation, and appear as though it is determined by the regional species pool. In community 2, more species will be collected giving a more accurate sample and the curve will most likely hit saturation close to the 25 total species, appearing to be determined by local species interactions&lt;/p&gt;
+","2020-04-16 16:17:18",0,72.82.41.241,1
+300830,11417,18424,16331,NULL,NULL,"&lt;p&gt;I disagree with the community 2 line because there would initially be fewer species found in the samples collected first. I think that there should be a gradual increase in species as number of samples increase&nbsp;&lt;/p&gt;
+","2020-04-16 16:17:19",300820,107.77.204.83,1
+300831,11417,18424,16303,NULL,NULL,"&lt;p&gt;i agree! it would not take as long to reach the actual number of species for community 2&lt;/p&gt;
+","2020-04-16 16:17:27",300819,100.4.77.183,1
+300832,11417,18424,16034,NULL,NULL,,"2020-04-16 16:17:43",0,173.79.123.79,1
+300833,11417,18424,16331,NULL,NULL,"&lt;p&gt;I agree with this! I had the same graph because community 1 has so many uncommon species, it will be lower.&nbsp;&lt;/p&gt;
+","2020-04-16 16:17:54",300818,107.77.204.83,1
+300834,11417,18424,16337,NULL,NULL,,"2020-04-16 16:17:55",0,73.251.7.197,1
+300835,11417,18424,16262,NULL,NULL,"&lt;p&gt;This is a very interesting take on the situation! I did not think about how you may be able to sample all the species community 2 in just one sample, allowing it to remain constant. I predicted that the curve for community 2 would just be steeper than the curve for community 1.&lt;/p&gt;
+","2020-04-16 16:17:56",300820,70.15.28.63,1
+300838,11417,18424,16248,NULL,NULL,,"2020-04-16 16:18:11",0,98.166.219.178,1
+300840,11417,18424,16236,NULL,NULL,"&lt;p&gt;I agree with these lines because I think for each community species are found at different rates.&nbsp;&lt;/p&gt;
+","2020-04-16 16:18:25",300823,98.218.1.112,1
+300841,11417,18424,16337,NULL,NULL,"&lt;p&gt;community 2 would have to start at 0&lt;/p&gt;
+","2020-04-16 16:18:26",300820,73.251.7.197,1
+300842,11417,18424,16303,NULL,NULL,"&lt;p&gt;I think community 2 would still show a curve, it would just reach the asymptote sooner than community 1&lt;/p&gt;
+","2020-04-16 16:18:28",300820,100.4.77.183,1
+300845,11417,18424,16034,NULL,NULL,"&lt;p&gt;I disagree, I think community 2 wouldn&#039;t stay flat and would increase exponentially until leveling off&lt;/p&gt;
+","2020-04-16 16:18:44",300820,173.79.123.79,1
+300847,11417,18424,16332,NULL,NULL,"&lt;p&gt;Does this mean you are predicting both communities to hit saturation but more species will be discovered in community 1? I did not think of that! nice graph&lt;/p&gt;
+","2020-04-16 16:18:51",300818,72.82.41.241,1
+300848,11417,18424,16236,NULL,NULL,"&lt;p&gt;I disagree with the straight line because I think finding new species starts from zero and increases.&nbsp;&lt;/p&gt;
+","2020-04-16 16:19:09",300820,98.218.1.112,1
+300849,11417,18424,16240,NULL,NULL,"&lt;p&gt;Blue= equally common&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Red = 10 rare&nbsp;&lt;/p&gt;
+
+&lt;p&gt;In order for identify all 25 with 10 rare more samples would need to be taken than with the 25 that are equally as common.&nbsp;&lt;/p&gt;
+","2020-04-16 16:19:09",0,108.44.68.103,1
+300851,11417,18424,16034,NULL,NULL,"&lt;p&gt;I agree that both communities would be a curve and community two would be lower!&lt;/p&gt;
+","2020-04-16 16:19:27",300823,173.79.123.79,1
+300852,11417,18424,16337,NULL,NULL,"&lt;p&gt;I agree with this.&nbsp;&lt;/p&gt;
+","2020-04-16 16:19:38",300819,73.251.7.197,1
+300855,11417,18424,16332,NULL,NULL,"&lt;p&gt;I agree that it would take community 2 a shorter amount of sampling to reach the actual number of species&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2020-04-16 16:19:44",300819,72.82.41.241,1
+300859,11417,18424,16222,NULL,NULL,"&lt;p&gt;community 1 has uncommon species which is represented by the lower started point in the curve. community 2 has a more gradual increase.&nbsp;&lt;/p&gt;
+","2020-04-16 16:19:57",0,24.115.174.226,1
+300861,11417,18424,16024,NULL,NULL,,"2020-04-16 16:20:13",0,69.138.196.144,1
+300862,11417,18424,16240,NULL,NULL,"&lt;p&gt;I agree with this graph, mine was very similar with more sampling needed to reach the total for community 1.&nbsp;&lt;/p&gt;
+","2020-04-16 16:20:18",300819,108.44.68.103,1
+300866,11417,18424,16024,NULL,NULL,"&lt;p&gt;I agree with this!&lt;/p&gt;
+","2020-04-16 16:20:53",300818,69.138.196.144,1
+300867,11417,18424,16222,NULL,NULL,"&lt;p&gt;I agree! I put something very similar to your drawing.&nbsp;&lt;/p&gt;
+","2020-04-16 16:20:57",300819,24.115.174.226,1
+300871,11417,18424,16270,NULL,NULL,,"2020-04-16 16:21:08",0,173.66.71.165,1
+300873,11417,18424,16234,NULL,NULL,,"2020-04-16 16:21:13",0,98.169.43.64,1
+300875,11417,18424,16299,NULL,NULL,,"2020-04-16 16:21:27",0,108.44.200.129,1
+300876,11417,18424,16024,NULL,NULL,"&lt;p&gt;I agree with this!&lt;/p&gt;
+","2020-04-16 16:21:29",300819,69.138.196.144,1
+300878,11417,18424,16234,NULL,NULL,"&lt;p&gt;I&#039;m not sure the community 2 line would be a flat line because that implies a constant value&lt;/p&gt;
+","2020-04-16 16:21:45",300820,98.169.43.64,1
+300879,11417,18424,16273,NULL,NULL,,"2020-04-16 16:21:50",0,108.4.11.39,1
+300880,11417,18424,16240,NULL,NULL,"&lt;p&gt;I disagree with community 2. For this community since some species are rare more sampling would need to done to try to reach the total amount. Not sure why community 2 is a straight line.&nbsp;&lt;/p&gt;
+","2020-04-16 16:21:51",300820,108.44.68.103,1
+300886,11417,18424,16222,NULL,NULL,"&lt;p&gt;I disagree with this because I think that&nbsp;community 2 would be more of a steady incline and community 1 would be less inclined since it has 10 uncommon species.&nbsp;&lt;/p&gt;
+","2020-04-16 16:22:11",300829,24.115.174.226,1
+300890,11417,18424,16234,NULL,NULL,"&lt;p&gt;I made mine similar to this, the uncommon species would cause the curve to flatten out at a lower value&lt;/p&gt;
+","2020-04-16 16:22:27",300818,98.169.43.64,1
+300891,11417,18424,16364,NULL,NULL,,"2020-04-16 16:22:29",0,74.4.253.6,1
+300894,11417,18424,16161,NULL,NULL,"&lt;p&gt;Community 1 line has all equally common species so it should reach an asymptote and Community 2 has more rare species so it doesn&#039;t quite flatten out completely.&nbsp;&lt;/p&gt;
+","2020-04-16 16:22:50",0,68.100.246.96,1
+300896,11417,18424,16273,NULL,NULL,"&lt;p&gt;I agree, it is going to be easier to find samples at are all common in community 2 versus 1&lt;/p&gt;
+","2020-04-16 16:22:55",300818,108.4.11.39,1
+300898,11417,18424,16348,NULL,NULL,"&lt;p&gt;i agree with&nbsp;this graph. i had something similar&lt;/p&gt;
+","2020-04-16 16:23:02",300819,74.96.191.227,1
+300904,11417,18424,16364,NULL,NULL,"&lt;p&gt;i said the same&lt;/p&gt;
+","2020-04-16 16:23:21",300820,74.4.253.6,1
+300907,11417,18424,16270,NULL,NULL,"&lt;p&gt;I believe you would have to start with fewer samples (if not 0) for community two, but I suppose if you were starting at 1 on the x origin instead of 0 samples then if you had a big enough quadrant you could potentially capture all 25 species the first try but it may be unlikely.&lt;/p&gt;
+","2020-04-16 16:23:48",300820,173.66.71.165,1
+300909,11417,18424,16348,NULL,NULL,"&lt;p&gt;i agree. i had&nbsp;something similar&lt;/p&gt;
+","2020-04-16 16:23:51",300879,74.96.191.227,1
+300910,11417,18424,16364,NULL,NULL,"&lt;p&gt;I didnt do this exactly but i agree with your logic!&lt;/p&gt;
+","2020-04-16 16:23:58",300818,74.4.253.6,1
+300911,11417,18424,16161,NULL,NULL,"&lt;p&gt;I said something very similar to this.&lt;/p&gt;
+","2020-04-16 16:24:00",300823,68.100.246.96,1
+300916,11417,18424,16276,NULL,NULL,"&lt;p&gt;It will take more samples to find all 25 species in Community 1 since 10 species are&nbsp;uncommon.&lt;/p&gt;
+","2020-04-16 16:24:35",0,73.12.23.80,1
+300917,11417,18424,16161,NULL,NULL,"&lt;p&gt;I said something similar to this!&lt;/p&gt;
+","2020-04-16 16:24:47",300819,68.100.246.96,1
+300919,11417,18424,16248,NULL,NULL,"&lt;p&gt;I agree my graph looks similar!&lt;/p&gt;
+","2020-04-16 16:24:59",300832,98.166.219.178,1
+300920,11417,18424,16270,NULL,NULL,"&lt;p&gt;I agree that community 1 would take longer to capture all samples because of the rarity.&lt;/p&gt;
+","2020-04-16 16:25:01",300823,173.66.71.165,1
+300926,11417,18424,16289,NULL,NULL,,"2020-04-16 16:25:33",0,71.62.49.157,1
+300929,11417,18424,16328,NULL,NULL,,"2020-04-16 16:25:56",0,96.231.65.92,1
+300930,11417,18424,16376,NULL,NULL,,"2020-04-16 16:26:04",0,73.147.52.177,1
+300931,11417,18424,16289,NULL,NULL,"&lt;p&gt;Community 2= blue line&lt;/p&gt;
+
+&lt;p&gt;Community 1= red line&lt;/p&gt;
+","2020-04-16 16:26:09",300926,71.62.49.157,1
+300932,11417,18424,16248,NULL,NULL,"&lt;p&gt;why would the community 2 line be flat?&lt;/p&gt;
+","2020-04-16 16:26:21",300861,98.166.219.178,1
+300934,11417,18424,16276,NULL,NULL,"&lt;p&gt;I dont think that the second community will be a linear line, I think that it will still take few samples but the species in Community 2 should be found with less samples than Community 1.&lt;/p&gt;
+","2020-04-16 16:26:28",300861,73.12.23.80,1
+300935,11417,18424,16281,NULL,NULL,"&lt;p&gt;community 1: red&lt;/p&gt;
+
+&lt;p&gt;community 2: purple&lt;/p&gt;
+","2020-04-16 16:26:33",0,76.123.43.139,1
+300936,11417,18424,16235,NULL,NULL,,"2020-04-16 16:26:33",0,71.179.38.88,1
+300938,11417,18424,16328,NULL,NULL,"&lt;p&gt;I agree with this graphical representation of the 2 communities.&lt;/p&gt;
+","2020-04-16 16:26:46",300821,96.231.65.92,1
+300940,11417,18424,16376,NULL,NULL,"&lt;p&gt;&lt;br /&gt;
+I don&#039;t think i agree because the number of species are not the same on the graph the way it&#039;s drawn&lt;/p&gt;
+","2020-04-16 16:27:00",300818,73.147.52.177,1
+300941,11417,18424,16235,NULL,NULL,"&lt;p&gt;I agree with your graph&nbsp;&lt;/p&gt;
+","2020-04-16 16:27:09",300819,71.179.38.88,1
+300946,11417,18424,16328,NULL,NULL,"&lt;p&gt;I disagree with this because i dont think it starts at 25&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2020-04-16 16:27:26",300820,96.231.65.92,1
+300948,11417,18424,16281,NULL,NULL,"&lt;p&gt;i agree with your lines! i had ~roughly the same&lt;/p&gt;
+","2020-04-16 16:27:34",300873,76.123.43.139,1
+300952,11417,18424,16276,NULL,NULL,"&lt;p&gt;I agree I think it will take less sampling to find the 25 species in Community 2 when compared to Community 1.&lt;/p&gt;
+","2020-04-16 16:27:59",300879,73.12.23.80,1
+300957,11417,18424,16376,NULL,NULL,"&lt;p&gt;&lt;br /&gt;
+I agree with you! that&#039;s basically what I had&lt;/p&gt;
+","2020-04-16 16:28:32",300834,73.147.52.177,1
+300959,11417,18424,16235,NULL,NULL,"&lt;p&gt;I disagree with your community 2 i think it would be more easier to accumulate because it would take less sampling&nbsp;&lt;/p&gt;
+","2020-04-16 16:28:49",300820,71.179.38.88,1
+300960,11417,18424,16296,NULL,NULL,,"2020-04-16 16:28:58",0,73.200.34.205,1
+300963,11417,18424,16281,NULL,NULL,"&lt;p&gt;i agree with your reasoning! i had the same idea&lt;/p&gt;
+","2020-04-16 16:29:17",300916,76.123.43.139,1
+300964,11417,18424,16269,NULL,NULL,"&lt;p&gt;blue is community 2&nbsp;&lt;/p&gt;
+
+&lt;p&gt;red is community 1&lt;/p&gt;
+","2020-04-16 16:29:18",0,73.132.173.74,1
+300966,11417,18424,16296,NULL,NULL,"&lt;p&gt;blue= community 1&lt;/p&gt;
+
+&lt;p&gt;purple= community 2&lt;/p&gt;
+","2020-04-16 16:29:39",300960,73.200.34.205,1
+300967,11417,18424,16380,NULL,NULL,"&lt;p&gt;I think that for&nbsp;community 1 the curve will increase quickly at first but then increase at a slower rate as a result of some of the species being uncommon. For community 2 where all are equally common the curve will increase steadily until all of the species are found and then the curve will level off.&nbsp;&lt;/p&gt;
+","2020-04-16 16:29:40",0,96.255.133.238,1
+300968,11417,18424,16269,NULL,NULL,"&lt;p&gt;I agree with your graph.&nbsp;&lt;/p&gt;
+","2020-04-16 16:29:44",300821,73.132.173.74,1
+300969,11417,18424,16287,NULL,NULL,,"2020-04-16 16:29:45",0,73.216.205.217,1
+300970,11417,18424,14557,NULL,NULL,,"2020-04-16 16:29:50",0,73.12.107.120,1
+300971,11417,18424,16269,NULL,NULL,"&lt;p&gt;I agree with your graph.&nbsp;&lt;/p&gt;
+","2020-04-16 16:29:55",300960,73.132.173.74,1
+300972,11417,18424,16237,NULL,NULL,,"2020-04-16 16:29:59",0,68.100.21.38,1
+300974,11417,18424,16296,NULL,NULL,"&lt;p&gt;I agree with your graph&lt;/p&gt;
+","2020-04-16 16:30:11",300964,73.200.34.205,1
+300976,11417,18424,16237,NULL,NULL,"&lt;p&gt;I think that they would both eventually reach the same number of species since both communities have 25 species&nbsp;&lt;/p&gt;
+","2020-04-16 16:30:48",300818,68.100.21.38,1
+300978,11417,18424,16296,NULL,NULL,"&lt;p&gt;I agree with your graph&lt;/p&gt;
+","2020-04-16 16:31:23",300823,73.200.34.205,1
+300979,11417,18424,16225,NULL,NULL,"&lt;p&gt;Both communities will end at the same place (25 species) because they have the same number of species overall. However, the rate at which they will be found will be faster (steeper slope) in community 2 because the species are equally common and therefore equally likely to be found in each sampling. Since community 1 has rare species, it will likely take more samples to find all of them, resulting in a slower rate (shallower slope).&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Chelsey and Chantel Pence&nbsp;&lt;/p&gt;
+","2020-04-16 16:31:31",0,73.31.126.71,1
+300980,11417,18424,16314,NULL,NULL,"&lt;p&gt;I made the blue line represent community one where since there is a lot of variation present in this population, the curve ascended a lot quicker to reach the highest point (25 species). The purple curve represents community 2 where since all of them were common, it would take more time for that curve to reach the max.&nbsp;&lt;/p&gt;
+","2020-04-16 16:31:38",0,76.104.43.181,1
+300982,11417,18424,16237,NULL,NULL,"&lt;p&gt;my graph looks similar&lt;/p&gt;
+","2020-04-16 16:31:53",300834,68.100.21.38,1
+300983,11417,18424,16380,NULL,NULL,"&lt;p&gt;I disagree that community 2 would remain constant. I think that community 2 would have to start at zero and increase at a constant rate until all species are acquired but not stay constant.&lt;/p&gt;
+","2020-04-16 16:32:07",300820,96.255.133.238,1
+300987,11417,18424,16380,NULL,NULL,"&lt;p&gt;I agree with your reasoning and had a very similar graph to yours.&nbsp;&lt;/p&gt;
+","2020-04-16 16:32:54",300819,96.255.133.238,1
+300988,11417,18424,16314,NULL,NULL,"&lt;p&gt;I agree with your graph! That&#039;s what I put for mine.&lt;/p&gt;
+","2020-04-16 16:33:08",300834,76.104.43.181,1
+300990,11417,18424,16314,NULL,NULL,"&lt;p&gt;I agree with your graph!&lt;/p&gt;
+","2020-04-16 16:33:33",300859,76.104.43.181,1
+300993,11417,18424,16225,NULL,NULL,"&lt;p&gt;We agree that both curves should end in the same place since they have the same number of species and that community 1 will rise slower since it takes longer to find the rare species with each sample.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Chelsey and Chantel Pence&nbsp;&lt;/p&gt;
+","2020-04-16 16:34:03",300834,73.31.126.71,1
+300995,11417,18424,16219,NULL,NULL,"&lt;p&gt;Since more species are&nbsp;uncommon for community 1, the total number of species found is likely to be lower than found for community 2.&nbsp;&lt;/p&gt;
+","2020-04-16 16:34:36",0,98.231.157.137,1
+300998,11417,18424,16219,NULL,NULL,"&lt;p&gt;I agree. My graph looks very similar.&nbsp;&lt;/p&gt;
+","2020-04-16 16:35:11",300832,98.231.157.137,1
+301000,11417,18424,16219,NULL,NULL,"&lt;p&gt;I agree. My graph looks similar to yours.&nbsp;&lt;/p&gt;
+","2020-04-16 16:35:48",300894,98.231.157.137,1
+301001,11417,18424,16225,NULL,NULL,"&lt;p&gt;We agree with the rate of increase (slopes) for your communities, however we think that they should end at the same point of 25 species since they both have a total number of 25 species.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Chelsey and Chantel Pence&nbsp;&lt;/p&gt;
+","2020-04-16 16:35:49",300879,73.31.126.71,1
+301005,11417,18424,16229,NULL,NULL,,"2020-04-16 16:37:33",0,68.10.150.136,1
+301006,11417,18424,16229,NULL,NULL,"&lt;p&gt;I agree&lt;/p&gt;
+","2020-04-16 16:37:57",300821,68.10.150.136,1
+301007,11417,18424,16295,NULL,NULL,,"2020-04-16 16:38:03",0,96.255.230.67,1
+301009,11417,18424,16229,NULL,NULL,"&lt;p&gt;I agree with your graph&lt;/p&gt;
+","2020-04-16 16:38:13",300834,68.10.150.136,1
+301016,11417,18424,16299,NULL,NULL,"&lt;p&gt;I agree with your graph. That&#039;s what I put as well.&nbsp;&lt;/p&gt;
+","2020-04-16 16:39:51",300972,108.44.200.129,1
+301019,11417,18424,16299,NULL,NULL,"&lt;p&gt;I agree with what you put. I decreased my community 1 because of the umcommon species, but I think we both had the same idea.&lt;/p&gt;
+","2020-04-16 16:41:35",300970,108.44.200.129,1
+301025,11417,18424,16274,NULL,NULL,,"2020-04-16 16:45:20",0,209.54.89.65,1
+301027,11417,18424,16274,NULL,NULL,"&lt;p&gt;I agree with your graph.&lt;/p&gt;
+","2020-04-16 16:46:28",300823,209.54.89.65,1
+301031,11417,18424,16274,NULL,NULL,"&lt;p&gt;I disagree with this both lines would have began at zero.&lt;/p&gt;
+","2020-04-16 16:47:17",300820,209.54.89.65,1
+301035,11417,18424,16037,NULL,NULL,"&lt;p&gt;Red = Community 1&lt;/p&gt;
+
+&lt;p&gt;Green = Community 2&lt;/p&gt;
+","2020-04-16 16:53:12",0,73.99.78.149,1
+301036,11417,18424,16037,NULL,NULL,"&lt;p&gt;I agree with this post&nbsp;&lt;/p&gt;
+","2020-04-16 16:53:45",300823,73.99.78.149,1
+301038,11417,18424,16037,NULL,NULL,"&lt;p&gt;I agree with your graph&nbsp;&lt;/p&gt;
+","2020-04-16 16:54:10",300879,73.99.78.149,1
+301044,11417,18424,16037,NULL,NULL,"&lt;p&gt;Destinie,&lt;/p&gt;
+
+&lt;p&gt;I have a question.&nbsp;Why did you decide to draw the blue line constant?&lt;/p&gt;
+","2020-04-16 17:01:29",300926,73.99.78.149,1
+301045,11417,18424,16356,NULL,NULL,,"2020-04-16 17:02:03",0,75.102.137.105,1
+301046,11417,18424,16356,NULL,NULL,"&lt;p&gt;I agree, your logical reasoning behind your graph was the same reasoning I used to constrict mine&nbsp;&lt;/p&gt;
+","2020-04-16 17:03:42",300821,75.102.137.105,1
+301047,11417,18424,16356,NULL,NULL,"&lt;p&gt;That&#039;s a question I also have, Senon.&nbsp;&lt;/p&gt;
+","2020-04-16 17:05:07",300926,75.102.137.105,1
+301049,11417,18424,16356,NULL,NULL,"&lt;p&gt;meant to make community 1 start where community 2 starts, not at the beginning of the x axis&nbsp;&lt;/p&gt;
+","2020-04-16 17:06:54",301045,75.102.137.105,1
+301053,11417,18424,16294,NULL,NULL,"&lt;p&gt;1: the 10 uncommon species causes the curve to be jumpy, where new species aren&#039;t discovered as quickly.&lt;/p&gt;
+
+&lt;p&gt;2: Since all species are equally common, the number of species found should gradually level off as more samples are taken.&lt;/p&gt;
+","2020-04-16 17:18:38",0,107.77.204.78,1
+301054,11417,18424,16294,NULL,NULL,"&lt;p&gt;the differences is the leveling out points may be exaggerated, but the concept is correct.&lt;/p&gt;
+","2020-04-16 17:19:30",300818,107.77.204.78,1
+301058,11417,18424,16294,NULL,NULL,"&lt;p&gt;The 1:1 line has to do with comparing gamma to alpha diversity.&lt;/p&gt;
+","2020-04-16 17:21:16",300829,107.77.204.78,1
+301061,11417,18424,16027,NULL,NULL,,"2020-04-16 17:27:15",0,173.144.32.196,1
+301062,11417,18424,16027,NULL,NULL,"&lt;p&gt;This is also what I graphed!&lt;/p&gt;
+","2020-04-16 17:27:51",300819,173.144.32.196,1
+301064,11417,18424,16027,NULL,NULL,"&lt;p&gt;I agree with your post, this is also what I put.&lt;/p&gt;
+","2020-04-16 17:28:19",300823,173.144.32.196,1
+301089,11417,18424,16366,NULL,NULL,,"2020-04-16 18:09:34",0,173.79.94.99,1
+301090,11417,18424,16366,NULL,NULL,"&lt;p&gt;I agree with this&lt;/p&gt;
+","2020-04-16 18:10:18",300818,173.79.94.99,1
+301093,11417,18424,16366,NULL,NULL,"&lt;p&gt;I disagree, it is unlikely that you would get all 25 species in your first sample with community 2&lt;/p&gt;
+","2020-04-16 18:11:25",300820,173.79.94.99,1
+301097,11417,18424,16284,NULL,NULL,,"2020-04-16 18:26:51",0,199.87.198.49,1
+301100,11417,18424,16284,NULL,NULL,"&lt;p&gt;top: community 1&lt;/p&gt;
+
+&lt;p&gt;bottom: community 2&lt;/p&gt;
+","2020-04-16 18:33:31",301097,199.87.198.49,1
+301102,11417,18424,16284,NULL,NULL,"&lt;p&gt;i agree with your graph, drew it much clearer than I did.&lt;/p&gt;
+","2020-04-16 18:34:28",300894,199.87.198.49,1
+301104,11417,18424,16284,NULL,NULL,"&lt;p&gt;i agree with your graph&lt;/p&gt;
+","2020-04-16 18:35:45",301025,199.87.198.49,1
+301116,11417,18424,16283,NULL,NULL,,"2020-04-16 18:44:59",0,98.183.206.246,1
+301117,11417,18424,16223,NULL,NULL,,"2020-04-16 18:45:17",0,74.103.251.98,1
+301118,11417,18424,16283,NULL,NULL,"&lt;p&gt;I agree with the curves of your lines&lt;/p&gt;
+","2020-04-16 18:46:11",300826,98.183.206.246,1
+301119,11417,18424,16223,NULL,NULL,"&lt;p&gt;I agree with the curves of your lines however i disagree with the whole graph because there is no intercept point with a solid line indicating the total number of species.&lt;/p&gt;
+","2020-04-16 18:46:19",300818,74.103.251.98,1
+301120,11417,18424,16283,NULL,NULL,"&lt;p&gt;I am confused on which line is which and why does one line start to trend negatively&lt;/p&gt;
+","2020-04-16 18:46:50",300838,98.183.206.246,1
+301122,11417,18424,16223,NULL,NULL,"&lt;p&gt;I agree with your graph as community 2 will reach the target total species&nbsp;faster&lt;/p&gt;
+","2020-04-16 19:03:20",300916,74.103.251.98,1
+301127,11417,18424,16333,NULL,NULL,,"2020-04-16 19:21:01",0,76.120.212.55,1
+301128,11417,18424,16333,NULL,NULL,"&lt;p&gt;i agree&lt;/p&gt;
+","2020-04-16 19:21:15",300819,76.120.212.55,1
+301129,11417,18424,16333,NULL,NULL,"&lt;p&gt;i agree&lt;/p&gt;
+","2020-04-16 19:21:35",300834,76.120.212.55,1
+301130,11417,18424,16216,NULL,NULL,,"2020-04-16 19:21:39",0,71.114.86.196,1
+301131,11417,18424,16216,NULL,NULL,"&lt;p&gt;I agree with your curve for each community&nbsp;&lt;/p&gt;
+","2020-04-16 19:22:31",300818,71.114.86.196,1
+301133,11417,18424,16216,NULL,NULL,"&lt;p&gt;I believe that the more samples taken the more species found especially in a community with common species so I&nbsp;don&#039;t agree with the linear line for community two.&nbsp;&lt;/p&gt;
+","2020-04-16 19:24:15",300861,71.114.86.196,1
+301174,11417,18424,16245,NULL,NULL,,"2020-04-16 19:53:20",0,73.12.125.241,1
+301175,11417,18424,16245,NULL,NULL,"&lt;p&gt;1-red&lt;/p&gt;
+
+&lt;p&gt;2-blue&lt;/p&gt;
+","2020-04-16 19:53:44",301174,73.12.125.241,1
+301205,11417,18424,16245,NULL,NULL,"&lt;p&gt;I agree!&lt;/p&gt;
+","2020-04-16 20:03:50",300823,73.12.125.241,1
+301212,11417,18424,16245,NULL,NULL,"&lt;p&gt;I agree with your reasoning !&lt;/p&gt;
+","2020-04-16 20:05:20",300980,73.12.125.241,1
+301238,11417,18424,16381,NULL,NULL,,"2020-04-16 20:34:27",0,96.228.52.131,1
+301239,11417,18424,16381,NULL,NULL,"&lt;p&gt;I agree&lt;/p&gt;
+","2020-04-16 20:34:47",300834,96.228.52.131,1
+301240,11417,18424,16381,NULL,NULL,"&lt;p&gt;I agree, very similar&lt;/p&gt;
+","2020-04-16 20:35:05",300849,96.228.52.131,1
+301243,11417,18424,16282,NULL,NULL,,"2020-04-16 20:50:52",0,98.249.8.152,1
+301244,11417,18424,16282,NULL,NULL,"&lt;p&gt;I still think community 2 would show a curve and start at 0&lt;/p&gt;
+","2020-04-16 20:51:45",300820,98.249.8.152,1
+301245,11417,18424,16282,NULL,NULL,"&lt;p&gt;I agree with the general curve of your line&lt;/p&gt;
+","2020-04-16 20:53:34",300826,98.249.8.152,1
+301287,11417,18424,16272,NULL,NULL,,"2020-04-16 21:43:46",0,98.235.22.252,1
+301295,11417,18424,16249,NULL,NULL,,"2020-04-16 22:03:30",0,174.226.131.175,1
+301296,11417,18424,16155,NULL,NULL,,"2020-04-16 22:07:55",0,108.44.215.87,1
+301298,11417,18424,16155,NULL,NULL,"&lt;p&gt;community 2 would still have a curve to it because there are samples being caught with variable species being found&lt;/p&gt;
+","2020-04-16 22:08:48",300820,108.44.215.87,1
+301299,11417,18424,16155,NULL,NULL,"&lt;p&gt;i think that there would be most of the different in the beginning of the curve because that&#039;s how you see one sample finds the different species quicker than the other&lt;/p&gt;
+","2020-04-16 22:09:51",300838,108.44.215.87,1
+301303,11417,18424,16304,NULL,NULL,,"2020-04-16 22:21:03",0,75.102.135.72,1
+301304,11417,18424,16304,NULL,NULL,"&lt;p&gt;i agree, community 1 curve is under community 2&lt;/p&gt;
+","2020-04-16 22:21:39",300823,75.102.135.72,1
+301305,11417,18424,16304,NULL,NULL,"&lt;p&gt;i agree, my graph is basically the same!&lt;/p&gt;
+","2020-04-16 22:22:07",300832,75.102.135.72,1
+301336,11417,18424,16268,NULL,NULL,,"2020-04-16 22:56:30",0,173.50.124.115,1
+301337,11417,18424,16186,NULL,NULL,,"2020-04-16 22:57:44",0,67.163.113.191,1
+301338,11417,18424,16268,NULL,NULL,"&lt;p&gt;I agree with your species-curves! it would take many more samples to recored the actual total number of species in the first community because so many of them are rare.&lt;/p&gt;
+","2020-04-16 22:58:39",300826,173.50.124.115,1
+301339,11417,18424,16186,NULL,NULL,"&lt;p&gt;I wouldn&#039;t agree the community 2 would have a straight line. This indicates that they collected X amount of species at 0 samples.&lt;/p&gt;
+","2020-04-16 22:59:19",300861,67.163.113.191,1
+301340,11417,18424,16268,NULL,NULL,"&lt;p&gt;I agree with community number two, however, for the first community, I feel that as you took more samples you would slowly start to reveal the true number of species overtime.&nbsp;&lt;/p&gt;
+","2020-04-16 22:59:48",300818,173.50.124.115,1
+301341,11417,18424,16186,NULL,NULL,"&lt;p&gt;I agree! Our graphs look very similar.&lt;/p&gt;
+","2020-04-16 22:59:52",301089,67.163.113.191,1
+301346,11417,18424,16026,NULL,NULL,,"2020-04-16 23:13:48",0,98.249.32.81,1
+301347,11417,18424,16026,NULL,NULL,"&lt;p&gt;I agree&lt;/p&gt;
+","2020-04-16 23:14:25",300834,98.249.32.81,1
+301349,11417,18424,16026,NULL,NULL,"&lt;p&gt;I disagree, both lines should be curved, community two does not stay the same.&lt;/p&gt;
+","2020-04-16 23:16:20",300820,98.249.32.81,1
+301377,11417,18424,16221,NULL,NULL,,"2020-04-16 23:58:29",0,74.96.191.227,1
+301378,11417,18424,16221,NULL,NULL,"&lt;p&gt;i agree with this now that i see it&lt;/p&gt;
+","2020-04-16 23:59:01",300832,74.96.191.227,1
+301379,11417,18424,16271,NULL,NULL,,"2020-04-17 00:00:19",0,71.207.143.164,1
+301381,11417,18424,16271,NULL,NULL,"&lt;p&gt;I agree! I had something similar to yours&nbsp;&lt;/p&gt;
+","2020-04-17 00:01:43",300995,71.207.143.164,1
+301382,11417,18424,16271,NULL,NULL,"&lt;p&gt;I do not agree that&nbsp;community 2 would be a constant line. I think it should be a curved line that is above&nbsp;community 1.&nbsp;&lt;/p&gt;
+","2020-04-17 00:03:52",300861,71.207.143.164,1
+301386,11417,18424,16372,NULL,NULL,,"2020-04-17 00:06:34",0,NULL,1
+301391,11417,18424,16372,NULL,NULL,"&lt;p&gt;I agree&lt;/p&gt;
+","2020-04-17 00:12:53",300818,NULL,1
+301429,11417,18424,16317,NULL,NULL,"&lt;p&gt;community 2 has a steeper line because it takes fewer samples to collect all species&lt;/p&gt;
+","2020-04-17 00:56:29",0,75.102.135.134,1
+301430,11417,18424,16317,NULL,NULL,"&lt;p&gt;i agree that community two should have a steeper line&lt;/p&gt;
+","2020-04-17 00:56:57",300818,75.102.135.134,1
+301432,11417,18424,16317,NULL,NULL,"&lt;p&gt;i agree that community 1 should not have as rapid of an increase&lt;/p&gt;
+","2020-04-17 00:57:29",300834,75.102.135.134,1
+301441,11417,18424,16212,NULL,NULL,,"2020-04-17 01:03:16",0,71.62.96.78,1
+301443,11417,18424,16212,NULL,NULL,"&lt;p&gt;I agree, I had something similar to this.&lt;/p&gt;
+","2020-04-17 01:03:48",300818,71.62.96.78,1
+301515,11417,18424,16278,NULL,NULL,"&lt;p&gt;The red line would represent community two and the blue line would represent community one. This is because the more common the species the more likely they will be present compared to a community with 10 uncommon species that are difficult to locate.&lt;/p&gt;
+","2020-04-17 01:54:05",0,32.209.92.86,1
+301516,11417,18424,16278,NULL,NULL,"&lt;p&gt;I would agree with the community curves you drew&lt;/p&gt;
+","2020-04-17 01:54:32",300823,32.209.92.86,1
+301518,11417,18424,16278,NULL,NULL,"&lt;p&gt;I don&#039;t think the blue line should be constant or that the red line should decrease&lt;/p&gt;
+","2020-04-17 01:55:10",300926,32.209.92.86,1
+301534,11417,18424,16286,NULL,NULL,"&lt;p&gt;blue- community 2&lt;/p&gt;
+
+&lt;p&gt;red- community 1&lt;/p&gt;
+","2020-04-17 02:12:55",0,209.54.89.65,1
+301535,11417,18424,16286,NULL,NULL,"&lt;p&gt;I agree, this is what I did&lt;/p&gt;
+","2020-04-17 02:13:12",300818,209.54.89.65,1
+301537,11417,18424,16286,NULL,NULL,"&lt;p&gt;I don&#039;t think the community 2 line would be flat because it would take time to find the species needed for the sample&lt;/p&gt;
+","2020-04-17 02:13:53",300861,209.54.89.65,1
+301538,11417,18424,16247,NULL,NULL,,"2020-04-17 02:14:27",0,174.60.197.171,1
+301544,11417,18424,16247,NULL,NULL,"&lt;p&gt;I agree, i made the same graph.&lt;/p&gt;
+","2020-04-17 02:17:00",301295,174.60.197.171,1
+301556,11417,18424,16052,NULL,NULL,,"2020-04-17 02:24:01",0,98.166.82.141,1
+301559,11417,18424,16052,NULL,NULL,"&lt;p&gt;I agree. I didn&#039;t make my community 1 as dramatic since I figured all species would be found eventually, but I still agree.&nbsp;&lt;/p&gt;
+","2020-04-17 02:25:36",300818,98.166.82.141,1
+301560,11417,18424,16052,NULL,NULL,"&lt;p&gt;I agree.&nbsp;&lt;/p&gt;
+","2020-04-17 02:25:55",300823,98.166.82.141,1
+301562,11417,18424,16247,NULL,NULL,"&lt;p&gt;I disagree, i think that there would be a bigger difference in the curves since one of the communities has more uncommon species.&lt;/p&gt;
+","2020-04-17 02:26:49",301429,174.60.197.171,1
+301599,11417,18424,16341,NULL,NULL,"&lt;p&gt;1. goes up faster because all of them can find each other easier&lt;/p&gt;
+
+&lt;p&gt;2. goes up slower because there aren&#039;t as many easy to find partners available&lt;/p&gt;
+","2020-04-17 02:52:01",0,72.84.210.134,1
+301637,11417,18424,16398,NULL,NULL,"&lt;p&gt;For species 1, taking the max amount of samples does not guarantee finding all of the species, since 10 of them are rare there is a good chance they won&#039;t appear in any samples&lt;/p&gt;
+
+&lt;p&gt;For 2, since all are equally common there is a better chance of catching all or most of them in samples&lt;/p&gt;
+","2020-04-17 03:09:11",0,75.75.45.66,1
+301639,11417,18424,16398,NULL,NULL,"&lt;p&gt;&lt;br /&gt;
+I agree community 1 had more rare species so the line for community 2 should be higher&lt;/p&gt;
+","2020-04-17 03:09:44",300818,75.75.45.66,1
+301640,11417,18424,16374,NULL,NULL,,"2020-04-17 03:10:29",0,96.255.240.16,1
+301641,11417,18424,16398,NULL,NULL,"&lt;p&gt;&lt;br /&gt;
+I don&#039;t think community 1 would have a linear graph&lt;/p&gt;
+","2020-04-17 03:11:06",301007,75.75.45.66,1
+301642,11417,18424,16374,NULL,NULL,"&lt;p&gt;I disagree with this post because community two would have to start out at 0.&lt;/p&gt;
+","2020-04-17 03:11:08",300820,96.255.240.16,1
+301643,11417,18424,16349,NULL,NULL,"&lt;p&gt;purple is community 1 and yellow is community 2&lt;/p&gt;
+","2020-04-17 03:11:25",0,108.18.158.89,1
+301644,11417,18424,16374,NULL,NULL,"&lt;p&gt;I agree with your post but i had my community two as a more straight line.&lt;/p&gt;
+","2020-04-17 03:11:35",300819,96.255.240.16,1
+301647,11417,18424,16349,NULL,NULL,"&lt;p&gt;I agree! Community 1 will have a quicker accumulation due to the species being more common but community 2 will be slower and more gradual since more species are rare. both will end up at 25.&nbsp;&lt;/p&gt;
+","2020-04-17 03:12:51",301640,108.18.158.89,1
+301649,11417,18424,16349,NULL,NULL,"&lt;p&gt;I disagree, community 1 would have a much more steep initial spike since its species are commonly found and then quickly balance out.&nbsp;&lt;/p&gt;
+","2020-04-17 03:14:06",301377,108.18.158.89,1
+301650,11417,18424,16379,NULL,NULL,,"2020-04-17 03:14:19",0,173.79.242.59,1
+301662,11417,18424,16379,NULL,NULL,"&lt;p&gt;I disagree, I think that the curve for community 2 would rise and then level off into a straight line rather than just being a straight line throughout because the species for community 2 were all common.&lt;/p&gt;
+","2020-04-17 03:18:01",300861,173.79.242.59,1
+301666,11417,18424,16379,NULL,NULL,"&lt;p&gt;I agree! I think that community 1 would continue to have a steady increase while community 2 would have an increase and eventually level off.&nbsp;&lt;/p&gt;
+","2020-04-17 03:18:52",300930,173.79.242.59,1
+301724,11417,18424,16363,NULL,NULL,"&lt;p&gt;The curve for community 1 would begin to first level off at 15 species because they are the most common and most likely to be found. Later on, the curve would gradually increase again as the more uncommon species are found until it levels off at 25. The curve for community two would continue to increase and then level off at 25 normally as every species is common and equally able to be found.&lt;/p&gt;
+","2020-04-17 03:56:51",0,216.98.89.211,1
+301725,11417,18424,16363,NULL,NULL,"&lt;p&gt;I disagree that community 2 would have a straight line. Species would have to be found starting from zero and increasing until 25 with every sample.&lt;/p&gt;
+","2020-04-17 03:57:50",300820,216.98.89.211,1
+301726,11417,18424,16377,NULL,NULL,,"2020-04-17 03:58:09",0,72.218.33.70,1
+301727,11417,18424,16363,NULL,NULL,"&lt;p&gt;I agree that community 1 would take more samples to reach the total.&lt;/p&gt;
+","2020-04-17 03:58:39",300819,216.98.89.211,1
+301728,11417,18424,16377,NULL,NULL,"&lt;p&gt;I agree with this.&lt;/p&gt;
+","2020-04-17 03:58:54",300894,72.218.33.70,1
+301731,11417,18424,16377,NULL,NULL,"&lt;p&gt;I agree with this.&lt;/p&gt;
+","2020-04-17 03:59:30",300930,72.218.33.70,1
+301741,11417,18424,16377,NULL,NULL,,"2020-04-17 04:11:39",0,72.218.33.70,1
+301872,11417,18424,16280,NULL,NULL,"&lt;p&gt;Since community one has 10 uncommon, it would take more sampling to reach the actual species number. Since all 25 species in community two are equally common, the actual number of species can be sampled quicker&lt;/p&gt;
+","2020-04-17 19:12:30",0,71.234.121.199,1
+301873,11417,18424,16280,NULL,NULL,"&lt;p&gt;I think the community 2 line still needs to start at 0 and get to 25, it would still have a curve&lt;/p&gt;
+","2020-04-17 19:13:18",300820,71.234.121.199,1
+301874,11417,18424,16280,NULL,NULL,"&lt;p&gt;I agree my graph looks very similar!&lt;/p&gt;
+","2020-04-17 19:13:43",300818,71.234.121.199,1
+301920,11417,18424,16025,NULL,NULL,,"2020-04-17 21:31:15",0,98.117.94.181,1
+301921,11417,18424,16025,NULL,NULL,"&lt;p&gt;Basically, given that community 1 has more rare species, it would take more sampling to reach a more accurate guess as to how many total species there are.&lt;/p&gt;
+","2020-04-17 21:32:27",301920,98.117.94.181,1
+301922,11417,18424,16025,NULL,NULL,"&lt;p&gt;Great visual! I agree with this post, community two&nbsp;would reach 25 species much quicker and community one would have a curve just like this because at a certain point you&#039;d only be missing the rare species.&lt;/p&gt;
+","2020-04-17 21:36:30",301117,98.117.94.181,1
+301955,11417,18424,16159,NULL,NULL,,"2020-04-18 04:36:30",0,75.102.135.137,1
+301956,11417,18424,16159,NULL,NULL,"&lt;p&gt;I agree!&nbsp;&lt;/p&gt;
+","2020-04-18 04:39:02",300861,75.102.135.137,1
+301957,11417,18424,16159,NULL,NULL,"&lt;p&gt;I would think community one would have the higher number of species because 10 of their species are not similar to each other increasing the diversity and species richness&lt;/p&gt;
+","2020-04-18 04:41:27",300818,75.102.135.137,1
+302040,11417,18424,16334,NULL,NULL,,"2020-04-19 15:45:25",0,67.233.114.238,1
+302041,11417,18424,16334,NULL,NULL,"&lt;p&gt;agreed, i have this as well&nbsp;&lt;/p&gt;
+","2020-04-19 15:46:27",300832,67.233.114.238,1
+302042,11417,18424,16334,NULL,NULL,"&lt;p&gt;i agree with this, mine looks similar&lt;/p&gt;
+","2020-04-19 15:47:11",301920,67.233.114.238,1
+302106,11417,18424,16232,NULL,NULL,,"2020-04-19 23:03:38",0,71.246.243.95,1
+302107,11417,18424,16232,NULL,NULL,"&lt;p&gt;I agree to this drawing since it&#039;s very similar to what I had personally.&nbsp;&lt;/p&gt;
+","2020-04-19 23:05:42",300818,71.246.243.95,1
+302150,11417,18424,16217,NULL,NULL,,"2020-04-20 03:52:20",0,96.241.177.39,1
+302151,11417,18424,16217,NULL,NULL,"&lt;p&gt;I disagree with community 2&lt;/p&gt;
+","2020-04-20 03:52:52",300820,96.241.177.39,1
+302152,11417,18424,16217,NULL,NULL,"&lt;p&gt;I agree with both of your lines. as it would take longer to find all the species within community 2.&lt;/p&gt;
+","2020-04-20 03:54:46",300819,96.241.177.39,1

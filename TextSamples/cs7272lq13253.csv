@@ -1,0 +1,1632 @@
+id,class_session_id,lesson_question_id,user_id,group_id,logged_in_user,text,updated_on,parent_id,ip,visible
+220028,7272,13253,10177,NULL,NULL,"1- Titanium,&lt;br /&gt;Ti","2017-10-11 19:42:15",0,24.114.86.142,1
+220029,7272,13253,10876,NULL,NULL,"Il take uranium ","2017-10-11 19:48:22",0,184.151.111.167,1
+220030,7272,13253,10180,NULL,NULL,"Phosphorus ","2017-10-11 19:53:06",0,24.114.86.134,1
+220031,7272,13253,10352,NULL,NULL,"&lt;p&gt;Element: Phosphorous&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-11 19:55:31",0,173.177.140.7,1
+220032,7272,13253,10355,NULL,NULL,"Mercury (Hg)","2017-10-11 19:58:58",0,184.151.127.182,1
+220033,7272,13253,10253,NULL,NULL,"Element: Hydrogen&lt;br /&gt;","2017-10-11 19:59:25",0,204.48.95.182,1
+220034,7272,13253,10352,NULL,NULL,"&lt;p&gt;Element: Potassium&lt;/p&gt;
+","2017-10-11 20:00:36",0,173.177.140.7,1
+220035,7272,13253,10352,NULL,NULL,"&lt;p&gt;nevermind&lt;/p&gt;
+","2017-10-11 20:00:46",220031,173.177.140.7,1
+220037,7272,13253,10258,NULL,NULL,"&lt;p&gt;1-Bromine (Br)&lt;/p&gt;
+","2017-10-11 20:24:51",0,198.168.48.222,1
+220038,7272,13253,10235,NULL,NULL,"&lt;p&gt;Fe: Iron&lt;/p&gt;
+","2017-10-11 20:28:21",0,198.168.48.222,1
+220039,7272,13253,10268,NULL,NULL,"&lt;p&gt;Ag: Silver&lt;/p&gt;
+","2017-10-11 20:30:10",0,198.168.48.222,1
+220040,7272,13253,10199,NULL,NULL,"&lt;p&gt;Element -&amp;gt; C : Carbon&lt;/p&gt;
+","2017-10-11 20:30:29",0,198.168.48.223,1
+220048,7272,13253,10194,NULL,NULL,"&lt;p&gt;Cu Copper&lt;/p&gt;
+","2017-10-11 20:54:20",0,107.179.155.98,1
+220058,7272,13253,10257,NULL,NULL,"&lt;p&gt;Li: Lithium&lt;/p&gt;
+","2017-10-11 20:59:27",0,198.168.48.222,1
+220060,7272,13253,10255,NULL,NULL,"&lt;p&gt;1) Mercury&lt;/p&gt;
+","2017-10-11 21:02:02",0,198.168.48.222,0
+220061,7272,13253,10267,NULL,NULL,"&lt;p&gt;Fluorine&nbsp;&lt;/p&gt;
+
+&lt;p&gt;F&lt;/p&gt;
+","2017-10-11 21:02:40",0,198.168.48.222,1
+220062,7272,13253,10856,NULL,NULL,"Platinum ","2017-10-11 21:04:49",0,24.114.90.244,1
+220063,7272,13253,10255,NULL,NULL,"&lt;p&gt;1) Iodine&lt;/p&gt;
+","2017-10-11 21:05:46",0,198.168.48.222,1
+220064,7272,13253,10255,NULL,NULL,"&lt;p&gt;Please forget about this one!&lt;/p&gt;
+","2017-10-11 21:06:24",220060,198.168.48.222,1
+220118,7272,13253,10173,NULL,NULL,"Arsenic (As) ","2017-10-11 23:27:04",0,198.168.48.222,1
+220119,7272,13253,10269,NULL,NULL,"&lt;p&gt;Gold (Au)&lt;/p&gt;
+","2017-10-11 23:29:12",0,70.82.35.47,1
+220122,7272,13253,10190,NULL,NULL,"&lt;p&gt;Aluminum&nbsp;&lt;/p&gt;
+","2017-10-12 00:36:39",0,65.94.8.90,1
+220124,7272,13253,10196,NULL,NULL,"Oxygen ","2017-10-12 02:02:23",0,24.114.88.116,1
+220125,7272,13253,10197,NULL,NULL,"&lt;p&gt;Zinc&lt;/p&gt;
+","2017-10-12 02:27:11",0,70.24.200.98,1
+220127,7272,13253,10247,NULL,NULL,"&lt;p&gt;Strontium&lt;/p&gt;
+","2017-10-12 02:35:53",0,70.80.29.159,1
+220130,7272,13253,10176,NULL,NULL,"&lt;p&gt;Ca: Calcium&lt;/p&gt;
+","2017-10-12 03:31:10",0,65.38.77.35,1
+220133,7272,13253,10178,NULL,NULL,"&lt;p&gt;Element: Cesium (Cs)&lt;/p&gt;
+","2017-10-12 04:34:19",0,174.93.135.251,1
+220134,7272,13253,10179,NULL,NULL,Rubidium(Rb),"2017-10-12 04:49:26",0,24.114.105.98,1
+220137,7272,13253,10248,NULL,NULL,"&lt;p&gt;Tellurium&lt;/p&gt;
+","2017-10-12 05:08:57",0,70.30.240.81,1
+220142,7272,13253,10232,NULL,NULL,Chlorine,"2017-10-12 06:31:20",0,184.161.229.157,1
+220148,7272,13253,10231,NULL,NULL,"&lt;p&gt;Xe: Xenon&lt;/p&gt;
+","2017-10-12 08:27:42",0,70.48.126.48,1
+220243,7272,13253,10261,NULL,NULL,"Curium -Cm","2017-10-12 19:24:06",0,198.168.48.222,1
+220244,7272,13253,10182,NULL,NULL,"&lt;p&gt;Ill take Francium&nbsp;&lt;/p&gt;
+","2017-10-12 19:32:30",0,198.168.48.222,1
+220272,7272,13253,10281,NULL,NULL,"Tantalum (Ta)","2017-10-12 20:19:26",0,198.168.48.222,1
+220369,7272,13253,10193,NULL,NULL,"&lt;p&gt;Bismuth&lt;/p&gt;
+","2017-10-13 06:10:19",0,70.54.157.22,1
+220541,7272,13253,10259,NULL,NULL,"&lt;p&gt;1- Radium (Ra)&lt;/p&gt;
+","2017-10-16 01:56:12",0,70.53.165.72,1
+220556,7272,13253,10256,NULL,NULL,"&lt;p&gt;Neon (Ne)&lt;/p&gt;
+","2017-10-16 04:08:41",0,67.68.29.184,1
+220566,7272,13253,10280,NULL,NULL,"&lt;p&gt;Lead (Pb)&lt;/p&gt;
+","2017-10-16 05:12:41",0,70.55.169.4,1
+220572,7272,13253,10542,NULL,NULL,"&lt;p&gt;Au:Gold&lt;/p&gt;
+","2017-10-16 05:37:02",0,67.68.132.251,1
+220574,7272,13253,10202,NULL,NULL,"&lt;p&gt;V: Vanadium&lt;/p&gt;
+","2017-10-16 06:05:31",0,174.94.118.86,1
+220578,7272,13253,10254,NULL,NULL,"Pu plutonium","2017-10-16 06:10:13",0,66.130.185.138,1
+220579,7272,13253,10181,NULL,NULL,"&lt;p&gt;Cobalt (Co)&lt;/p&gt;
+","2017-10-16 07:07:36",0,66.130.241.171,1
+220704,7272,13253,10177,NULL,NULL,"&lt;p&gt;2-&nbsp;Titana&#039;s&nbsp;Super Villian Properties:&lt;/p&gt;
+
+&lt;p&gt;1) Titana&#039;s&nbsp;hair is made up of titanium. Titanium is a metal high in strength, her hair has the ability to hit, cut and fight people i.e. choke them.&lt;/p&gt;
+
+&lt;p&gt;2) With the snap of her fingers, Titana&nbsp;can create a fire with her titanium hands. By snapping them, it causes titanium dust which is easily flammable. To put out the flames she must put on fire-resistant gloves which contain sodium chloride powder. This sodium chloride powder (salt) does not let the&nbsp;fire come into contact with any air.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;3) On Titana&#039;s&nbsp;anatomy, there are metal titanium plates, using her flammable hands, the plates can stretch and protect her due to titanium being ductile. For her titanium to stretch she needs above room temperature heat.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;4) Due to titaniums flammability, Titana&nbsp;has a very volatile personality which tends to make people not want to be around her. Also because her hair is long, strong and sharp, she ends up cutting/hurting people around her accidentally.&lt;/p&gt;
+","2017-10-17 03:34:08",0,70.82.7.206,1
+220720,7272,13253,10281,NULL,NULL,"Nevermind. I choose Barium.","2017-10-17 04:57:22",220272,174.92.213.89,1
+220904,7272,13253,10255,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt; property: Iodite&rsquo;s costume is made from 100% solid iodine; consequently, it has a gray, shiny, glowing color. Also, Iodite has purple hair; when she uses her super power, she can blend in and not be recognised by others around her.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behavior&lt;/strong&gt; property: Due to the strong and unpleasant smell of solid iodine from the costume she wears, that has impregnated in her skin, Iodite tends to stay away from others when at work and to spend most of her time alone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super power&lt;/strong&gt; property: Iodite has enhanced regenerative capabilities due to the large amount of iodine in her body; iodine works as a sterilizer for her to recover from outer wounds on her body. Also, her most lethal super power is her ability to create a purple toxic gas; when solid iodine is heated, it turns into a purple gas that is very harmful.&lt;/p&gt;
+
+&lt;p&gt;By looking at the following picture, we recognize some of Iodite&#039;s properties:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Her purple hair&lt;/li&gt;
+	&lt;li&gt;Her 100% solid iodine costume, that is gray and shinny (the stars on suit represent glow)&lt;/li&gt;
+	&lt;li&gt;The purple gas around her that is iodine&nbsp;gas&lt;/li&gt;
+&lt;/ol&gt;","2017-10-18 01:31:44",0,65.97.36.134,1
+220918,7272,13253,10542,NULL,NULL,"&lt;p&gt;Sulfur (S)&lt;/p&gt;
+","2017-10-18 02:27:35",220572,198.168.48.223,1
+220921,7272,13253,10258,NULL,NULL,"&lt;p&gt;This is Brominella.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;APPEARANCE:&lt;/strong&gt; Brominella&rsquo;s &nbsp;hair, lips and eyes are her defining &nbsp;physical features. Her hair and lips are the same redish brown color as the liquid state of bromine. She wears a two-way mask to cover her eyes, she can see through but others can&rsquo;t see her. She hides her eyes because they are a distinctive amber color, the same color as the gas state of Bromine. Also, in ancient times, prior to the discovery of bromine, royalty would wear fabrics died with Tyrian purple , which is a bromine compound containing a natural dye. Hence why her costume is purple, an acknowledgment to the elements history.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BEHAVIOR:&lt;/strong&gt; She is somewhat of a recluse she stays to herself and rarely , if ever, goes out to social gatherings. She keeps away from situations that may cause other people to come into direct contact with her skin, because if touched it will burn them. This trait comes from the toxic nature of gas and liquid bromine. If exposed to skin, bromine can cause irritation and burns. This quality of hers also forces her to always wear gloves, long sleeves and pants during her regular life. This is also why her costume covers a large part of her neck and why her arms and legs are covered in a protective mesh.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SUPER POWER ABILITY:&lt;/strong&gt; Brominella&rsquo;s main super power is her ability to either shift completely or partially into the gas state of bromine or even excrete it from her pours when necessary in smaller quantities. Bromine can evaporate very easily. Her ability allows her to irritate her victims&#039; skin and eyes, potentially blinding them momentarily, and even attack their respiratory system. In the picture, Brominella is partially transformed. That is why, in the drawing, her lower half is covered in an amber gas.Her secondary ability is that she is able to resistant and slow down flames. When certain materials are soaked in a bromine compound, it makes them flame retardant, hence Brominella&rsquo;s ability.&nbsp;&nbsp;&nbsp;&lt;/p&gt;
+","2017-10-18 02:48:51",0,74.58.30.117,1
+220923,7272,13253,10258,NULL,NULL,"&lt;p&gt;Sources :&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.britannica.com/science/bromine&quot;&gt;https://www.britannica.com/science/bromine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chemistryexplained.com/elements/A-C/Bromine.html&quot;&gt;http://www.chemistryexplained.com/elements/A-C/Bromine.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://emergency.cdc.gov/agent/bromine/basics/facts.asp&quot;&gt;https://emergency.cdc.gov/agent/bromine/basics/facts.asp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-18 02:57:49",220921,74.58.30.117,1
+220929,7272,13253,10202,NULL,NULL,,"2017-10-18 03:32:04",0,174.94.118.126,1
+220932,7272,13253,10175,NULL,NULL,"Here is Wolfram, my superhero based off of Tungsten.&lt;br /&gt;&lt;br /&gt;Appearance:&lt;br /&gt;Wolfram&#039;s costume and hair is grey to match the color of tungsten. His hair is also very wiry due to the fact that tungsten is very ductile. His cape and his belt are yellow because tungsten is a very good conductor of electricity.&lt;br /&gt;&lt;br /&gt;Behaviour:&lt;br /&gt;Wolfram is often alone because people do not like being around since the colour of his costume is quite depressing. He also sometimes accidentally hurts people because his hands and his feet are made of tungsten.&lt;br /&gt;&lt;br /&gt;Super Powers:&lt;br /&gt;Wolfram&#039;s hands and feet are made of tungsten which makes him deal very hard kicks and punches. He is also very hard to harm because his bones are made of tungsten. And since much of his body (bones, hands, and feet) is made of tungsten, he is able to conduct electricity very well.","2017-10-18 03:59:55",0,70.49.65.39,1
+220935,7272,13253,10190,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Appearance Property: &lt;/strong&gt;He has silver armor as aluminum is a silvery colour. He also has blue eyes and white hair as there are hints of blue and white present in the colour of aluminum. He also has thirteen freckles because that is the amount of electrons aluminum has which was obtained through his atomic&nbsp;number&nbsp;and has 13 electrons revolving around the nucleus. He is also skinny as he weighs 26.98kg (his atomic mass is 26.98). He also has an extremely thin layer of aluminum oxide around his body in order to protect him from corrosion.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour Property: &lt;/strong&gt;Captain Al is very clumsy as he is highly reactive as he wants to lose his three electrons thus being clumsy as he is always losing electrons. He is highly reactive and clumsy when he reacts with acids, water and alkali&#039;s such as Sodium Hydroxide. He is also friendly as he forms lots of alloys with metals such as copper. He forms alloys to get stronger thus being able to make lots of friends and forming these friendships easily. These friendships make him a stronger person overall.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super Power Property: &lt;/strong&gt;His main super power is he is able to transform his body into thin&nbsp;sheets which will allow him to fit into extremely small spaces that a person usually cannot fit in. This occurs&nbsp;as aluminum is highly ductile (able to be beaten into extremely thins sheets). Once he fits into the tiny spaces, his body regains its normal form. His second super power is that he is able to transform his armor from a dull silver to a shiny silver as aluminum is shiny. This allows him to blind his enemies temporarily for 10&nbsp;seconds and this allows him battle his enemy with worrying about sustaining damage.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources:&nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;https://www.lenntech.com/periodic/elements/al.htm&lt;/p&gt;
+
+&lt;p&gt;http://www.elementalmatter.info/aluminum-properties.htm&lt;/p&gt;
+
+&lt;p&gt;http://chemistry.elmhurst.edu/vchembook/102aluminum.html&lt;/p&gt;
+
+&lt;p&gt;http://www.constellium.com/aluminium-company/aluminium-properties-and-uses&lt;/p&gt;
+
+&lt;p&gt;http://www.corrosionpro.com/blog/the-oxidation-of-aluminum/&lt;/p&gt;
+","2017-10-18 04:14:17",0,70.31.255.93,1
+220936,7272,13253,10352,NULL,NULL,"&lt;p&gt;Super Villain: Krazy Flamer (Based on Potassium)&lt;/p&gt;
+
+&lt;p&gt;(I really can&#039;t draw to save my life sorry)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: Armour is a silver/grey colour because potassium exists as such and turns into a dull grey when exposed to oxygen. The lilac colour on her appearance represents the potassium when it is reacting with water which she uses to her advantage. Potassium can be easily cut with a knife or scalpel which is why she wears a belt &ndash; this belt, with the push of the button in the center, acts as a force field to protect her from her enemies.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour: &lt;/strong&gt;Due to its reputation in the food industry as a healthy substance, she is able to be trusted by those around her and is able to mingle in society. She does, however, have to be quite careful because the melting point of potassium is quite low (63.5 degrees Celsius) that the heat from a candle could melt it.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super Villain Ability: &lt;/strong&gt;The bracelets on her wrists contain water which she can easily access in order to create flames. The hydrogen within the water reacts violently with the potassium and creates a lilac flame which could potentially explode. She uses this reaction to wreak havoc amongst the town and is very destructive when left to her own devices. She sets fires within the towns and then the gases which contain potassium released from the fire get into the people&rsquo;s bloodstream which can be harmful to a person and potentially life threatening.&lt;/p&gt;
+","2017-10-18 04:27:16",0,174.93.150.185,1
+220939,7272,13253,10257,NULL,NULL,"&lt;p&gt;&lt;u&gt;Lithman&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Appearance: Lithman&#039;s silvery-white is&nbsp;a representation of the true colours of Lithium. His armour that he wears to protect himself from harm from all villains is a metallic luster, which is the colour that derives from cutting open lithium.&lt;/p&gt;
+
+&lt;p&gt;Behaviour: because of Lithium being considered highly flammable, I have decide to make my superhero an extremely angry individual, essentially known as a hot head, who gets heated throughout discussions with super-villans.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Superpower: Lithium is known to be a great conductor of electricity. My superhero has the ability to conduct electricity from miles away. He helps cities in need, and provide them with energy that is essential for their own survival. Lithium is also considered to be extremely flammable. Not only can he provide electricity, but he can create fires at any given moment, to provide himself warmth and protection from those whom are feared.&lt;/p&gt;
+","2017-10-18 05:00:25",0,70.55.168.14,1
+220943,7272,13253,10254,NULL,NULL,"Appearance: Pluto emits an orange glow due to his core which is comprised of Plutonium-238. He has silver bracelets made of plutonium-239 which help him with his powers, and he wears ray-bans to stop the alpha particles being emitted by the bracelets from damaging his sensitive eyes. The glasses also make him look sick.&lt;br /&gt;Behavior: Due his constant emitting of alpha particles, Pluto tends to reside on his dwarf planet Pluto, hence his name. He comes to earth when he thinks he&#039;s needed. He also has a short temper whivh is a manifestation of his pyrophoric abilities.&lt;br /&gt;Superpower: With the help of his Plutonium-239 bracelets, he is capable of harnessing their energy thus emitting a lazer-like beam which explodes anything it touches. Due to the moisture in his mouth which reacts woth his plutonium core, Pluto can spit fire both from his mouth and in the recording booth. If confronted by an enemy much greatee than himself, Pluto will speed his process reaching critical mass and terminate both his enemy and himself.","2017-10-18 05:31:35",0,66.130.185.138,1
+220946,7272,13253,10247,NULL,NULL,"&lt;p&gt;&lt;strong&gt;&lt;u&gt;Super power:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Skeletium can control the composition of his strontium bones. He can modify the percentage of isotopes that compose him and use his properties to fight crime. Much like another&nbsp;superhero, Skeletium has the power to regenerate himself as a result of his ability to both cause and cure bone cancer with his 90Sr and 89Sr isotopes. He can also react with other elements to his advantage, as he his pretty smart.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Appearance:&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Skeletium is a skeleton with black bones. The colour results from strontium&#039;s reaction with oxygen. His armour is of a yellowish tone which ironically represents the natural appearance of the element. Skeletium carries a bow and arrows that are made out of his own bones. He also has a pet naked mole-rat, as the animal is immune to cancer and thus, can always be by his side.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Behavior:&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Skeletium is a&nbsp;nice guy, but he is extremely short-tempered. He is known for overreacting to pretty much everything. On the other hand,&nbsp;he&nbsp;is very charitable and is often seen in hospitals curing patients. He never refuses to give a hand to anybody but he makes it clear that he does not want to receive anything in return. When fighting criminals, Skeletium is ruthless. Due to the properties of his main weapon, 90Sr, (and his temper) his interventions are often quite cruel and have caused numerous controversies. Deep-inside, he despises all humans, as he is often criticized for his actions and also for the fact that most people stay far away from him, fearing that they will be contaminated. His only true friend is his pet mole-rat, which&nbsp;helps him calm down when he is frustrated.&lt;/p&gt;
+
+&lt;p&gt;*Naked mole-rats can very rarely suffer from the disease, but are usually deemed as immune.&lt;/p&gt;
+","2017-10-18 05:33:58",0,70.80.29.159,1
+220949,7272,13253,10173,NULL,NULL,"&lt;p&gt;&lt;u&gt;2- Drawing + properties&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Name of my character: Lucidum&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Property 1 : Appearance&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Lucidum is a shiny solid and has some grey areas on its body, just like arsenic, who&#039;s stable form is silver/gray, brittle and solid.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Arsenic does not melt when it&#039;s heated, it actually goes through sublimation (solid to gas), which is why I made the hair of Lucidum look like a flame, and not flat against her back. I left some parts of it white because the gas produced after sublimation can be seen as a white cloud (hence the white parts).&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Around her waist, is 33 little balls, representing the 33 protons or the atomic number of arsenic (As).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Property 2 : Behaviour&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Lucidum is the contrary of solitary. Because of her very shiny body, it attracts a lot of people. People are quite confused, because most of the time they think of Arsenic as poison, so when they see how odorless and shiny it looks, they let their guards down.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Property 3 : Superpower&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of its superpowers is that Lucidum is very poisonous and toxic, just like arsenic (As) and its compounds (which was commonly known as the King of poison). Indeed, being exposed for a too long period of time to it could give you cancer, brain conditions, and cause many other effects. Lucidum uses its shininess and physique&nbsp;to attract people and then expose&nbsp;them to her toxicity.&nbsp;&lt;/p&gt;
+","2017-10-18 05:49:08",0,173.206.19.124,1
+220950,7272,13253,10173,NULL,NULL,"&lt;p&gt;sources :&nbsp;https://www.lenntech.fr/data-perio/as.htm&nbsp;&lt;/p&gt;
+
+&lt;p&gt;http://periodictable.com/theelements/Elements/Arsenic.html&lt;/p&gt;
+
+&lt;p&gt;https://www.thoughtco.com/arsenic-element-facts-606500&lt;/p&gt;
+","2017-10-18 05:52:55",220949,173.206.19.124,1
+220951,7272,13253,10176,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;&lt;strong&gt;: &lt;/strong&gt;He has bright red hair because calcium burns quite vigorously in oxygen. Calcium exposed to oxygen creates a brick red flame, so his hair is like a bright red flame. He also has really shiny teeth that are almost blinding. Since calcium reacts to oxygen like a bright fire, when his teeth are exposed, his teeth shine super brightly.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behavior:&nbsp;&lt;/strong&gt;He is really energetic and moves a lot. Calcium exposed to oxygen creates a brick of fire, and fire is always in motion, so he is also always in motion. But exposed to water, he becomes gloomy and sad. Calcium reacts very slowly to water.&lt;/p&gt;
+
+&lt;p&gt;Superpower: He can create fire. With oxygen everywhere, he can create fire when he wants anywhere he wants. His fire can also blind for a second, because the second the fire is formed, there is a bright light. His bones are also his weapons. Calcium strengthen bones so all of his bones can be used as weapons such as swords and shields.&lt;/p&gt;
+","2017-10-18 05:53:52",0,65.38.77.35,1
+220954,7272,13253,10253,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Appearance:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Miss H is the smallest superhero, (hydrogen element, made of only one proton and electron). She is also invisible and nearly undetectable to her enemies, as hydrogen is an odorless, tasteless, colorless gas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;She hates to be alone and always seeks to bond with someone else. She often sticks close to members of her own family (hydrogen is diatomic), but can also make friends with others quite easily.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super Power:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;She has fire powers because hydrogen gas is highly flammable. Since she is hard to detect she can easily enter her enemies&rsquo; hideouts and lairs unseen and burn them down. She also has the ability to create a massive nuclear explosion (H-bomb), however, this power can only be used once as it would cost her her life.&lt;/p&gt;
+","2017-10-18 06:05:20",0,24.157.247.101,1
+220956,7272,13253,10269,NULL,NULL,"&lt;p&gt;Carat Compressor&lt;/p&gt;
+
+&lt;p&gt;Appearance: Carat&#039;s shiny golden hair and suit match the color of gold in it&#039;s solid form. Gold is also seen as a very valuable material, that is often a symbol of wealth. As such, Carat dresses like someone who is living a very wealthy life style. He has an over the top golden suit, with nice shoes and many rings on his hands. It also matches his day job, which is as a profitable business man.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Behavior: Despite his attention grabbing appearance, Carat is someone who prefers to be alone and work alone, he only lets few into his personal life. This is based on the fact that gold is a practically non reactive substance, only reacting with halogens and a mixture of hydrochloric and nitric acid, know as aqua regia. Yet, to the public, he has an air of grandeur and acts as though he is an extremely important person, once again going off how gold is viewed by modern society,&lt;/p&gt;
+
+&lt;p&gt;Super Power: Gold is known to be the most malleable and ductile of metals, so Carat&#039;s power directly reflects that. With more gold in his body than the average human, Carat is capable of making his body incredibly flat and stretching it out to great lengths. He uses this power to get into places that people normally would not be allowed into. He most often uses this power to rob from banks and add onto his existing wealth. His only real weakness is, like the chemical gold, he is very soft and a well placed bullet or stab through his body could be deadly.&lt;/p&gt;
+","2017-10-18 06:10:27",0,70.82.35.47,1
+220957,7272,13253,10355,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Super Villain: The Mad Merc&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Superpower properties&lt;/strong&gt;: The Mad Merc&rsquo;s super villain powers are to be able to shape shift into a liquid mental, or solidify into an object. At standard room temperature and pressure mercury becomes a liquid. Melting/freezing point is around -40 degrees Celsius. He is able to duplicate himself as he can become a liquid which benefits him during battle. When in a non-metallic form The Mad Merc is able to shot poisonous mercury gas rays from his eyes. This is possible due to the rays heating up the mercury in his system which is already in a liquid form and turns it into mercury gas which is extremely toxic when inhaled and can cause death. Boiling point is approximately 360 degrees Celsius.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour properties:&lt;/strong&gt; The Mad Merc is typically a loner due to his extremely heavy density which is approximately 5.427g/cm which tends to shake or vibrate the objects around him while he walks giving an intimidating characteristic which scares people away. The Mad Merc tends to be more on the cold side due to the fact that mercury is a poor conductor of heat which makes him almost unapproachable. In addition, the Mad Merc when in contact with others can send little electrical shocks to the other individuals because mercury is a very good conductor of electricity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance properties:&lt;/strong&gt; The Mad Merc&rsquo;s skin is not made out of tissue rather it is composed of malleable metal substance. This is due to the fact that Mad Merc&rsquo;s body is inorganic meaning he does not consist of living matter. This contributes to his exterior body being the shiny colour of silver when he is in any form. The Mad Merc&rsquo;s body colour is also based on mercury being known as quicksilver which is seen with its former name being &ldquo;hydragyrum&rdquo; which refers to the Greek words &ldquo;hydro&rdquo; meaning water and &ldquo;argyros&rdquo; meaning sliver. &nbsp;Mercury can be found most commonly as cinnabar (mercuric sulfide). The red pigment vermilion is obtained by grinding natural cinnabar or synthetic mercuric sulfide. The Mad Merc&rsquo;s eye colour would be red due to the presences of mercury sulfide dust that was blown into his eyes, completely deforming them to be all red. There is also the presence of mercury sulfide in his belt. The Mad Merc doesn&rsquo;t need a custom as he is turning from an extremely hard solid which is when he appears more bulky (rock like appearance), to a liquid which is when he is a substance which can take any form. The one article he wears is his temperature regulating belt which allows him to decide which phase (solid or liquid) he wants to take the form of by pushing on of the two buttons by raising or lowering the heat. Underneath the logo Mad Merc is the number 80 which represent the atomic number of mercury.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources&nbsp;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chemistryexplained.com/elements/L-P/Mercury.html&quot;&gt;http://www.chemistryexplained.com/elements/L-P/Mercury.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mercury_%28element%29&quot;&gt;https://en.wikipedia.org/wiki/Mercury_%28element%29&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.chemicool.com/elements/mercury.html&quot;&gt;https://www.chemicool.com/elements/mercury.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZiWlthrtneU&quot;&gt;https://www.youtube.com/watch?v=ZiWlthrtneU&lt;/a&gt;&lt;/p&gt;
+","2017-10-18 06:13:19",0,174.93.150.185,1
+220958,7272,13253,10267,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Character name: Fluorider&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fluorider has yellow skin and green hair because fluorine is pale yellow-green gas.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;He&rsquo;s extremely agitated and excited due to Fluorine&rsquo;s high reactivity. Fluorine is the most electronegative element, this means, in molecules fluorine attracts electrons more powerfully than any other element can. It&rsquo;s the most reactive of all the elements. Unfortunately not many people like speaking to Fluorider because of his pungent odor, fluorine has a very strong distasteful smell.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super powers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fluorider is able to exhale a smelly and highly corrosive gas, because Fluorine is a corrosive gas with a pungent smell.&lt;/p&gt;
+
+&lt;p&gt;Fluorider wears gloves made of sodium, because when Fluorider releases his fluorine it reacts with the sodium violently and combusts, it creates a small explosion.&lt;/p&gt;
+","2017-10-18 06:21:10",0,96.20.207.44,1
+220960,7272,13253,10267,NULL,NULL,"&lt;p&gt;Here is my drawing with additional notes&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-18 06:29:53",220958,96.20.207.44,1
+220964,7272,13253,10199,NULL,NULL,"&lt;p&gt;This is Carbono.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;APPEARANCE:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carbono&rsquo;s suit and armor are made of carbon fiber, because it is highly resistant and light, with a dark‑gray matte color. Also, Carbono has black hair with a dreadlock hairstyle. The African-American man wears a carbon mask only showing his nose and mouth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BEHAVIOR:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carbono has no problem being with others because he does not smell, he is not corrosive and has a solid form at room temperature, hence making him a human-friendly superhero. Therefore, he is a very sociable being and we could say that he has a big ego.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SUPER POWER:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carbono&rsquo;s main ability is to control carbon by changing the covalent bonds between the atoms. In other words, he can transform his body parts into soft materials by being in the graphite state or harden it by being in the diamond state. For obvious reasons, he will use the hardness property of the diamond to deal with enemies. For example, he can change the shape of his diamond fist into a sharp object. Due to his high heat resistant, he has no problem handling with fire-related situations.&lt;/p&gt;
+","2017-10-18 06:39:16",0,66.130.202.95,1
+220965,7272,13253,10182,NULL,NULL,"&lt;p&gt;This is Franny- Please excuse the fact that i have no ability to draw. This took me much longer than i care to admit.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Appearance&lt;/p&gt;
+
+&lt;p&gt;Franny has orange/red hair which is what francium is believed to look like. Similarly she has red eyes due to this being where she stores the majority of her active Francium. She will wear a dark costume that has the ability to turn invisible and is un-affected by the flames cause by francium. Her suit will have a radioactive symbol with 87 in the middle. She will also carry a gun that contains water to be used to increase the severity of explosions.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Behavior&lt;/p&gt;
+
+&lt;p&gt;Franny gets angry very easily and often has to be calmed down before using her powers at inappropriate times. She is also very shy and lonely due to her habit of hiding and keeping to herself. She is not well known but those who know her, love her and are constantly trying to see more of her.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Super Power&lt;/p&gt;
+
+&lt;p&gt;She has two abilities. Her first being her ability to become invisible. This is because Francium has such a short half-life, she is often gone before you realize she is there. She also has the ability to shoot francium out of her eyes which is reactive with almost every substance. Especially water. If her shot comes into any contact with water- often shot from her gun the explosion will become massive.&nbsp;&lt;/p&gt;
+","2017-10-18 06:45:21",0,174.89.235.105,1
+220967,7272,13253,10197,NULL,NULL,"&lt;p&gt;&lt;strong&gt;&lt;u&gt;The Zincanator&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance:&lt;/strong&gt; Zinc is described as a&nbsp;silvery-white metal with a blue tinge, that is where the inspiration for the colors used come from as they are present throughout his appearance. Although not very visible in the image there are 30 decorative dots placed through his appearance to symbolize Zinc&#039;s atomic number. He has a large tower shield as his weapon of choice as Zinc is most commonly used to galvanize other metals to protect them from corrosion. The crest on his shield is actually my attempt to draw the German coat of arms, to pay tribute to the German chemist, Andreas Marggraf, who discovered the element of Zinc. The presences of blue-green flame/flare on the shield and eyes represents when Zinc burns it produce a bright blue-green flame/flare.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behavior:&nbsp;&lt;/strong&gt;The Zincanator is a calm, cool and collected and thinks clearly through all his options&nbsp;in all situations due to Zinc&#039;s extremely high melting point. Also, he does not go out often and covers his skin fully as Zinc oxides very quickly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Superpowers:&lt;/strong&gt;&nbsp; Zinc plays a large role in a large number of enzymes in the human body. The things it affects are immune system, the senses and has an effect on the healing of wounds. I propose that The Zincanator&#039;s power to have a healing factor and the ability to boost his body&#039;s capabilities to due the role of enzymes in the body, making him a sort of superhuman.&lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;p&gt;http://geology.com/usgs/uses-of-zinc/&lt;/p&gt;
+
+&lt;p&gt;http://www.rsc.org/periodic-table/element/30/zinc&lt;/p&gt;
+
+&lt;p&gt;https://www.advancedtissue.com/zinc-enhance-wound-healing/&lt;/p&gt;
+
+&lt;p&gt;http://www.chemistryexplained.com/elements/T-Z/Zinc.html&lt;/p&gt;
+
+&lt;p&gt;http://weight2go.ca/index.php?option=com_content&amp;amp;view=article&amp;amp;id=95:the-super-powers-of-zinc&amp;amp;catid=5:health-wellness&amp;amp;Itemid=5&nbsp;&lt;/p&gt;
+","2017-10-18 06:53:03",0,70.24.200.98,1
+220968,7272,13253,10248,NULL,NULL,"Tellus (based on element tellurium)&lt;br /&gt;Appearance: Tellus has a metallic-silver skin with white crystals protruding out of his back, elbows and knees. In nature, Tellurium is often found as a whitish silver crystal, which is why his skin is has a silver luster, and there are the white crystals incorporated into his skin. His eyes are pure black, which is representative of the allotrope of Tellurium, which is a black powder. In the picture his feet look like that to represent his power, which I will explain later. &lt;br /&gt;&lt;br /&gt;Behavior: Tellus has spent most of his time alone since a young age. When around him people often experience drowsiness, dry mouth, metal taste, headaches, garlic odour and nausea. If people smell his body odor, they will experience these symptoms. He has had much trouble making friends, especially with the alkalis as they can easily destroy him. Most of his friends are metals such as gold, silver, copper, steel, and lead. They form alloys to become stronger, and these friends are not affected by his body odour.&lt;br /&gt;&lt;br /&gt;Power: Tellus has the power to change into his different allotropes as he pleases. Due t the fact his crystalline state is extremely brittle, he can transform into his amorphous (powder) state to avoid being broken. Also, his belt is made of lead, which strengthens the resistance of his skin in crystalline form and blocks out his fatigue. But he can only use the lead in his belt so much, that is when he resorts to changing allotrope to avoid being shattered. Another power of his is to attack the central nervous system of his enemies, causing temporary paralysis. Much like how inhalation of aerosol tellurium affects the central nervous system, Tellus has the ability to paralyze or even control his enemies. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;https://www.lenntech.com/periodic/elements/te.htm&lt;br /&gt;&lt;br /&gt;http://www.chemistryexplained.com/elements/P-T/Tellurium.html&lt;br /&gt;&lt;br /&gt;https://education.jlab.org/itselemental/ele052.html&lt;br /&gt;","2017-10-18 07:02:34",0,70.30.240.81,1
+220970,7272,13253,10259,NULL,NULL,"&lt;p&gt;Mr. muidaR (Super-villain)&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance :&nbsp;&lt;/strong&gt;Mr. muidaR&#039;s super-villain&#039;s suit was originally&nbsp;fluorescent green and white, but because Radium oxidizes on exposure to air, the white turned to black. The fluorescent green remains because it is encrusted and protected inside the armor, which is very lustrous, just like the element itself. He also wears a clown&#039;s mask to cover up his oxidized face.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behavior:&nbsp;&lt;/strong&gt;This super-villain is a loner because his suit is very radioactive because it emits gamma radiations. If people stay close to him for a long time, they will suffer from teeth fracture, anemia, or&nbsp;even death. He is also very very comical... after all, he has a clown&#039;s face...&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super power:&lt;/strong&gt;&nbsp;Mr. muidaR can fly, because Radium is very volatile. He can also release radium from his suit whenever he wants, because his body constantly produces the element. He has good resistance to heat (melting point of 696 Celsius degrees). Furthermore, his most special super power is that he has the ability to shape and throw radium generated by his suit using only his bare hands.&nbsp;&lt;/p&gt;
+","2017-10-18 07:21:45",0,70.53.165.72,1
+220971,7272,13253,10281,NULL,NULL,"&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Balibel&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance: The color of her eyes are silvery just like barium.Her nails are black due to the fact it oxidizes with air. Her hair is green because barium burns&nbsp;when combined with oxygen.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behavior: When she uses her powers, most people don&rsquo;t want to stay near her because by breathing the same air as her or simply having some of her spit end up in their food or water, it can be harmful to their health risk. Sometimes she can be quite stubborn due to her hair being on fire most of the time. However, she is a very optimistic person, and she lights up the mood wherever she is. Also, she is very social due to her being so reactive. Nonetheless, she is precocious to her surroundings because some things around her can make her toxic and dangerous. Rats usually hate her...&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Superpower:. She can create fire when her hair is in contact with oxygen, and it releases green flames. Plus, she can conduct electricity with her nails. If something hits her, she will not break because she is slightly malleable. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-18 07:24:49",0,174.92.213.89,1
+220974,7272,13253,10281,NULL,NULL,,"2017-10-18 07:28:26",220971,174.92.213.89,1
+220983,7272,13253,10280,NULL,NULL,"Her name is Leadia&lt;br /&gt;&lt;br /&gt;Appearance: her eyes are bluish-white to represent the color of lead when it is freshly cut. Her hair is made of lead wires, but look normal because lead is very soft and highly malleable. She wears gloves so that she only affects the people she wants to target (see superpowers). &lt;br /&gt;&lt;br /&gt;Super power: one of her suoer power is that she can shoot bulets from her fingers. She can also poison people by touching them or their food/drinks (transmit lethal lead dose by touch). She has the ability to coat herself with a layer of lead, rendering her immune to radiation and any of the electrical powers of her potential ennemies. &lt;br /&gt;&lt;br /&gt;Behavior: she has a dark humor, but she is relatively calm, lowkey, individual (as is this relatively unreactive post-transition metal).","2017-10-18 07:42:15",0,70.55.169.4,1
+220984,7272,13253,10178,NULL,NULL,"&lt;p&gt;Character Name: Magenta Nero&lt;/p&gt;
+
+&lt;p&gt;Appearance:&lt;br /&gt;
+Her hair is magenta due to the presence of Cesium in her body. Cesium, when exposed to the air, self ignites and the flame is a magenta colour which accounts for the colour of her hair. One of her eyes is also the gold colour of Cesium. Her outfit is completely flame retardant to accommodate her powers and Cesium&#039;s extreme reactivity.&lt;/p&gt;
+
+&lt;p&gt;Behaviour:&lt;br /&gt;
+She is nice enough until you get on her bad side. She has an extremely explosive personality because of Cesium&#039;s instability and tendency to react with just about anything. &nbsp; Because of her tendency to overreact and get angry, she&#039;s hard to get along with and tends to scare people away.&lt;/p&gt;
+
+&lt;p&gt;Super Powers:&lt;br /&gt;
+She has a couple different abilities from the Cesium. Firstly, her left hand is made of solid Cesium. Normally, she has to wear a special glove to cover it and keep all other elements away from it. However, when in combat she removes the glove and the Cesium self-ignites. She has control over this flame and can direct it at her enemies. Her second ability comes into play when an opponent attacks with blades. Any blood that they manage to draw contains Cesium and if it gets on them, it will react with the oxygen around them and burn the opponent alive.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;br /&gt;
+https://en.wikipedia.org/wiki/Caesium&lt;br /&gt;
+http://www.rsc.org/periodic-table/element/55/caesium&lt;br /&gt;
+https://www.chemicool.com/elements/cesium.html&lt;br /&gt;
+https://www.youtube.com/watch?v=ytxx95g-kiA&lt;br /&gt;
+https://www.youtube.com/watch?v=D4pQz3TC0Jo&amp;amp;t=120s&lt;br /&gt;
+https://www.youtube.com/watch?v=TLOFaWdPxB0&lt;/p&gt;
+","2017-10-18 07:48:09",0,174.93.135.251,1
+220987,7272,13253,10232,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Name of character&lt;/strong&gt;: Lady Chloros&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;She has yellow-green hair and eyes, representing the colour of chlorine in its gaseous state. She also wears an amber-coloured bodysuit, representing the colour of chlorine in its liquid state.&nbsp;Her bodysuit, gloves and boots are all made of shiny rubber. The rubber is shiny because it&#039;s been chlorinated, in other words, it&#039;s been treated with a chlorine solution.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lady Chloros is a clean freak. She hates germs and bacteria and she goes out of her way to clean surfaces before coming into contact with them, mimicking the disinfecting property of hypochlorous acid (HClO). She loves wearing chlorinated rubber because another benefit of having rubber treated with chlorine is that it also makes the rubber resistant to staining. Lady Chloros detests stains because it makes her feel dirty.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Superpower:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lady Chloros is able to, on command, breathe out chlorine gas. She can also control where the gas goes. Her preferred method is to send the gas to her opponent&#039;s lungs, thus making her opponent have a hard time breathing. As they lay on the ground choking, she then knocks them out. When chlorine gas comes into contact with the moist tissues in the lungs, an acid is produced and it damages the tissues.&lt;/p&gt;
+","2017-10-18 07:52:10",0,184.161.229.157,1
+220988,7272,13253,10179,NULL,NULL,"&lt;p&gt;My character is Galactic Ruby her properties are as listed below:&lt;/p&gt;
+
+&lt;p&gt;1) Her suit is silver since it is made out of &nbsp;rubidium and &nbsp;is described as being that colour and since it is an element that melts very easily her suit can heat itself up to the melting point of 39 degrees Celsius and mold her weapon of choice that will then solidify as room temperature,&lt;/p&gt;
+
+&lt;p&gt;2) Rubidium is highly toxic therefor as a super villain she seduces her victims to then poison them by once again heating her rubidium bracelet (you cant see in the picture)&nbsp;and then poisoning her victim while in it&#039;s liquid form.&lt;/p&gt;
+
+&lt;p&gt;3) Her skin is the colour purple since rubidium can be found in space (also why she has stars and a moon over her eyebrow) and when used in fireworks it turns them&nbsp;purple colour.&lt;/p&gt;
+","2017-10-18 07:52:57",0,67.70.145.138,1
+220990,7272,13253,10542,NULL,NULL,"&lt;p&gt;&lt;u&gt;&lt;strong&gt;Sulshot&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&nbsp;The color of&nbsp;his skin is the color of sulfur when in crystal form. he wears a black and red armor and mask which are&nbsp;made out of super durable materials which is made after the vulcanization of&nbsp;rubber and other polymers. He has a gun and a jet pack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BEHAVIOR: &lt;/strong&gt;Sulshot is very attractive because of his bright yellow crystal skin at room temperature which the ladies love. He&#039;s very friendly with hydrogen as well. He tends to stay in volcanic areas because that is where sulfur is most abundant. He also helps nature because sulfur is essential to all living things (soil, algues and plants).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SUPER POWER:&lt;/strong&gt;&nbsp;His main power is that he is able to vulcanize rubber and polymers on the spot and make them more durable materials to create weapons and armor. He also can make gunpowder which sulfate is one of the main components. He uses this power to create the weapons he needs to kill villains and also help citizen when in need of materials such as rubber.&nbsp;&lt;/p&gt;
+","2017-10-18 07:58:00",0,67.68.132.251,1
+220992,7272,13253,10180,NULL,NULL,"&lt;p&gt;2- This is Phosphorella&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance:&lt;/strong&gt;&nbsp;Phosphorella&nbsp;has white hands and white eyes due to the colour of white phosphorus. Also, the shape of her hands and eyes are in a tetrahedral shape, the shape of white phosphorus. She can shoot fire with her eyes and hands, therefore she always wears special glasses and special gloves. She wears a yellow costume that prevents her from burning alive and&nbsp;has yellow hair due to the traces of red phosphorous left as an impurity. When exposed to air, Phosphorella glows (process called chemiluminescence). The glowing is caused by cold chemical reactions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour:&lt;/strong&gt; White phosphorus is a poisonous solid. Hence, she does not go out often and tends to avoid any interactions with humans because if she comes in contact with skin, she could cause serious burns to it. She can cause eye and respiratory irritations when she is exposed to humans for too long. &nbsp;Hence, she is always alone. When she does go out, she is in the red phosphorous form. However, she rarely leaves the house since it is difficult for her to transform to red phosphorous (need to be heated with a catalyst to 240&deg;C). In red phosphorus form, she is non-toxic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super Power:&nbsp;&lt;/strong&gt;When exposed to air Phosphorella can shoot fires with a simple look and/or gesture (generates heat). Phosphorus reacts with the oxygen very quickly and creates fire. She can also control the flames. She is also super toxic to any hero or villain that has human skin, because she burns skin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.chemistryandlight.eu/index.php/chemiluminescence/&quot;&gt;http://www.chemistryandlight.eu/index.php/chemiluminescence/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.rsc.org/periodic-table/element/15/phosphorus&quot;&gt;http://www.rsc.org/periodic-table/element/15/phosphorus&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-18 08:09:44",0,216.239.91.102,1
+220993,7272,13253,10268,NULL,NULL,"&lt;p&gt;&lt;u&gt;The Silver Shooter&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: The Silver Shooter is a handsome young man. Like silver, his good looks literally shine.&nbsp;He dyes&nbsp;his hair silver/gray and wears a white scarf (an&nbsp;ineffective&nbsp;attempt to hide his identity) to reflect the appearance of Ag. For fashion reasons, he does not wear a superhero suit or armour.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviou&lt;/strong&gt;r: Silver has a very high electrical conductivity, and so, small simple things are&nbsp;able to spark the Silver Shooter&#039;s anger/annoyance.&nbsp;This explains his trigger-happy behaviour. Being a hot-heated individual also&nbsp;ties in with silver&#039;s thermal conductivity.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Superpower&lt;/strong&gt;: The Silver Shooter&#039;s hands are made of silver. Characterized as a soft and malleable metal, his hands can change form. The Silver Shooter&#039;s go-to attack is&nbsp;to transform his finger into a gun barrel and shoot silver bullets. It is possible for him to change his hands into, for example, a dagger or even cutlery. But course, the Silver Shooter sticks to his guns.&lt;/p&gt;
+","2017-10-18 08:12:42",0,192.214.226.110,1
+220994,7272,13253,10235,NULL,NULL,"&lt;p&gt;Appearance:&lt;/p&gt;
+
+&lt;p&gt;Ferrumina&rsquo;s suit is lustrous silver because fresh iron appears that colour before it oxidizes. Iron is naturally magnetic so her black boots are also magnetic. On her pants, there is an upside down triangle with the number 26 which is the atomic number of iron. Her belt is made out of steel and can also be used as a weapon. This element is used the production of fireworks. Her hair is red and can produce sparks as well.&lt;/p&gt;
+
+&lt;p&gt;Behaviour:&lt;/p&gt;
+
+&lt;p&gt;Ferrumina&rsquo;s hair produces sparks and she cannot control it especially when she is exposed to heat. She uses it to scare her opponents whenever she can. However, when her hair starts to spark during random moments, it scares everyone away. This explains why she doesn&rsquo;t really have many friends.&lt;/p&gt;
+
+&lt;p&gt;Superpower:&lt;/p&gt;
+
+&lt;p&gt;Since pure iron is soft and malleable, Ferrumina&rsquo;s super power is that she can form herself into any for and shape she wants. She can squeeze into tiny spaces to defeat her opponents as well as bend her body to avoid getting hit.&lt;/p&gt;
+","2017-10-18 08:15:59",0,64.231.239.223,1
+220995,7272,13253,10196,NULL,NULL,"&lt;p&gt;Appearance:&lt;/p&gt;
+
+&lt;p&gt;When in a solid state, oxygen has a light blue color while also being clear which is why the body and the glasses of Yang are blue. His name is Yang because yang means oxygen in Chinese which is the origin of my hero. His head is floating and not visible, just like oxygen which is a gas that floats and is not visible. His hands also float like oxygen gas and they can extend and move around far, just like the gas molecules in oxygen that are in constant quick motion. His body is floating also because oxygen is a gas that floats and he is able to move at quick speeds, like his hands.&nbsp;His belt has 3 tiny versions of his head in the shape of &quot;O&quot; like the symbol for oxygen, there are 3 &quot;O&quot;&#039;s because of O1, O2, and O3. He has a large and abundant body because oxygen is the third most abundant element.&lt;/p&gt;
+
+&lt;p&gt;Behavior:&lt;/p&gt;
+
+&lt;p&gt;Yang has a bubbly personality due to his bubble shape and he is very caring and loves all living things since oxygen is used by everybody in order to survive. He doesn&#039;t always enjoy conflict however when he needs to , he won&#039;t hesitate in using his gas molecules in oxygen to out-maneuver his foes and gain the upper hand, literally the upper hand since his hands can move quickly too.&lt;/p&gt;
+
+&lt;p&gt;Superpowers:&lt;/p&gt;
+
+&lt;p&gt;His main superpowers are super quick speed which is due to the gas molecules that can move around a lot at quick speeds. His hands can move very quickly too and very far for the same reason as his super quick speed. He can release oxygen &quot;O&quot; from his belt in the form of O1, O2 and O3 to help deliver oxygen to places of need and these elements have cool glasses like him which allow him to see what the elements see and he can maneuver them to infiltrate, spy and get to hard to reach places with them.&nbsp;&lt;/p&gt;
+","2017-10-18 08:16:48",0,70.26.186.15,1
+220998,7272,13253,10193,NULL,NULL,"&lt;p&gt;Bismuthina:&lt;/p&gt;
+
+&lt;p&gt;She lives in outer space, on her own planet.&lt;/p&gt;
+
+&lt;p&gt;Bismuthina is going to have grey skin, but when she comes in contact with oxygen, it&rsquo;s going to turn iridescent.&lt;/p&gt;
+
+&lt;p&gt;Her hands are going to have gloves on them, since she is always cold.&lt;/p&gt;
+
+&lt;p&gt;She has the superpower to be able to handle fire without getting hurt, and works in an electrical engineering lab, since she can&rsquo;t get an electrical shock.&lt;/p&gt;
+
+&lt;p&gt;Since she is always cold, Bismuthina lives a lonely life on her planet, and can&rsquo;t form relationships with other people.&lt;/p&gt;
+
+&lt;p&gt;Also, since bismuth is repulsed by magnetic fields, Bismuthina can levitate, and can repulse metals.&lt;/p&gt;
+
+&lt;p&gt;However, she can&rsquo;t get into physical fights, since she isn&rsquo;t very strong, but Busmuthina can merge with other superheroes based on metals to form a bigger and harder to beat hero.&lt;/p&gt;
+","2017-10-18 08:31:53",0,70.53.247.24,1
+221000,7272,13253,10194,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Coppernica&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Her hair is made up of very thin copper wires that have begun to corrode which is why it ombre&#039;s into green at the ends (It gets greener as she ages). Her eyes have lightning bolts in them because she has electrical currents pulsing through her. She wears a rubber suit to contain her current and rubber gloves so she can&#039;t electrocute people&nbsp;by accident (she takes them off when she is fighting). She wears a copper belt so that she can whip it off and extend her current to enemies when she hits them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behaviour&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Coppernica has a very electric personality, she is very fun and out-going. She is also very good at math as she is named after the famous mathematician, Copernicus.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super Power&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Coppernica&#039;s super power is electricity. Her body is constantly pulsing&nbsp;electrical currents through her veins and she can shoot bolts at enemies when she takes off her&nbsp;gloves.&nbsp;&lt;/p&gt;
+","2017-10-18 08:43:27",0,107.179.143.195,1
+221046,7272,13253,10256,NULL,NULL,"&lt;p&gt;&lt;strong&gt;NENO&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Element: Neon&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;APPEARANCE:&nbsp;&lt;/strong&gt;Neno&#039;s costume is mostly just made of cheap&nbsp;leather, like most low budget tv superheros. It is vegan leather, because he is a vegan.&nbsp;However, on his back are gas tanks with the ability to change the atoms in air(N, O, H, and other gases) into Neon, by adding protons. From there, he has tubes he controls, through the use of the neon gas inside, to fight crime and help him fly. The tubes are no closed on the ends, so it is impossible to create a &#039;neon light&#039; effect, for aesthetic purposes, he put in LEDS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BEHAVIOR&lt;/strong&gt;&lt;strong&gt;:&nbsp;&lt;/strong&gt;As Neon is naturally a gas, and gasses spread around and fill up the space of their containers, so does Neno. He is a very talkative and open personality who tries to every person in the room at parties. This often gets in the way of his crime fighting, as his chatter distracts himself and often gets him beat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SUPER POWER:&nbsp;&lt;/strong&gt;Neno has the ability to control Neon gas. This allows him to fly by pointing his tubes downwards in the same fashion as how iron man can fly my aiming his hand and leg repulsors downwards.&lt;/p&gt;
+","2017-10-18 17:43:14",0,198.168.48.223,1
+221050,7272,13253,10179,NULL,NULL,"To talk more about her behaviour since rubidium  his highly reactive with other elements she has a very big temper that can switch on at any given time. This is probably her biggest flaw since her supper power involves Seduction and for that she can&#039;t just get angry.","2017-10-18 17:46:24",220988,67.70.145.138,1
+221057,7272,13253,10856,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Platino&nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Body is a silvery-grey color and is made entirely out of platinum mesh, hair is very fine platinum wires. Both&nbsp;show&nbsp;the malleability of the element. He also has a special watch that keeps track of the amount of hydrogen gas he absorbs (he can become explosive if too much hydrogen gas is absorbed).&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behavior&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Doesn&rsquo;t have many friends, tries to stay away from people to avoid being killed or being captured. People want to kill him in order to sell his body because platinum is very expensive. Also, the government wants to stop him from curing cancer patients so they can make more money. Even though the government knows who he is and what he does, he tries to remain unknown to citizens. Usually shows up to hospitals at night and cures cancer patients while they&#039;re asleep.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Superpower&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Platino&nbsp;can help people with cancer as platinum is often used in cancer treatments, has&nbsp;the ability to stretch out so get to places that are difficult to reach, and while stretched can protect people (like a shield) from fire or water as it has a high melting point and doesn&rsquo;t react with water or air. He must be careful though, because platinum can absorb a big amount of hydrogen gas, which could make him explosive.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chemistryexplained.com/elements/L-P/Platinum.html&quot;&gt;http://www.chemistryexplained.com/elements/L-P/Platinum.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3937549/&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3937549/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nature.berkeley.edu/classes/eps2/wisc/pt.html&quot;&gt;https://nature.berkeley.edu/classes/eps2/wisc/pt.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-18 17:55:36",0,198.168.48.222,1
+221169,7272,13253,10856,NULL,NULL,,"2017-10-18 23:03:02",221057,24.114.87.174,1
+221193,7272,13253,10247,NULL,NULL,,"2017-10-19 03:15:35",220946,70.80.29.159,1
+221206,7272,13253,10247,NULL,NULL,"&lt;p&gt;Cool design!!!&nbsp; Your superhero should definitely stay away from water, as when lithium is exposed to H2O, it creates lithium hydroxide. LiOH is soluble in water. Getting out of that situation would be difficult.&lt;/p&gt;
+","2017-10-19 04:18:50",220939,70.80.29.159,1
+221223,7272,13253,10261,NULL,NULL,"Appearance: Curiman is wearing a silver white(color of curium) armour and glows in the dark(curium)&lt;br /&gt;Behaviour : His body is highly radioactive that&#039;s why he wears an amour to avoid harm to other people. He cannot be touched because the radiation destroys the body of the person who touches him.&lt;br /&gt;Super power: His abilities are emitting radioactive wave and produce electricity( curium is a good conductor of electricity )","2017-10-19 05:42:42",0,24.201.250.135,1
+221227,7272,13253,10247,NULL,NULL,"&lt;p&gt;Your drawing is very nice! Tungsten is very resistant to acids, which might give him an edge over certain enemies. Seeing an interaction between the two substances would be pretty cool!&lt;/p&gt;
+","2017-10-19 05:56:27",220932,70.80.29.159,1
+221228,7272,13253,10177,NULL,NULL,"&lt;p&gt;Due to arsenic being a brittle, solid,&nbsp;very poisonous and toxic, Lucidum can break little pieces off of herself and put them into peoples drinks or put them into peoples mouths while they are sleeping.&lt;/p&gt;
+","2017-10-19 06:33:20",220949,70.82.7.206,1
+221235,7272,13253,10177,NULL,NULL,"&lt;p&gt;The drawing is amazing by the way! Due to you being very brittle and soft, you should beware of who you make enemies with because any element that is more dense and harder than yours will cause severe damage.&lt;/p&gt;
+","2017-10-19 07:39:04",220949,70.82.7.206,1
+221280,7272,13253,10267,NULL,NULL,"&lt;p&gt;Very cool drawing Samuel! I really like Iodite. Here&#039;s my peer feedback.&lt;/p&gt;
+
+&lt;p&gt;1. Iodine is corrosive poison therefore she should be able to melt through things&lt;/p&gt;
+
+&lt;p&gt;2. Iodine is a building material of thyroid hormones, one of the main functions of the thyroid&nbsp;is to produce hormones that help regulate the body&#039;s metabolism (the process that turns food into energy), therefore Iodite should be really strong and have lots of energy&nbsp;&lt;/p&gt;
+","2017-10-19 18:53:43",220904,198.168.48.222,1
+221290,7272,13253,10248,NULL,NULL,"&lt;p&gt;cool superhero ideas&lt;/p&gt;
+
+&lt;p&gt;1. Aluminum is an excellent conductor of heat and electricity so maybe make captain Al able to draw electricity from open outlets or sources of heat and manipulate them to his will.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-19 19:55:35",220935,70.30.240.81,1
+221291,7272,13253,10196,NULL,NULL,"&lt;p&gt;Very cool design and the idea of having a shield as his weapon of choice is fantastic since he protects other metals from corrosion. Did you know that zinc is a very common element in the earth&#039;s crust? Maybe you can give Zincanator a new power which allows him to ground pound the ground and create a earthquake-like effect that damages nearby foes; which relates to the amount of zinc found in earth&#039;s crust.&lt;/p&gt;
+","2017-10-19 19:57:47",220967,198.168.48.223,1
+221296,7272,13253,10196,NULL,NULL,"&lt;p&gt;Very cool character and I really like how his behavior on how people don&#039;t like speaking to him is caused by fluorine&#039;s pungent odor. Did you know that fluorine is toxic and even more toxic then lead? Maybe you could add a new super power to Fluorider where he is able to poison people with his toxicity which weakens his foes.&lt;/p&gt;
+","2017-10-19 20:07:30",220958,198.168.48.223,1
+221304,7272,13253,10248,NULL,NULL,"&lt;p&gt;2. also contact with pure aluminum can have harmful effects. people can suffer from loss of memory, damage to the central nervous system, etc. so maybe when his enemies come into contact with him he can let down his layer of aluminum oxide so when they touch him, they experience memory loss or damage to the central nervous system.&nbsp;&lt;/p&gt;
+","2017-10-19 20:33:48",220935,70.30.240.81,1
+221372,7272,13253,10190,NULL,NULL,"&lt;p&gt;Cool drawing and ideas!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;1. Since Tellurium has many isotopes, maybe another super power for Tellus would be to release clones that look like him but have the properties of his isotopes. This would confuse his enemy as he would not know which one is the actual hero and it would overwhelm him as he would not know who to attack. This would make Tellus&#039; enemy easy to defeat as he is in shock as a result of the many clones created by Tellus.&nbsp;&lt;/p&gt;
+","2017-10-19 23:07:43",220968,70.31.255.93,1
+221376,7272,13253,10190,NULL,NULL,"&lt;p&gt;2. Also, Tellurium when heated releases toxic fumes, so when he is exposed to the sun, his body can increase in temperature (heat up)&nbsp;and&nbsp;release these toxic fumes. When an enemy inhales these fumes, their power decreases over time as&nbsp;poisoning which will cause internal damage and possibly kill the enemy thus making it easy to defeat his foes.&lt;/p&gt;
+","2017-10-19 23:44:16",220968,70.31.255.93,1
+221417,7272,13253,10173,NULL,NULL,"&lt;p&gt;hey cute drawing! I didn&#039;t know about the chemiluminescence process so it was interesting to read. You could also talk about how red phosphorus is the pointy tip at the end of matches, which make them ignite And maybe add that it is very easy to annoy/make her mad since she is so easy to ignite.&nbsp;:)&nbsp;&lt;/p&gt;
+","2017-10-20 01:56:45",220992,108.63.182.30,1
+221419,7272,13253,10173,NULL,NULL,"&lt;p&gt;loving the abs on your character haha. You could add a little fun fact about titanium being one of the first elements to be discovered by modern chemists. And another one of her superpowers could be that she is immune to attacks coming from acids and chlorine, making it harder to beat her. good job:)&nbsp;&lt;/p&gt;
+","2017-10-20 02:00:15",220704,108.63.182.30,1
+221476,7272,13253,10255,NULL,NULL,"&lt;p&gt;4) Adding a super power ability: I really like the idea that Krazy Flamer&nbsp;is able to create a lilac flame from the water in her bracelets, it is very clever and very dangerous at the same time!&nbsp;I have an idea of a super ability that you might want to consider; the floating ability. Because potassium (0.862&nbsp;g/cm3) has a smaller density than water (1g/cm3), your super villain can have the ability to float on water when wearing her suit. Consequently, if it occurs that she is attacked and ends up in water, she would not drown. Hope it helped, and good luck!&lt;/p&gt;
+","2017-10-20 05:14:22",220936,65.97.36.134,1
+221482,7272,13253,10255,NULL,NULL,"&lt;p&gt;4) Adding a behaviour property: I love the whole idea! Yan is a sick name, and its ability to send oxygen wherever it is needed is so smart; it really makes a great super hero. I have an idea that you might like for one of its behaviour. As we know, photosynthesis is a process used by plants which releases oxygen. Consequently, you might want to add to Yang&#039;s behaviour that he is super environmental friendly; he respects all the nature around him and planet earth itself. Plants are his friends if you want. Also, if you want an idea for his enemy&nbsp;for the story you will write, consider one that cuts of trees or destroys forest! Good luck with the rest of your project!&lt;/p&gt;
+","2017-10-20 05:40:48",220995,65.97.36.134,1
+221730,7272,13253,10194,NULL,NULL,"&lt;p&gt;I love, love, LOVE what you did with &quot;Mad Merc&quot;! His powers are really unique while&nbsp;fitting&nbsp;the element perfectly. Your element is used in thermometers,&nbsp;so I was thinking as an extra super power the &quot;Mad Merc&quot; could tell the temperature and&nbsp;sense if enemies were near. I also loved&nbsp;your idea about naming your super villain &quot;Merc the Jerk&quot;! ;)&lt;/p&gt;
+","2017-10-21 18:56:22",220957,24.226.233.203,1
+221731,7272,13253,10194,NULL,NULL,"&lt;p&gt;I like&nbsp;how your hero is a vegan, by the way!&nbsp;I was thinking as an added power or gadget, he could shoot neon lights with either a gun (like batman) or through his&nbsp;hands.&nbsp;&lt;/p&gt;
+","2017-10-21 19:01:33",221046,24.226.233.203,1
+221747,7272,13253,10193,NULL,NULL,"&lt;p&gt;Gold is also a good conductor of heat and electricity!&lt;/p&gt;
+","2017-10-21 23:24:23",220956,70.53.247.24,1
+221749,7272,13253,10193,NULL,NULL,"&lt;p&gt;Copper is also very ductile and melleable, so your character could stretch and take any form she desires! Your superhero&#039;s physical description is is well thought-out!&lt;/p&gt;
+","2017-10-21 23:27:37",221000,70.53.247.24,1
+221788,7272,13253,10180,NULL,NULL,"&lt;p&gt;Love the drawing. You could say that Strontium (in high&nbsp;quantity) can be a&nbsp;danger to the&nbsp;health &nbsp;of children because it&nbsp;can disrupt bone development. Also, that your character, Skeletium&nbsp;could react with Chromium and&nbsp;become&nbsp;Strontium Chromate and be super toxic to humans since he has a vendetta against them. Strontium Chromate can cause vomiting, nausea, abdominal pain, coughing, soar throat, redness on skin and many other effects. The most dangerous one is&nbsp;lung cancer.&lt;/p&gt;
+","2017-10-22 06:47:42",220946,216.239.91.102,1
+221793,7272,13253,10180,NULL,NULL,"&lt;p&gt;Cute drawing. You can also say that Vanadium is very malleable and ductile, hence he could manipulate his physical features&nbsp;to disguise himself (to some extent) and/ or have elastic&nbsp;powers.&lt;/p&gt;
+","2017-10-22 07:13:50",220929,216.239.91.102,1
+221811,7272,13253,10257,NULL,NULL,"&lt;p&gt;I really like the description of your character. You&#039;re ideas are great. Although you have described her as stubborn, maybe you should consider her having a soft spot which is potentially bad when fighting crime. She would have a soft spot because Barium is a soft, silky white metal. Because barium was one a getter for vacuum tubes, maybe it can be a cool idea to say that when her opponents looked her directly in the eye, she would suck the soul right out of her villains, turning them into stone. Maybe this superhero has a sidekick Chalcogens, and when they work together they are unstoppable because of how energy they become. I&#039;m saying this because when Barium and chalcogens combine together they are exothermic, meaning that they release great amounts of energy,&lt;/p&gt;
+","2017-10-22 18:47:26",220971,70.55.168.14,1
+221815,7272,13253,10352,NULL,NULL,"&lt;p&gt;I really like the fact that the Hydrogen can be used to sneakily due to the fact that it is colourless, odourless and tasteless. You should try making a tag team with the character Sulshot by Mark A because when put together, Sulfur and Hydrogen can create Hydrogen sulfide. Hydrogen sulfide is a colourless gas that is highly poisonous, flammable and has a smell that resembles rotten eggs.&nbsp;&lt;/p&gt;
+","2017-10-22 19:12:41",220954,174.93.150.185,1
+221818,7272,13253,10352,NULL,NULL,"&lt;p&gt;I like the concept of your character a lot. It might be interesting to add that Radium is radioactive and when it enters the body, it cannot all be excreting therefore&nbsp;it enters the bloodstream which can be very dangerous. Exposure to this element can be detrimental due to the alpha and gamma rays which are emitted during decay,&nbsp;can kill or cause a mutation of cells.&nbsp;&lt;/p&gt;
+","2017-10-22 19:36:07",220970,174.93.150.185,1
+221826,7272,13253,10355,NULL,NULL,"&lt;p&gt;you did a great job with your superhero, loving the drawing! What&#039;s interesting about copper is that if your character could somehow incorporate having some nitric acid, it can react with the copper to create a reddish-brown cloud of nitrogen dioxide which can be harmful to your enemies when it gets into their system.&lt;/p&gt;
+","2017-10-22 19:48:06",221000,174.93.150.185,1
+221829,7272,13253,10258,NULL,NULL,"&lt;p&gt;Nice drawing! Iron reacts with oxygen in moist air to create iron oxide, i.e. rust. This can be your hero&rsquo;s weakness, hence the need for her super suit to have the ability to envelope her body and protect her from oxygen. This may also explain why she stays away from people, for fear that if exposed, her skin will begin to rust.&nbsp;&nbsp;&lt;/p&gt;
+","2017-10-22 19:49:22",220994,74.58.30.117,1
+221837,7272,13253,10355,NULL,NULL,"&lt;p&gt;The concept of your character is very interesting! As a form of protection, you can use the fact that Vanadium is largely used in the production of steel which is extremely tough and can help you when facing your nemesis.&nbsp;&lt;/p&gt;
+","2017-10-22 19:58:02",220929,174.93.150.185,1
+221844,7272,13253,10258,NULL,NULL,"&lt;p&gt;When exposed to oxygen, Rubidium catches fire. To avoid this, it is stored in kerosene. Perhaps Galactic Ruby should be forced to bath in kerosene &nbsp;every night before she can go out and seduce her victims in order to maintain her good looks and not catch fire thus ruining&nbsp;her plans too quickly.&lt;/p&gt;
+","2017-10-22 20:05:59",220988,74.58.30.117,1
+221916,7272,13253,10232,NULL,NULL,"&lt;p&gt;Awesome drawing! I find it funny that his good lucks shine, inspired by the shininess of the metal silver. Did you know that silver is an extremely reflective metal? An idea for a superpower could be that he could blind his opponents by reflecting light into their eyes.&nbsp;&lt;/p&gt;
+","2017-10-23 00:07:12",220993,184.161.229.157,1
+221924,7272,13253,10232,NULL,NULL,"&lt;p&gt;Nice drawing! I think it was really smart to draw the character through a magnifying glass because it emphasizes how small she is. Hydrogen also has a very low density. In fact, hydrogen is less dense than air, so a cool superpower she can have is the ability to fly. This would be very convenient as since she&#039;s small, she can fly up to high and hard to reach places.&nbsp;&lt;/p&gt;
+","2017-10-23 00:26:33",220954,184.161.229.157,1
+221948,7272,13253,10199,NULL,NULL,"&lt;p&gt;Amazing drawing! BUT I see that your superhero is in flames maybe reaching sulfur&#039;s melting point (~100 degrees) if that is the case, Sulshot&nbsp;MUST AVOID Ferrumina (The Iron Superhero), because it will make an extremely exothermic reaction, basically both of you guys being killed in contact. This is a weakness that I highly suggest considering.&nbsp;&lt;/p&gt;
+","2017-10-23 01:36:19",220990,132.205.229.12,1
+221960,7272,13253,10253,NULL,NULL,"&lt;p&gt;Phosphorus&nbsp;compounds are often used in fertilizer, so Phosphorella could have a green thumb! Although your character cannot interact with humans, she can still help them by helping to grow food.&lt;/p&gt;
+","2017-10-23 02:11:07",220992,24.157.247.101,1
+221973,7272,13253,10253,NULL,NULL,"&lt;p&gt;Lithium is also corrosive! Lithman could use this to his advantage and hurt his enemies by corroding their skin.&lt;/p&gt;
+","2017-10-23 02:47:33",220939,24.157.247.101,1
+221975,7272,13253,10199,NULL,NULL,"&lt;p&gt;Wow! cool superhero! But did you know that a deadly weakness of Ferrumina could be heated sulfur, just like the superhero named&nbsp;Sulshot.&nbsp;If ever you guys&nbsp;made contact, it would have produced an explosive ending to your life (SULFUR in liquid+IRON in solid=Exothermic reaction). Therefore,&nbsp;I advise you to stay from him.&lt;/p&gt;
+","2017-10-23 02:51:32",220994,132.205.229.12,1
+221978,7272,13253,10235,NULL,NULL,"&lt;p&gt;I love Carbono&#039;s dreadlocks. He looks dope. Carbon monoxide (CO) is an odourless gas that is produced from&nbsp;the burning of fossil fuels. Your hero can benefit from this if he can somehow incorporate this gas in his suit. With a click of a button, he can kill his enemies since it&nbsp;is deadly. His mask should be made out of graphene which is&nbsp;an allotrophe of carbon. It&nbsp;is the thinnest and&nbsp;strongest material ever known.&lt;/p&gt;
+","2017-10-23 03:10:49",220964,64.231.238.251,1
+221982,7272,13253,10199,NULL,NULL,"&lt;p&gt;Also, you can say that your superhero works alone, due to his offensive odor. In addition, you can produce blue flames (it gives a cooler look) if you have pure oxygen in the&nbsp;suit.&lt;/p&gt;
+","2017-10-23 03:37:31",220990,132.205.229.12,1
+221983,7272,13253,10178,NULL,NULL,"&lt;p&gt;I like the backstory you created for your character. Bismuth can be fatal in large doses if absorbed by the body. The amount consumed by the body can affect whether it simply causes irritation or if it kills the consumer. One of your character&#039;s powers could be using Bismuth to either eliminate, or incapacitate their enemies since you mentioned your character can&#039;t physically fight on her own.&lt;/p&gt;
+","2017-10-23 03:44:03",220998,174.93.135.251,1
+221992,7272,13253,10178,NULL,NULL,"&lt;p&gt;I love how you linked Chlorine&#039;s disinfecting qualities to her behavior and appearance. Chlorine is usually found in either the liquid or gas form and can dissolve in water. One of your character&#039;s powers could be that she has the abilities to easily undergo a phase change and use either a water way, or the air, to quickly travel around and reach her destination faster.&lt;/p&gt;
+","2017-10-23 04:03:39",220987,174.93.135.251,1
+222007,7272,13253,10176,NULL,NULL,"&lt;p&gt;Really interesting that your superhero helps with cancer treatment. Platinum also very resistant to corrosion so the shield aspect is very relatable. With that being said, your superhero should have an armor that would protect him from all sorts of danger.&nbsp;&lt;/p&gt;
+","2017-10-23 04:29:18",221057,65.38.77.35,1
+222008,7272,13253,10181,NULL,NULL,"&lt;p&gt;Lithium is also the lightest solid metal so maybe your Lithman could be super light allowing him to sneak up on people and not make noise when he walks.&lt;/p&gt;
+","2017-10-23 04:30:00",220939,66.130.241.171,1
+222009,7272,13253,10176,NULL,NULL,"&lt;p&gt;Really interesting superhero. Did you know that lead reacts to strong temperature changes, for example, powder is formed in heat and in cold. It turns orange when hot and yellow when cold. You could add a power depending on the temperature when it&#039;s cold or hot.&nbsp;&nbsp;&lt;/p&gt;
+","2017-10-23 04:34:01",220983,65.38.77.35,1
+222010,7272,13253,10181,NULL,NULL,"&lt;p&gt;Lead tarnishes when exposed to air so maybe she could have a suit to protect her.&lt;/p&gt;
+","2017-10-23 04:35:05",220983,66.130.241.171,1
+222015,7272,13253,10261,NULL,NULL,"&lt;p&gt;This illustration is amazing! It reminds me of Sakura&#039;s hair in &quot;Naruto&quot;.. So cool! The appearance is well constructed&lt;strong&gt;&nbsp;&lt;/strong&gt;and it is&nbsp;base with the element&#039;s characteristic.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Suggestion:&nbsp;cesium also reacts violently with sulfur, phosphorous, acids, and halogens (fluorine, chlorine, bromine, iodine and astatine). So it would be nice if she will have an enemy who posses one those element&lt;/p&gt;
+","2017-10-23 04:52:41",220984,24.201.250.135,1
+222019,7272,13253,10269,NULL,NULL,"&lt;p&gt;Really cool drawing and I love the idea of his super power!! For later on, it&#039;s interesting to note that silver can be slowly corroded over time by sulfur compounds in the air and it can turn silver darker and not as shiny&lt;/p&gt;
+","2017-10-23 05:09:42",220993,70.82.35.47,1
+222022,7272,13253,10280,NULL,NULL,"Gold could also be black, ruby or purple colour when finelly cut.","2017-10-23 05:15:50",220956,70.55.169.4,1
+222024,7272,13253,10269,NULL,NULL,"&lt;p&gt;I really like your drawing and how indepth Brominella&#039;s description is. Bromine also dissolves really well in organic liquids and a little bit in water, so maybe another part of her personality could be that she blends in really well in a crowd!&lt;/p&gt;
+","2017-10-23 05:17:36",220921,70.82.35.47,1
+222028,7272,13253,10280,NULL,NULL,"When calcium is in contact with air it causes a oxide and nitrite coating, which protects from corrosion. That could be an other property or superpower.","2017-10-23 05:28:09",220951,70.55.169.4,1
+222029,7272,13253,10281,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Calcium could have an enemy named Phosea ( Phosphorus). Due to the fact that when they are both combined together, they create calcium phosphide, which is extremely toxic to aquatic creatures. Plus,&nbsp;you could make his eyes silvery-white just like calcium metal.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;https://www.lenntech.com/periodic/elements/ca.htm&lt;/strong&gt;&lt;/p&gt;
+","2017-10-23 05:30:14",220951,174.92.213.89,1
+222044,7272,13253,10261,NULL,NULL,"&lt;p&gt;The character is impressive because it is holistically connected to the element itself. You&#039;ve research it very well which is great! I like the fact that you put a belt at her and&nbsp;make her less vulnerable to her opponent, also&nbsp;she would probably portray a feisty super villain!&nbsp;&nbsp;&lt;/p&gt;
+","2017-10-23 06:23:04",220936,24.201.250.135,1
+222046,7272,13253,10202,NULL,NULL,"&lt;p&gt;Very cool idea! tungsten has the highest melting point in some elements, so if he comes across some elements that can melt it would be very cool to see that!&lt;/p&gt;
+","2017-10-23 06:26:58",220932,174.94.119.187,1
+222056,7272,13253,10856,NULL,NULL,"&lt;p&gt;Must agree with that &quot;glasses also make him look sick&quot; statement! When small particles of Plutonium are inhaled, they might remain in the lungs or in the organs which can expose body tissues to radiaton and cause cancer. Maybe Pluto could exhale a large&nbsp;amount of those small particles around his enemies to make them extremely sick (causing their death). Plutonium also releases a lot of heat and is often used in spacecrafts as an energy source. Pluto could use his heat to power his own spacecraft, and use it to travel from Pluto to Earth.&nbsp;&lt;/p&gt;
+","2017-10-23 06:47:53",220943,24.200.183.33,1
+222067,7272,13253,10197,NULL,NULL,"&lt;p&gt;Great idea! An interesting power could be that he has a double/copy of himself as oxygen is a diatomic element. Also he could have the ability to clone himself due to the presence of&nbsp; 0, 02 and 03.&lt;/p&gt;
+","2017-10-23 07:04:25",220995,70.24.200.98,1
+222070,7272,13253,10197,NULL,NULL,"&lt;p&gt;Cool idea! Tungsten is used for various cutting and drilling tool, so an interesting power could be that your hero could create blades or sharpen his limbs into something blade-like. Also, the drilling component could be used as a possible story component.&lt;/p&gt;
+","2017-10-23 07:10:08",220932,70.24.200.98,1
+222085,7272,13253,10542,NULL,NULL,"&lt;p&gt;I like the details on your drawing and his suit. Since mercury is a great&nbsp;conductor of&nbsp;electricity, Maybe having a pack that can help him have superpowers with electricity and use it as a weapon.&nbsp;&nbsp;&lt;/p&gt;
+","2017-10-23 08:06:56",220957,67.68.133.15,1
+222092,7272,13253,10268,NULL,NULL,"&lt;p&gt;Rad drawing, Abdul !!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;I like how Carbono can transform himself into different allotropes of his element. Diamond state Carbono sounds really cool. Did you know there is an allotrope of carbon called &quot;chaoite&quot;, also known as &quot;white carbon&quot;. Although its existence is a subject of debate, it could be an interesting aspect to incorporate into your superhero. Perhaps Carbono can have a &quot;white carbon&quot; form, changing the colour of his suit into white/grey and solidifying his armour (only slightly).&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Additionally, as carbon is an essential element in maintaining life on Earth (the carbon cycle), your superhero can play an even bigger role than simply beating up baddies. If he can control the amount carbon in-between exchanges in our&nbsp;biosphere, he can have a lot of potential in terms of power.&nbsp;&lt;/p&gt;
+","2017-10-23 09:13:12",220964,192.214.243.81,1
+222096,7272,13253,10876,NULL,NULL,"&lt;p&gt;Your drawing is quite impressive Dante, another property your character could have, can be to generate high levels of energy which can lead to Pluto having powers to create and control electricity, according to &quot;chemistry learner.com&quot;, almost around 10 million kilowatt-hours of electricity is produced by one kilogram of Pu-239.&lt;/p&gt;
+","2017-10-23 13:47:20",220943,142.118.98.153,1
+222097,7272,13253,10876,NULL,NULL,"&lt;p&gt;Also, when probably very angry, Pluto could have the ability to generate nuclear power. Pluto could, in the very toughest of situations, create a fission reaction, by having the nuclei of certain heavy atoms split into smaller, lighter nuclei, releasing high levels of energy. However, it is important to mention that he should not use this power often, as this power might create chaos.&lt;/p&gt;
+","2017-10-23 14:05:46",220943,142.118.98.153,1
+222115,7272,13253,10259,NULL,NULL,"Idea for power : ability to control animals, because very high doses of cesium increase or decrease the their their activity. ","2017-10-23 16:28:42",220984,184.151.127.181,1
+222118,7272,13253,10259,NULL,NULL,"Nice character concept! &lt;br /&gt;Super power idea : Your character could communicate and control deep-sea creatures which have shells, because they incorporate strontium inside of their of them. The strontium inside then would allow your character to control those creatures.","2017-10-23 16:38:40",220946,184.151.127.181,1
+222119,7272,13253,10179,NULL,NULL,"Since Cesium have a melting point very low to room temperature maybe when she removes her glove her hand can form the blade :) ","2017-10-23 16:49:43",220984,24.114.105.33,1
+222120,7272,13253,10254,NULL,NULL,"&lt;p&gt;Franny&#039;s 87 symbol is radioactive, so I would suggest that perhaps, since Francium has the ability to be laser-trapped, Franny&#039;s suit can have lasers in it that do this. Now that she can choose when her symbol emits light, she should be able to choose when her symbol emits its radioactivity. For instance, when her symbol lights up it emits radioactivity, and when it goes dark it emits nothing. kind of resembling the bat signal but with a radioactive flare to it. Or maybe when she goes invisible then she stops emitting radioactive rays and that&#039;s why she&#039;s always alone because the only time she can be around her friends is when she&#039;s invisible. Sounds depressing but wtv.&nbsp;&lt;/p&gt;
+","2017-10-23 16:52:33",220965,198.168.48.210,1
+222121,7272,13253,10179,NULL,NULL,"Since copper is essential to human and animals maybe she can control them somehow using conductivity, also copper could be toxic so she can maybe poison her victims as well. ","2017-10-23 16:57:39",221000,24.114.105.33,1
+222141,7272,13253,10235,NULL,NULL,"&lt;p&gt;Brominella has pretty awesome super power abilities! Bromine is somewhat transparent. This can be another one of your character&#039;s ability. Since she can shift to the gas state of bromine, she&#039;ll practically be invisible to her enemies and it&#039;ll be harder for them to attack her.&nbsp;&lt;/p&gt;
+","2017-10-23 17:26:28",220921,198.168.48.222,1
+222184,7272,13253,10182,NULL,NULL,"&lt;p&gt;Very cool! If you want you can add that they have control of when the radioactivity is there so that they are stronger. This could also mean that the suit only changes color when it is needed.&lt;/p&gt;
+","2017-10-23 18:57:31",220970,198.168.48.222,1
+222185,7272,13253,10182,NULL,NULL,"&lt;p&gt;Very cool! Maybe the dots on the suit could have some sort of purpose instead of being decorative. Maybe a source of zinc or where the shield comes from!&lt;/p&gt;
+","2017-10-23 18:59:53",220967,198.168.48.222,1
+222376,7272,13253,10177,NULL,NULL,"&lt;p&gt;&lt;u&gt;&lt;strong&gt;3 different chemical reactions involving that atom:&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Due to Titana&nbsp;being made out of titanium, she undergoes reactions with air, water, and halogens.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;When titanium reacts with air:&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Titanium has an oxidized layer around it preventing it from random combustion, yet when it begins to burn, it burns bright and creates titanium dioxide and titanium nitride.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;When titanium reacts with water:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Same as with burning, the layer of oxide on titanium prevents it from reacting with water. Yet titanium can react with steam to form titanium oxide and hydrogen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;When titanium reacts with&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When titanium and the halogens are heated to around 200C, reactions can occur and titanium halides are created from these reactions.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Titanium is generally a non-reactive metal, it&#039;s corrosion resistant from acids, water, and most corrosive substances. Any reactions or corrosion that occur need to be produced under specific circumstances&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/titanium/chemistry.html&lt;/p&gt;
+","2017-10-24 04:41:26",0,70.82.7.206,1
+222381,7272,13253,10256,NULL,NULL,"&lt;p&gt;Great Idea! A suggestion: with superheroes becoming more and more dark and gritty with each movie that comes out, if you&nbsp;wanted to do the same thing, I have an odd/creepy superpower for you. As oxygen is one of the primary components of air, he could have himself be breathed in by an enemy, and perhaps control them through their blood(which also contains oxygen).&nbsp;&lt;/p&gt;
+","2017-10-24 05:09:05",220995,67.68.29.184,1
+222382,7272,13253,10256,NULL,NULL,"&lt;p&gt;Since Lead is very malleable, maybe she could be super flexible. This could help dodge attacks, like Neo from the Matrix.&lt;/p&gt;
+","2017-10-24 05:20:10",220983,67.68.29.184,1
+222602,7272,13253,10257,NULL,NULL,"&lt;p&gt;&lt;u&gt;Chemical Reaction with Water&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;When solid lithium reacts with water, it forms lithium hydroxide and hydrogen gas, which makes the product solution basic (pH&amp;gt;7) because of the hydroxide group.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Chemical Reaction with Air&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;When solid lithium comes in contact with air, oxygen gas tarnishes the lithium. For example, if one were to cut lithium metal with a knife, the interior would soon lose luster because of the contact with oxygen.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Chemical Reaction with Halogens&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Lithium metal, which is an alkali metal reacts with halogens in their diatomic form. They then combine to form one product.&nbsp;Ex: 2Li + Cl2 &mdash;&amp;gt; 2LiCl&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-24 19:06:29",0,198.168.48.222,1
+222603,7272,13253,10257,NULL,NULL,"&lt;p&gt;Work Cited:&nbsp;https://www.webelements.com/lithium/chemistry.html&lt;/p&gt;
+","2017-10-24 19:07:12",222602,198.168.48.222,1
+222623,7272,13253,10193,NULL,NULL,"&lt;p&gt;Chemical reactions with Bismuth:&lt;/p&gt;
+
+&lt;p&gt;1. When exposed to oxygen, Bismuth turns iridescent.&lt;/p&gt;
+
+&lt;p&gt;2. When in presence of hydrochloric acid and oxygen, bismuth(III) chloride is formed.&lt;/p&gt;
+
+&lt;p&gt;3. At a temperature between 500 and 1000 degrees Celsius, Bismuth reacts with&nbsp;water to form&nbsp;trioxide bismuth(III) oxide.&lt;/p&gt;
+
+&lt;p&gt;Source:&nbsp;https://www.webelements.com/bismuth/chemistry.html&lt;/p&gt;
+","2017-10-24 20:45:37",0,198.168.48.212,1
+222654,7272,13253,10199,NULL,NULL,"&lt;p&gt;&lt;u&gt;&lt;strong&gt;3 different chemical reactions involving that atom:&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;My Superhero Carbono is made out of Carbon.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;The reaction of Carbon with air&lt;/u&gt;&nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Carbon, as graphite, burns to form gaseous carbon (IV) oxide (carbon dioxide), CO2. Diamond is a form of carbon and also burns in air when heated to 600-800&deg;C.
+	&lt;ul&gt;&lt;li&gt;C(s) + O2(g) &rarr; CO2(g)&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;u&gt;The reaction of Carbon with halogens&lt;/u&gt;&nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Carbon, as graphite,&nbsp;reacts with the oxidizing acid hot concentrated nitric acid to form mellitic acid.
+	&lt;ul&gt;&lt;li&gt;C6(CO2H)6&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;u&gt;The reaction of Carbon with water&lt;/u&gt;&nbsp;:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Carbon, either as graphite or diamond does not react with water under normal conditions.&nbsp;At high temperatures, when water is blown through hot coke, carbon will react with water, forming a mixture of hydrogen&nbsp;(H2, 50%), carbon monoxide (CO, 40%), carbon dioxide (CO2, 5%), nitrogen and methane (N2&nbsp;+ CH4, 5%).
+	&lt;ul&gt;&lt;li&gt;C + H2O &rarr; CO + H2&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;SOURCE:&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/carbon/chemistry.html&lt;/p&gt;
+","2017-10-24 21:23:02",0,198.168.48.223,1
+222658,7272,13253,6643,NULL,NULL,"&lt;p&gt;Interesting character.&lt;br /&gt;
+Be careful not to go into generalization about metals (in other words, don&#039;t stick with properties that are common to every metal, but focus on the uniqueness of Titanium).&lt;/p&gt;
+
+&lt;p&gt;1) Hair. Do you mean sharp filament, similar to &quot;the Predator&quot; hair? Be a bit more precise in the description of her hair.&lt;/p&gt;
+
+&lt;p&gt;2) Titanium dust is flammable. However, I think you still need an ignition source such as fire to start a flame. Double check that. It would mean she needs a lighter with her.&lt;/p&gt;
+
+&lt;p&gt;3) At what temperature does her plate become ductile?&lt;/p&gt;
+
+&lt;p&gt;4) Flammability is not a &quot;special&quot; characteristic of Titanium. Did you look at the multiple uses of Titanium? Titanium is one of the rare metal to NOT be rejected by the human body. Implants made out of Titanium are common. Look into that as well, please.&lt;/p&gt;
+","2017-10-24 21:26:26",220704,198.168.48.36,1
+222672,7272,13253,6643,NULL,NULL,"&lt;p&gt;Good appearance and Super powers. The suggestion of &quot;acid resistance&quot; and &quot;drilling&quot; are also inspiring ideas worth digging into.&lt;/p&gt;
+
+&lt;p&gt;In terms of behavior, don&#039;t base it on the appearance of his costume being depressing. Search a bit more. For example, It is super dense...&lt;br /&gt;
+Here are other info:&lt;/p&gt;
+
+&lt;p&gt;The military uses tungsten to make bullets and missiles used in &ldquo;kinetic bombardment.&rdquo; This type of attack uses a super dense material to breach armor instead of explosives.&lt;/p&gt;
+
+&lt;p&gt;This element is used for trickery. &ldquo;Tungsten may not have gold&rsquo;s luster, but it does have its density (within 0.36 percent) which means that if you cover a brick of tungsten with a coating of gold &ndash; and you test the brick to see if it weighs as much as gold &ndash; it will be almost correct.&lt;/p&gt;
+
+&lt;p&gt;Remember: Its strength comes when it is made into compounds, though. Pure tungsten is very soft.&lt;/p&gt;
+","2017-10-24 21:36:54",220932,198.168.48.36,1
+222692,7272,13253,6643,NULL,NULL,"&lt;p&gt;Fruitful comments from your peers.&lt;/p&gt;
+
+&lt;p&gt;Make sure you don&#039;t confuse &quot;conducting electricity&quot; with &quot;controlling electricity&quot;. Your hero can conduct electricity from one hand to the other, for example, but not from miles away.&lt;/p&gt;
+
+&lt;p&gt;Look into lithium biological activity (or the Nirvana song of the same name). Lithium carbonate is a common treatment of bipolar disorder, helping to stabilize the wild mood swings caused by the illness.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Lithium floats on water, however, it will burn with intense red light.&lt;/p&gt;
+","2017-10-24 21:45:25",220939,198.168.48.36,1
+222731,7272,13253,10255,NULL,NULL,"&lt;p&gt;3 different chemical reactions involving that atom&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nitrogen Triiodide:&lt;/strong&gt; When 3 atoms of iodine react with 1 atom of nitrogen, it creates nitrogen triiodide. Nitrogen triiodide is a form of explosive that is very sensitive, it can be detonated by the snap of a finger or the vibration of a footstep. The reaction between iodine and nitrogen is as follow: I + N = NI(small 3).&nbsp;To find nitrogen, Iodite will simply take any of her home cleaning furniture as they contain ammonia in it (ammonia contains a lot of nitrogen). Iodite will then be able to create bombs from nitrogen triiodide and attack her enemies with them from a long distance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Potassium Iodide:&lt;/strong&gt; When 1 atom of iodine reacts with 1 atom of potassium, it creates potassium iodide. Potassium iodide is a medication used to protect the immune system from radiation exposure. In a large quantity, potassium iodine is very dangerous, it can lead to allergic reactions, vomiting, diarrhea, rashes, and swelling of specific glands in the body. The reaction between iodine and potassium is as follow: I + K = KI.&nbsp;Because potassium is so reactive, it is not present free in nature, Iodite will need to find minerals such as sylvite (KCl) in lakes (sylvite contain a lot of potassium). Once she does, she will be able to infect her enemies to slow them down or even kill them if they are given a lethal doze.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Iodine Pentafluoride:&lt;/strong&gt; When 1 atom of iodine reacts with 5 atoms of fluorine, it creates iodine pentafluoride. Iodine pentafluoride is a yellow liquid, that reacts with water to make hydrofluoric acid (HF); a very dangerous acid that can kill you when in contact with your skin. The reaction between iodine and fluorine is as follow: I + F = IF(small 5).&nbsp;Fluorine is found in rocket fuel, which will be hard to find for Iodite. Consequently, she will use fluorine from refrigeration fluids such as Freon as her source; These are fluids used by refrigerator to cool down, which have a lot of fluorine. Iodite will be able to form iodine pentafluoride, put it in water, and form hydrofluoric acid to attack her enemies from a close distance&lt;/p&gt;
+","2017-10-24 23:36:04",0,65.97.36.134,1
+222775,7272,13253,10190,NULL,NULL,"&lt;p&gt;Chemical Reactions involving Aluminum:&lt;/p&gt;
+
+&lt;p&gt;1. &lt;strong&gt;The Reaction of Aluminum with Hydrochloric Acid:&lt;/strong&gt;&nbsp;Captain Al will react with diluted hydrochloric acid. If he drinks water that contains hydrochloric acid in it, hydrogen gas will be produced inside his stomach. This causes him to start burping so that he can get the Hydrogen gas released from his body. As a result, he will turn his attention toward releasing the hydrogen gas from his body so he will be easy to attack. This reaction can destroy his protective oxide layer which is why he is focused on releasing this gas from his body. The chemical formula for this reaction is as follows: 2Al(solid) + 6HCl(aqueous) ----&amp;gt; 2AlCl3(aqueous)&nbsp;+ 3H2 (gas).&lt;/p&gt;
+
+&lt;p&gt;2. &lt;strong&gt;The Reaction of Aluminum with Water:&lt;/strong&gt;Aluminum reacts with water. When his protective oxide layer is damaged, he is exposed to attacks including water thus he will react with water. This reaction will decrease Captain Al&#039;s strength until another oxide layer is regenerated. His strength decreases because when aluminum reacts with water, it lowers the strength of the metal.&lt;/p&gt;
+
+&lt;p&gt;3. T&lt;strong&gt;he Reaction of Aluminum with Oxygen:&lt;/strong&gt;&nbsp;When Captain Al lowers his oxide layer in order to manipulate electricity or when his oxide layer is damaged, he will react with oxygen. This reaction will cause him to begin the corrosion process. As a result, his movements will slow down as well as his attacks thus his strikes will be ineffective as the enemy can block his attacks since they are slow.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;4. &lt;strong&gt;The reaction of Aluminum and Iodine:&lt;/strong&gt;&nbsp;Captain Al likes to carry aluminum powder with him in case of an emergency. This powdered Aluminum will react with Iodine. When he the powder comes into contact with iodine, he will add water to catalyse this reaction. As a result, this reaction produces a cloud of purple vapour/smoke thus allowing him to escape.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 02:00:13",0,67.68.206.102,1
+222776,7272,13253,10190,NULL,NULL,"&lt;p&gt;Sources:&nbsp;&lt;/p&gt;
+
+&lt;p&gt;https://socratic.org/questions/what-happens-when-aluminium-metal-reacts-with-dilute-hydrochloric-acid&lt;/p&gt;
+
+&lt;p&gt;https://pilgaardelements.com/Aluminum/Reactions.htm&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/aluminium/chemistry.html&lt;/p&gt;
+
+&lt;p&gt;http://science.jrank.org/pages/269/Aluminum-Chemistry-compounds.html&lt;/p&gt;
+
+&lt;p&gt;http://www.corrosionpro.com/blog/the-oxidation-of-aluminum/&lt;/p&gt;
+
+&lt;p&gt;http://www.sserc.org.uk/chemistry-resources/chemistry-demonstrations/3705-aluminium-iodine-reaction&lt;/p&gt;
+","2017-10-25 02:02:33",222775,67.68.206.102,1
+222784,7272,13253,10180,NULL,NULL,"&lt;p&gt;5- Reactivity &ndash; Phosphorella&lt;/p&gt;
+
+&lt;p&gt;1.Red Phosphorus and Bromine react to form phosphorus (III) tribromide (PBr3) Once in contact with Bromine, Phosphorus ignites and starts a burning intensively. In the story, Phosphorella and Brominella react together and sacrifice themselves in order to save the world.&lt;/p&gt;
+
+&lt;p&gt;2.White Phosphorus reacts with Oxygen (O2) to form phosphorus pentoxide (P2O5). The second these two elements come in contact, they catch on fire automatically. Hence, white phosphorous is usually stored in water. Phosphorella lives in water due to this. She uses this chemical reaction to her advantage to burn the villains in the story.&lt;/p&gt;
+
+&lt;p&gt;3.Phosphorus reacts with Chlorine to form phosphorus trichloride (PCl3). When inhaled, this liquid is very toxic to people. It can cause severe burns to skin and eyes. It can be lethal. In this story, defends herself and fights the villains by reacting with Chlorine.&lt;/p&gt;
+","2017-10-25 02:43:05",0,216.239.91.102,1
+222785,7272,13253,10180,NULL,NULL,"&lt;p&gt;*****All the numbers are small numbers&lt;/p&gt;
+","2017-10-25 02:43:52",222784,216.239.91.102,1
+222792,7272,13253,10280,NULL,NULL,"&lt;p&gt;&nbsp;3 chemical reactions:&lt;/p&gt;
+
+&lt;p&gt;Lead does not react with oxygen in the air, it does not burn and lead metallic surface is protected by a thin layer of lead oxide which does not react with water under regular condition.&lt;/p&gt;
+
+&lt;p&gt;When reacting with an halogens :&lt;/p&gt;
+
+&lt;p&gt;lead reacts vigorously with fluorine (F2) at room temperature and chlorine (Cl2) which form a poisonous dihalide lead(II) fluoride Pb(s) + F2(g) --&amp;gt; PbF2(s)&nbsp; and lead(II) chloride Pb(s) + Cl2(g) --&amp;gt; PbCl2(s).&lt;/p&gt;
+
+&lt;p&gt;when reacting with an acid:&lt;/p&gt;
+
+&lt;p&gt;Lead slowly reats with hydrochloric and nitric acids (HNO3). The nitrogen oxide are formed together with lead(II) nitrate --&amp;gt; Pb(NO3)2.&lt;/p&gt;
+
+&lt;p&gt;reaction of lead with bases:&lt;/p&gt;
+
+&lt;p&gt;Lead slowly dissolves in cold alkalis&nbsp;and form plumbites.&lt;/p&gt;
+
+&lt;p&gt;(all numbers are small numbers)&lt;/p&gt;
+","2017-10-25 02:59:49",0,70.55.169.4,1
+222795,7272,13253,10258,NULL,NULL,"&lt;p&gt;CHEMICAL REACTIONS:&lt;/p&gt;
+
+&lt;p&gt;1-Bromine reacts violently with red phosphorus and produces an intense flame. The product is phosphorus (III) bromide. In my essay, Phosphorella and Brominella are a crime fighting duo that will react together, sacrificing themselves to save the world.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2-&nbsp;Bromine also reacts with oxygen creating Bromine oxide (BrO). BrO will in turn react with the ClO in the atmosphere to produce chlorine and bromine product gases resulting in the destructing of two ozone molecules and the creation of three oxygen molecules. One bromine molecule has the capacity to thousands of ozone molecules&lt;/p&gt;
+
+&lt;p&gt;Bro + ClO= Cl + Br+ O2 or ClBr+ O2&lt;/p&gt;
+
+&lt;p&gt;Super-villains in the story &nbsp;will seek&nbsp;to capture &nbsp;and to unleash Brominella in her gas form in the stratosphere to destroy the ozone layer and make the earth vulnerable to ultraviolet rays.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;3-&nbsp;Bromine reacts very violently with aluminum to create aluminum (III) bromide. The reaction releases light heat, sparks of liquid aluminum. Brominelle uses aluminum to her advantage, she touches it and throws it as she would a grenade to stun her opponents.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 03:07:43",0,74.58.30.117,1
+222797,7272,13253,10190,NULL,NULL,"&lt;p&gt;I found another reaction:&nbsp;&lt;/p&gt;
+
+&lt;p&gt;5) Reaction of Aluminum with Nitric Acid: When Captain Al comes into contact with nitric acid, it will react with it. This reaction will passivate Captain Al meaning it will make Captain Al less reactive while creating an extra oxide layer. This reaction will allow Captain Al to wear double the armor as another oxide layer is created on top of the existing one.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources:&nbsp;&lt;/p&gt;
+
+&lt;p&gt;https://www.merriam-webster.com/dictionary/passivate&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/aluminium/chemistry.html&lt;/p&gt;
+","2017-10-25 03:08:35",222775,67.68.206.102,1
+222798,7272,13253,10173,NULL,NULL,"&lt;p&gt;&lt;em&gt;5) 3 different chemical reactions involving Arsenic.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;5.1) &lt;u&gt;Arsenic and hydrogen &lt;/u&gt;: Arsenic can be reduced to Arsine when reacting chemically with hydrogen, resulting in&nbsp;a toxic gas.&lt;/p&gt;
+
+&lt;p&gt;5.2) &lt;u&gt;Arsenic and oxygen :&lt;/u&gt; When exposed to oxygen, the solid metalloid version of arsenic becomes black. It loses its shine and gray allure.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;5.3) Arsenic heated in the air ignites arsenic trioxide, which is different than when it is heated in oxygen, forming arsenic pentoxide.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;5.4) &lt;u&gt;Arsenic and water :&lt;/u&gt; Pure arsenic is not soluble in water. Therefore it does not react chemically with it.&nbsp;&lt;/p&gt;
+","2017-10-25 03:12:31",0,173.206.130.72,1
+222799,7272,13253,10173,NULL,NULL,"&lt;p&gt;Sources?&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/arsenic/chemistry.html&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 03:13:14",222798,173.206.130.72,1
+222800,7272,13253,10253,NULL,NULL,"&lt;p&gt;Chemical Reactions:&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;1. Hydrogen and Sulphur (H2S)&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;This chemical compound forms hydrogen sulfide which is a colourless gas that smells like rotten eggs. It is poisonous, corrosive and flammable. Although it&rsquo;s smell is pungent at first, it deadens the sense of smell, so enemies may not be aware of it until it is too late. Miss H can control the amount of the gas produced. Low-level exposure can lead to fatigue, headaches, poor memory, and more, so she would use low dosages to incapacitate victims, but not to kill. High-level exposure can lead to immediate collapse, loss of breath and death. High-level exposure would be used for immediate and lethal results&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;2. Hydrogen and Chlorine (HCl)&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;This chemical compound forms hydrochloric acid, which is corrosive. The concentration of the acid can be controlled. Very concentrated hydrochloric acid forms acidic mists. As a solution and as mist, hydrochloric acid has a corrosive effect on human tissue. Respiratory organs, eyes, skin, and intestines can be damaged irreversibly. This can be used to cause lasting damage to enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;3. Hydrogen and Phosphorus (PH3)&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;This compound forms a colourless flammable toxic gas. It can also form explosive mixtures with air and self-ignite. It is toxic and attacks the central nervous system. It can be absorbed by inhalation or through the skin. Overexposure can cause nausea, vomiting, abdominal pain, muscle pains, chills and more. Miss H can use this gas to debilitate her enemies.&lt;/p&gt;
+","2017-10-25 03:20:38",0,24.157.247.101,1
+222801,7272,13253,10352,NULL,NULL,"&lt;p&gt;3 chemical reactions with potassium:&lt;/p&gt;
+
+&lt;p&gt;1) When potassium (K) reacts with water (H2O), it results to form potassium hydroxide (KOH), which is colourless and it also produces hydrogen gas (H2). At the beginning of the reaction, the hydrogen within the water which makes it very hot and it creates a lilac flame.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2)&nbsp; Potassium reacts quickly with halogens such as bromine, chlorine, iodine, etc. If you react potassium (K) with chlorine (which is diatomic, so Cl2), you get the result of potassium chloride (KCl) which is a salt. It is colourless and odourless and dissolves in water. This compound is used in medicine, food and fertilizer.&lt;/p&gt;
+
+&lt;p&gt;3) Potassium will react violently with dilute acids such as dilute sulphuric acid and dilute hydrochloric acid. When potassium as hydrochloric acid react with one another, the metal&nbsp;will ignite very quickly when it comes in contact with the acid.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/potassium/chemistry.html&lt;/p&gt;
+
+&lt;p&gt;http://www.mammothmemory.net/chemistry/the-metal-reactivity-series/metal--acid--salt--hydrogen/potassium-and-brhydrochloric-acid.html&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/watch?v=53T5WZHQ_Ck&amp;amp;ab_channel=JeremyWolf&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 03:31:17",0,24.200.186.145,1
+222806,7272,13253,10176,NULL,NULL,"&lt;p&gt;1)&nbsp;&lt;strong&gt;Calcium reaction with oxygen:&nbsp;&lt;/strong&gt;Calcium burns vigorously in oxygen.But in order to make it burn, strong heating is required. It forms a white powder of calcium oxide.&lt;/p&gt;
+
+&lt;p&gt;2)&nbsp;&lt;strong&gt;Calcium reaction with water:&nbsp;&lt;/strong&gt;Calcium reacts slowly with water. But it forms calcium hydroxide. During the reaction, a lot of heat is produced which can even cause water to boil.&lt;/p&gt;
+
+&lt;p&gt;3)&nbsp;&lt;strong&gt;Calcium reaction with hydrochloric acid:&nbsp;&lt;/strong&gt;Calcium reacts with dilute hydrochloric acid to give calcium chloride and hydrogen gas. Calcium chloride is useful for de-icing and dust-control.&lt;/p&gt;
+","2017-10-25 03:58:01",0,65.38.77.35,1
+222808,7272,13253,10267,NULL,NULL,"&lt;p&gt;4 Chemical reactions&nbsp;&lt;/p&gt;
+
+&lt;p&gt;1. Chlorine Trifluoride ClF3&lt;/p&gt;
+
+&lt;p&gt;Easily reacts sometimes explosively with almost every known substance. Sets fire to glass, sand, people, rust and many more. It&#039;s so effective because it&#039;s a more powerful oxidizing agent than oxygen itself, able to rapidly oxidize things that would be considered impossible. When chlorine trifluoride comes in contact with air it reacts explosively, creates large amount of dangerous gasses (Hydrofluoric acid).&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. Hydrofluoric acid&nbsp; HF&lt;/p&gt;
+
+&lt;p&gt;Hydrofluoric acid is a solution of hydrogen fluoride&nbsp;in water. If hydrofluoric acid comes into contact with your skin it doesn&#039;t hurt until a couple of hours later, starts destroying nerves, bones and can cause cardiac arrest if it gets into your blood stream it can cause cardiac arrest.&lt;/p&gt;
+
+&lt;p&gt;3. Hydrogen Fluoride HF&lt;/p&gt;
+
+&lt;p&gt;Hydrogen fluoride is a colourless gas. Hydrogen fluoride is a highly dangerous gas, corrosive gas.&nbsp;When it gets in contact with moisture it becomes Hydrofluoric acid . The gas can also cause blindness by rapid destruction of the corneas.&lt;/p&gt;
+
+&lt;p&gt;4. Potassium Fluoride KF&lt;/p&gt;
+
+&lt;p&gt;Potassium Fluoride is a white powder.It strongly irritates skin, eyes and mucous membranes. If you ingest potassium fluoride it&#039;s toxic.&lt;/p&gt;
+","2017-10-25 04:16:07",0,135.19.7.116,1
+222822,7272,13253,10247,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Strontium and other elements:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strontium carbonate &lt;/strong&gt;is usually&nbsp;extracted naturally&nbsp;from a mineral called strontianite. It can also be produced through the reaction of strontium nitrate and sodium nitrate in an aqueous solution.&nbsp;This compound is often used in the production of fireworks, as it emits a red colour when exposed to a flame. Skeletium, being aware of the reaction, will use it to deliver a spectacular show to the population of &lt;em&gt;____&lt;/em&gt; (location yet to be selected) and as the ashes fall upon the spectators something odd will happen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strontium hydroxide&nbsp;&lt;/strong&gt;can be created by pouring a strong base on any kind of strontium salt. It creates a precipitate that can be filtered and then be used for various functions. Strontium hydroxide, on its own, is dangerous for humans, as it can cause severe irritations. Skeletium might use this property to fight criminals, but he might also use it to travel across the city. Through the use of drain cleaning solutions, he will be able to turn himself into strontium hydroxide powder and travel through the town&#039;s sewage system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strontium chloride&nbsp;&lt;/strong&gt;is a compound that is formed by combining strontium carbonate and hydrochloric acid. It helps&nbsp;reduce teeth sensitivity and is often used in toothpaste for people suffering from this issue. Skeletium, being an outcast, does not have access to a dentist and uses Sensodyne&lt;strong&gt;&reg;&nbsp;&lt;/strong&gt;to fight the evil germs that lurk in his mouth.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 04:43:02",220946,70.80.29.159,1
+222825,7272,13253,10355,NULL,NULL,"&lt;p&gt;3 chemical reactions with mercury&lt;/p&gt;
+
+&lt;p&gt;1. Mercury and Chlorine (HgCl2):&lt;/p&gt;
+
+&lt;p&gt;This chemical compound forms mercury (II) Chlorine which is a&nbsp;white crystalline solid which happens to be a laboratory reagent and a molecular compound. Mercuric chloride does not exists as a salt composed of discrete ions, but it is composed of linear triatomic molecules, which explains its tendency to sublime. when mercury reacts to chlorine it is an extremely toxic by inhalation and by ingestion, odorless, and colorless substance with a wide range of uses. In the crystal, each mercury atom is bonded to two close chloride ligands with Hg&mdash;Cl distance of 2.38 &Aring;. Mercuric chloride is obtained through the reaction of chlorine on mercury by adding hydrochloric acid to a hot concentrated solution of mercury (I) compounds.&lt;/p&gt;
+
+&lt;p&gt;2. Mercury and cyanide Hg(CN)2&lt;/p&gt;
+
+&lt;p&gt;This chemical compound forms mercury (II) cyanide is a colorless, odorless, toxic white power with a bitter metallic taste. It is a coordination compound of nitrogen, carbon and mercury. It has a melting point of 320&deg;C which is when it begins to decompose and releases toxic mercury fumes. When it starts to decomposes when exposed to light, it becomes darker in color. It is highly soluble in polar solvents such as water, alcohol and ammonia. It reacts vigorously with oxidizing agents which can cause violent explosion. Low-level exposure can lead to fatigue, headaches, poor memory. whereas high-level exposure can lead to immediate collapse, loss of breath and death.&lt;/p&gt;
+
+&lt;p&gt;3. Mercury and sulfate HgO4S:&lt;/p&gt;
+
+&lt;p&gt;This chemical compound forms mercury (II) sulfate, it is an odorless solid that forms white granules or crystalline powder. In water, it separates into an insoluble sulfate with a yellow color and sulfuric acid. &nbsp;Mercury sulfate, HgSO4, ca be produced by heating concentrated H2SO4 with elemental mercury: Hg + 2 H2SO4 &rarr; HgSO4 + SO2 + 2 H2O. Or by dissolving solid yellow mercuric oxide in concentrated sulfuric acid and water. It is soluble in hot sulfuric acid and sodium chloride solution. Insoluble in alcohol, acetone and ammonia.&lt;/p&gt;
+
+&lt;p&gt;sources:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.webelements.com/mercury/chemistry.html&quot;&gt;https://www.webelements.com/mercury/chemistry.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chemicalbook.com/ChemicalProductProperty_EN_CB8153036.htm&quot;&gt;http://www.chemicalbook.com/ChemicalProductProperty_EN_CB8153036.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mercury(II)_sulfate&quot;&gt;https://en.wikipedia.org/wiki/Mercury(II)_sulfate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://chemedx.org/video/precipitation-reaction-sodium-iodide-and-mercuryii-chloride&quot;&gt;https://chemedx.org/video/precipitation-reaction-sodium-iodide-and-mercuryii-chloride&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pubchem.ncbi.nlm.nih.gov/compound/mercuric_sulfate#section=Top&quot;&gt;https://pubchem.ncbi.nlm.nih.gov/compound/mercuric_sulfate#section=Top&lt;/a&gt;&lt;/p&gt;
+","2017-10-25 05:11:13",0,174.93.150.185,1
+222836,7272,13253,10178,NULL,NULL,"&lt;p&gt;&lt;strong&gt;3 Reactions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Cesium reacting with Oxygen:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;When Cesium is exposed to the air and the moisture in it, it tarnishes very easily.&nbsp;As it tarnishes, it also begins to self combust, melting and reacting with Oxygen to create a rose/magenta coloured flame.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Cesium reacting with H2O:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;When Cesium comes into contact with water, it creates an exothermic reaction. The Cesium hits the water and it reacts very quickly, creating what looks like a small explosion and a cloud of smoky vapor.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Cesium reacting&nbsp;with Fluorine:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Cesium reacts strongly with all the halogens, like Fluorine for example. When Cesium and Fluorine come into contact, they react together and ignite. The flame creates an extremely bright, blinding light.&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/caesium/chemistry.html&lt;br /&gt;
+https://www.youtube.com/watch?v=TLOFaWdPxB0&lt;br /&gt;
+https://www.youtube.com/watch?v=ytxx95g-kiA&lt;/p&gt;
+","2017-10-25 05:39:36",0,174.93.135.251,1
+222837,7272,13253,10261,NULL,NULL,"&lt;p&gt;Super Hero: Curiman&lt;/p&gt;
+
+&lt;p&gt;Element: Curium&lt;/p&gt;
+
+&lt;p&gt;- It is malleable, chemically reactive and electropositive. Its surface rapidly oxidizes in air, gaining a thin film. In dilute solutions, it dissolves rapidly to form Cm (III) solutions. Curium metal exists in two crystal structures: a double-hexagonal close-packed and a high temperature, face-centered cubic close-packed&lt;/p&gt;
+
+&lt;p&gt;-&nbsp;If absorbed in to the body, curium accumulates in the bones. Its radiation destroys red blood cell formation. Consequently, curium is considered very toxic.&lt;/p&gt;
+
+&lt;p&gt;-&nbsp;It tarnishes slowly in dry air at room temperature.&lt;/p&gt;
+
+&lt;p&gt;-Curium is typically quite insoluble and adheres very tightly to soil particles&lt;/p&gt;
+
+&lt;p&gt;-Curium does not typically react with most simple substances, for example air and water&lt;/p&gt;
+
+&lt;p&gt;-All known isotopes of curium are radioactive and have a small critical mass for a sustained nuclear chain reaction.&lt;br /&gt;
+Curium is an extremely reactive element therefore, you need to wear heavy protection when working with this element in a lab.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;https://www.livescience.com/39915-facts-about-curium.html&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 05:40:05",0,24.201.250.135,1
+222838,7272,13253,10235,NULL,NULL,"&lt;p&gt;Three chemical reactions involving iron&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Reaction of iron with air&lt;/p&gt;
+
+&lt;p&gt;When iron metal reacts with air, it makes a hydrated iron oxide. The surface of this metal is not protected since it flakes off. Therefore, more of it is exposed to oxidation. Rusting is the name of this process. Air-free water barely has an effect upon iron metal which helps the process.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Reaction of iron with sulfur&lt;/p&gt;
+
+&lt;p&gt;Heating up iron and sulfur creates ferrous sulfide. The reaction between the two creates an endothermic reaction. This latter can ignite spontaneously when exposed to air when it has absorbed a sufficient amount of heat&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Reaction with hydrochloric acid&lt;/p&gt;
+
+&lt;p&gt;When iron sulfide reacts with hydrochloric acid, it creates hydrogen sulfide. It a colorless gas with a pungent odor of rotten eggs. It is very poisonous, corrosive, and flammable.&lt;/p&gt;
+","2017-10-25 05:53:29",0,64.231.238.251,1
+222843,7272,13253,10202,NULL,NULL,"&lt;p&gt;Reactivity involving&nbsp; my element vanadium:&lt;/p&gt;
+
+&lt;p&gt;Reaction of vanadium with air&lt;/p&gt;
+
+&lt;p&gt;1) Vanadium metal reacts with excess oxygen, O2, upon heating to form vanadium(V) oxide, V2O5. When prepared in this way, V2O5 is sometimes contained by other vanadium oxides.&lt;/p&gt;
+
+&lt;p&gt;4V(s) + 5O2(g) &rarr; 2V2O5(s) [yellow-orange]&lt;/p&gt;
+
+&lt;p&gt;Reaction of vanadium with the halogens&lt;/p&gt;
+
+&lt;p&gt;2) Vanadium reacts with fluorine, F2 upon warming to form vanadium(V) fluoride. The other vanadium pentahalides appear not to be known.&lt;/p&gt;
+
+&lt;p&gt;2V(s) + 5F2(g) &rarr; 2VF5(l) [colourless]&lt;/p&gt;
+
+&lt;p&gt;3)Reaction of vanadium with bases&lt;/p&gt;
+
+&lt;p&gt;Vanadium metal is resistant to attack by molten alkali.&lt;/p&gt;
+
+&lt;p&gt;sources:&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/vanadium/chemistry.html&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 06:12:52",0,174.94.119.197,1
+222844,7272,13253,6643,NULL,NULL,"&lt;p&gt;Great drawing! The belt is a nice accessory, with its 33 beads. But be careful:&lt;/p&gt;
+
+&lt;p&gt;- You write &quot;Lucidum is a solid...&quot; We don&#039;t describe people by saying they are solid. Of course they are solid.&lt;/p&gt;
+
+&lt;p&gt;- Arsenic sublimates, yes, but without a flame. Her hair could be gaseous, but no need for fire. Unless she really is hot-headed :)&lt;/p&gt;
+
+&lt;p&gt;-Be precise. For example, your behavior. What describes her in a few words only? Attractive but deadly? Unwholesome? What is it?&lt;br /&gt;
+Same comment for her power. HOW does she expose them to her toxicity? Does she make them eat a part of her body? does she poke them, cut them, rub them, kiss them? Tell us how exactly.&lt;/p&gt;
+","2017-10-25 06:15:27",220949,74.59.70.54,1
+222845,7272,13253,10256,NULL,NULL,"&lt;p&gt;As Neon is a noble gas, it can not react with any other element on the periodic table. Instead of reactions, here are three more uses for his power to control the element.&lt;/p&gt;
+
+&lt;p&gt;- When a Neon light sign is near, Neno can control the gas within in it, and through the use of pressure on the glass tubes, he can mold the sign into whatever shape he likes. This is useful in sending messages from a distance... like the bat-signal.&lt;/p&gt;
+
+&lt;p&gt;- As previously mentioned in the &quot;SUPER POWER&quot; section of the bio, Neno can fly by aiming his tubes downwards. This functions by the gas repulsing the ground. He could also use this tactic to blow away enemies, and break down walls and doors.&lt;/p&gt;
+
+&lt;p&gt;- Neon is less dense than air, so as a result, Neno prefers to fly above air level in stratosphere&nbsp;so that he&#039;ll go faster without having air particles block his passage. This&#039;ll cause problems fro the character, stay tuned for the essay...&lt;/p&gt;
+","2017-10-25 06:21:04",221046,67.68.29.184,1
+222847,7272,13253,6643,NULL,NULL,"&lt;p&gt;Lots of good ideas. The comment of &quot;heat sensor&quot; is worth looking into. The behavior could be embellish a little. Since he is cold when is in solid form, maybe that also doesn&#039;t help him make friends.&lt;/p&gt;
+","2017-10-25 06:24:19",220957,74.59.70.54,1
+222849,7272,13253,6643,NULL,NULL,"&lt;p&gt;Great job researching possibilities. Make sure you mention precisely HOW he gets Tellurium into (or onto) his enemies.&lt;/p&gt;
+","2017-10-25 06:28:19",220968,74.59.70.54,1
+222851,7272,13253,6643,NULL,NULL,"&lt;p&gt;Good exposition of the possibilities of Lead. Everything seems good. Does your character date a plumber, since the Latin for lead is &lt;em&gt;plumbum&lt;/em&gt;, the origin of plumbing.&lt;/p&gt;
+","2017-10-25 06:32:11",220983,74.59.70.54,1
+222853,7272,13253,6643,NULL,NULL,"&lt;p&gt;Interesting character. Be more precise when you describe her behavior. Great comment about the kerosene bathing. She seduces people, so she&#039;s a smooth tongue (wheedling). How exactly does she poison them? (how does the liquid get into/onto the enemy, and how does it affect the enemy?).&lt;/p&gt;
+","2017-10-25 06:38:41",220988,74.59.70.54,1
+222854,7272,13253,10248,NULL,NULL,"&lt;p&gt;Chemical reactions with Tellurium:&lt;/p&gt;
+
+&lt;p&gt;1)Tellurium reaction with air:&lt;/p&gt;
+
+&lt;p&gt;when tellurium is heated in air it combusts into a green/blue flame at a temperature of 340 degrees Celsius. Tellus uses this power to form balls of tellurium in his palm and make them automatically combust. this allows him to shot fireballs at his enemies which burn them severely.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2) Tellurium reacts with Chlorine:&lt;/p&gt;
+
+&lt;p&gt;when tellurium reacts with chlorine it creates a solid known as tellurium tetrachloride.&nbsp;Te + 2 Cl2 &rarr; TeCl4. This solid is extremely toxic and therefore Tellus is able to use this. he forms this substance on his fists so when he has to fight in hand to hand combat he delivers toxic blows to his enemies. this leaves his enemies burned and blind if he hits them close in the face.&lt;/p&gt;
+
+&lt;p&gt;3) Tellurium reacts with Sodium.&lt;/p&gt;
+
+&lt;p&gt;Tellurium reacts with sodium and forms a substance known as sodium telluride (Na2 Te). this substance is an extremely unstable acid. Tellus can use this acid to melt through any defences or any materials for entrance to wherever he desires.&lt;/p&gt;
+
+&lt;p&gt;https://www.americanelements.com/tellurium-tetrachloride-10026-07-0&lt;/p&gt;
+
+&lt;p&gt;https://education.jlab.org/itselemental/ele052.html&lt;/p&gt;
+
+&lt;p&gt;https://pubchem.ncbi.nlm.nih.gov/compound/tellurium#section=Physical-Description&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/tellurium/chemistry.html&nbsp;&lt;/p&gt;
+","2017-10-25 06:41:32",0,70.24.249.82,1
+222855,7272,13253,6643,NULL,NULL,"&lt;p&gt;Promising character. Look over the behavior again. Useful feedback from your peers, use them. Dig a bit more into the chemistry of silver. For example, Silver is an anti-microbial &amp;amp; anti-bacterial, so he could rarely be sick.&lt;/p&gt;
+","2017-10-25 06:42:48",220993,74.59.70.54,1
+222859,7272,13253,6643,NULL,NULL,"&lt;p&gt;Original character, very promising. The suggestions of your peers are all great and should be considered. The superpower is not really clear. But yes, Oxygen is everywhere, and is needed by every living form. He can produce that. He can probably swim under water no problem, because he literally is an underwater gas tank.&lt;/p&gt;
+","2017-10-25 06:48:12",220995,74.59.70.54,1
+222860,7272,13253,10268,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Three different chemical reactions involving silver&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Silver difluoride, silver(II) difluoride,&nbsp;AgF2 (small 2), is formed in the reaction of silver and fluorine, F2 (small 2).&nbsp;&lt;/li&gt;
+	&lt;li&gt;Ammonia precipitates Ag+&nbsp;as brown/black oxide.&nbsp;In excess, ammonia dissolves the precipitate, forming a diamine silver complex.&lt;/li&gt;
+	&lt;li&gt;Silver metal dissolves in dilute or concentrated nitric acid, HNO3 (small 3).&lt;/li&gt;
+&lt;/ol&gt;","2017-10-25 06:48:22",0,192.214.243.81,1
+222861,7272,13253,10256,NULL,NULL,"&lt;p&gt;sources:&nbsp;Helmenstine, Ph.D. Anne Marie. &ldquo;Learn 10 Interesting Neon Element Facts.&rdquo;&nbsp;&lt;em&gt;ThoughtCo&lt;/em&gt;, ThoughtCo, 22 Aug. 2016, www.thoughtco.com/interesting-neon-element-facts-4077247.&lt;/p&gt;
+
+&lt;p&gt;&ldquo;Layers of the Atmosphere.&rdquo;&nbsp;&lt;em&gt;NIWA&lt;/em&gt;, NIWA, 2016, www.niwa.co.nz/education-and-training/schools/students/layers.&lt;/p&gt;
+","2017-10-25 06:51:36",221046,67.68.29.184,1
+222863,7272,13253,10254,NULL,NULL,"&lt;p&gt;1) When Plutonium is introduced to a moist environment it forms these pyrophoric hydrides on its surface that can ignite in air at room temperature.&lt;/p&gt;
+
+&lt;p&gt;2) After a nuclear weapon has been taken apart, Plutonium can be extracted and melted down to form glass logs of Plutonium Oxide (PuO2).&lt;/p&gt;
+
+&lt;p&gt;3) When the Trinity Bomb (first atomic bomb) was constructed, Plutonium had been compressed into the shape of a sphere of supercritical mass, and was then showered with neutrons from an initiator that was made up of polonium and beryllium. This resulted in the first atomic bomb &quot;Trinity&quot; which went off in New Mexico on the 16th of July 1945.&lt;/p&gt;
+","2017-10-25 06:53:06",0,66.130.185.138,1
+222864,7272,13253,6643,NULL,NULL,"&lt;p&gt;Intriguing character. Make sure you clarify her super power, or put it into context. Is she a firefighter?&lt;/p&gt;
+","2017-10-25 06:58:56",220921,74.59.70.54,1
+222866,7272,13253,6643,NULL,NULL,"&lt;p&gt;Intriguing Villain. Be careful, people don&#039;t melt, so don&#039;t mention that she has a low melting point.&lt;/p&gt;
+","2017-10-25 07:03:13",220936,74.59.70.54,1
+222867,7272,13253,6643,NULL,NULL,"&lt;p&gt;Love the concept. It is original and intriguing. I would stick with his &quot; charitable &quot; character, and not mix the idea that he wants to save kids in hospital, yet wants to kill all humans. The relationship with the rat is also a great plus, and sure can add to the dimension of the character. Keep up the good work.&lt;/p&gt;
+","2017-10-25 07:08:10",220946,74.59.70.54,1
+222869,7272,13253,10194,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Reactivity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;CuO2&lt;/strong&gt;&nbsp;Copper corrodes over time when introduced to oxide. As mentioned previously, Coppernica&#039;s hair is turning green with age (equivalent to greying hair). But the oxidation&nbsp;process is not like rust, the green layer known as &quot;verdigris&quot; protects the underlying copper from further corrosion. As Coppernica ages, she gets stronger.&nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;[Cu(OH2)6]2+&nbsp;&lt;/strong&gt;Copper dissolves in hot concentrated sulfuric acid. One of Coppernica&#039;s archnemeses will attempt to kill her using boiling sulfuric acid.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;3Cu(NO3)2&nbsp;+ 2NO + 4H2O&nbsp;&lt;/strong&gt;Copper&#039;s oxidation process can be sped up when reacting with highly concentrated&nbsp;nitric acid. Coppernica applies&nbsp;nitric acid to shield herself from sulfuric acid.&nbsp;&nbsp;&lt;/li&gt;
+&lt;/ol&gt;","2017-10-25 07:23:34",221000,167.88.26.154,1
+222870,7272,13253,10542,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Chemical reactions with Sulfur:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt;&nbsp; Sulfur in the form of a brimstone reacts with O2&nbsp;giving a blue flame:&lt;/p&gt;
+
+&lt;p&gt;S + O2&nbsp;= SO2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2) &lt;/strong&gt;Sulfuric acid is used for&nbsp;oxidizing agent for metals,&nbsp;&nbsp;is a dehydrating agent and helps&nbsp;manufacture of fertilizer.&lt;/p&gt;
+
+&lt;p&gt;&nbsp; SO2 --&amp;gt; SO3 -----&amp;gt; H2S2O7 ---&amp;gt; H2SO4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&nbsp;&lt;/strong&gt;Hydrogen Sulfide H2S is a diprotic acid&nbsp;which are capable of donating two protons or hydrogen cations per molecule when dissociating in aqueous solutions.&lt;/p&gt;
+
+&lt;p&gt;H2S = HS-&nbsp;+ H+&lt;/p&gt;
+","2017-10-25 07:26:18",0,67.68.133.15,1
+222871,7272,13253,10179,NULL,NULL,"&lt;p&gt;Rubidium is a highly reactive element. Firstly, it react with oxygen creating &lt;strong&gt;rubidium oxide &lt;/strong&gt;and that reaction cause a fire. In really life she can control her suit but allow It to burst into flame during battle. Similarly, it reacts highly with water creating &lt;strong&gt;rubidium dihydrogen monoxide &lt;/strong&gt;that then releasing hydrogen gas into the air therefor causing and explosion. therefor if she is around water or trapped in a water conter she can use this reaction to save herself. Lastly, since she is able to make &lt;strong&gt;rubidium dihydrogen arsenate &lt;/strong&gt;which she can use to further poison people .&lt;/p&gt;
+","2017-10-25 07:27:38",220988,67.70.145.138,1
+222874,7272,13253,10281,NULL,NULL,"&lt;p&gt;&lt;strong&gt;3 chemical reactions involving Barium :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Barium oxidizes in air, which creates a thin surface of oxyde. If it catches on fire, the barium metal melts to form a blend of white barium oxyde ( BaO) &nbsp;and barium nitride (Ba3N2). Plus, barium oxide can absorb moisture.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plus, barium reacts with water to form barium hydroxide and hydrogen gas. &nbsp;Every barium compound which dissolves in water is toxic. If by any means, someone would drink a big quantity of this lethal drink, it could cause &nbsp;paralyses and sometimes even death. On the other hand, even drinking small quantities of barium compounds dissolved in water, can result in muscles becoming weak, heart failure etc.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Barium can react to nitrate to compose barium nitrate Ba(NO3)2 which is a white crystalline solid that does not burn by itself, but it increases burning of things that are combustible. It can create an explosion if a large amount of this compound is found in a fire. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-25 07:41:05",0,174.94.108.125,1
+222875,7272,13253,10856,NULL,NULL,"&lt;p&gt;3 chemical reactions with Platinum:&nbsp;&lt;/p&gt;
+
+&lt;p&gt;1. Platinum can be dissolved in &quot;aqua regina&quot; (a mixture of nitric acid and hydrochloric acid, ratio 1:3), which will form a chloroplatinic acid&nbsp;(H2PtCl6)&lt;/p&gt;
+
+&lt;p&gt;2. Reacts with Fluoride. For example, if Platinum is heated in Fluorine&nbsp;a &quot;volatile solid forms&quot;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;3. Platinun can be corroded by Sulfur&nbsp;&lt;/p&gt;
+
+&lt;p&gt;https://www.enotes.com/homework-help/fluorine-reactive-that-forms-compounds-with-455964&lt;/p&gt;
+
+&lt;p&gt;https://nature.berkeley.edu/classes/eps2/wisc/pt.html&lt;/p&gt;
+
+&lt;p&gt;https://www.chemicool.com/elements/platinum.html&lt;/p&gt;
+","2017-10-25 07:57:40",221057,24.200.183.33,1
+222878,7272,13253,10197,NULL,NULL,"&lt;p&gt;&lt;u&gt;&lt;strong&gt;3 reactions with Zinc&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1) Zinc and Iodine&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A mixture of Zinc powder and Iodine&nbsp;with the addition of water causes the synthesis of Zinc Iodide. The addition of water causes an exothermic reaction which causes some of the iodine to sublimate forming a toxic purple vapor and leaving behind a white powdery salt.&nbsp;&nbsp;Zn + I2&nbsp;&nbsp;&rarr; ZnI2&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2) Zinc with Hydrochloric acid&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zinc reacts with hydrochloric acid to produce hydrogen gas and the zinc is corroded into the solution of HCl forming zinc chloride (ZnCl2) as you dry it the ZnCl2 is&nbsp; shown to be a white powdered salt.&nbsp;2HCl + Zn &rarr; ZnCl2 + H2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3) Zinc and Sulfur&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The reaction between Zinc and Sulfur is brought forth through the ignition of a mixture of the two elements. This causes an exothermic reaction that cause a green flare/flame.&nbsp;Zn+&nbsp;S &rarr; ZnS&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;https://pilgaardelements.com/Zinc/Reactions.htm&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/zinc/chemistry.html&lt;/p&gt;
+
+&lt;p&gt;http://www.npi.gov.au/resource/zinc-and-compounds&lt;/p&gt;
+
+&lt;p&gt;http://www.elementalmatter.info/zinc-reaction.htm&lt;/p&gt;
+","2017-10-25 08:23:00",220967,70.24.203.182,1
+222890,7272,13253,10232,NULL,NULL,"&lt;p&gt;&lt;strong&gt;Chemical Reactions Involving Chlorine:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Chlorine and Hydrogen (HCl)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These two elements together can form hydrogen chloride gas at room temperature. When this gas is inhaled, it can burn a person&rsquo;s respiratory tract and cause them to cough and choke. Lady Chloros can manipulate this gas and use it to incapacitate her enemies. Also, when HCl is dissolved in water, it forms hydrochloric acid. Lady Chloros can use this corrosive acid to burn her enemies&rsquo; skin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Chlorine and Carbon (CCl4)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These two elements together can form carbon tetrachloride. It&rsquo;s a colourless liquid that evaporates fast and thus is found mostly in its gas form in the environment. When inhaled, this compound can cause liver and kidney failure. Also, if a person was exposed to high concentrations of this compound, immediate effects include headaches, dizziness and sleepiness. Lady Chloros can use high levels of carbon tetrachloride to disorient her enemies by making them have headaches and dizziness and then defeat them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Chlorine and Methane (CHCl3)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These two elements can combine to form chloroform, a colourless, sweet-smelling and dense liquid. When chloroform is inhaled, it can knock out or daze a person. However, chloroform evaporates quickly so it must be administered fast. Lady Chloros uses this liquid in close combat. When she is near her opponent, she soaks one of the rags that she always carries with her to disinfect surfaces, with chloroform and chokes her opponent with it, ensuring that they inhale it and pass out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Chlorine and Phosphorus (PCl3)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These two elements can combine and form phosphorus trichloride, a colourless liquid that is highly corrosive and toxic. When a person comes into contact with the compound, it can severely irritate and burn the skin and the eyes. Lady Chloros uses this liquid to burn and severely harm her opponents, impairing their ability to fight.&lt;/p&gt;
+
+&lt;p&gt;P.S. The numbers in the chemical formulas should be subscripts&lt;/p&gt;
+","2017-10-25 09:19:30",220987,184.161.229.157,1
+222923,7272,13253,10876,NULL,NULL,"&lt;p&gt;Chemical&nbsp; reaction using uranium&lt;/p&gt;
+
+&lt;p&gt;1. Uranium reacts with oxygen, and becomes covered by a thin layer of uranium oxide&lt;/p&gt;
+
+&lt;p&gt;2. Finely divided uranium reacts with liquid &lt;u&gt;water &lt;/u&gt;and oxygen free water vapor&lt;/p&gt;
+
+&lt;p&gt;3.Uranium is dissolved by acids&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Source:https://pilgaardelements.com/Uranium/Reactions.htm&lt;/p&gt;
+","2017-10-25 15:25:57",0,142.118.98.153,1
+222926,7272,13253,10196,NULL,NULL,"&lt;p&gt;&lt;u&gt;&lt;strong&gt;Reactions with Oxygen&lt;/strong&gt;&lt;/u&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1) Sodium and Oxygen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When oxygen reacts with sodium, sodium burns in oxygen and it creates an orange flame which makes a solid white mixture of sodium oxide and sodium peroxide&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2) Magnesium and Oxygen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When oxygen reacts with magnesium, magnesium burns in oxygen and it creates a white flame which makes a solid white magnesium oxide&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3) Sulphur and Oxygen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When oxygen reacts with sulphur, sulphur burns in oxygen and it creates a pale blue flame which makes a colorless sulphur dioxide gas&lt;/p&gt;
+
+&lt;p&gt;Source:&lt;/p&gt;
+
+&lt;p&gt;http://www.chemguide.co.uk/inorganic/period3/elementsreact.html&lt;/p&gt;
+","2017-10-25 16:15:18",220995,198.168.48.223,1
+222949,7272,13253,10269,NULL,NULL,"&lt;p&gt;Reactions:&lt;/p&gt;
+
+&lt;p&gt;1. Gold and Chlorine: At room temperature, Gold and Chlorine gas will react together to form gold chloride (AuCl3) Gold chloride is a powder like substance and, if heated lightly, both the gold and chlorine will return to their natural states. Carat keeps a can of chlorine gas in his office so, in a worst case scenario, he can inhale it and disappear into a powder, which one of his henchmen can heat up later to return him to his human form.&lt;/p&gt;
+
+&lt;p&gt;2. Gold and Aqua Regia: Aqua Regia is a mixture of hydrochloric acid (HCl) and nitric acid (HNO3) and it is notable for being one of the only substances that can dissolve gold. When gold is dissolved in Aqua Regia, it turns the liquid solution a yellow color. In my story, I plan for Carrat to face off against a new superhero team made up of heroes made of hydrogen, nitrogen and oxygen.&lt;/p&gt;
+
+&lt;p&gt;3. Gold and other Metals: Gold is an element that is generally unreactive, making it hard to find reactions to use in the story. Notably, it doesn&#039;t react chemically with most other metals either. The only way for anything to occur between gold and metals is to physically alloy them together. For example, gold and iron alloyed together will form Blue Gold. Gold, Copper and Silver can form pink gold. The alloyed metal is also, generally, much stronger than the two pure metals on their own, which is important, as gold is an incredibly soft metal. In my story, Carrat has many henchman, made from pure metals, like himself. When he&#039;s in a pinch, he can physically alloy himself to his henchmen to make himself stronger and not as soft.&lt;/p&gt;
+
+&lt;p&gt;Sources:&nbsp;http://www.totalmateria.com/page.aspx?ID=CheckArticle&amp;amp;site=ktn&amp;amp;NM=230&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/gold/chemistry.html&lt;/p&gt;
+
+&lt;p&gt;https://www.chemicool.com/elements/gold.html&lt;/p&gt;
+","2017-10-25 16:57:29",220956,70.82.35.47,1
+222963,7272,13253,10175,NULL,NULL,"&lt;p&gt;Chemical Reactions&lt;/p&gt;
+
+&lt;p&gt;1) Tungsten hexafluoride (WF6)&lt;/p&gt;
+
+&lt;p&gt;Tungsten hexafluoride is an extremely corrosive compound. When humans are exposed, their eyes and respiratory system are affected first. It makes them lose vision and cough. Once it mixes with fluids from the body, it acts as an acid and burns skin. Prolonged exposure can be fatal. Wolfram can use this compound to deter his enemies.&lt;/p&gt;
+
+&lt;p&gt;2) Tungsten carbide (WC)&lt;/p&gt;
+
+&lt;p&gt;Tungsten carbide is its most basic form is a grey powder. It can pressed and formed into many different objects. It is very resistant to heat and is also very hard, which means that it could be useful when it comes to making armour to protect himself.&lt;/p&gt;
+
+&lt;p&gt;3) Tungsten hexachloride (WCl6)&lt;/p&gt;
+
+&lt;p&gt;Tungsten hexachloride is prepared by chlorinating tungsten is a sealed container at 600 degrees Celsius. This could be possible to do for Wolfram since he is resistant to heat. Tungsten hexachloride is an aggressively corrosive oxidant, which can be used to disable an enemy&#039;s weapon.&lt;/p&gt;
+","2017-10-25 17:18:30",220932,70.49.65.39,1
+223004,7272,13253,10177,NULL,NULL,"3 different chemical reactions involving that atom:&lt;br /&gt;&lt;br /&gt;Due to Titana being made out of titanium, she undergoes reactions with air, water, and halogens.&lt;br /&gt;&lt;br /&gt;When titanium reacts with air:&lt;br /&gt;&lt;br /&gt;Titanium has an oxidized layer around it preventing it from random combustion, yet when it begins to burn, it burns bright and creates titanium dioxide and titanium nitride.&lt;br /&gt;&lt;br /&gt;When titanium reacts with water:&lt;br /&gt;&lt;br /&gt;Same as with burning, the layer of oxide on titanium prevents it from reacting with water. Yet titanium can react with steam to form titanium oxide and hydrogen.&lt;br /&gt;&lt;br /&gt;When titanium reacts with&lt;br /&gt;&lt;br /&gt;When titanium and the halogens are heated to around 200C, reactions can occur and titanium halides are created from these reactions.&lt;br /&gt;&lt;br /&gt;Summary:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Titanium is generally a non-reactive metal, it&#039;s corrosion resistant from acids, water, and most corrosive substances. Any reactions or corrosion that occur need to be produced under specific circumstances&lt;br /&gt;&lt;br /&gt;https://www.webelements.com/titanium/chemistry.html","2017-10-25 18:07:44",220704,198.168.48.222,1
+223051,7272,13253,10255,NULL,NULL,"&lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/visualclassrooms/a7df523df90b5d92e61c342b9b8c.png&quot;&gt;&lt;img src=&quot;https://s3.amazonaws.com/visualclassrooms-thumbs/t-a7df523df90b5d92e61c342b9b8c.png&quot; alt=&quot;t-a7df523df90b5d92e61c342b9b8c.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;&nbsp;property: Iodite&rsquo;s costume is made from 100% solid iodine; consequently, it has a gray, shiny, glowing color. Also, Iodite has purple hair; when she uses her super power, she can blend in and not be recognised by others around her.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behavior&lt;/strong&gt;&nbsp;property: Due to the strong and unpleasant smell of solid iodine from the costume she wears, that has impregnated in her skin, Iodite tends to stay away from others when at work and to spend most of her time alone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super power&lt;/strong&gt;&nbsp;property: Iodite has enhanced regenerative capabilities due to the large amount of iodine in her body; iodine works as a sterilizer for her to recover from outer wounds on her body. Also, her most lethal super power is her ability to create a purple toxic gas; when solid iodine is heated, it turns into a purple gas that is very harmful.&lt;/p&gt;
+
+&lt;p&gt;By looking at the following picture, we recognize some of Iodite&#039;s properties:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Her purple hair&lt;/li&gt;
+	&lt;li&gt;Her 100% solid iodine costume, that is gray and shinny (the stars on suit represent glow)&lt;/li&gt;
+	&lt;li&gt;The purple gas around her that is iodine&nbsp;gas&lt;/li&gt;
+&lt;/ol&gt;","2017-10-25 22:03:08",220063,198.168.48.222,1
+223052,7272,13253,10255,NULL,NULL,"&lt;p&gt;3 different chemical reactions involving that atom&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nitrogen Triiodide:&lt;/strong&gt;&nbsp;When 3 atoms of iodine react with 1 atom of nitrogen, it creates nitrogen triiodide. Nitrogen triiodide is a form of explosive that is very sensitive, it can be detonated by the snap of a finger or the vibration of a footstep. The reaction between iodine and nitrogen is as follow: I + N = NI(small 3).&nbsp;To find nitrogen, Iodite will simply take any of her home cleaning furniture as they contain ammonia in it (ammonia contains a lot of nitrogen). Iodite will then be able to create bombs from nitrogen triiodide and attack her enemies with them from a long distance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Potassium Iodide:&lt;/strong&gt;&nbsp;When 1 atom of iodine reacts with 1 atom of potassium, it creates potassium iodide. Potassium iodide is a medication used to protect the immune system from radiation exposure. In a large quantity, potassium iodine is very dangerous, it can lead to allergic reactions, vomiting, diarrhea, rashes, and swelling of specific glands in the body. The reaction between iodine and potassium is as follow: I + K = KI.&nbsp;Because potassium is so reactive, it is not present free in nature, Iodite will need to find minerals such as sylvite (KCl) in lakes (sylvite contain a lot of potassium). Once she does, she will be able to infect her enemies to slow them down or even kill them if they are given a lethal doze.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Iodine Pentafluoride:&lt;/strong&gt;&nbsp;When 1 atom of iodine reacts with 5 atoms of fluorine, it creates iodine pentafluoride. Iodine pentafluoride is a yellow liquid, that reacts with water to make hydrofluoric acid (HF); a very dangerous acid that can kill you when in contact with your skin. The reaction between iodine and fluorine is as follow: I + F = IF(small 5).&nbsp;Fluorine is found in rocket fuel, which will be hard to find for Iodite. Consequently, she will use fluorine from refrigeration fluids such as Freon as her source; These are fluids used by refrigerator to cool down, which have a lot of fluorine. Iodite will be able to form iodine pentafluoride, put it in water, and form hydrofluoric acid to attack her enemies from a close distance&lt;/p&gt;
+","2017-10-25 22:05:15",220063,198.168.48.222,1
+223112,7272,13253,10255,NULL,NULL,"&lt;p&gt;Great ideas, I really like the reaction of aluminum with iodine (my superhero is based on that element), you can maybe add that that purple smoke is very toxic and dangerous for his enemies. I&#039;d like to give you another reaction that might help you, the reaction of aluminum with bromine. Bromine (Br) and aluminum (Al) react together to create&nbsp;AlBr(small3); this creates&nbsp;a lot of sparks made from the liquid aluminum which can be used by Captain Al as a diversion grenade. What do you think?&lt;/p&gt;
+
+&lt;p&gt;Bromine reacts very violently with aluminum to create aluminum (III) bromide. The reaction releases light heat, sparks of liquid aluminum. Brominelle uses aluminum to her advantage, she touches it and throws it as she would a grenade to stun her opponents.&lt;/p&gt;
+","2017-10-26 03:16:27",222775,65.97.36.134,0
+223113,7272,13253,10255,NULL,NULL,"&lt;p&gt;Hello Gab, great ideas out there, especially the one of hydrofluoric acid, looks like a very dangerous power and actually relates with what we learnt in class. Another reaction that you might find useful is the one between fluorine (F)&nbsp;and&nbsp;caesium&nbsp;(Cs) creating&nbsp;caesium fluoride (CsF). This reaction creates a very bright white light, which can be used by your super hero to blind his enemies when needed.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Here&#039;s a video that might help, start it at 3:30:&nbsp;https://www.youtube.com/watch?v=TLOFaWdPxB0&lt;/p&gt;
+","2017-10-26 03:28:35",222808,65.97.36.134,1
+223115,7272,13253,10253,NULL,NULL,"&lt;p&gt;Chemical Reactions:&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;1. Hydrogen and Sulphur (H2S)&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;This chemical compound forms hydrogen sulfide which is a colourless gas that smells like rotten eggs. It is poisonous, corrosive and flammable. Although it&rsquo;s smell is pungent at first, it deadens the sense of smell, so enemies may not be aware of it until it is too late. Miss H can control the amount of the gas produced. Low-level exposure can lead to fatigue, headaches, poor memory, and more, so she would use low dosages to incapacitate victims, but not to kill. High-level exposure can lead to immediate collapse, loss of breath and death. High-level exposure would be used for immediate and lethal results&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;2. Hydrogen and Chlorine (HCl)&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;This chemical compound forms hydrochloric acid, which is corrosive. The concentration of the acid can be controlled. Very concentrated hydrochloric acid forms acidic mists. As a solution and as mist, hydrochloric acid has a corrosive effect on human tissue. Respiratory organs, eyes, skin, and intestines can be damaged irreversibly. This can be used to cause lasting damage to enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;3. Hydrogen and Phosphorus (PH3)&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;This compound forms a colourless flammable toxic gas. It can also form explosive mixtures with air and self-ignite. It is toxic and attacks the central nervous system. It can be absorbed by inhalation or through the skin. Overexposure can cause nausea, vomiting, abdominal pain, muscle pains, chills and more. Miss H can use this gas to debilitate her enemies.&lt;/p&gt;
+","2017-10-26 03:45:28",220954,24.157.247.101,1
+223130,7272,13253,10247,NULL,NULL,"&lt;p&gt;Wolfram should definitely stay away from high temperature, as it will probably have negative effects on him. Although acids do not usually deteriorate tungsten carbide, heat certainly does. Wolfram&#039;s armour would start oxidizing&nbsp;at around 500&deg;C. A clever rival could use this to weaken Wolfram. High temperatures would also make your hero vulnerable to chlorine. The reaction would create&nbsp;WCl6, a dangerously corrosive compound!&lt;/p&gt;
+","2017-10-26 05:50:01",220932,70.80.29.159,1
+223131,7272,13253,10247,NULL,NULL,"&lt;p&gt;ZnCl2 could be even more dangerous for the Zincanator. If someone succeeds in turning him into zinc chloride, he would then become highly soluble in water. Not only would he have to avoid all contact with water, but&nbsp;he would also have to avoid humidity, as ZnCl2 attracts water vapour. The accumulation of water vapour would then dissolve the compound and the Zincanator would be left in a very frustrating situation.&lt;/p&gt;
+","2017-10-26 06:08:22",220967,70.80.29.159,1
+223168,7272,13253,10267,NULL,NULL,"&lt;p&gt;I really like the concept of Miss H and the chemical reactions look really cool! Here&#039;s my feedback&lt;/p&gt;
+
+&lt;p&gt;When hydrogen mixes with fluoride it becomes Hydrogen Fluoride (HF). Hydrogen fluoride is a colourless gas. Hydrogen fluoride is a highly dangerous gas, corrosive gas.&nbsp;When it gets in contact with moisture it becomes Hydrofluoric acid . The gas can also cause blindness by rapid destruction of the corneas. Hydrofluoric acid&nbsp;&nbsp;is a solution of&nbsp;hydrogenfluoride&nbsp;in water. If hydrofluoric acid comes into contact with your skin it doesn&#039;t hurt until a couple of hours later, starts destroying nerves, bones and can cause cardiac arrest if it gets into your blood stream it can cause cardiac arrest.&lt;/p&gt;
+","2017-10-26 18:23:20",220954,198.168.48.222,1
+223169,7272,13253,10178,NULL,NULL,"&lt;p&gt;&lt;strong&gt;3 Reactions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Cesium reacting with Oxygen:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;When Cesium is exposed to the air and the moisture in it, it tarnishes very easily.&nbsp;As it tarnishes, it also begins to self combust, melting and reacting with Oxygen to create a rose/magenta coloured flame.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Cesium reacting with H2O:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;When Cesium comes into contact with water, it creates an exothermic reaction. The Cesium hits the water and it reacts very quickly, creating what looks like a small explosion and a cloud of smoky vapor.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Cesium reacting&nbsp;with Fluorine:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Cesium reacts strongly with all the halogens, like Fluorine for example. When Cesium and Fluorine come into contact, they react together and ignite. The flame creates an extremely bright, blinding light.&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/caesium/chemistry.html&lt;br /&gt;
+https://www.youtube.com/watch?v=TLOFaWdPxB0&lt;br /&gt;
+https://www.youtube.com/watch?v=ytxx95g-kiA&lt;/p&gt;
+","2017-10-26 18:31:47",220984,198.168.48.223,1
+223178,7272,13253,10190,NULL,NULL,"&lt;p&gt;Cool chemical reaction ideas!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Another possible chemical reaction can be with Fluorine. When Fluorine is present in the air,&nbsp;Tellus can react with it to form Tellurium Hexafluoride. He can inhale this gas causing the chemical reaction to occur inside his body. Then when the reaction is complete, he will begin burping to release this colourless gas. This gas smells so bad that when his enemy inhales it, they pass out because it is toxic when inhaled and has a terrible smell.&nbsp;&lt;/p&gt;
+","2017-10-26 20:18:53",222854,67.71.163.246,1
+223186,7272,13253,10248,NULL,NULL,"&lt;p&gt;cool ideas for the reactions!&lt;/p&gt;
+
+&lt;p&gt;1) Calcium reacts with Fluorine: calcium fluoride (CaF2) is a compound used in thermal imaging to measure infrared frequencies. Maybe your hero can use this to look into a building and see the thermal imaging of whoever or however many people he is about to fight.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2)Calcium reacts with carbonate: calcium carbonate (CaCO3) is most often found in caves as the forms of stalagmites(the ones that come from the ground). maybe your hero can have the ability to form stalagmites at a high speeds which can create a defense system (ex:a wall of stalagmites) in the case that he is being attacked from all sides.&nbsp;&lt;/p&gt;
+","2017-10-26 21:44:30",222806,70.24.249.82,1
+223188,7272,13253,10248,NULL,NULL,"&lt;p&gt;Chemical reactions with Tellurium:&lt;/p&gt;
+
+&lt;p&gt;1)Tellurium reaction with air:&lt;/p&gt;
+
+&lt;p&gt;when tellurium is heated in air it combusts into a green/blue flame at a temperature of 340 degrees Celsius. Tellus uses this power to form balls of tellurium in his palm and make them automatically combust. this allows him to shot fireballs at his enemies which burn them severely.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2) Tellurium reacts with Chlorine:&lt;/p&gt;
+
+&lt;p&gt;when tellurium reacts with chlorine it creates a solid known as tellurium tetrachloride.&nbsp;Te + 2 Cl2 &rarr; TeCl4. This solid is extremely toxic and therefore Tellus is able to use this. he forms this substance on his fists so when he has to fight in hand to hand combat he delivers toxic blows to his enemies. this leaves his enemies burned and blind if he hits them close in the face.&lt;/p&gt;
+
+&lt;p&gt;3) Tellurium reacts with Sodium.&lt;/p&gt;
+
+&lt;p&gt;Tellurium reacts with sodium and forms a substance known as sodium telluride (Na2 Te). this substance is an extremely unstable acid. Tellus can use this acid to melt through any defences or any materials for entrance to wherever he desires.&lt;/p&gt;
+
+&lt;p&gt;https://www.americanelements.com/tellurium-tetrachloride-10026-07-0&lt;/p&gt;
+
+&lt;p&gt;https://education.jlab.org/itselemental/ele052.html&lt;/p&gt;
+
+&lt;p&gt;https://pubchem.ncbi.nlm.nih.gov/compound/tellurium#section=Physical-Description&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/tellurium/chemistry.html&nbsp;&lt;/p&gt;
+","2017-10-26 22:05:54",220968,70.24.249.82,1
+223189,7272,13253,10190,NULL,NULL,"&lt;p&gt;Chemical Reactions involving Aluminum:&lt;/p&gt;
+
+&lt;p&gt;1.&nbsp;&lt;strong&gt;The Reaction of Aluminum with Hydrochloric Acid:&lt;/strong&gt;&nbsp;Captain Al will react with diluted hydrochloric acid. If he drinks water that contains hydrochloric acid in it, hydrogen gas will be produced inside his stomach. This causes him to start burping so that he can get the Hydrogen gas released from his body. As a result, he will turn his attention toward releasing the hydrogen gas from his body so he will be easy to attack. This reaction can destroy his protective oxide layer which is why he is focused on releasing this gas from his body. The chemical formula for this reaction is as follows: 2Al(solid) + 6HCl(aqueous) ----&amp;gt; 2AlCl3(aqueous)&nbsp;+ 3H2 (gas).&lt;/p&gt;
+
+&lt;p&gt;2.&nbsp;&lt;strong&gt;The Reaction of Aluminum with Water:&lt;/strong&gt;Aluminum reacts with water. When his protective oxide layer is damaged, he is exposed to attacks including water thus he will react with water. This reaction will decrease Captain Al&#039;s strength until another oxide layer is regenerated. His strength decreases because when aluminum reacts with water, it lowers the strength of the metal.&lt;/p&gt;
+
+&lt;p&gt;3. T&lt;strong&gt;he Reaction of Aluminum with Oxygen:&lt;/strong&gt;&nbsp;When Captain Al lowers his oxide layer in order to manipulate electricity or when his oxide layer is damaged, he will react with oxygen. This reaction will cause him to begin the corrosion process. As a result, his movements will slow down as well as his attacks thus his strikes will be ineffective as the enemy can block his attacks since they are slow.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;4.&nbsp;&lt;strong&gt;The reaction of Aluminum and Iodine:&lt;/strong&gt;&nbsp;Captain Al likes to carry aluminum powder with him in case of an emergency. This powdered Aluminum will react with Iodine. When he the powder comes into contact with iodine, he will add water to catalyse this reaction. As a result, this reaction produces a cloud of purple vapour/smoke thus allowing him to escape.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Last Tuesday at 6:00 PM&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Add Tags&quot; src=&quot;https://www.visualclassrooms.com/images/tagadd16.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://www.visualclassrooms.com/images/menu_20.png&quot; /&gt;Matthew S&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources:&nbsp;&lt;/p&gt;
+
+&lt;p&gt;https://socratic.org/questions/what-happens-when-aluminium-metal-reacts-with-dilute-hydrochloric-acid&lt;/p&gt;
+
+&lt;p&gt;https://pilgaardelements.com/Aluminum/Reactions.htm&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/aluminium/chemistry.html&lt;/p&gt;
+
+&lt;p&gt;http://science.jrank.org/pages/269/Aluminum-Chemistry-compounds.html&lt;/p&gt;
+
+&lt;p&gt;http://www.corrosionpro.com/blog/the-oxidation-of-aluminum/&lt;/p&gt;
+
+&lt;p&gt;http://www.sserc.org.uk/chemistry-resources/chemistry-demonstrations/3705-aluminium-iodine-reaction&lt;/p&gt;
+
+&lt;p&gt;Last Tuesday at 6:02 PM&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://www.visualclassrooms.com/images/menu_20.png&quot; /&gt;Matthew S&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Another reaction involving aluminum:&lt;/p&gt;
+
+&lt;p&gt;5) Reaction of Aluminum with Nitric Acid: When Captain Al comes into contact with nitric acid, it will react with it. This reaction will passivate Captain Al meaning it will make Captain Al less reactive while creating an extra oxide layer. This reaction will allow Captain Al to wear double the armor as another oxide layer is created on top of the existing one.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources:&nbsp;&lt;/p&gt;
+
+&lt;p&gt;https://www.merriam-webster.com/dictionary/passivate&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/aluminium/chemistry.html&lt;/p&gt;
+","2017-10-26 22:08:48",220935,67.68.204.42,1
+223195,7272,13253,10190,NULL,NULL,"&lt;p&gt;Cool ideas!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Another chemical reaction can be with bromine. When Zinc reacts with Bromine, it produces a white clear solid which is not flammable. Zinc Bromide is used in medicine so maybe when he comes into contact with Bromine, they will react and form this solid. He can then use this solid to create a medicine that he can use to heal himself if he is hurt.&lt;/p&gt;
+","2017-10-26 22:39:42",220967,70.24.203.118,1
+223199,7272,13253,10259,NULL,NULL,"&lt;p&gt;Chemical reactions :&lt;/p&gt;
+
+&lt;p&gt;1:&nbsp;When it is exposed to air, it reacts with nitrogen&nbsp;to quickly form a black coating of radium nitride.&lt;/p&gt;
+
+&lt;p&gt;2:&nbsp;&nbsp;It reacts very vigorously with water to form hydrogen&nbsp;gas and radium hydroxide Ra(OH)2.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;3: It reacts even more vigorously with hydrochloric acid to form radium chloride. Radium chloride is then used in medicine to form radon gas which is used to cure cancer, but being exposed to it too much may give cancer instead of curing it.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-26 23:15:29",220970,70.53.165.72,1
+223211,7272,13253,10196,NULL,NULL,"&lt;p&gt;Cool reactions! Another cool reaction you can use could be between potassium and nitrate (creating potassium nitrate) which is used in rocket fuel, explosives and fireworks, maybe your character can have powers with explosive outcomes!&lt;/p&gt;
+","2017-10-27 01:21:06",222801,70.24.223.56,1
+223215,7272,13253,10196,NULL,NULL,"&lt;p&gt;Very interesting reactions, maybe you can also add the reaction of uranium hexafluoride which forms a gas with&nbsp; temperature great than 60 C! Maybe your character can have a power that he emits a heat wave that burns&lt;/p&gt;
+","2017-10-27 01:26:52",222923,70.24.223.56,1
+223239,7272,13253,10257,NULL,NULL,"&lt;p&gt;Very good examples. Very detailed and well thought out. Your atom seems as if it is considered to be a very dangerous and unpredictable sort.&nbsp;Maybe you can add a few more things pertaining to a natural environment and you can include examples of chemical reactions with things such as water, air, etc.&nbsp;For example when hydrogen and water mix, there is not chemical reaction, but it actually dissolves the water to an certain extent. Maybe throughout your essay you can write how your superhero&#039;s superpower is that he has the ability to dehydrate and make his opponents who contain even the slightest amount of water in their system disappear. Even individuals who had a glass of water when feeling slightly thirsty.&nbsp;&lt;/p&gt;
+","2017-10-27 03:35:38",222800,70.55.168.158,1
+223240,7272,13253,10257,NULL,NULL,"&lt;p&gt;Another example can be when hydrogen and air are combined together and are then ignited with a flame or spark which the&nbsp;result is a fire or explosion with a characteristic reddish flame whose only products are water, H2O. This can be expressed as&nbsp;2H2(g) + O2(g) &rarr; 2H2O(l). Maybe your superhero can be a smoker. When he is about to light his cigarette, he makes sure that villains are near by, so when he lights it there is an intense explosion essentially whipping out all of his enemies, yet causing no harm to himself.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-27 03:41:52",222800,70.55.168.158,1
+223241,7272,13253,10355,NULL,NULL,"Very interesting reactions! another reaction you can look into is sulfur and mercury reacting to form the chemical compound mercury sulfide (HgS). It is very toxic and heating mercury sulfur (cinnabar) results in release of mercury vapor mixed with the sulfur, which in turn can produce toxicity similar to inhalation of these vapors. Maybe your superhero can wear some type of wrist cuffs that contains mercury and sulfur. When being attacked if you push the button on the cuff chemical compound of mercury sulfide will form and be heated up creating a toxic vapor that you can release against your enemies.   ","2017-10-27 03:45:40",222870,174.93.150.185,1
+223242,7272,13253,10355,NULL,NULL,"Cool reactions! Maybe look into bromine and mercury reacting to form the chemical compound know as mercury(II) bromide (Hg2Br2). It reacts violently with elemental indium at high temperatures and when exposed to potassium can create shock-sensitive explosive mixtures. Maybe your superhero can have a gun that containing bullets of mercury(II) bromide that when fired covers the bullets with potassium which will react with the mercury (II) bromine allowing for your superhero to create a small shock-sensitive explosion eliminating your enemies from a distance. ","2017-10-27 03:50:58",222795,174.93.150.185,1
+223243,7272,13253,10257,NULL,NULL,"&lt;p&gt;A third example which may be beneficial to your hero&nbsp;can be a chemical reaction between between the atom you have chosen, Hydrogen, and&nbsp;Ammonia.&nbsp;Ammonia is a colourless&nbsp;gas which is lighter than air and very soluble in water Ammonium compounds can occur in the vapor phase. When ammonia vapor comes in contact with hydrogen&nbsp;vapor, a white cloud of ammonium chloride forms, which eventually settles out as a solid in a thin white layer on surfaces. This can allow&nbsp;&nbsp;your superhero certain power which allows him to freeze his opponents at any given time.&nbsp;&lt;/p&gt;
+","2017-10-27 04:01:58",222800,70.55.168.158,1
+223244,7272,13253,10193,NULL,NULL,"&lt;p&gt;Did you know powdered sulfur can also be used as an insecticide? It also emits a terrible smell when being burnt, so your superhero/villain can use it to suffocate their enemies!&lt;/p&gt;
+","2017-10-27 04:19:30",222870,70.53.247.24,1
+223252,7272,13253,10232,NULL,NULL,"&lt;p&gt;Titanium has some cool reactions. Another reaction it could have is with the element chlorine. Titanium and chlorine can react together to form titanium tetrachloride (TiCl4). This compound is a colourless, non-flammable and corrosive liquid. Titanium tetrachloride can react with the atmospheric moisture to form a dense, white smoke that irritates the skin and eyes. Your character can use this smoke as a smoke screen and escape while at the same time irritating their opponent&#039;s eyes and skin, preventing them from chasing after your character.&nbsp;&lt;/p&gt;
+","2017-10-27 04:54:46",220704,184.161.229.157,1
+223253,7272,13253,10173,NULL,NULL,"&lt;p&gt;&lt;em&gt;5) 3 different chemical reactions involving Arsenic.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;5.1) &lt;u&gt;Arsenic and hydrogen :&lt;/u&gt; Arsenic can be reduced to Arsine when reacting chemically with hydrogen, resulting in a toxic gas.&lt;/p&gt;
+
+&lt;p&gt;5.2) &lt;u&gt;Arsenic and oxygen :&lt;/u&gt; When exposed to oxygen, the solid metalloid version of arsenic becomes black. It loses its shine and gray allure.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;5.3) &lt;u&gt;Arsenic heated in the air&lt;/u&gt; ignites arsenic trioxide, which is different than when it is heated in oxygen, forming arsenic pentoxide.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;5.4) &lt;u&gt;Arsenic and water :&lt;/u&gt; Pure arsenic is not soluble in water. Therefore it does not react chemically with it.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources?&lt;/p&gt;
+
+&lt;p&gt;https://www.webelements.com/arsenic/chemistry.html&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-27 05:00:02",220949,173.206.141.41,1
+223255,7272,13253,10173,NULL,NULL,"&lt;p&gt;Nice concept! For your reactivity, you could actually talk about what we saw in class and how Fluorine when combined with Hydrogen, results in a very dangerous and corrosive acid:&nbsp;&nbsp;Hydrofluoric acid (HF).&lt;/p&gt;
+","2017-10-27 05:10:15",220958,173.206.141.41,1
+223259,7272,13253,10253,NULL,NULL,"&lt;p&gt;Sulfur can also react with chlorine to form disulphur dichlorine (Cl2S2). This is a yellow-red fuming liquid that can cause chemical burns and is poisonous&nbsp;if its vapors are&nbsp;inhaled.&nbsp;&lt;/p&gt;
+","2017-10-27 05:20:53",222870,24.157.247.101,1
+223261,7272,13253,10173,NULL,NULL,"&lt;p&gt;&lt;em&gt;6) Pair up and describe a reactive encounter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If my supervillain (Lucidum) and your superhero (Miss H) were to be in battle, you would have to watch out because Arsenic, more specifically Arsenic Trioxide, with hydrogen gas, forms arsine, which is a very toxic gas that is denser than air. So if you were to try to burn Lucidum down, she would just intoxicate you because of the arsine resulting from hydrogen gas and arsenic together.&lt;/p&gt;
+","2017-10-27 05:22:34",220954,173.206.141.41,1
+223262,7272,13253,10258,NULL,NULL,"&lt;p&gt;Super cool character !&nbsp;Another reaction you may want to consider is Cadmium telluride which is a semi-conductor used to convert solar energy into electrical energy. Perhaps Tellus&rsquo; suite can be made up of a thin layer of Cadmium telluride and he can use the solar energy it absorbs as a way to boost his power during a fight.&nbsp;&lt;/p&gt;
+","2017-10-27 05:22:41",220968,74.58.30.117,1
+223266,7272,13253,10253,NULL,NULL,"&lt;p&gt;Great reactions! Phosphorus is also involved in the formation of Phosphoric Acid (H3PO4). This is a clear liquid that is corrosive to both metals and tissue, especially when highly concentrated. It can cause severe burns and damage to the eyes and organs. Phosphorella can use this acid to injure her enemies.&lt;/p&gt;
+","2017-10-27 05:35:02",222784,24.157.247.101,1
+223267,7272,13253,10232,NULL,NULL,"&lt;p&gt;Hydrogen has so many fascinating reactions! Another possible reaction of hydrogen could be with the element selenium. These two elements can combine to form hydrogen selenide, a colourless,&nbsp;flammable and toxic gas. Breathing in this gas will cause a lot of coughing and shortness of breath. Miss H can use this gas to weaken her enemies and defeat them. Since they are busy coughing and having trouble breathing, they won&#039;t be able to put up a good defense.&nbsp;&lt;/p&gt;
+","2017-10-27 05:37:26",220954,184.161.229.157,1
+223268,7272,13253,10177,NULL,NULL,"&lt;p&gt;Another reaction is with nitric acid. Nitric acid is a powerful oxidizer and can form arsenic acid by oxidizing the arsenic and decreasing the nitrogen, forming nitrogen dioxide.&nbsp;&lt;/p&gt;
+","2017-10-27 05:54:46",222798,70.82.7.206,1
+223269,7272,13253,10180,NULL,NULL,"&lt;p&gt;Cool ideas!!!&lt;/p&gt;
+
+&lt;p&gt;You can also say that Barium could react with Chlorine and form Barium Chloride (BaCl2, small 2) to fight off her enemies in your story. Barium Chloride&nbsp;is toxic by ingestion and when it makes contact with skin. It can also cause redness and pain to the eyes, therefore she could have an advantage over the enemy. She could escape since the villains vision will be impaired.&nbsp;&lt;/p&gt;
+","2017-10-27 05:54:48",222874,216.239.91.102,1
+223270,7272,13253,10199,NULL,NULL,"&lt;p&gt;Wow, I like the reactions! You could also state this theory that barium is very reactive towards the halogens, but there are no explicit references to this effect. It is expected that chlorine, Cl2&nbsp;bromine, Br2, or iodine, I2, would burn to form the dihalides barium(II) chloride (BaCl2), barium(II) bromide (BaBr2), and barium(II) iodide (BaI2), respectively. The reactions with bromine and with iodine would probably require heat.&lt;/p&gt;
+
+&lt;p&gt;Source:&nbsp;https://www.webelements.com/barium/chemistry.html&lt;/p&gt;
+","2017-10-27 05:56:14",222874,66.130.202.95,1
+223271,7272,13253,10177,NULL,NULL,"&lt;p&gt;Another reaction is with nitric acid. Nitric acid is a powerful oxidizer and can form arsenic acid by oxidizing the arsenic and decreasing the nitrogen, forming nitrogen dioxide.&nbsp;&lt;/p&gt;
+","2017-10-27 06:03:33",220949,70.82.7.206,1
+223272,7272,13253,10199,NULL,NULL,"&lt;p&gt;Very interesting!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;BUT did you know that Iron reacts with excess of the halogens F2, Cl2, and Br2, to form ferric, that is, Fe(III), halides.&lt;/p&gt;
+
+&lt;p&gt;The results are:&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2Fe(s) + 3F2(g) &rarr; 2FeF3(s) (white)&lt;/p&gt;
+
+&lt;p&gt;2Fe(s) + 3Cl2(g) &rarr; 2FeCl3(s) (dark brown)&lt;/p&gt;
+
+&lt;p&gt;2Fe(s) + 3Br2(l) &rarr; 2FeBr3(s) (reddish brown)&lt;/p&gt;
+
+&lt;p&gt;Source:&nbsp;https://www.webelements.com/iron/chemistry.html&nbsp;&lt;/p&gt;
+","2017-10-27 06:04:36",222838,66.130.202.95,1
+223273,7272,13253,10258,NULL,NULL,"&lt;p&gt;&nbsp;Nitric acid reacts with iron to form a protective metal oxide layer around it through the process of passivation. Your character can you this as a means of protector herself from enemies that want to weaken her. Perhaps rub it on her skin in the form of a &ldquo;hydrating skin cream&rdquo; in the storyline?&nbsp;&lt;/p&gt;
+","2017-10-27 06:16:04",222838,74.58.30.117,1
+223274,7272,13253,10177,NULL,NULL,"&lt;p&gt;Another of arsenic&#039;s reactants is fluorine. When this reaction occurs between arsenic and fluorine, the gas arsenic(V)fluorine is formed.&lt;/p&gt;
+","2017-10-27 06:28:31",220949,70.82.7.206,1
+223276,7272,13253,10180,NULL,NULL,"&lt;p&gt;You can also say that Aluminium can react with Hydroxide to form&nbsp;Aluminium(III) hydroxide (&nbsp;Al(OH)3, small 3).&nbsp;Aluminium(III) hydroxide&nbsp;is used to treat symptoms of increased stomach pain and acid indigestion. It&nbsp;is also used to reduce phosphate levels in people with certain kidney conditions. Since your character has a lot of friend, he&nbsp;could use this reaction to heal them (when they are in human form) or even to heal himself&nbsp;from these severe conditions.&lt;/p&gt;
+","2017-10-27 06:52:36",220935,216.239.91.102,1
+223294,7272,13253,10876,NULL,NULL,"&lt;p&gt;Hey Dante! did you know that Plutonium is dissolved by hydrochloric acid. And also when&nbsp;Plutonium is in the air, it gets covered by a thin layer of plutonium oxide.&lt;/p&gt;
+","2017-10-27 16:58:27",220943,142.118.98.153,1
+223298,7272,13253,10255,NULL,NULL,"&lt;p&gt;Great ideas, I really like the reaction of aluminum with iodine (my superhero is based on that element), you can maybe add that that purple smoke is very toxic and dangerous for his enemies. I&#039;d like to give you another reaction that might help you, the reaction of aluminum with bromine. Bromine (Br) and aluminum (Al) react together to create&nbsp;AlBr(small3); this creates&nbsp;a lot of sparks made from the liquid aluminum which can be used by Captain Al as a diversion grenade. What do you think?&lt;/p&gt;
+","2017-10-27 20:19:59",222775,198.168.48.222,1
+223301,7272,13253,10202,NULL,NULL,"&lt;p&gt;Great Idea! you can also say that zinc reacts with acids. Zinc metal dissolves slowly in dilute sulphuric acid to form solutions containing the aquated Zn(II) ion together with hydrogen gas, H2. In practice, the Zn(II) is present as the complex ion [Zn(OH2)6]2+.&lt;/p&gt;
+","2017-10-27 21:21:39",220967,174.94.118.94,1
+223303,7272,13253,10194,NULL,NULL,"&lt;p&gt;Rubidium dissolves very easily in diluted sulphuric acid (H2SO4). Maybe it can be Galactic Ruby&#039;s &quot;Kryptonite&quot;.&lt;/p&gt;
+","2017-10-27 21:32:37",220988,167.88.26.154,1
+223304,7272,13253,10194,NULL,NULL,"&lt;p&gt;Nice reactions! Potassium also has an interesting reaction when it is cut open and its surface is introduced to oxygen (O2). When burned in air, it becomes orange potassium superoxide, KO2.&nbsp;&nbsp;&lt;/p&gt;
+","2017-10-27 21:40:42",222801,167.88.26.154,1
+223307,7272,13253,10254,NULL,NULL,"&lt;p&gt;Uranium tetrafluoride (UF4) reacts with f2 to get UF6. This result is one of the most volatile compounds of Uranium known to exist, and takes the shape of a white solid. Therefore, perhaps your character can have extremely volatile emotions, and maybe even white armor. Though he can also have depleted uranium (extremely dense) for armor on parts that are more susceptible to damage. &nbsp;&lt;/p&gt;
+","2017-10-27 23:09:13",222923,66.130.185.138,1
+223308,7272,13253,10268,NULL,NULL,"&lt;p&gt;Interesting reactions, Abdul!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Here&#039;s an additional reaction for ya: when graphite reacts with fluorine, F2, at high temperatures, it&nbsp;makes a mixture of carbon tetrafluoride, CF4, together with some C2F6&nbsp;and C5F12 (all numbers are small).&lt;/p&gt;
+","2017-10-27 23:28:51",222654,198.168.48.222,1
+223309,7272,13253,10268,NULL,NULL,"&lt;p&gt;Another lead&nbsp;reaction you can take note of is its reaction with oxygen. However this can only occur by heating lead to 600-800&deg;C, creating lead oxide, PbO.&lt;/p&gt;
+
+&lt;p&gt;2Pb(s) + O2[small number](g) &rarr; 2PbO(s)&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-27 23:56:10",222792,198.168.48.222,1
+223310,7272,13253,10176,NULL,NULL,"&lt;p&gt;Did you know that since there is tarnish on silver (a thin layer of corrosion), a reaction between silver and sulfide can cause a reaction that removes the tarnish on silver. So the reaction between silver and sulfur is that it converts silver sulfide back into silver and removes all tarnish.&lt;/p&gt;
+","2017-10-28 00:20:26",222860,65.38.77.35,1
+223312,7272,13253,10176,NULL,NULL,"&lt;p&gt;Gold and mercury form an amalgam (a mixture or a blend). It happens when you spill mercury on some gold. It&#039;s basically making a metal alloy (a mixture of metals).&lt;/p&gt;
+","2017-10-28 00:25:04",220956,65.38.77.35,1
+223325,7272,13253,10261,NULL,NULL,"&lt;p&gt;Very cool reactivity especially the explosion part. You can also add a reaction to ethanol which produce a beautiful&nbsp;purple flame... etc. You can refer to this link&nbsp;&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/watch?v=ytxx95g-kiA&lt;/p&gt;
+","2017-10-28 02:18:15",222836,24.201.250.135,1
+223326,7272,13253,10261,NULL,NULL,"&lt;p&gt;Silver is well known as a catalyst for decomposing hydrogen peroxide. Silver have been used for years in peroxide rocket engines and jet packs. Nearly pure hydrogen peroxide is forced through a screen of silver inside the engine. This causes the peroxide to burst into hot stream (600 degrees Celsius) and oxygen gas- producing thrust&lt;/p&gt;
+","2017-10-28 02:33:54",222860,24.201.250.135,1
+223328,7272,13253,10197,NULL,NULL,"&lt;p&gt;Mercury&nbsp; reacts with air when heated to approximately&nbsp;350 &deg;C, forming mercury(II) oxide, a reddish-orange powder.&lt;br /&gt;&lt;br /&gt;
+2 Hg(l)&nbsp;+ O2(g)&nbsp;&lt;img alt=&quot;&quot; src=&quot;https://pilgaardelements.com/Graphics/IrreversibleHeat.gif&quot; /&gt;&nbsp;2 HgO(s)&lt;/p&gt;
+
+&lt;p&gt;https://pilgaardelements.com/Mercury/Reactions.htm&lt;/p&gt;
+","2017-10-28 03:14:26",222825,70.24.203.182,1
+223331,7272,13253,10197,NULL,NULL,"&lt;p&gt;Tellurium reacts with fluorine, F2, forming tellurium(VI) fluoride.&lt;br /&gt;&lt;br /&gt;
+Te8(s)&nbsp;+ 24 F2(g)&nbsp;&lt;img alt=&quot;&quot; src=&quot;https://pilgaardelements.com/Graphics/Irreversible.jpg&quot; /&gt;&nbsp;8 TeF6(l)&nbsp;[orange]&lt;br /&gt;&lt;br /&gt;
+If the reaction takes place in a nitrogen atmosphere, at 0 &deg;C, tellurium(IV) fluoride is formed instead:&lt;br /&gt;&lt;br /&gt;
+Te8(s)&nbsp;+ 16 F2(g)&nbsp;&lt;img alt=&quot;&quot; src=&quot;https://pilgaardelements.com/Graphics/Irreversible.jpg&quot; /&gt;&nbsp;8 TeF4(s)&lt;/p&gt;
+
+&lt;p&gt;https://pilgaardelements.com/Tellurium/Reactions.htm&lt;/p&gt;
+","2017-10-28 03:30:53",220968,70.24.203.182,1
+223336,7272,13253,10178,NULL,NULL,"&lt;p&gt;Lithium also reacts with Sulphuric Acid. When you drop a piece of lithium in the acid, it will begin to dissolve and bubble, eventually creating flame and some small explosions.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Source:&nbsp;&lt;br /&gt;
+https://www.youtube.com/watch?v=Yhk7CQZpMGw&lt;/p&gt;
+","2017-10-28 04:07:28",222602,174.93.135.251,1
+223337,7272,13253,10352,NULL,NULL,"&lt;p&gt;Iodine, although less reactive than some of the other halogens, can have a very interesting reaction with aluminium. This reaction is initiated using water, with just a few drops on a mixture of aluminium powder and iodine, an exothermic reaction will take place and purple iodine vapours will be released. These vapours are actually toxic which your character could use!&lt;/p&gt;
+
+&lt;p&gt;source:&lt;/p&gt;
+
+&lt;p&gt;http://www.rsc.org/learn-chemistry/resource/res00000715/reaction-between-aluminium-and-iodine?cmpid=CMP00006598&lt;/p&gt;
+","2017-10-28 04:09:33",220063,24.200.186.145,1
+223338,7272,13253,10178,NULL,NULL,"&lt;p&gt;Mercury will also react with gold. When gold comes into contact with mercury, it appears as though the mercury is dissolving the gold but they are actually combining to form an alloy called an amalgam. This process is sometimes used to extract gold from from ores.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;br /&gt;
+https://www.youtube.com/watch?v=yAGYGGmUmUw&nbsp;&lt;/p&gt;
+","2017-10-28 04:16:13",222825,174.93.135.251,1
+223339,7272,13253,10352,NULL,NULL,"&lt;p&gt;When combined with nitrate to create silver nitrate (AgNO3), you have a white odourless solid that is often used in medicine. The compound has disinfectant and antimicrobial properties which your character could use to their advantage. If you character gets hurt by their enemy, they can easily get access to silver nitrate and use it as a form of pain relief so that they can quickly heal themselves.&lt;/p&gt;
+
+&lt;p&gt;source:&lt;/p&gt;
+
+&lt;p&gt;https://www.avocamedical.com/usage/medical-uses/&lt;/p&gt;
+","2017-10-28 04:20:38",220993,24.200.186.145,1
+223342,7272,13253,10542,NULL,NULL,"&lt;p&gt;when heated at a high temperature, lead&nbsp;melts to a silver ball then powder is gradually formed which is orange when hot and turns yellow when cold. Lead&nbsp;very slowly with dilute hydrochloric&lt;strong&gt;&nbsp;&lt;/strong&gt;acid&nbsp;to give lead&nbsp;chloride and hydrogen gas.&lt;/p&gt;
+","2017-10-28 04:55:30",222792,67.68.133.15,1
+223363,7272,13253,10235,NULL,NULL,"&lt;p&gt;Nice reactions! Did you know that platinum metal reacts with chlorine to form&nbsp;Platinum(II) chloride. It used to prepare other platinum compounds. It is diamagnetic which means it is repelled by a magnetic field.&nbsp;&lt;/p&gt;
+","2017-10-28 06:19:18",221057,64.231.239.103,1
+223364,7272,13253,10235,NULL,NULL,"&lt;p&gt;Nice reactions! Did you know that when bromine reacts with chloride, it forms&nbsp;bromine(I) chloride. This latter is a very reactive golden yellow glass and it is also a strong oxidizing agent.&nbsp;&lt;/p&gt;
+","2017-10-28 06:22:29",222795,64.231.239.103,1
+223370,7272,13253,10281,NULL,NULL,"&lt;p&gt;Rubidium can react easily with skin moisture which&nbsp;creates Rubidium hydroxide. Therefore, it can create chemical burns mostly on people&#039;s eyes or skin. She could distract her enemies by irritating their eyes and it could last at least&nbsp; 15 minutes.&lt;/p&gt;
+
+&lt;p&gt;minutes.https://www.lenntech.com/periodic/elements/rb.htm&lt;/p&gt;
+","2017-10-28 07:26:35",220988,174.94.108.125,1
+223379,7272,13253,10256,NULL,NULL,"&lt;p&gt;Did you know Tellurium does not react with acids or bases? I know I was supposed to find a reaction but I thought this might be interesting. In your essay Tellus could face off against a villain who has beaten countless people with the use of acids and bases, and then when he comes to attack your hero, he fails.&lt;/p&gt;
+","2017-10-28 18:10:19",222854,67.68.29.184,1
+223423,7272,13253,10181,NULL,NULL,"&lt;p&gt;Superhero: Cobalto, CO for short&lt;/p&gt;
+
+&lt;p&gt;Appearance: She has silver-grey hair like the colour of cobalt.&nbsp; Her hands are grey like a magnet. She wears fireproof suit as cobalt has a very high melting point.&lt;/p&gt;
+
+&lt;p&gt;Behavior: Cobalt is a brittle metal so she is tough but when something is very special to her then she has a very delicate temperament.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Super power: She can control magnets and her hands are magnets because cobalt has magnetic properties. Since cobalt is a hard metal, she also has very hard skin that protects her when she is saving the world.&lt;/p&gt;
+","2017-10-29 20:40:53",0,66.130.241.171,1
+223432,7272,13253,10182,NULL,NULL,"&lt;p&gt;Reactions:&lt;/p&gt;
+
+&lt;p&gt;With water Francium will cause a large explosion that would send radioactive material through the entire area surrounding. The Francium will turn into francium oxide and produce a dangerous hydrogen gas.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;With any Halogen, francium will also cause a large explosion of the same nature. Creating francium halides such as Francium Iodide.&lt;/p&gt;
+
+&lt;p&gt;With air it is expected that Francium will great Francium Super oxide (FO2) that other superoxides have been seen in the body&#039;s immune system to kill off other invading germs. It is assumed that this combination would be a toxin in the air.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2017-10-29 23:09:41",220965,174.89.235.105,1
+223433,7272,13253,10181,NULL,NULL,"&lt;p&gt;Chemical Reactions&lt;/p&gt;
+
+&lt;p&gt;1) The main use for cobalt is to alloy it with other metals such as aluminum or nickel which creates high-powered magnets. So, she gets along really well with her superhero buds Alumie (aluminum) and Nick (nickel) and when she teams up with them, she is even more powerful. She could defeat villains with teamwork.&lt;/p&gt;
+
+&lt;p&gt;2)&nbsp;The smelting process of cobalt can release arsenic vapors. So, when she gets too hot and her fire suit is no longer useful, she starts to sweat out arsenic vapors. This could happen on purpose, by trying to defeat the villain with the arsenic vapors or the villain could use this to make her accidentally poison civilians.&lt;/p&gt;
+
+&lt;p&gt;3)&nbsp;If Cobalto gets bombarded with neutrons in a nuclear reactor, she will become Co-60 and will then be able to detect flaws in metal.&lt;/p&gt;
+","2017-10-29 23:16:08",223423,66.130.241.171,1
+223490,7272,13253,10269,NULL,NULL,"&lt;p&gt;Colbalt can also react with water! If extremely hot cobalt metal is put in the presence of steam, in produce cobalt (ii) oxide!&lt;/p&gt;
+","2017-10-30 05:43:13",223423,70.82.35.47,1
+223492,7272,13253,10269,NULL,NULL,"&lt;p&gt;Solid plutonium also reacts with the air and oxygen! If oxidized, it can take on a yellowish coat&lt;/p&gt;
+","2017-10-30 05:46:56",222863,70.82.35.47,1

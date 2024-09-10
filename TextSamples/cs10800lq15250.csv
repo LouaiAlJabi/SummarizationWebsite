@@ -1,0 +1,713 @@
+id,class_session_id,lesson_question_id,user_id,group_id,logged_in_user,text,updated_on,parent_id,ip,visible
+281844,10800,15250,14756,NULL,NULL,"&lt;p&gt;the quad&lt;/p&gt;
+","2019-11-20 18:55:11",0,76.78.241.102,1
+281845,10800,15250,14756,NULL,NULL,"&lt;p&gt;arboretum&lt;/p&gt;
+","2019-11-20 18:56:33",0,76.78.241.102,1
+281846,10800,15250,14756,NULL,NULL,"&lt;p&gt;festival lawn&lt;/p&gt;
+","2019-11-20 18:57:05",0,76.78.241.102,1
+281847,10800,15250,14756,NULL,NULL,"&lt;p&gt;lake&lt;/p&gt;
+","2019-11-20 18:57:36",0,76.78.241.102,1
+281848,10800,15250,14756,NULL,NULL,"&lt;p&gt;trees/plants on campus&lt;/p&gt;
+","2019-11-20 18:58:35",0,76.78.241.102,1
+281849,10800,15250,14756,NULL,NULL,"&lt;p&gt;garden&lt;/p&gt;
+","2019-11-20 19:01:27",0,76.78.241.102,1
+281852,10800,15250,14613,NULL,NULL,"&lt;p&gt;The arboretum adds an aesthetic and educational value to the school.&lt;/p&gt;
+","2019-11-20 19:49:08",0,134.126.253.61,1
+281853,10800,15250,14613,NULL,NULL,"&lt;p&gt;Trees on campus help clean the air&lt;/p&gt;
+","2019-11-20 19:50:07",0,134.126.253.61,1
+281854,10800,15250,14613,NULL,NULL,"&lt;p&gt;The pond on East Campus adds aesthetic value&lt;/p&gt;
+","2019-11-20 19:51:38",0,134.126.253.61,1
+281855,10800,15250,14613,NULL,NULL,"&lt;p&gt;The rose garden can take in carbon dioxide.&lt;/p&gt;
+","2019-11-20 19:52:46",0,134.126.253.61,1
+281856,10800,15250,14613,NULL,NULL,"&lt;p&gt;The quad provides student&#039;s with a place to sit outside and enjoy the view.&lt;/p&gt;
+","2019-11-20 19:53:17",0,134.126.253.61,1
+281857,10800,15250,14613,NULL,NULL,"&lt;p&gt;The greenhouse in Bioscience provides educational opportunities.&lt;/p&gt;
+","2019-11-20 19:54:53",0,134.126.253.61,1
+281861,10800,15250,14706,NULL,NULL,"&lt;p&gt;Provisioning services are provided in these spaces because they include goods and services that are directly consumed by people. It provides things like food and entertainment for students around campus.&lt;/p&gt;
+","2019-11-20 20:46:18",0,208.76.203.214,1
+281862,10800,15250,14706,NULL,NULL,"&lt;p&gt;Trees and plants on campus give students air to walk around and breath.&lt;/p&gt;
+","2019-11-20 20:48:04",0,208.76.203.214,1
+281863,10800,15250,14706,NULL,NULL,"&lt;p&gt;Arboretum provides many animals and plants with a place to live and reproduce.&lt;/p&gt;
+","2019-11-20 20:52:24",0,208.76.203.214,1
+281864,10800,15250,14706,NULL,NULL,"&lt;p&gt;Buildings provide educational value to the school.&lt;/p&gt;
+","2019-11-20 20:52:53",0,208.76.203.214,1
+281865,10800,15250,14706,NULL,NULL,"&lt;p&gt;Newman Lake provides water supply for the campus.&lt;/p&gt;
+","2019-11-20 20:55:19",0,208.76.203.214,1
+281866,10800,15250,14706,NULL,NULL,"&lt;p&gt;Lawns provide a place for people to hang out.&lt;/p&gt;
+","2019-11-20 20:56:09",0,208.76.203.214,1
+281867,10800,15250,14706,NULL,NULL,"&lt;p&gt;The greenhouse provides educational and environmental factors for some species that can&#039;t grow in the climate here.&lt;/p&gt;
+","2019-11-20 20:59:01",0,208.76.203.214,1
+281872,10800,15250,14748,NULL,NULL,"&lt;p&gt;1. There are recycling bins all over campus (supporting)&lt;/p&gt;
+
+&lt;p&gt;2. There is drinking water that is available at students on campus (provisioning)&lt;/p&gt;
+
+&lt;p&gt;3. All around campus there is different walking/running paths (cultural)&lt;/p&gt;
+
+&lt;p&gt;4. We have an arboretum at our disposal that is very aesthetically pleasing (cultural)&lt;/p&gt;
+
+&lt;p&gt;5. There is plenty of places to get food on campus (provisioning)&lt;/p&gt;
+
+&lt;p&gt;6. JMU is constantly planting new trees that will one day grow into much larger trees (support)&lt;/p&gt;
+","2019-11-20 21:23:39",0,75.102.135.178,1
+281874,10800,15250,14704,NULL,NULL,"&lt;p&gt;A supporting service is done by the trees and shrubs throughout campus, the provide a habitat for other species.&lt;/p&gt;
+","2019-11-20 21:30:44",0,134.126.253.37,1
+281876,10800,15250,14704,NULL,NULL,"&lt;p&gt;trees on campus take in CO2 and release O2&nbsp;&lt;/p&gt;
+","2019-11-20 21:31:41",0,134.126.253.37,1
+281878,10800,15250,14704,NULL,NULL,"&lt;p&gt;The trees help prevent erosion on the hills of campus&lt;/p&gt;
+","2019-11-20 21:32:52",0,134.126.253.37,1
+281879,10800,15250,14704,NULL,NULL,"&lt;p&gt;the variety of trees on the quad and throughout campus help spark interest in nature&nbsp;&lt;/p&gt;
+","2019-11-20 21:33:43",0,134.126.253.37,1
+281880,10800,15250,14737,NULL,NULL,"&lt;p&gt;supporting services&lt;/p&gt;
+
+&lt;p&gt;- this service is necessary for all other services to take place.&lt;/p&gt;
+
+&lt;p&gt;1. The JMU arboretum&lt;/p&gt;
+
+&lt;p&gt;- provides oxygen production&lt;/p&gt;
+
+&lt;p&gt;- habitats for species&lt;/p&gt;
+","2019-11-20 21:34:40",0,76.78.241.12,1
+281881,10800,15250,14704,NULL,NULL,"&lt;p&gt;The rose garden can interest visitors and draw attention to the beauty of nature&lt;/p&gt;
+","2019-11-20 21:35:10",0,134.126.253.37,1
+281882,10800,15250,14704,NULL,NULL,"&lt;p&gt;the mountain streams and aquifers provide the students and staff with drinking water&lt;/p&gt;
+","2019-11-20 21:36:56",0,134.126.253.37,1
+281884,10800,15250,14737,NULL,NULL,"&lt;p&gt;2. provisioning services&lt;/p&gt;
+
+&lt;p&gt;- material and energy outputs&lt;/p&gt;
+
+&lt;p&gt;water fountains that provide clean water to students and multiple places that provide students with places to eat (festival, ehall, dhall, dhub, market)&lt;/p&gt;
+
+&lt;p&gt;3. regulating services&lt;/p&gt;
+
+&lt;p&gt;- regulate water, food and disease control&lt;/p&gt;
+
+&lt;p&gt;trees on the quad provide shade and control air quality&lt;/p&gt;
+
+&lt;p&gt;lake on festival lawn acts as a waste- water treatment&nbsp;for the campus.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;4. cultural services&lt;/p&gt;
+
+&lt;p&gt;- quad and festival lawn provide a spiritual benefit and are aesthetically pleasing.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;- great site for campus tours.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-20 21:45:33",281880,76.78.241.12,1
+281885,10800,15250,14681,NULL,NULL,"&lt;p&gt;UREC&#039;s facilities provide ecosystem services.&nbsp;&lt;/p&gt;
+","2019-11-20 21:50:32",0,134.126.253.80,1
+281886,10800,15250,14681,NULL,NULL,"&lt;p&gt;health center&lt;/p&gt;
+","2019-11-20 21:51:52",0,134.126.253.80,1
+281887,10800,15250,14681,NULL,NULL,"&lt;p&gt;religious groups&lt;/p&gt;
+","2019-11-20 21:52:28",0,134.126.253.80,1
+281888,10800,15250,14682,NULL,NULL,"&lt;p&gt;&nbsp;Provides a local ecosystem where students can perform experiments/studies.&lt;/p&gt;
+","2019-11-20 21:52:57",0,73.152.60.89,1
+281889,10800,15250,14681,NULL,NULL,"&lt;p&gt;arboretum&nbsp;&lt;/p&gt;
+","2019-11-20 21:53:07",0,134.126.253.80,1
+281890,10800,15250,14682,NULL,NULL,"&lt;p&gt;(Arboretum)&lt;/p&gt;
+","2019-11-20 21:53:44",281888,73.152.60.89,1
+281891,10800,15250,14682,NULL,NULL,"&lt;p&gt;Growing trees in the arboretum are providing oxygen and removing CO2.&lt;/p&gt;
+","2019-11-20 21:55:56",0,73.152.60.89,1
+281892,10800,15250,14681,NULL,NULL,"&lt;p&gt;ehall and dhall&lt;/p&gt;
+","2019-11-20 21:56:42",0,134.126.253.80,1
+281893,10800,15250,14681,NULL,NULL,"&lt;p&gt;trees are habitats for birds to build their nests&lt;/p&gt;
+","2019-11-20 21:57:52",0,134.126.253.80,1
+281894,10800,15250,14682,NULL,NULL,"&lt;p&gt;The lawns provide a place for students to relax and are aesthetically pleasing.&lt;/p&gt;
+","2019-11-20 21:58:52",0,73.152.60.89,1
+281895,10800,15250,14682,NULL,NULL,"&lt;p&gt;The ponds/lakes are aesthetically pleasing.&lt;/p&gt;
+","2019-11-20 22:00:31",0,73.152.60.89,1
+281898,10800,15250,14682,NULL,NULL,"&lt;p&gt;D-hall provides food for the students.&lt;/p&gt;
+","2019-11-20 22:04:41",0,73.152.60.89,1
+281900,10800,15250,14682,NULL,NULL,"&lt;p&gt;The greenhouse provides a place for students to learn.&lt;/p&gt;
+","2019-11-20 22:06:49",0,73.152.60.89,1
+281901,10800,15250,14698,NULL,NULL,"&lt;p&gt;bio lab education&lt;/p&gt;
+","2019-11-20 22:09:51",0,76.78.240.74,1
+281902,10800,15250,14698,NULL,NULL,"&lt;p&gt;plants help with erosion control&lt;/p&gt;
+","2019-11-20 22:10:28",0,76.78.240.74,1
+281905,10800,15250,14698,NULL,NULL,"&lt;p&gt;water to drink&lt;/p&gt;
+","2019-11-20 22:11:11",0,76.78.240.74,1
+281906,10800,15250,14698,NULL,NULL,"&lt;p&gt;plants provide oxygen&lt;/p&gt;
+","2019-11-20 22:11:28",0,76.78.240.74,1
+281910,10800,15250,14698,NULL,NULL,"&lt;p&gt;decomposition of fallen leaves provide nutrients for other life&lt;/p&gt;
+","2019-11-20 22:14:43",0,76.78.240.74,1
+281911,10800,15250,14698,NULL,NULL,"&lt;p&gt;the pond in the arboretum is aesthetically pleasing&nbsp;&lt;/p&gt;
+","2019-11-20 22:16:24",0,76.78.240.74,1
+281917,10800,15250,14604,NULL,NULL,"&lt;p&gt;Aesthetic - Beautiful gardens, a lot of trees and&nbsp;animals&nbsp;(JMU Arboretum).&lt;/p&gt;
+","2019-11-20 22:28:15",0,173.153.72.246,1
+281920,10800,15250,14744,NULL,NULL,"&lt;p&gt;1. timber- there are trees all over campus (provisioning)&lt;/p&gt;
+
+&lt;p&gt;2. flood control- campus has many hills and the water drains downhill into creeks (regulating services)&lt;/p&gt;
+
+&lt;p&gt;3. crop pollination- bees and wind pollinate the plants on campus (regulating services)&lt;/p&gt;
+
+&lt;p&gt;4. aesthetic services- JMU has a beautiful campus &amp;amp; arboretum (cultural services)&lt;/p&gt;
+
+&lt;p&gt;5. recreational- Upark, the arboretum, and JMU&#039;s campus provides many ways to be active outdoors (cultural services)&lt;/p&gt;
+
+&lt;p&gt;6. spiritual- the arboretum is a great place to meditate (cultural services)&nbsp;&lt;/p&gt;
+","2019-11-20 22:30:57",0,73.99.80.202,1
+281921,10800,15250,14738,NULL,NULL,"&lt;p&gt;trees all plated in one place used to purify the air/ provide oxygen. (arboretum)&lt;/p&gt;
+","2019-11-20 22:31:22",0,75.102.135.39,1
+281922,10800,15250,14579,NULL,NULL,"&lt;p&gt;JMU arboretum&lt;/p&gt;
+","2019-11-20 22:31:56",0,73.99.78.121,1
+281923,10800,15250,14604,NULL,NULL,"&lt;p&gt;Nutrient Cycling - Fungi recycling nutrients into soil.&lt;/p&gt;
+","2019-11-20 22:32:53",0,173.153.72.246,1
+281924,10800,15250,14738,NULL,NULL,"&lt;p&gt;the lake&nbsp;&lt;/p&gt;
+","2019-11-20 22:34:40",0,75.102.135.39,1
+281925,10800,15250,14579,NULL,NULL,"&lt;p&gt;the trees planted around campus add&nbsp;aesthetic value&lt;/p&gt;
+","2019-11-20 22:34:48",0,73.99.78.121,1
+281926,10800,15250,14604,NULL,NULL,"&lt;p&gt;Primary Production - Trees in the Arboretum producing oxygen.&lt;/p&gt;
+","2019-11-20 22:36:09",0,173.120.153.228,1
+281927,10800,15250,14579,NULL,NULL,"&lt;p&gt;I think that JMU has a small garden/greenhouse&nbsp;to grow herbs for the food courts&lt;/p&gt;
+","2019-11-20 22:37:06",0,73.99.78.121,1
+281929,10800,15250,14579,NULL,NULL,"&lt;p&gt;The quad&lt;/p&gt;
+","2019-11-20 22:37:46",0,73.99.78.121,1
+281930,10800,15250,14604,NULL,NULL,"&lt;p&gt;Nutrient Cycling - Trees in the Arboretum absorbing carbon dioxide and sunlight to release oxygen.&lt;/p&gt;
+","2019-11-20 22:37:55",0,173.120.153.228,1
+281931,10800,15250,14579,NULL,NULL,"&lt;p&gt;The wetland/stream that runs by UREC&lt;/p&gt;
+","2019-11-20 22:38:42",0,73.99.78.121,1
+281933,10800,15250,14579,NULL,NULL,"&lt;p&gt;The lake&lt;/p&gt;
+","2019-11-20 22:39:45",0,73.99.78.121,1
+281934,10800,15250,14604,NULL,NULL,"&lt;p&gt;Climate Regulation - Trees in the Arboretum absorb carbon from the environment.&lt;/p&gt;
+","2019-11-20 22:40:03",0,173.120.153.228,1
+281935,10800,15250,14604,NULL,NULL,"&lt;p&gt;Education - Arboretum used for lab classes and field trips.&lt;/p&gt;
+","2019-11-20 22:41:31",0,173.120.153.228,1
+281936,10800,15250,14728,NULL,NULL,"&lt;p&gt;1. Flower on campus have pollination which is a supporting service.&lt;/p&gt;
+
+&lt;p&gt;2. Food on campus is a provisioning service.&lt;/p&gt;
+
+&lt;p&gt;3. Urec on campus is recreational which is a cultural service.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;4. The fountain is aesthetic which is a cultural service.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;5. The health center is a medicinal resource which is a provisioning service.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;6. Water fountains are a regulating service.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-20 22:43:06",0,75.102.135.187,1
+281939,10800,15250,14738,NULL,NULL,"&lt;p&gt;garden at the top of ISAT&lt;/p&gt;
+","2019-11-20 22:49:40",0,75.102.135.39,1
+281940,10800,15250,14738,NULL,NULL,"&lt;p&gt;dining halls&nbsp;&lt;/p&gt;
+","2019-11-20 22:52:08",0,75.102.135.39,1
+281942,10800,15250,14738,NULL,NULL,"&lt;p&gt;Ecology labs done in the arboretum&nbsp;&lt;/p&gt;
+","2019-11-20 22:59:46",0,75.102.135.39,1
+281944,10800,15250,14738,NULL,NULL,"&lt;p&gt;quad and festival lawn&nbsp;&lt;/p&gt;
+","2019-11-20 23:02:10",0,75.102.135.39,1
+281947,10800,15250,14588,NULL,NULL,"&lt;p&gt;Used for teaching in classes&lt;/p&gt;
+","2019-11-20 23:12:10",0,134.126.253.113,1
+281948,10800,15250,14588,NULL,NULL,"&lt;p&gt;arboretum&lt;/p&gt;
+","2019-11-20 23:12:44",281947,134.126.253.113,1
+281950,10800,15250,14588,NULL,NULL,"&lt;p&gt;trees in arboretum take in Co2 and release O2&lt;/p&gt;
+","2019-11-20 23:15:15",0,134.126.253.113,1
+281951,10800,15250,14588,NULL,NULL,"&lt;p&gt;regulating&lt;/p&gt;
+","2019-11-20 23:15:37",281950,134.126.253.113,1
+281952,10800,15250,14588,NULL,NULL,"&lt;p&gt;stream by urec helps deal with floods&lt;/p&gt;
+","2019-11-20 23:16:39",0,134.126.253.113,1
+281953,10800,15250,14588,NULL,NULL,"&lt;p&gt;the trees are aesthetically pleasing on the quad&lt;/p&gt;
+","2019-11-20 23:17:03",0,134.126.253.113,1
+281954,10800,15250,14588,NULL,NULL,"&lt;p&gt;fungi in arboreteum provide nutrient cycling&lt;/p&gt;
+","2019-11-20 23:18:01",0,134.126.253.113,1
+281955,10800,15250,14588,NULL,NULL,"&lt;p&gt;grass on east campus are primary producers&lt;/p&gt;
+","2019-11-20 23:18:33",0,134.126.253.113,1
+281956,10800,15250,14755,NULL,NULL,"&lt;p&gt;Honey bee pollination&nbsp;&lt;/p&gt;
+","2019-11-20 23:21:31",0,75.102.135.107,1
+281957,10800,15250,14755,NULL,NULL,"&lt;p&gt;The pretty looking Quad&nbsp;&lt;/p&gt;
+","2019-11-20 23:23:16",0,75.102.135.107,1
+281958,10800,15250,14755,NULL,NULL,"&lt;p&gt;Arboretum trees (removing carbon)&lt;/p&gt;
+","2019-11-20 23:24:01",0,75.102.135.107,1
+281959,10800,15250,14755,NULL,NULL,"&lt;p&gt;Newman lake helps clean water naturally.&nbsp;&lt;/p&gt;
+","2019-11-20 23:24:57",0,75.102.135.107,1
+281960,10800,15250,14755,NULL,NULL,"&lt;p&gt;Grass around campus is a primary producer.&lt;/p&gt;
+","2019-11-20 23:25:31",0,75.102.135.107,1
+281962,10800,15250,14755,NULL,NULL,"&lt;p&gt;Mountain streams provide drinking water.&nbsp;&lt;/p&gt;
+","2019-11-20 23:26:08",0,75.102.135.107,1
+281963,10800,15250,14755,NULL,NULL,"&lt;p&gt;Mountain streams provide drinking water.&lt;/p&gt;
+","2019-11-20 23:26:30",0,75.102.135.107,1
+281971,10800,15250,14774,NULL,NULL,"&lt;p&gt;The green space on East Campus provides a cultural service, as many people play sports like Frisbee, spikeball, etc. on the lawns.&lt;/p&gt;
+","2019-11-20 23:39:44",0,134.126.253.21,1
+281972,10800,15250,14774,NULL,NULL,"&lt;p&gt;The grassy areas on campus absorb runoff rainwater when it rains heavily, preventing floods on the concrete surfaces&lt;/p&gt;
+","2019-11-20 23:41:00",0,134.126.253.21,1
+281973,10800,15250,14774,NULL,NULL,"&lt;p&gt;any of the spaces with plants have primary producers&lt;/p&gt;
+","2019-11-20 23:42:05",0,134.126.253.21,1
+281975,10800,15250,14774,NULL,NULL,"&lt;p&gt;Bio 250 lab uses the arboretum for educational experiments&lt;/p&gt;
+","2019-11-20 23:43:15",0,134.126.253.21,1
+281976,10800,15250,14774,NULL,NULL,"&lt;p&gt;the arboretum is just a lovely place to hike as well&lt;/p&gt;
+","2019-11-20 23:44:53",0,134.126.253.21,1
+281977,10800,15250,14774,NULL,NULL,"&lt;p&gt;the ponds on east campus collect a lot of rain water when it rains heavily and prevent flooding&nbsp;&lt;/p&gt;
+","2019-11-20 23:45:53",0,134.126.253.21,1
+281985,10800,15250,14689,NULL,NULL,"&lt;p&gt;Newman Lake provides an area for runoff water.&lt;/p&gt;
+","2019-11-21 00:30:30",0,71.63.33.135,1
+281986,10800,15250,14689,NULL,NULL,"&lt;p&gt;Trees supply oxygen for us&lt;/p&gt;
+","2019-11-21 00:31:45",281985,71.63.33.135,1
+281987,10800,15250,14689,NULL,NULL,"&lt;p&gt;Trees supply is with oxygen&nbsp;&lt;/p&gt;
+","2019-11-21 00:32:18",0,71.63.33.135,1
+281988,10800,15250,14689,NULL,NULL,"&lt;p&gt;Arboretum is used for class&lt;/p&gt;
+","2019-11-21 00:32:50",0,71.63.33.135,1
+281989,10800,15250,14689,NULL,NULL,"&lt;p&gt;Arboretum is aesthetic&lt;/p&gt;
+","2019-11-21 00:33:34",0,71.63.33.135,1
+281990,10800,15250,14689,NULL,NULL,"&lt;p&gt;The gardens/trees take in CO2&lt;/p&gt;
+","2019-11-21 00:34:07",0,71.63.33.135,1
+281991,10800,15250,14689,NULL,NULL,"&lt;p&gt;Trees and shrubs provide shelter for squirrels, etc.&lt;/p&gt;
+","2019-11-21 00:35:02",0,71.63.33.135,1
+281992,10800,15250,14768,NULL,NULL,"&lt;p&gt;provisioning- JMU dining halls, water services&nbsp;&lt;/p&gt;
+
+&lt;p&gt;cultural- Upark, the arboretum&nbsp;&lt;/p&gt;
+
+&lt;p&gt;supporting- landscapers at JMU&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-21 00:35:49",0,134.126.253.61,1
+281995,10800,15250,14742,NULL,NULL,"&lt;p&gt;JMU maintains&nbsp;the arboretum which helps to produce oxygen&nbsp;&lt;/p&gt;
+","2019-11-21 00:39:29",0,209.54.89.65,1
+281996,10800,15250,14742,NULL,NULL,"&lt;p&gt;The Quad provides a place for students to sit outside and relax&lt;/p&gt;
+","2019-11-21 00:43:18",0,209.54.89.65,1
+281997,10800,15250,14742,NULL,NULL,"&lt;p&gt;The open space provided on east campus designed with a clear view of the mountains. View of nature and open green spaces has been shown to improve mood and wellbeing.&lt;/p&gt;
+","2019-11-21 00:45:41",0,209.54.89.65,1
+281999,10800,15250,14742,NULL,NULL,"&lt;p&gt;Near the UREC and ISAT building JMU has beehives which contributes&nbsp;to pollination in the area&lt;/p&gt;
+","2019-11-21 00:48:41",0,209.54.89.65,1
+282000,10800,15250,14742,NULL,NULL,"&lt;p&gt;The arboretum provides several animals with places to live and reproduce&lt;/p&gt;
+","2019-11-21 00:50:53",0,209.54.89.65,1
+282001,10800,15250,14742,NULL,NULL,"&lt;p&gt;JMU has many ponds and hill which helps to prevent flooding&nbsp;&lt;/p&gt;
+","2019-11-21 00:52:49",0,209.54.89.65,1
+282004,10800,15250,14760,NULL,NULL,"&lt;p&gt;flood prevention (not clear)&lt;/p&gt;
+","2019-11-21 01:07:14",0,75.102.135.133,1
+282005,10800,15250,14760,NULL,NULL,"&lt;p&gt;Arboretum creating homes for plants and animals&lt;/p&gt;
+","2019-11-21 01:08:33",0,75.102.135.133,1
+282006,10800,15250,14760,NULL,NULL,"&lt;p&gt;the quad for aesthetic&nbsp;&lt;/p&gt;
+","2019-11-21 01:08:55",0,75.102.135.133,1
+282007,10800,15250,14760,NULL,NULL,"&lt;p&gt;the greenhouse&nbsp;&lt;/p&gt;
+","2019-11-21 01:09:42",0,75.102.135.133,1
+282008,10800,15250,14760,NULL,NULL,"&lt;p&gt;newman lake&lt;/p&gt;
+","2019-11-21 01:10:37",0,75.102.135.133,1
+282009,10800,15250,14760,NULL,NULL,"&lt;p&gt;dining halls&nbsp;&lt;/p&gt;
+","2019-11-21 01:11:06",0,75.102.135.133,1
+282010,10800,15250,14760,NULL,NULL,"&lt;p&gt;trees across campus&lt;/p&gt;
+","2019-11-21 01:13:12",0,75.102.135.133,1
+282014,10800,15250,14623,NULL,NULL,"&lt;p&gt;The arboretum helps remove CO2 from the atmosphere&lt;/p&gt;
+","2019-11-21 02:01:43",0,75.102.135.184,1
+282015,10800,15250,14623,NULL,NULL,"&lt;p&gt;The quad&lt;/p&gt;
+","2019-11-21 02:03:09",0,75.102.135.184,1
+282016,10800,15250,14623,NULL,NULL,"&lt;p&gt;Dining halls&lt;/p&gt;
+","2019-11-21 02:04:08",0,75.102.135.184,1
+282017,10800,15250,14623,NULL,NULL,"&lt;p&gt;Purple and yellow flowers around campus&lt;/p&gt;
+","2019-11-21 02:05:41",0,75.102.135.184,1
+282018,10800,15250,14623,NULL,NULL,"&lt;p&gt;Festival Lawn&lt;/p&gt;
+","2019-11-21 02:06:02",0,75.102.135.184,1
+282019,10800,15250,14623,NULL,NULL,"&lt;p&gt;The greenhouse in bioscience&lt;/p&gt;
+","2019-11-21 02:07:27",0,75.102.135.184,1
+282022,10800,15250,14703,NULL,NULL,"&lt;p&gt;1. The JMU Arboretum providing cultural services to the community.&lt;/p&gt;
+","2019-11-21 02:16:14",0,75.102.137.40,1
+282023,10800,15250,14703,NULL,NULL,"&lt;p&gt;2. The sunset view from East Campus provides an aesthetic service to the community.&nbsp;&nbsp;&lt;/p&gt;
+","2019-11-21 02:17:51",0,75.102.137.40,1
+282024,10800,15250,14703,NULL,NULL,"&lt;p&gt;3. The streams on campus directing rainfall to prevent flooding.&lt;/p&gt;
+","2019-11-21 02:18:53",0,75.102.137.40,1
+282025,10800,15250,14703,NULL,NULL,"&lt;p&gt;4. The quad provides an aesthetic service to the JMU community.&nbsp;&nbsp;&lt;/p&gt;
+","2019-11-21 02:21:06",0,75.102.137.40,1
+282026,10800,15250,14703,NULL,NULL,"&lt;p&gt;5. UPark provides recreational benefits to the community.&nbsp;&lt;/p&gt;
+","2019-11-21 02:22:31",0,75.102.137.40,1
+282027,10800,15250,14703,NULL,NULL,"&lt;p&gt;6. Newman Lake provides both an aesthetic and cultural benefit to JMU.&nbsp;&lt;/p&gt;
+","2019-11-21 02:23:39",0,75.102.137.40,1
+282035,10800,15250,14575,NULL,NULL,"&lt;p&gt;JMU Arboretum- is a great location for edcuational activities&nbsp;&lt;/p&gt;
+","2019-11-21 02:56:10",0,199.87.199.35,1
+282036,10800,15250,14575,NULL,NULL,"&lt;p&gt;Vast amount of trees all over campus provide homes for birds&nbsp;&lt;/p&gt;
+","2019-11-21 02:58:05",0,199.87.199.35,1
+282037,10800,15250,14761,NULL,NULL,"&lt;p&gt;Flood prevention (east campus pond)&lt;/p&gt;
+","2019-11-21 03:00:03",0,134.126.253.93,1
+282038,10800,15250,14575,NULL,NULL,"&lt;p&gt;Stream running by UREC can help drain rain water&lt;/p&gt;
+","2019-11-21 03:00:28",0,199.87.199.35,1
+282039,10800,15250,14761,NULL,NULL,"&lt;p&gt;Erosion prevention (trees along hill leading down to east campus pond)&lt;/p&gt;
+","2019-11-21 03:00:44",0,134.126.253.93,1
+282040,10800,15250,14575,NULL,NULL,"&lt;p&gt;Garden- adds aesthetically pleasing imagery to campus&nbsp;&lt;/p&gt;
+","2019-11-21 03:01:03",0,199.87.199.35,1
+282041,10800,15250,14761,NULL,NULL,"&lt;p&gt;pest regulation (quad)&lt;/p&gt;
+","2019-11-21 03:01:36",0,134.126.253.93,1
+282042,10800,15250,14761,NULL,NULL,"&lt;p&gt;Aesthetic (quad)&lt;/p&gt;
+","2019-11-21 03:01:56",0,134.126.253.93,1
+282043,10800,15250,14746,NULL,NULL,"&lt;p&gt;oxygen production&lt;/p&gt;
+","2019-11-21 03:01:57",0,173.153.144.244,1
+282044,10800,15250,14575,NULL,NULL,"&lt;p&gt;Festival Lawn- great place for students to relax and let dogs run&nbsp;&lt;/p&gt;
+","2019-11-21 03:01:57",0,199.87.199.35,1
+282045,10800,15250,14761,NULL,NULL,"&lt;p&gt;Education (arboretum)&lt;/p&gt;
+","2019-11-21 03:02:10",0,134.126.253.93,1
+282047,10800,15250,14761,NULL,NULL,"&lt;p&gt;recreation (arboretum)&lt;/p&gt;
+","2019-11-21 03:02:38",0,134.126.253.93,1
+282048,10800,15250,14575,NULL,NULL,"&lt;p&gt;Quad Lawn- popular location for students to hangout&nbsp;&lt;/p&gt;
+","2019-11-21 03:03:18",0,199.87.199.35,1
+282049,10800,15250,14575,NULL,NULL,"&lt;p&gt;East Campus Pond- provides a place for ducks to live and feed from&nbsp;&lt;/p&gt;
+","2019-11-21 03:03:47",0,199.87.199.35,1
+282050,10800,15250,14746,NULL,NULL,"&lt;p&gt;by trees/ plants anywhere on campus&lt;/p&gt;
+","2019-11-21 03:03:54",282043,173.153.144.244,1
+282051,10800,15250,14746,NULL,NULL,"&lt;p&gt;arboretum&lt;/p&gt;
+","2019-11-21 03:04:46",0,173.153.144.244,1
+282052,10800,15250,14746,NULL,NULL,"&lt;p&gt;pond in the arboretum&lt;/p&gt;
+","2019-11-21 03:08:10",0,173.153.144.244,1
+282053,10800,15250,14746,NULL,NULL,"&lt;p&gt;aesthetically pleasing&lt;/p&gt;
+","2019-11-21 03:09:31",282052,173.153.144.244,1
+282054,10800,15250,14746,NULL,NULL,"&lt;p&gt;can conduct experiments (cultural); soil and water retention (regulating)&lt;/p&gt;
+","2019-11-21 03:11:13",282051,173.153.144.244,1
+282058,10800,15250,14746,NULL,NULL,"&lt;p&gt;Greenhouse in Bioscience&lt;/p&gt;
+","2019-11-21 03:15:00",0,173.153.144.244,1
+282061,10800,15250,14746,NULL,NULL,"&lt;p&gt;arboretum provides shelter for animals&lt;/p&gt;
+","2019-11-21 03:16:21",0,173.153.144.244,1
+282062,10800,15250,14746,NULL,NULL,"&lt;p&gt;the quad&nbsp;&lt;/p&gt;
+","2019-11-21 03:17:07",0,173.153.144.244,1
+282065,10800,15250,14750,NULL,NULL,"&lt;p&gt;food being grown in the bioscience greenhouse&lt;/p&gt;
+","2019-11-21 03:33:27",0,75.102.135.82,1
+282066,10800,15250,14750,NULL,NULL,"&lt;p&gt;trees planted in the arboretum&nbsp;&lt;/p&gt;
+","2019-11-21 03:33:41",0,75.102.135.82,1
+282067,10800,15250,14750,NULL,NULL,"&lt;p&gt;the quad&lt;/p&gt;
+","2019-11-21 03:34:29",0,75.102.135.82,1
+282068,10800,15250,14750,NULL,NULL,"&lt;p&gt;Upark&lt;/p&gt;
+","2019-11-21 03:35:16",0,75.102.135.82,1
+282069,10800,15250,14750,NULL,NULL,"&lt;p&gt;festival field&lt;/p&gt;
+","2019-11-21 03:35:38",0,75.102.135.82,1
+282071,10800,15250,14729,NULL,NULL,"&lt;p&gt;A cultural ecosystem our campus provides is in the arboretum because it provides educational purposes.&nbsp;&lt;/p&gt;
+","2019-11-21 03:35:48",0,71.63.33.135,1
+282072,10800,15250,14750,NULL,NULL,"&lt;p&gt;bioscience greenhouse can help absorb CO2&lt;/p&gt;
+","2019-11-21 03:36:04",0,75.102.135.82,1
+282075,10800,15250,14722,NULL,NULL,"&lt;p&gt;The Quad is a place many people are able to relax and congregate.&lt;/p&gt;
+","2019-11-21 03:39:43",0,76.78.241.207,1
+282076,10800,15250,14729,NULL,NULL,"&lt;p&gt;The Newman lake provides a place for runoff water to go&nbsp;&lt;/p&gt;
+","2019-11-21 03:41:18",0,71.63.33.135,1
+282077,10800,15250,14729,NULL,NULL,"&lt;p&gt;arboretum for oxygen production&nbsp;&lt;/p&gt;
+","2019-11-21 03:41:51",0,71.63.33.135,1
+282078,10800,15250,14729,NULL,NULL,"&lt;p&gt;religious clubs/groups&nbsp;&lt;/p&gt;
+","2019-11-21 03:42:41",0,71.63.33.135,1
+282079,10800,15250,14722,NULL,NULL,"&lt;p&gt;Bee hive boxes on east campus provide pollination&lt;/p&gt;
+","2019-11-21 03:43:59",282075,76.78.241.207,1
+282080,10800,15250,14729,NULL,NULL,"&lt;p&gt;flood regulation by man made run off systems&nbsp;&lt;/p&gt;
+","2019-11-21 03:44:26",0,71.63.33.135,1
+282081,10800,15250,14722,NULL,NULL,"&lt;p&gt;Many trees and plants on campus&lt;/p&gt;
+","2019-11-21 03:44:45",282075,76.78.241.207,1
+282082,10800,15250,14729,NULL,NULL,"&lt;p&gt;ehall hydroponics&nbsp;&lt;/p&gt;
+","2019-11-21 03:45:54",0,71.63.33.135,1
+282083,10800,15250,14722,NULL,NULL,"&lt;p&gt;JMU Arboretum&lt;/p&gt;
+","2019-11-21 03:47:56",0,76.78.241.207,1
+282084,10800,15250,14722,NULL,NULL,"&lt;p&gt;Garden on East Campus behind e-hall may provide some herbs&lt;/p&gt;
+","2019-11-21 03:49:44",0,76.78.241.207,1
+282085,10800,15250,14722,NULL,NULL,"&lt;p&gt;Ponds near Skyline dorms is a habitat for ducks&lt;/p&gt;
+","2019-11-21 03:53:10",282075,76.78.241.207,1
+282093,10800,15250,14765,NULL,NULL,"&lt;p&gt;The Quad is a cultural ecosystem because it&#039;s a pretty area for people to enjoy being in.&lt;/p&gt;
+","2019-11-21 04:07:55",0,76.78.241.167,1
+282095,10800,15250,14765,NULL,NULL,"&lt;p&gt;Arboretum adds vale by removing CO2&lt;/p&gt;
+","2019-11-21 04:09:01",0,76.78.241.167,1
+282096,10800,15250,14765,NULL,NULL,"&lt;p&gt;The Lawn on easy campus&lt;/p&gt;
+","2019-11-21 04:09:38",0,76.78.241.167,1
+282097,10800,15250,14765,NULL,NULL,"&lt;p&gt;Grasses and bushes&lt;/p&gt;
+","2019-11-21 04:11:26",0,76.78.241.167,1
+282098,10800,15250,14765,NULL,NULL,"&lt;p&gt;Bees help provide polination&lt;/p&gt;
+","2019-11-21 04:12:15",0,76.78.241.167,1
+282099,10800,15250,14765,NULL,NULL,"&lt;p&gt;Bushes and flowers add cultural value&lt;/p&gt;
+","2019-11-21 04:12:29",0,76.78.241.167,1
+282103,10800,15250,14793,NULL,NULL,"&lt;p&gt;Aboretum provides aesthetic enjoyment&lt;/p&gt;
+","2019-11-21 05:06:04",0,76.78.241.98,1
+282105,10800,15250,14793,NULL,NULL,"&lt;p&gt;Newman lake provides a water source&lt;/p&gt;
+","2019-11-21 05:07:25",0,76.78.241.98,1
+282106,10800,15250,14793,NULL,NULL,"&lt;p&gt;Bees on campus are pollinators&lt;/p&gt;
+","2019-11-21 05:08:07",0,76.78.241.98,1
+282107,10800,15250,14793,NULL,NULL,"&lt;p&gt;Newman lake provides aesthetic enjoyment&lt;/p&gt;
+","2019-11-21 05:08:58",0,76.78.241.98,1
+282108,10800,15250,14793,NULL,NULL,"&lt;p&gt;The arboretum provides educational opportunities.&lt;/p&gt;
+","2019-11-21 05:12:43",0,76.78.241.98,1
+282110,10800,15250,14793,NULL,NULL,"&lt;p&gt;The creek near Godwin decreases erosion&lt;/p&gt;
+","2019-11-21 05:13:57",0,76.78.241.98,1
+282112,10800,15250,14675,NULL,NULL,"&lt;p&gt;A- the site of ingestion energy is transferred to the worm&lt;/p&gt;
+
+&lt;p&gt;B- energy transferred to soil through excretion&lt;/p&gt;
+
+&lt;p&gt;C- energy lost to digestion&nbsp;&lt;/p&gt;
+","2019-11-21 05:16:32",0,76.78.241.201,1
+282115,10800,15250,14771,NULL,NULL,"&lt;p&gt;The arboretum. provides food and shelter to a number of organisms within Harrisonburg while harboring plants that help clean the air&lt;/p&gt;
+","2019-11-21 06:14:54",0,208.76.203.214,1
+282116,10800,15250,14771,NULL,NULL,"&lt;p&gt;the arboretum also provides learning opportunities and aesthetic&lt;/p&gt;
+","2019-11-21 06:18:17",0,208.76.203.214,1
+282117,10800,15250,14771,NULL,NULL,"&lt;p&gt;Newman lake provides aesthetic&lt;/p&gt;
+","2019-11-21 06:19:04",0,208.76.203.214,1
+282118,10800,15250,14771,NULL,NULL,"&lt;p&gt;the gardens on the rooftop of isat provide resources directly to those who maintain it&lt;/p&gt;
+","2019-11-21 06:19:38",0,208.76.203.214,1
+282119,10800,15250,14771,NULL,NULL,"&lt;p&gt;the gardens on the roof of isat also have benches around them, allowing you to sit around and enjoy their aesthetic&lt;/p&gt;
+","2019-11-21 06:20:29",0,208.76.203.214,1
+282120,10800,15250,14771,NULL,NULL,"&lt;p&gt;the birds in the arboretum help pollinate plants&lt;/p&gt;
+","2019-11-21 06:22:27",0,208.76.203.214,1
+282121,10800,15250,14771,NULL,NULL,"&lt;p&gt;festival lawn provides an aesthetic for people to hangout and enjoy&lt;/p&gt;
+","2019-11-21 06:22:57",0,208.76.203.214,1
+282127,10800,15250,14797,NULL,NULL,"&lt;p&gt;i don&#039;t know what the objective is&nbsp;&lt;/p&gt;
+","2019-11-21 07:27:29",0,75.102.137.40,1
+282129,10800,15250,14675,NULL,NULL,"&lt;p&gt;The arboretum is used for in class experiments&lt;/p&gt;
+","2019-11-21 08:01:32",0,76.78.241.201,1
+282130,10800,15250,14675,NULL,NULL,"&lt;p&gt;The purple and yellow flowers along the JMU sign&nbsp;&lt;/p&gt;
+","2019-11-21 08:01:53",0,76.78.241.201,1
+282131,10800,15250,14675,NULL,NULL,"&lt;p&gt;The trees around the east campus pond stop erosion of the surrounding soil&lt;/p&gt;
+","2019-11-21 08:02:46",0,76.78.241.201,1
+282132,10800,15250,14675,NULL,NULL,"&lt;p&gt;The trees produce Oxygen and take in CO2&lt;/p&gt;
+","2019-11-21 08:05:00",0,76.78.241.201,1
+282133,10800,15250,14675,NULL,NULL,"&lt;p&gt;trees on the quad provide shade&lt;/p&gt;
+","2019-11-21 08:06:00",0,76.78.241.201,1
+282134,10800,15250,14675,NULL,NULL,"&lt;p&gt;The fountain is an aesthetically pleasing structure&lt;/p&gt;
+","2019-11-21 08:07:07",0,76.78.241.201,1
+282135,10800,15250,14675,NULL,NULL,"&lt;p&gt;Mr. Chips provides provisions for students on campus&lt;/p&gt;
+","2019-11-21 08:07:43",0,76.78.241.201,1
+282140,10800,15250,14934,NULL,NULL,"&lt;p&gt;Regulating, the green around the pond on east campus acts as a buffer between the campus and the water/animals.&lt;/p&gt;
+","2019-11-21 13:08:22",0,75.102.137.40,1
+282141,10800,15250,14934,NULL,NULL,"&lt;p&gt;Cultural, the arboretum is used as a spot people can sit/walk around to enjoy nature.&lt;/p&gt;
+","2019-11-21 13:09:27",0,75.102.137.40,1
+282142,10800,15250,14934,NULL,NULL,"&lt;p&gt;cultural, the quad people sit/walk in the grass/trees.&lt;/p&gt;
+","2019-11-21 13:10:28",0,75.102.137.40,1
+282143,10800,15250,14934,NULL,NULL,"&lt;p&gt;Trees placed around campus keep soil in place and &#039;clean&#039; the air&lt;/p&gt;
+","2019-11-21 13:12:52",0,75.102.137.40,1
+282144,10800,15250,14934,NULL,NULL,"&lt;p&gt;regulating, the arboretum is mostly undisturbed and can provide space for pollination and climate regulation.&lt;/p&gt;
+","2019-11-21 13:16:01",0,75.102.137.40,1
+282145,10800,15250,14934,NULL,NULL,"&lt;p&gt;Provisioning, the water source that provides the tap water&lt;/p&gt;
+","2019-11-21 13:17:08",0,75.102.137.40,1
+282149,10800,15250,14773,NULL,NULL,"&lt;p&gt;Tree planting: selling native trees&lt;/p&gt;
+
+&lt;p&gt;Tourism: weddings, field trips, (art exhibitions)&lt;/p&gt;
+
+&lt;p&gt;Conservation group: recording, sharing, and discussing the ecosystem&lt;/p&gt;
+
+&lt;p&gt;&quot;Virginia&#039;s homegrown plant of the month&quot; planting&lt;/p&gt;
+
+&lt;p&gt;5k run/walk: donations&lt;/p&gt;
+
+&lt;p&gt;Man-made lake&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-21 14:46:04",0,75.102.135.163,1
+282156,10800,15250,14751,NULL,NULL,"&lt;p&gt;provisioning- dinning halls&lt;/p&gt;
+
+&lt;p&gt;cultural- arboretum&lt;/p&gt;
+
+&lt;p&gt;cultural- landscapers&nbsp;&lt;/p&gt;
+
+&lt;p&gt;cultural- plants potted in buildings&nbsp;&lt;/p&gt;
+
+&lt;p&gt;provisioning- sunday farmers market&nbsp;&lt;/p&gt;
+
+&lt;p&gt;regulating- health center&nbsp;&nbsp;&lt;/p&gt;
+","2019-11-21 15:44:20",0,98.244.112.227,1
+282159,10800,15250,14763,NULL,NULL,"&lt;p&gt;The arboretum is a cultural ecosystem service&lt;/p&gt;
+","2019-11-21 16:07:56",0,75.102.135.142,1
+282160,10800,15250,14763,NULL,NULL,"&lt;p&gt;The quad&lt;/p&gt;
+","2019-11-21 16:12:11",0,75.102.135.142,1
+282161,10800,15250,14763,NULL,NULL,"&lt;p&gt;Flowers around campus providing pollination&lt;/p&gt;
+","2019-11-21 16:14:09",0,75.102.135.142,1
+282162,10800,15250,14763,NULL,NULL,"&lt;p&gt;The greenhouse located in bioscience&lt;/p&gt;
+","2019-11-21 16:15:20",0,75.102.135.142,1
+282163,10800,15250,14763,NULL,NULL,"&lt;p&gt;Trees around campus providing oxygen&lt;/p&gt;
+","2019-11-21 16:16:11",0,75.102.135.142,1
+282165,10800,15250,14763,NULL,NULL,"&lt;p&gt;Newman lake&lt;/p&gt;
+","2019-11-21 16:19:54",0,75.102.135.142,1
+282200,10800,15250,14688,NULL,NULL,"&lt;p&gt;The worms and trees in the green spaces are forming soil for the rest of the ecosystem&lt;/p&gt;
+","2019-11-21 18:08:03",0,76.78.241.131,1
+282202,10800,15250,14688,NULL,NULL,"&lt;p&gt;trees around campus provide O2&lt;/p&gt;
+","2019-11-21 18:09:18",0,76.78.241.131,1
+282204,10800,15250,14688,NULL,NULL,"&lt;p&gt;garden by urec provides fresh veggies and fruit&nbsp;&lt;/p&gt;
+","2019-11-21 18:10:22",0,76.78.241.131,1
+282206,10800,15250,14688,NULL,NULL,"&lt;p&gt;drinking water available all around campus&nbsp;&lt;/p&gt;
+","2019-11-21 18:11:45",0,76.78.241.131,1
+282207,10800,15250,14688,NULL,NULL,"&lt;p&gt;bees pollinate flowers in arboretum&nbsp;&lt;/p&gt;
+","2019-11-21 18:12:20",0,76.78.241.131,1
+282208,10800,15250,14902,NULL,NULL,"&lt;p&gt;The Arboretum:&nbsp;&lt;br /&gt;
+Service 1: Aesthetics (indirect/cultural): Provides a preserved natural scenery typical of the mountains.&lt;/p&gt;
+
+&lt;p&gt;Service 2: Activity space (indirect, cultural)&nbsp;the arboretum provides a space for exercise and other recreational activity&lt;/p&gt;
+
+&lt;p&gt;Service 3: Pollination and wildlife (Regulating, direct): the arboretum has local flowering plants that attract bee populations to the surrounding area. The arboretum also provides a preserved space for plant species, keeping genetic variability high.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;The Quad:&lt;/p&gt;
+
+&lt;p&gt;Service 1: Aesthetics (Cultural, Indirect): Makes campus look nice, provides a central space for students and staff&lt;/p&gt;
+
+&lt;p&gt;Service 2: Space (Cultural/indirect): The quad offers open green space for recreational activities.&lt;/p&gt;
+
+&lt;p&gt;Service 3: Shelter for the Quad Cats (Cultural, Direct): The quad provides shelter for the quad cats, celebrated animals on the quad.&lt;br /&gt;
+&nbsp;&lt;/p&gt;
+","2019-11-21 18:12:39",0,98.244.116.111,1
+282209,10800,15250,14688,NULL,NULL,"&lt;p&gt;greenhouse near bio-science building is great tool for learning&nbsp;&lt;/p&gt;
+","2019-11-21 18:13:13",0,76.78.241.131,1
+282210,10800,15250,14710,NULL,NULL,"&lt;p&gt;1.)&nbsp; Newman lake (regulating)&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2.) Trees around Newman Lake (produce oxygen) (provisioning service)&lt;/p&gt;
+
+&lt;p&gt;3.) Arboretum (provisioning)&lt;/p&gt;
+
+&lt;p&gt;4.) flood control (cultural ecosystem)&lt;/p&gt;
+
+&lt;p&gt;5.) Carbon intake (cultural ecosystem)&lt;/p&gt;
+
+&lt;p&gt;6.) Pollination (regulating)&lt;/p&gt;
+
+&lt;p&gt;4.) Water purification (Regulating)&lt;/p&gt;
+
+&lt;p&gt;5.) grassland around east campus (ecosystem service)&lt;/p&gt;
+","2019-11-21 18:13:23",0,76.78.241.75,1
+282212,10800,15250,14683,NULL,NULL,"&lt;p&gt;Cultural services with trees and nice greenery.&lt;/p&gt;
+","2019-11-21 18:15:27",0,NULL,1
+282215,10800,15250,14683,NULL,NULL,"&lt;p&gt;Trees and shrubs on hills&lt;/p&gt;
+","2019-11-21 18:16:31",0,NULL,1
+282220,10800,15250,14683,NULL,NULL,"&lt;p&gt;Trees turning CO2 into O2&lt;/p&gt;
+","2019-11-21 18:18:47",0,NULL,1
+282221,10800,15250,14707,NULL,NULL,"&lt;p&gt;Flood control (the lakes)&lt;/p&gt;
+","2019-11-21 18:19:47",0,134.126.253.97,1
+282222,10800,15250,14683,NULL,NULL,"&lt;p&gt;JMU arboretums flowers&lt;/p&gt;
+","2019-11-21 18:21:06",0,NULL,1
+282223,10800,15250,14715,NULL,NULL,"&lt;p&gt;1. Less Gas being used/electricity used - provisioning&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2.) For blue spaces it helps those with disabilities -Cultural&nbsp;&lt;/p&gt;
+
+&lt;p&gt;3.) Less emissions from cars that use these spaces - Supporting&nbsp;&lt;/p&gt;
+
+&lt;p&gt;4.) They are smaller meaning more spaces are usually provided &nbsp;- regulating&lt;/p&gt;
+
+&lt;p&gt;5.) They support being eco friendly - cultural&lt;/p&gt;
+
+&lt;p&gt;6.) They help the school with being green and reducing its overall impact on the environment - Cultural&lt;/p&gt;
+","2019-11-21 18:21:12",0,75.102.135.172,1
+282224,10800,15250,14683,NULL,NULL,"&lt;p&gt;Oak trees in arboretum&lt;/p&gt;
+","2019-11-21 18:21:27",0,NULL,1
+282225,10800,15250,14707,NULL,NULL,"&lt;p&gt;A place to hang out&lt;/p&gt;
+","2019-11-21 18:21:34",0,134.126.253.97,1
+282227,10800,15250,14683,NULL,NULL,"&lt;p&gt;ponds around jmu&lt;/p&gt;
+","2019-11-21 18:23:14",0,NULL,1
+282228,10800,15250,14707,NULL,NULL,"&lt;p&gt;Takes in CO2 (arboretum)&lt;/p&gt;
+","2019-11-21 18:24:07",0,134.126.253.97,1
+282231,10800,15250,14707,NULL,NULL,"&lt;p&gt;Recreational activities&lt;/p&gt;
+","2019-11-21 18:26:02",0,134.126.253.97,1
+282232,10800,15250,14693,NULL,NULL,"&lt;p&gt;Consumption of fresh air (quad)&lt;/p&gt;
+","2019-11-21 18:26:13",0,50.30.161.188,1
+282233,10800,15250,14693,NULL,NULL,"&lt;p&gt;Pollination by bees (flower beds)&lt;/p&gt;
+","2019-11-21 18:28:11",0,50.30.161.188,1
+282234,10800,15250,14707,NULL,NULL,"&lt;p&gt;Pollinators can do their work&lt;/p&gt;
+","2019-11-21 18:28:20",0,134.126.253.97,1
+282235,10800,15250,14707,NULL,NULL,"&lt;p&gt;Habitats for animals&lt;/p&gt;
+","2019-11-21 18:29:47",0,134.126.253.97,1
+282236,10800,15250,14693,NULL,NULL,"&lt;p&gt;Quad&lt;/p&gt;
+","2019-11-21 18:30:39",0,50.30.161.188,1
+282237,10800,15250,14693,NULL,NULL,"&lt;p&gt;Greenhouse&lt;/p&gt;
+","2019-11-21 18:31:43",0,50.30.161.188,1
+282238,10800,15250,14693,NULL,NULL,"&lt;p&gt;Festival lawn&lt;/p&gt;
+","2019-11-21 18:31:50",0,50.30.161.188,1
+282239,10800,15250,14693,NULL,NULL,"&lt;p&gt;Dhall&lt;/p&gt;
+","2019-11-21 18:32:10",0,50.30.161.188,1
+282245,10800,15250,14725,NULL,NULL,"&lt;p&gt;The JMU arboretum is a cultural service as it provides an aesthetic and spiritual appeal&lt;/p&gt;
+","2019-11-21 18:35:34",0,134.126.113.103,1
+282246,10800,15250,14725,NULL,NULL,"&lt;p&gt;The bioscience greenhouse&lt;/p&gt;
+","2019-11-21 18:36:43",0,134.126.113.103,1
+282247,10800,15250,14725,NULL,NULL,"&lt;p&gt;Trees in the arboretum&lt;/p&gt;
+","2019-11-21 18:37:51",0,134.126.113.103,1
+282248,10800,15250,14725,NULL,NULL,"&lt;p&gt;Newman Lake&lt;/p&gt;
+","2019-11-21 18:38:11",0,134.126.113.103,1
+282249,10800,15250,14725,NULL,NULL,"&lt;p&gt;The quad&lt;/p&gt;
+","2019-11-21 18:38:53",0,134.126.113.103,1
+282250,10800,15250,14585,NULL,NULL,"&lt;p&gt;grasses on the hill leading up to bioscience building are anti-erosional&lt;/p&gt;
+","2019-11-21 18:40:22",0,173.153.247.140,1
+282251,10800,15250,14725,NULL,NULL,"&lt;p&gt;garden on top of ISAT&lt;/p&gt;
+","2019-11-21 18:40:34",0,134.126.113.103,1
+282252,10800,15250,14585,NULL,NULL,"&lt;p&gt;arboretum&lt;/p&gt;
+","2019-11-21 18:41:24",0,173.153.247.140,1
+282254,10800,15250,14585,NULL,NULL,"&lt;p&gt;Grasses for erosion prevention&lt;/p&gt;
+","2019-11-21 18:42:50",0,173.153.247.140,1
+282257,10800,15250,14766,NULL,NULL,"&lt;p&gt;Recycling&nbsp;&lt;/p&gt;
+","2019-11-21 18:43:58",0,134.126.253.53,1
+282258,10800,15250,14585,NULL,NULL,"&lt;p&gt;arboretum flowers&lt;/p&gt;
+","2019-11-21 18:44:59",0,173.153.247.140,1
+282259,10800,15250,14766,NULL,NULL,"&lt;p&gt;People that clean up trash around campus&nbsp;&lt;/p&gt;
+","2019-11-21 18:45:23",0,134.126.253.53,1
+282260,10800,15250,14766,NULL,NULL,"&lt;p&gt;Arboretum&lt;/p&gt;
+","2019-11-21 18:45:46",0,134.126.253.53,1
+282261,10800,15250,14585,NULL,NULL,"&lt;p&gt;arboretum pond area&lt;/p&gt;
+","2019-11-21 18:46:11",0,173.153.247.140,1
+282263,10800,15250,14766,NULL,NULL,"&lt;p&gt;Tables outside of dhall for people to sit in&nbsp;&lt;/p&gt;
+","2019-11-21 18:47:05",0,134.126.253.53,1
+282265,10800,15250,14585,NULL,NULL,"&lt;p&gt;grasses all over campus&lt;/p&gt;
+","2019-11-21 18:47:40",0,173.153.247.140,1
+282266,10800,15250,14766,NULL,NULL,"&lt;p&gt;the campus offers healthy foods like fruit and vegetables at their dining halls&nbsp;&lt;/p&gt;
+","2019-11-21 18:47:42",0,134.126.253.53,1
+282267,10800,15250,14766,NULL,NULL,"&lt;p&gt;the campus offers classes that give you a better knowledge on ecosystem services&lt;/p&gt;
+","2019-11-21 18:48:26",0,134.126.253.53,1
+282268,10800,15250,14585,NULL,NULL,"&lt;p&gt;tree and other plant fruit or nut production for wildlife&lt;/p&gt;
+","2019-11-21 18:48:30",0,173.153.247.140,1
+282271,10800,15250,14555,NULL,NULL,"&lt;p&gt;The JMU quad- providing an aesthetic space which students are able to enjoy as a communal social space&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-21 19:03:41",0,134.126.113.86,1
+282273,10800,15250,14555,NULL,NULL,"&lt;p&gt;Edith J. Carrier Arboretum has a significant number of trees and plants which support air quality&lt;/p&gt;
+","2019-11-21 19:05:58",0,134.126.113.86,1
+282274,10800,15250,14795,NULL,NULL,"&lt;p&gt;The reservoir on East Campus helps&nbsp;runoff.&nbsp;&lt;/p&gt;
+","2019-11-21 19:06:54",0,134.126.253.57,1
+282276,10800,15250,14555,NULL,NULL,"&lt;p&gt;Festival Lawn provides&nbsp;an aesthetic space which students are able to enjoy as a communal space where the stars can be viewed&lt;/p&gt;
+","2019-11-21 19:07:50",0,134.126.113.86,1
+282278,10800,15250,14795,NULL,NULL,"&lt;p&gt;Edith J. Carrier Arboretum&lt;/p&gt;
+","2019-11-21 19:08:38",0,134.126.253.57,1
+282279,10800,15250,14795,NULL,NULL,"&lt;p&gt;Trees&lt;/p&gt;
+","2019-11-21 19:08:45",0,134.126.253.57,1
+282280,10800,15250,14555,NULL,NULL,"&lt;p&gt;The Madison Garden- provides vegetables such as cilantro and squash&lt;/p&gt;
+","2019-11-21 19:09:00",0,134.126.113.86,1
+282281,10800,15250,14795,NULL,NULL,"&lt;p&gt;The Quad&#039;s aesthetic look.&nbsp;&lt;/p&gt;
+","2019-11-21 19:09:01",0,134.126.253.57,1
+282283,10800,15250,14795,NULL,NULL,"&lt;p&gt;festival lawn&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-21 19:09:15",0,134.126.253.57,1
+282284,10800,15250,14795,NULL,NULL,"&lt;p&gt;The Lake&nbsp;&lt;/p&gt;
+","2019-11-21 19:09:30",0,134.126.253.57,1
+282286,10800,15250,14555,NULL,NULL,"&lt;p&gt;Oak trees around east campus- attract foraging animals that increase the aesthetics of campus and student enjoyment of seeing squirrels&lt;/p&gt;
+","2019-11-21 19:10:01",0,134.126.113.86,1
+282288,10800,15250,14795,NULL,NULL,"&lt;p&gt;The beautiful grass all around campus.&nbsp;&lt;/p&gt;
+","2019-11-21 19:10:35",0,134.126.253.57,1
+282289,10800,15250,14792,NULL,NULL,"&lt;p&gt;absorbance of carbon emissions&nbsp;in plants&nbsp;&lt;/p&gt;
+","2019-11-21 19:10:42",0,134.126.253.16,1
+282291,10800,15250,14555,NULL,NULL,"&lt;p&gt;The ponds on east campus helps prevent flooding&lt;/p&gt;
+","2019-11-21 19:11:04",0,134.126.113.86,1
+282292,10800,15250,14769,NULL,NULL,"&lt;p&gt;Festival Yard- grass prevents erosion.&nbsp;&lt;/p&gt;
+","2019-11-21 19:11:07",0,134.126.253.117,1
+282293,10800,15250,14792,NULL,NULL,"&lt;p&gt;the quad&lt;/p&gt;
+","2019-11-21 19:11:40",0,134.126.253.16,1
+282294,10800,15250,14769,NULL,NULL,"&lt;p&gt;Cultural&lt;/p&gt;
+","2019-11-21 19:11:42",282292,134.126.253.117,1
+282295,10800,15250,14792,NULL,NULL,"&lt;p&gt;arboretum&lt;/p&gt;
+","2019-11-21 19:11:55",0,134.126.253.16,1
+282296,10800,15250,14792,NULL,NULL,"&lt;p&gt;festival lawn&lt;/p&gt;
+","2019-11-21 19:12:19",0,134.126.253.16,1
+282297,10800,15250,14792,NULL,NULL,"&lt;p&gt;lake&lt;/p&gt;
+","2019-11-21 19:12:25",0,134.126.253.16,1
+282298,10800,15250,14792,NULL,NULL,"&lt;p&gt;trees on campus&lt;/p&gt;
+","2019-11-21 19:12:44",0,134.126.253.16,1
+282300,10800,15250,14792,NULL,NULL,"&lt;p&gt;regulating&nbsp;&lt;/p&gt;
+","2019-11-21 19:13:35",282289,134.126.253.16,1
+282301,10800,15250,14769,NULL,NULL,"&lt;p&gt;Arboretum- Plants in there provide oxygen.&lt;/p&gt;
+","2019-11-21 19:13:40",0,134.126.253.117,1
+282314,10800,15250,14769,NULL,NULL,"&lt;p&gt;The forest surrounding Harrisonburg- provides diverse animals.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-21 19:18:40",0,134.126.253.117,1
+282317,10800,15250,14769,NULL,NULL,"&lt;p&gt;Trees on the campus helps provide air.&lt;/p&gt;
+","2019-11-21 19:22:07",0,134.126.253.117,1
+282318,10800,15250,14769,NULL,NULL,"&lt;p&gt;Festival yard provides ascetic view.&lt;/p&gt;
+","2019-11-21 19:23:12",0,134.126.253.117,1
+282319,10800,15250,14769,NULL,NULL,"&lt;p&gt;The lake near Harrisburg provides fresh water.&lt;/p&gt;
+","2019-11-21 19:24:30",0,134.126.253.117,1
+282340,10800,15250,14692,NULL,NULL,"&lt;p&gt;arboretum&lt;/p&gt;
+","2019-11-21 22:23:10",0,76.78.240.86,1
+282341,10800,15250,14692,NULL,NULL,"&lt;p&gt;&nbsp;The pond&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2019-11-21 22:37:23",0,76.78.240.86,1
+282342,10800,15250,14692,NULL,NULL,"&lt;p&gt;The quad&lt;/p&gt;
+","2019-11-21 22:37:35",0,76.78.240.86,1
+282343,10800,15250,14692,NULL,NULL,"&lt;p&gt;Newman Lake&lt;/p&gt;
+","2019-11-21 22:37:46",0,76.78.240.86,1
+282344,10800,15250,14692,NULL,NULL,"&lt;p&gt;Trees growing on campus&lt;/p&gt;
+","2019-11-21 22:38:04",0,76.78.240.86,1
+282345,10800,15250,14692,NULL,NULL,"&lt;p&gt;Flowers growing around&lt;/p&gt;
+","2019-11-21 22:38:21",0,76.78.240.86,1
+282993,10800,15250,14568,NULL,NULL,"&lt;p&gt;- people using 2 trees to set up hammocks on the quad&nbsp;&lt;/p&gt;
+
+&lt;p&gt;- habitats for squirrels and birds&nbsp;&lt;/p&gt;
+","2019-12-05 19:12:12",0,134.126.253.94,1

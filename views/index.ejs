@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Summary</title>
+</head>
+<body>
+    <h1>Model Summary</h1>
+    <form action="/process" method="POST">
+        <label for="model">Select Model:</label>
+        <select name="model" id="model">
+            <% models.forEach(model => { %>
+                <option value="<%= model %>"><%= model %></option>
+            <% }); %>
+        </select>
+        <button type="submit">Submit</button>
+    </form>
+    <% if (summary !== undefined && summary !== null) { %>
+        <h2>Summary:</h2>
+        <textarea rows="10" cols="50"><%= summary %></textarea>
+    <% } %>
+
+    <% if (apiText !== undefined && apiText !== null) { %>
+        <!-- using TextGear  -->
+        <h2>API Text:</h2> 
+        <textarea rows="10" cols="50"><%= apiText %></textarea>
+    <% } %>
+</body>
+</html>

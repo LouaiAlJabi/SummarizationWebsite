@@ -1,0 +1,1179 @@
+id,class_session_id,lesson_question_id,user_id,group_id,logged_in_user,text,updated_on,parent_id,ip,visible
+654307,18844,29456,33004,NULL,NULL,"&lt;p&gt;1. This is a radiology image of the chest/lungs.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the problem/diagnosis&nbsp;in&nbsp;this image?&nbsp;&lt;/p&gt;
+","2023-07-28 03:26:20",0,71.233.186.82,1
+654312,18844,29456,33005,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Prosthetic eye | Radiology Case | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/1371104/e2cbec756258aef910ae2275c158d5_big_gallery.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1) This is a radiology image of the eyes and head.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2) Please explain what is being shown in this radiograph in terms of the individual&#039;s&nbsp;eyes.&nbsp;&lt;/p&gt;
+","2023-07-28 03:33:22",0,73.47.217.67,1
+654320,18844,29456,33002,NULL,NULL,"&lt;p&gt;1. This is a radiograph of the brain.&lt;/p&gt;
+
+&lt;p&gt;2. What is the diagnosis?&lt;/p&gt;
+","2023-07-28 04:37:59",0,174.196.196.101,1
+654321,18844,29456,33000,NULL,NULL,"&lt;p&gt;I think this a pulmonary abscess on the left side of the lung patient&nbsp;&lt;/p&gt;
+","2023-07-28 04:39:57",654307,71.233.187.220,1
+654327,18844,29456,33000,NULL,NULL,"&lt;p&gt;I was think the patient has right Prosthetic eye, patent may have socket tissues inflammation which is common with such a conditions.&nbsp;&lt;/p&gt;
+","2023-07-28 05:27:00",654312,71.233.187.220,1
+654328,18844,29456,33000,NULL,NULL,"&lt;p&gt;I think the patient have prosthetic right eye, but patient may also have socket tissues inflammation which is very common with such a conditions.&lt;/p&gt;
+","2023-07-28 05:30:57",654312,71.233.187.220,1
+654329,18844,29456,33000,NULL,NULL,"&lt;p&gt;1. This is a brain radiograph.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. &nbsp;The patient is&nbsp;unconscious and it seems that he hit his head with something.&nbsp;Identify the abnormal structure?&lt;/p&gt;
+","2023-07-28 05:53:50",0,71.233.187.220,1
+654333,18844,29456,33004,NULL,NULL,"&lt;p&gt;I believe it would be an epidural hematoma resulting from the damage to the head.&lt;/p&gt;
+","2023-07-28 13:17:25",654329,71.233.185.50,1
+654358,18844,29456,33011,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Cranial Osteomyelitis | SpringerLink&quot; src=&quot;https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-60086-4_4/MediaObjects/429068_1_En_4_Fig2_HTML.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;this is a image of the skull. the arrow points to some type of problem.&lt;/p&gt;
+
+&lt;p&gt;What is the problem the arrow is showing?&lt;/p&gt;
+","2023-07-28 16:39:09",0,NULL,1
+654359,18844,29456,33011,NULL,NULL,"&lt;p&gt;There is some type of infection happening in the left side of the chest.&lt;/p&gt;
+","2023-07-28 16:40:13",654307,NULL,1
+654361,18844,29456,33011,NULL,NULL,"&lt;p&gt;it seems like some type of trauma, which results having a radio opaque in the middle if the midline of the brain&lt;/p&gt;
+","2023-07-28 16:43:02",654320,NULL,1
+654362,18844,29456,33002,NULL,NULL,"&lt;p&gt;I think the diagnosis is abscess in the lungs.&nbsp;&lt;/p&gt;
+","2023-07-28 16:43:55",654307,NULL,1
+654363,18844,29456,33004,NULL,NULL,"&lt;p&gt;I think this brain radiograph is showing epilepsy!&nbsp;&lt;/p&gt;
+","2023-07-28 16:44:15",654320,NULL,1
+654364,18844,29456,33002,NULL,NULL,"&lt;p&gt;I think the diagnosis is epidural hematoma.&nbsp;&lt;/p&gt;
+","2023-07-28 16:44:37",654329,NULL,1
+654386,18844,29456,33007,NULL,NULL,"&lt;p&gt;1-this is a radiology of the heart&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2-what is the diagnosis/issue happening ?&lt;/p&gt;
+","2023-07-28 17:52:17",0,NULL,1
+654391,18844,29456,33007,NULL,NULL,"&lt;p&gt;I think it is referring to&nbsp;Cranial Osteomyelitis&lt;/p&gt;
+","2023-07-28 17:54:11",654358,NULL,1
+654394,18844,29456,33007,NULL,NULL,"&lt;p&gt;I think there is a blood vessel abnormalities&nbsp;&lt;/p&gt;
+","2023-07-28 17:55:54",654320,NULL,1
+654403,18844,29456,33016,NULL,NULL,"&lt;p&gt;1. This is a radiograph of an individual with only half their brain.&lt;/p&gt;
+
+&lt;p&gt;2. What are some reasons a surgeon&nbsp;would elect to remove half of an individuals brain?&lt;/p&gt;
+","2023-07-28 19:01:55",0,24.2.201.48,1
+654405,18844,29456,33016,NULL,NULL,"&lt;p&gt;Epidural hematoma from the head trauma.&nbsp;&lt;/p&gt;
+","2023-07-28 19:06:06",654329,24.2.201.48,1
+654417,18844,29456,33023,NULL,NULL,"&lt;p&gt;1. This is a radiology image of the spine.&lt;/p&gt;
+
+&lt;p&gt;2. What do you think has caused the spine to appear like this?&nbsp;&lt;/p&gt;
+","2023-07-28 19:37:52",0,24.34.17.176,1
+654420,18844,29456,33023,NULL,NULL,"&lt;p&gt;There seems to be an accumulation so I would think that the abnormal structure would be epidural hematoma.&nbsp;&lt;/p&gt;
+","2023-07-28 19:43:20",654329,24.34.17.176,1
+654421,18844,29456,33023,NULL,NULL,"&lt;p&gt;It could be pulmonary abscess.&lt;/p&gt;
+","2023-07-28 19:47:57",654307,24.34.17.176,1
+654436,18844,29456,33026,NULL,NULL,"&lt;p&gt;This image pertains to the Terri Schiavo case. I learned about this case in my undergraduate anatomy class &amp;amp; it displays the loss of brain tissue. Do you know the significance of this case &amp;amp; why it is so important to medical practice&amp;amp;nbsp;today?&lt;/p&gt;
+","2023-07-28 20:40:26",0,96.230.197.198,1
+654438,18844,29456,33026,NULL,NULL,"&lt;p&gt;Perhaps cancer or tumors&lt;/p&gt;
+","2023-07-28 20:44:53",654403,96.230.197.198,1
+654440,18844,29456,33026,NULL,NULL,"&lt;p&gt;I think maybe a bullous in the lungs.&lt;/p&gt;
+","2023-07-28 20:50:56",654307,96.230.197.198,1
+654448,18844,29456,33027,NULL,NULL,"&lt;p&gt;I would guess for the reason for a hemispherectomy would be to stop one from having severe&nbsp;seizures.&lt;/p&gt;
+","2023-07-28 21:00:30",654403,24.2.211.180,1
+654450,18844,29456,33027,NULL,NULL,"&lt;p&gt;1) This is a radiology image of the chest and lungs.&lt;/p&gt;
+
+&lt;p&gt;2) What would be a possible diagnosis?&lt;/p&gt;
+","2023-07-28 21:08:25",0,24.2.211.180,1
+654452,18844,29456,33027,NULL,NULL,"&lt;p&gt;I think there has been some kind of necrosis due to not having adequate blood supply.&lt;/p&gt;
+","2023-07-28 21:11:05",654320,24.2.211.180,1
+654454,18844,29456,33005,NULL,NULL,"&lt;p&gt;The individual may have had epilepsy that is incurable by drugs or medication.&nbsp;&lt;/p&gt;
+","2023-07-28 21:14:04",654403,73.47.217.67,1
+654455,18844,29456,33005,NULL,NULL,"&lt;p&gt;It seems to be that the individual has a blockage&nbsp;in their lungs that is causing an infection&nbsp;like pneumonia.&nbsp;&lt;/p&gt;
+","2023-07-28 21:16:13",654450,73.47.217.67,1
+654474,18844,29456,33031,NULL,NULL,"&lt;p&gt;I would guess that the patient is having frequent seizures and this would help to treat that&lt;/p&gt;
+","2023-07-28 22:03:53",654403,173.76.14.65,1
+654475,18844,29456,33031,NULL,NULL,,"2023-07-28 22:06:47",0,173.76.14.65,1
+654476,18844,29456,33031,NULL,NULL,"&lt;p&gt;1. This is a radiograph of the brain&lt;/p&gt;
+
+&lt;p&gt;2. What disease does this radiograph depict?&lt;/p&gt;
+","2023-07-28 22:07:20",654475,173.76.14.65,1
+654477,18844,29456,33031,NULL,NULL,"&lt;p&gt;Looks like a possible trauma patient who was shot in the head.&lt;/p&gt;
+","2023-07-28 22:08:06",654358,173.76.14.65,1
+654499,18844,29456,33014,NULL,NULL,"&lt;p&gt;What is the diagnosis for this PA?&lt;/p&gt;
+","2023-07-28 23:52:13",0,192.210.21.179,1
+654500,18844,29456,33014,NULL,NULL,"&lt;p&gt;There seems to be obstruction in the airway that could lead to respiratory conditions like pneumonia.&nbsp;&lt;/p&gt;
+","2023-07-28 23:56:47",654450,192.210.21.179,1
+654501,18844,29456,33014,NULL,NULL,"&lt;p&gt;The ventricles look enlarged showing hypertrophy, could be mitral stenosis.&nbsp;&lt;/p&gt;
+","2023-07-29 00:01:56",654386,192.210.21.179,1
+654526,18844,29456,33038,NULL,NULL,,"2023-07-29 02:04:42",0,73.89.1.40,1
+654527,18844,29456,33038,NULL,NULL,"&lt;p&gt;This is a herniated disc. Between which vertebrae is the disc herniated?&lt;/p&gt;
+","2023-07-29 02:05:49",654526,73.89.1.40,1
+654528,18844,29456,33038,NULL,NULL,"&lt;p&gt;Looks like it could be a brain tumor or something that has eaten away or removed a part of the brain.&lt;/p&gt;
+","2023-07-29 02:07:49",654403,73.89.1.40,1
+654529,18844,29456,33038,NULL,NULL,"&lt;p&gt;Something is definitely causing infection in this persons lungs as well as an object showing up somewhere in their throat.&lt;/p&gt;
+","2023-07-29 02:09:17",654450,73.89.1.40,1
+654531,18844,29456,33035,NULL,NULL,"&lt;p&gt;&lt;img src=&quot;https://dtjournal.org/uploads/pictures/962/big_FIG_3.jpg&quot; alt=&quot;big_FIG_3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a panoramic&nbsp;X-ray of a 23 year old patient. The arrows point to the abnormalities. How do we describe/classify&nbsp;the lesions?&lt;/p&gt;
+","2023-07-29 02:12:08",0,24.2.210.164,1
+654549,18844,29456,33041,NULL,NULL,"&lt;p&gt;This image shows some type of brain herniation.&nbsp;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What type of herniation do you think it is ?&lt;/p&gt;
+","2023-07-29 06:13:05",0,100.17.1.225,1
+654558,18844,29456,33042,NULL,NULL,"&lt;p&gt;&lt;img src=&quot;https://openeducationalberta.ca/medicalterminology/wp-content/uploads/sites/194/2022/05/resorptive-atelectasis-300x232.jpg&quot; alt=&quot;resorptive-atelectasis-300x232.jpg&quot; /&gt;This is a chest x-ray showing a partially collapsed lung to your left and a fully collapsed lung to your right. What could have happened to this individual that caused his lungs to collapse?&lt;/p&gt;
+","2023-07-29 10:13:55",0,162.120.136.55,1
+654559,18844,29456,33042,NULL,NULL,"&lt;p&gt;A surgeon would elect to remove half of an individuals brain due to a tumor, infection, or some sort of severe trauma/injury.&lt;/p&gt;
+","2023-07-29 10:15:24",654403,162.120.136.55,1
+654560,18844,29456,33042,NULL,NULL,"&lt;p&gt;I think that this image is showing an infection in the brain tissue.&lt;/p&gt;
+","2023-07-29 10:18:50",654358,162.120.136.55,1
+654575,18844,29456,33043,NULL,NULL,"&lt;p&gt;1. This is an image of an X-ray that shows the abdomen area (Top of the kidneys down to the bladder).&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What is the arrow pointing to?&lt;/p&gt;
+","2023-07-29 13:26:20",0,146.115.91.52,1
+654576,18844,29456,33043,NULL,NULL,"&lt;p&gt;This seems to be in the lumbar/ sacral vertebrae based on the picture here. With that being said, I would say it is in between L5 and S1 vertebra.&lt;/p&gt;
+","2023-07-29 13:36:22",654526,146.115.91.52,1
+654579,18844,29456,33043,NULL,NULL,"&lt;p&gt;This lesion appears to be a mandibular fracture. Because the X-ray points to two lesions in the jaw area, it would be classified as a bilateral mandibular fracture.&lt;/p&gt;
+","2023-07-29 13:48:45",654531,146.115.91.52,1
+654584,18844,29456,33035,NULL,NULL,"&lt;p&gt;The patient could have been involved in a trauma like a motor vehicle collision. The left lung may be filled with blood and the arrows point to the endotracheal tube deviating the the right.&nbsp;&lt;/p&gt;
+","2023-07-29 14:14:18",654558,24.2.210.164,1
+654585,18844,29456,33035,NULL,NULL,"&lt;p&gt;This looks like a vertebral compression fracture caused by osteoporosis.&nbsp;&lt;/p&gt;
+","2023-07-29 14:16:32",654417,24.2.210.164,1
+654586,18844,29456,33035,NULL,NULL,"&lt;p&gt;The image is small but it may be a kidney stone or a bullet.&lt;/p&gt;
+","2023-07-29 14:18:32",654575,24.2.210.164,1
+654609,18844,29456,33045,NULL,NULL,"&lt;p&gt;This is an awesome radiology image Suzie. I believe that this patient may have a pulmonary disease. One specific disease which this looks very similar to is Cystic Fibrosis (also known as CF). My sisters sorority had a philanthropy event and one individual who had CF described this disease as &quot;...a cold that never goes away&quot; and &quot;...being out of breath but having to breathe in with a straw&quot;.&lt;/p&gt;
+","2023-07-29 15:22:10",654450,192.80.65.177,1
+654610,18844,29456,33046,NULL,NULL,"&lt;p&gt;This is an image that I was given permission to take while shadowing. It shows how the cuspid teeth never grew in correctly &amp;amp; the patient required an exposure and ligation treatment plan.&lt;/p&gt;
+","2023-07-29 15:23:10",0,98.217.120.133,1
+654611,18844,29456,33045,NULL,NULL,"&lt;p&gt;Wow Yahya! This is an awesome capture. This seems to be an&nbsp;epidural hematoma. I have seen a patient who fell from a bike and actually got one of these (not as intense as this radiograph).&nbsp;&lt;/p&gt;
+","2023-07-29 15:24:01",654329,192.80.65.177,1
+654619,18844,29456,33045,NULL,NULL,"&lt;p&gt;This is an x-ray image of a patients&#039; left shoulder.&lt;/p&gt;
+
+&lt;p&gt;What seems to be the problem in this image? How can a problem like this arise?&lt;/p&gt;
+
+&lt;p&gt;(This image has been accessed from University Orthopedics)&lt;/p&gt;
+","2023-07-29 15:31:52",0,192.80.65.177,1
+654663,18844,29456,33050,NULL,NULL,"&lt;p&gt;1. This is a radiology image of the brain.&lt;/p&gt;
+
+&lt;p&gt;2. What is the diagnosis?&lt;/p&gt;
+","2023-07-29 16:50:49",0,68.239.58.15,1
+654666,18844,29456,33050,NULL,NULL,"&lt;p&gt;When a lung collapses, the air escapes it and enters to surrounding area. The patient could of had some sort of trauma to their chest. They also could have gotten shot by a bullet in that area.&lt;/p&gt;
+","2023-07-29 16:53:57",654558,68.239.58.15,1
+654670,18844,29456,33050,NULL,NULL,"&lt;p&gt;I would guess the patient is younger, having frequent seizures, and is not responding well to the medication they were getting. If someone has severe epilepsy that only affects one half of the brain, they would be a good candidate&nbsp;for a hemispherectomy.&lt;/p&gt;
+","2023-07-29 16:58:14",654403,68.239.58.15,1
+654671,18844,29456,33048,NULL,NULL,"&lt;p&gt;1.this is an image of a fractured pelvis&lt;/p&gt;
+
+&lt;p&gt;2 . Do you think that there is a difference in radiographic images due to certain fractures?&lt;/p&gt;
+","2023-07-29 16:59:11",0,73.114.162.166,1
+654675,18844,29456,33051,NULL,NULL,"&lt;p&gt;1. This is a radiologic image of a liver.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What condition do you believe is present? Use the red arrows to help.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-29 17:04:01",0,73.119.3.178,1
+654681,18844,29456,33051,NULL,NULL,"&lt;p&gt;This was a very interesting case. Thank you for posting! To sum up, it was the first big push in the Right to Die Movement.&nbsp;&lt;/p&gt;
+","2023-07-29 17:11:31",654436,73.119.3.178,1
+654691,18844,29456,33051,NULL,NULL,"&lt;p&gt;Maybe hypertrophy&nbsp;of the left ventricle due to hypertension.&nbsp;&lt;/p&gt;
+","2023-07-29 17:23:09",654386,73.119.3.178,1
+654698,18844,29456,32997,NULL,NULL,"&lt;p&gt;&lt;img src=&quot;https://www.toothiq.com/wp-content/uploads/2015/07/dental-x-ray-tooth-decay-caries-cavity.jpg&quot; alt=&quot;dental-x-ray-tooth-decay-caries-cavity.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;1. This is a radiograph of teeth.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What is the diagnosis?&nbsp;&lt;/p&gt;
+","2023-07-29 17:30:14",0,98.217.67.171,1
+654699,18844,29456,33030,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Normal brain (MRI) | Radiology Case | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/13656005/bd937738ad6223a03f8aedcf4920a7_thumb.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. This is a radiology image of the brain.&lt;/p&gt;
+
+&lt;p&gt;2. Is this a healthy brain or are there any problems that can be seen?&lt;/p&gt;
+","2023-07-29 17:30:41",0,73.68.164.16,1
+654700,18844,29456,32997,NULL,NULL,"&lt;p&gt;Maybe a foreign object or possibly a kidney stone based off the location?&lt;/p&gt;
+","2023-07-29 17:31:45",654575,98.217.67.171,1
+654701,18844,29456,33030,NULL,NULL,"&lt;p&gt;I think this image shows some physical damage to the skull, as the areas are more grayish and missing the white color seen due to the presence of bone.&nbsp;&lt;/p&gt;
+","2023-07-29 17:32:08",654358,73.68.164.16,1
+654703,18844,29456,33030,NULL,NULL,"&lt;p&gt;I can see that the roots in one of the teeth show some sort of infection, which can be fixed with a possible root canal of the tooth.&lt;/p&gt;
+","2023-07-29 17:33:12",654499,73.68.164.16,1
+654706,18844,29456,32997,NULL,NULL,"&lt;p&gt;I believe it&#039;s a Subfalcine Hernia, which is very common. Very nice radiograph Manu!&nbsp;&lt;/p&gt;
+","2023-07-29 17:36:35",654549,98.217.67.171,1
+654721,18844,29456,33053,NULL,NULL,"&lt;p&gt;1. This is a partial panoramic x-ray.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think happened here?&lt;/p&gt;
+","2023-07-29 17:48:33",0,68.239.28.112,1
+654726,18844,29456,33053,NULL,NULL,"&lt;p&gt;This is&nbsp;a tooth decay (I believe #18). It is also a possible root canal because the decay is very close to the pulp chamber.&nbsp;&lt;/p&gt;
+","2023-07-29 17:51:55",654698,68.239.28.112,1
+654731,18844,29456,33053,NULL,NULL,"&lt;p&gt;Second molar (I believe #31) has an infection which can be treated with a root canal. First molar (I believe #30) has an existing root canal, however, there is a clear infection which could possibly mean it is a failed root canal treatment.&nbsp;&lt;/p&gt;
+","2023-07-29 18:00:49",654499,68.239.28.112,1
+654741,18844,29456,33054,NULL,NULL,"&lt;p&gt;Several of us have experienced&nbsp;cough, shortness of breath, altered mental status which this image is shows an individual that&nbsp;tested positive for COVID-19.&lt;/p&gt;
+
+&lt;p&gt;Have any of you experienced COVID19 and had to get an Xray?&lt;/p&gt;
+","2023-07-29 18:07:39",0,172.58.221.100,1
+654760,18844,29456,33058,NULL,NULL,"&lt;p&gt;When I was a dental assistant we had a patient with hyperdontia. They had several supernumerary teeth and I distinctly remember their pano reminded me of shark teeth and found it really interesting.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Q: What problems do you think hyperdontia can pose for the patient aside from cosmetic problems?&lt;/p&gt;
+","2023-07-29 18:17:05",0,151.203.11.104,1
+654772,18844,29456,33061,NULL,NULL,"&lt;p&gt;https://www.google.com/search?sxsrf=AB5stBhU2uXm8ctAyy6Enz6Tt6QfmkeSjg:1690654867887&amp;amp;q=cool+radiology+images&amp;amp;tbm=isch&amp;amp;source=lnms&amp;amp;sa=X&amp;amp;ved=2ahUKEwic7dmWxLSAAxWCjokEHSMjDB8Q0pQJegQICxAB&amp;amp;biw=1375&amp;amp;bih=733&amp;amp;dpr=2#imgrc=9VK3P2NKfFJcdM:~:text=Pxfuel-,New%20cool%20radiology%20%2D%20cool%20radiology%2C%20Cool%20Medical%20HD%20wallpaper%20%7C%20Pxfuel,-Visit&lt;/p&gt;
+","2023-07-29 18:21:21",0,71.232.182.175,1
+654807,18844,29456,33059,NULL,NULL,"&lt;p&gt;I have had Covid-19 but luckily did not have to get an x-ray.&lt;/p&gt;
+","2023-07-29 18:51:16",654741,71.174.112.95,1
+654808,18844,29456,33062,NULL,NULL,"&lt;p&gt;1. Radiograph of a hand of a patient with a rare congenital syndrome&lt;/p&gt;
+
+&lt;p&gt;2. How do you think this deformity&nbsp;was developed?&lt;/p&gt;
+","2023-07-29 18:57:47",0,73.219.226.178,1
+654815,18844,29456,33062,NULL,NULL,"&lt;p&gt;This looks like the bone is deteriorating on the surface of the joint so possibly some form of arthritis or osteoporosis?&nbsp;&lt;/p&gt;
+","2023-07-29 19:03:45",654619,73.219.226.178,1
+654817,18844,29456,33059,NULL,NULL,"&lt;p&gt;1) This is a radiology image of a brain.&lt;/p&gt;
+
+&lt;p&gt;2) What condition do you think this image depicts?&lt;/p&gt;
+","2023-07-29 19:06:22",0,71.174.112.95,1
+654818,18844,29456,33062,NULL,NULL,"&lt;p&gt;I believe this is a healthy brain! :)&lt;/p&gt;
+","2023-07-29 19:07:08",654699,73.219.226.178,1
+654831,18844,29456,33063,NULL,NULL,"&lt;p&gt;This is a radiographic image of a 20 year old patient&#039;s mouth. The arrow indicates an abnormality. What would be her diagnosis? I actually saw a very similar case when I was shadowing, and it was extremely interesting!&lt;/p&gt;
+","2023-07-29 19:17:27",0,72.85.175.249,1
+654838,18844,29456,33052,NULL,NULL,"&lt;p&gt;This is a T2-weighted&nbsp;axial MRI of the brain. What intracranial traumatic lesion is visible?&nbsp;&lt;/p&gt;
+","2023-07-29 19:22:22",0,NULL,1
+654840,18844,29456,33063,NULL,NULL,"&lt;p&gt;There is hydrocephalus which is a buildup of cerebral spinal fluid in the brain ventricles in this radiograph. It could be from head trauma or surgery complications depending on patient&#039;s background.&nbsp;&lt;/p&gt;
+","2023-07-29 19:26:11",654817,72.85.175.249,1
+654843,18844,29456,33066,NULL,NULL,"&lt;p&gt;The below radiograph shows a complicated Crown-Root Fracture of an Anterior Tooth.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Citation: Merve Mese, Merve Akcay, Bilal Yasa, Huseyin Akcay, &quot;Multidisciplinary Management of Complicated Crown-Root Fracture of an Anterior Tooth Undergoing Apexification&quot;,&nbsp;&lt;em&gt;Case Reports in Dentistry&lt;/em&gt;, vol. 2015, Article ID 521013, 5 pages, 2015. https://doi.org/10.1155/2015/521013&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-29 19:26:41",0,NULL,1
+654844,18844,29456,33066,NULL,NULL,"&lt;p&gt;Periapical abscess.&nbsp;&lt;/p&gt;
+","2023-07-29 19:27:30",654499,NULL,1
+654846,18844,29456,33066,NULL,NULL,"&lt;p&gt;Osteoarthritis of the shoulder.&nbsp;&lt;/p&gt;
+","2023-07-29 19:28:01",654619,NULL,1
+654848,18844,29456,33056,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;An external file that holds a picture, illustration, etc. Object name is pone.0256630.g001.jpg&quot; src=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8423280/bin/pone.0256630.g001.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. These are two radiology images of lungs. Picture A shows a picture of normal lungs and picture B shows lungs that are infected.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the diagnosis?&nbsp;&lt;/p&gt;
+","2023-07-29 19:28:40",0,108.49.177.71,1
+654853,18844,29456,33067,NULL,NULL,"&lt;p&gt;Radiograph of the shoulder!&lt;/p&gt;
+
+&lt;p&gt;What is the diagnosis?&nbsp;&lt;/p&gt;
+
+&lt;p&gt;(Fun fact: I had surgeries on both shoulders to fix this)&lt;/p&gt;
+","2023-07-29 19:36:34",0,73.126.2.244,1
+654869,18844,29456,33068,NULL,NULL,"&lt;p&gt;1.&nbsp;This is a radiology image of lumbar spine.&lt;/p&gt;
+
+&lt;p&gt;2. Please indicate which segment shows a&nbsp;herniated disc&nbsp;&nbsp;&lt;/p&gt;
+","2023-07-29 19:46:50",0,73.218.147.248,1
+654873,18844,29456,33068,NULL,NULL,"&lt;p&gt;I think it might be developed when this patient was still during the&nbsp;embryonic stage.&nbsp;&lt;/p&gt;
+","2023-07-29 19:49:45",654808,73.218.147.248,1
+654884,18844,29456,33068,NULL,NULL,"&lt;p&gt;It seems to like a foreign metal object.&nbsp;&lt;/p&gt;
+","2023-07-29 19:56:07",654575,73.218.147.248,1
+654893,18844,29456,33071,NULL,NULL,"&lt;p&gt;The image shows a radiology image of a hand.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What could a possible diagnosis be/what is being examined?&nbsp;&lt;/p&gt;
+","2023-07-29 20:02:20",0,73.114.168.209,1
+654898,18844,29456,33071,NULL,NULL,"&lt;p&gt;There could be a possibility of the vermis missing in the radiograph.&lt;/p&gt;
+","2023-07-29 20:06:37",654320,73.114.168.209,1
+654902,18844,29456,33065,NULL,NULL,"&lt;p&gt;1. This is a radiographic image of the brain.&lt;/p&gt;
+
+&lt;p&gt;2. The arrow is pointing to a vascular lesion known as a cavernous malformation. What symptoms do you think this patient may display if it is a symptomatic lesion?&lt;/p&gt;
+","2023-07-29 20:08:07",0,73.123.121.238,1
+654904,18844,29456,33071,NULL,NULL,"&lt;p&gt;There could be a possible bone fracture in the skull.&nbsp;&lt;/p&gt;
+","2023-07-29 20:08:31",654358,73.114.168.209,1
+654907,18844,29456,33070,NULL,NULL,"&lt;p&gt;This image is of a patient 10 weeks post orthognathic surgery. I find it interesting because at the orthodontist office that I assisted at, we had several patients with open bites or large overjets receive this surgery.&lt;/p&gt;
+
+&lt;p&gt;Have you heard of orthognathic surgery before?&lt;/p&gt;
+","2023-07-29 20:09:55",0,24.91.172.35,1
+654911,18844,29456,33070,NULL,NULL,"&lt;p&gt;It seems as if there is an infection in this patient&#039;s lungs.&lt;/p&gt;
+","2023-07-29 20:12:48",654450,24.91.172.35,1
+654912,18844,29456,33070,NULL,NULL,"&lt;p&gt;This seems to me as if this patient were in a traumatic accent that resulted in the fracture of their jaw.&lt;/p&gt;
+","2023-07-29 20:13:41",654531,24.91.172.35,1
+654915,18844,29456,33065,NULL,NULL,"&lt;p&gt;I think it is a kidney stone.&lt;/p&gt;
+","2023-07-29 20:15:35",654575,73.123.121.238,1
+654932,18844,29456,33018,NULL,NULL,"&lt;p&gt;This is a radiograph of the&lt;/p&gt;
+
+&lt;p&gt;What is the diagnosis&nbsp;&lt;/p&gt;
+","2023-07-29 20:27:18",0,174.169.146.25,1
+654934,18844,29456,33065,NULL,NULL,"&lt;p&gt;I believe it is a periapical abscess.&lt;/p&gt;
+","2023-07-29 20:27:38",654499,73.123.121.238,1
+654935,18844,29456,33018,NULL,NULL,"&lt;p&gt;Wow! This looks like a&nbsp;epidural hematoma&lt;/p&gt;
+","2023-07-29 20:28:20",654329,174.169.146.25,1
+654937,18844,29456,33018,NULL,NULL,"&lt;p&gt;This lesion looks like a fracture due to a trauma to the face&lt;/p&gt;
+","2023-07-29 20:29:18",654531,174.169.146.25,1
+654980,18844,29456,33074,NULL,NULL,"&lt;p&gt;It looks like these teeth developed in an abnormal way and are impacted which most likely would only be resolved with surgical extraction.&nbsp;&lt;/p&gt;
+","2023-07-29 20:47:39",654721,24.91.172.35,1
+654983,18844,29456,33074,NULL,NULL,"&lt;p&gt;I agree with Hamzeh that it appears there is decay between the second and third molars.&nbsp;&lt;/p&gt;
+","2023-07-29 20:49:51",654698,24.91.172.35,1
+654989,18844,29456,33074,NULL,NULL,"&lt;p&gt;This is a panoramic radiograph. What do you think is going on in the indicated area?&nbsp;&lt;/p&gt;
+","2023-07-29 20:52:13",0,24.91.172.35,1
+655005,18844,29456,33013,NULL,NULL,"&lt;p&gt;This is an x-ray of a patient who has had a significant bone replacement procedure in the jaw.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What do you guys think caused the need for this significant bone&nbsp;replacement?&nbsp;&lt;/p&gt;
+","2023-07-29 21:00:10",0,174.169.146.25,1
+655006,18844,29456,33013,NULL,NULL,"&lt;p&gt;Is this a pulmonary oedema?&nbsp;&lt;/p&gt;
+","2023-07-29 21:01:23",654932,174.169.146.25,1
+655007,18844,29456,33013,NULL,NULL,"&lt;p&gt;This could either be some sort of foreign object or a kidney stone based on the area of the body it resides in.&nbsp;&lt;/p&gt;
+","2023-07-29 21:03:22",654575,174.169.146.25,1
+655009,18844,29456,33013,NULL,NULL,"&lt;p&gt;Yes I have heard of orthognathic surgery before. I worked as an orthodontic assistant this past year&nbsp;and the office where I work&nbsp;handles a large number of surgical cases each year.&lt;/p&gt;
+","2023-07-29 21:05:49",654907,174.169.146.25,1
+655011,18844,29456,33059,NULL,NULL,"&lt;p&gt;Assuming at the bottom of the image is the sacrum, I believe it is between L4 and L5.&nbsp;&lt;/p&gt;
+","2023-07-29 21:06:46",654869,71.174.112.95,1
+655027,18844,29456,33076,NULL,NULL,"&lt;p&gt;1.) This is a radiograph of the lungs from a patient diagnosed with lung cancer (highlighted via a red arrow).&lt;/p&gt;
+
+&lt;p&gt;2.) What are some activities that promote the formation of lung cancer?&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-29 21:29:52",0,73.68.164.73,1
+655028,18844,29456,33075,NULL,NULL,"&lt;p&gt;This is a radiograph of a&nbsp;distal radius fracture after surgery with plate and screws.&lt;/p&gt;
+
+&lt;p&gt;Why might a surgeon elect to use plates and screws to repair a fracture like this?&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-29 21:30:22",0,172.56.192.250,1
+655034,18844,29456,33075,NULL,NULL,"&lt;p&gt;Aside from cosmetic problems, It could be be hard to maintain good&nbsp;oral hygiene and possible speech complications?&nbsp;&lt;/p&gt;
+","2023-07-29 21:35:18",654760,172.56.192.250,1
+655035,18844,29456,33076,NULL,NULL,"&lt;p&gt;Hey Tyler,&lt;/p&gt;
+
+&lt;p&gt;This appears to be between the L5 vertebrae&nbsp;and the S1 vertebrae of the sacrum.&lt;/p&gt;
+","2023-07-29 21:37:11",654526,73.68.164.73,1
+655036,18844,29456,33079,NULL,NULL,"&lt;p&gt;This is a radiographic image of the chest area. The arrow is pointing to an abnormality in the rib cage. What do you guys think could have caused this abnormality?&nbsp;&lt;/p&gt;
+","2023-07-29 21:37:16",0,73.119.59.182,1
+655039,18844,29456,33079,NULL,NULL,"&lt;p&gt;It looks like there is some impaction happening in the indicated area.&nbsp;&lt;/p&gt;
+","2023-07-29 21:38:43",654989,73.119.59.182,1
+655042,18844,29456,33076,NULL,NULL,"&lt;p&gt;Hey Sophia,&lt;/p&gt;
+
+&lt;p&gt;The collapse of this patient&#039;s lungs may have occurred due to blunt force&nbsp;trauma that could have broken a rib and punctured the lung.&lt;/p&gt;
+","2023-07-29 21:40:19",654558,73.68.164.73,1
+655044,18844,29456,33079,NULL,NULL,"&lt;p&gt;It looks like there is impaction happening on the mandibular area.&lt;/p&gt;
+","2023-07-29 21:41:19",654721,73.119.59.182,1
+655051,18844,29456,33075,NULL,NULL,"&lt;p&gt;Could this be a shoulder labral tear?&nbsp;&nbsp;&lt;/p&gt;
+","2023-07-29 21:44:25",654853,172.56.192.250,1
+655063,18844,29456,33081,NULL,NULL,"&lt;p&gt;this is an X-Ray of a woman&#039;s spine&nbsp;&lt;/p&gt;
+
+&lt;p&gt;what do you think is wrong here?&lt;/p&gt;
+","2023-07-29 21:51:24",0,141.154.57.250,1
+655081,18844,29456,33082,NULL,NULL,"&lt;p&gt;This is a radiograph of teeth.&lt;/p&gt;
+
+&lt;p&gt;What does the bright white indicate?&lt;/p&gt;
+","2023-07-29 22:12:45",0,24.60.202.218,1
+655082,18844,29456,33082,NULL,NULL,"&lt;p&gt;Maybe kidney stone?&lt;/p&gt;
+","2023-07-29 22:13:50",654575,24.60.202.218,1
+655083,18844,29456,33082,NULL,NULL,"&lt;p&gt;Scoliosis?&lt;/p&gt;
+","2023-07-29 22:14:28",655063,24.60.202.218,1
+655118,18844,29456,33088,NULL,NULL,"&lt;p&gt;Maybe some periodontal issue or teeth that were extracted and gum receded.&nbsp;&lt;/p&gt;
+","2023-07-29 23:34:39",655005,71.233.185.129,1
+655132,18844,29456,33057,NULL,NULL,"&lt;p&gt;This is an image of a person&#039;s abdomen who swallowed a doll.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What type of doll do you think it is?&nbsp; Hint: There is a new movie featuring this doll.&lt;/p&gt;
+","2023-07-29 23:49:06",0,73.159.63.198,1
+655133,18844,29456,33084,NULL,NULL,"&lt;p&gt;1. This is a radiograph of the chest/lungs, I decided to post this image because I recently watched&nbsp;&quot;Deepest Breath&quot; on Netflix, a 10/10&nbsp; documentary in my opinion and I learned so much&nbsp;about a&nbsp;sport I never knew existed.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What is the name of the condition the patient in the image is suffering from?&nbsp;&nbsp;(Hint: Netflix movie I mentioned above)&lt;/p&gt;
+","2023-07-29 23:50:16",0,71.234.96.17,1
+655135,18844,29456,33057,NULL,NULL,"&lt;p&gt;I had COVID-19 last wear and have had to get many X-rays. None of the x-rays were related to covid though.&lt;/p&gt;
+","2023-07-29 23:51:01",654741,73.159.63.198,1
+655136,18844,29456,33057,NULL,NULL,"&lt;p&gt;Is it polymicrogyria?&lt;/p&gt;
+","2023-07-29 23:52:22",654475,73.159.63.198,1
+655137,18844,29456,33088,NULL,NULL,"&lt;p&gt;This is a panoramic&nbsp;image of the mouth.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What do you think is going on?&nbsp;&lt;/p&gt;
+","2023-07-29 23:52:23",0,71.233.185.129,1
+655138,18844,29456,33088,NULL,NULL,"&lt;p&gt;Some type of bone deviation, such as scoliosis&nbsp;&lt;/p&gt;
+","2023-07-29 23:53:21",655063,71.233.185.129,1
+655143,18844,29456,33084,NULL,NULL,"&lt;p&gt;Having a plethora of seizures that, resulting in both sides of the brain being effected.&lt;/p&gt;
+","2023-07-29 23:55:43",654403,71.234.96.17,1
+655146,18844,29456,33084,NULL,NULL,"&lt;p&gt;Epilepsy&nbsp;&lt;/p&gt;
+","2023-07-29 23:57:59",654475,71.234.96.17,1
+655179,18844,29456,33019,NULL,NULL,"&lt;p&gt;This CBCT X-ray is interesting to me because, based on my limited knowledge of shadowing dentists, I believe the area shown by the blue arrows, pointing to the shadow at the bottom of the root, indicates bone loss due to an infection. Additionally, I think the red arrow, pointing to the large ellipse-like shadow, could be a cyst, which, if not treated, may grow larger, affect the nerve, and cause numbness.&lt;/p&gt;
+
+&lt;p&gt;Questions:&lt;/p&gt;
+
+&lt;p&gt;Blue arrow: does anyone know which treatment can be used for this tooth (RCT, extraction, etc.)?&lt;br /&gt;
+Red arrow: have you ever seen a CBCT with anything similar to this cyst when you shadowed?&lt;/p&gt;
+","2023-07-30 00:37:23",0,73.60.235.148,1
+655180,18844,29456,33019,NULL,NULL,"&lt;p&gt;There are many factors that can cause lung cancer, but I know a few of them. Smoking increases the risk of cancer due to releasing harmful chemicals. Also, air pollution, such as vehicle exhaust, can increase the risk of lung cancer development.&lt;/p&gt;
+","2023-07-30 00:37:55",655027,73.60.235.148,1
+655181,18844,29456,33092,NULL,NULL,"&lt;p&gt;The bright white portions are restorations in the teeth, like the crown on #31&lt;/p&gt;
+","2023-07-30 00:39:50",655081,73.68.59.237,1
+655182,18844,29456,33040,NULL,NULL,"&lt;p&gt;1. This is a radiograph of the brain.&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the problem that is causing the radiograph to look like that?&nbsp;&lt;/p&gt;
+","2023-07-30 00:40:38",0,73.60.235.148,1
+655183,18844,29456,33040,NULL,NULL,"&lt;p&gt;This looks like maybe a gunshot wound to the head or some sort&nbsp;of trauma that caused the fracture.&nbsp;&lt;/p&gt;
+","2023-07-30 00:41:40",654358,73.60.235.148,1
+655185,18844,29456,33092,NULL,NULL,"&lt;p&gt;That&#039;s definitely a Barbie doll, and it may be removed through surgery because of its size?&nbsp;&lt;/p&gt;
+","2023-07-30 00:42:21",655132,73.68.59.237,1
+655186,18844,29456,33040,NULL,NULL,"&lt;p&gt;I would agree with the other posts, possibly there was a tumor that was affecting the other parts of the brain and had to be removed.&nbsp;&lt;/p&gt;
+","2023-07-30 00:42:54",654403,73.60.235.148,1
+655187,18844,29456,33019,NULL,NULL,"&lt;p&gt;Looking at the first tooth from the left on the bottom jaw, the white bright part would be a crown. The white bright parts of all teeth on the upper jaw would be the amalgam or composite fillings. Also, the white parts of the middle and right teeth on the lower jaw would be fillings as well. But I am not sure, and these are guesses that I made.&lt;/p&gt;
+","2023-07-30 00:43:12",655081,73.60.235.148,1
+655189,18844,29456,33092,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Cracked Tooth Syndrome Angela Hilton-Foley, DMD, PA - Designing Smiles&quot; src=&quot;https://nebula.wsimg.com/354a831aed9f81c485eb225035b42d3b?AccessKeyId=66C5908D92B30F4BC95D&amp;amp;disposition=0&amp;amp;alloworigin=1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. this is a radiograph of #30&lt;/p&gt;
+
+&lt;p&gt;2. what do you think the problem is?&lt;/p&gt;
+","2023-07-30 00:44:36",0,73.68.59.237,1
+655208,18844,29456,33090,NULL,NULL,"&lt;p&gt;1. Figure 1 shows tooth #4 has a periapical radiolucency indicating infection. Figure 2 depicts tooth #4 post-op.&lt;/p&gt;
+
+&lt;p&gt;2. What procedure was completed?&lt;/p&gt;
+","2023-07-30 01:06:10",0,73.69.153.122,1
+655209,18844,29456,33090,NULL,NULL,"&lt;p&gt;This patient appears to have suffered from periodontal disease indicated by&nbsp;the extreme bone loss and subsequent tooth loss.&lt;/p&gt;
+","2023-07-30 01:08:55",655137,73.69.153.122,1
+655219,18844,29456,33094,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;The 20 Weirdest X-Rays Known To Humankind&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQmlnRj6ddHXfwDsdd8oc3Qi_5JZzLLXt2w&amp;amp;usqp=CAU&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This image was interesting to me for obvious reasons! This individual has three very long nails embedded into his skull and brain. How do you think this happened?&lt;/p&gt;
+","2023-07-30 01:19:48",0,73.47.98.248,1
+655220,18844,29456,33090,NULL,NULL,"&lt;p&gt;It is possible that this patient has osteoporosis and was taking medication to treat it, however the medication led to osteonecrosis of the jaw.&nbsp;&lt;/p&gt;
+","2023-07-30 01:20:32",655005,73.69.153.122,1
+655221,18844,29456,33094,NULL,NULL,"&lt;p&gt;I agree with everyone else that the abnormal structure&nbsp;looks like an epidural hematoma!&nbsp;&lt;/p&gt;
+","2023-07-30 01:22:07",654329,73.47.98.248,1
+655223,18844,29456,33094,NULL,NULL,"&lt;p&gt;Multiple teeth show what appears to be an infection of the root, or periapical abscess. I think #31 will need to be root canal treated and tooth #30 will need a root canal retreatment.&nbsp;&lt;/p&gt;
+","2023-07-30 01:24:42",654499,73.47.98.248,1
+655230,18844,29456,33091,NULL,NULL,"&lt;p&gt;Above&nbsp;are radiographs&nbsp;depicting&nbsp;the progression of osteoarthritis in the knee.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Given that this image shows a clear and distinct view of the&nbsp;knee and its progression towards osteoarthritis, do you believe this image is sufficient on its own to be used for treatment planning? If not, what do you think are some other factors that can be valuable in determining the treatment plan for this patient?&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-30 01:29:29",0,192.210.21.181,1
+655237,18844,29456,33078,NULL,NULL,"&lt;p&gt;Hi Nicole, I believe the procedure completed was an apicoectomy. Apicoectomy&#039;s are completed when a root canal becomes reinfected. An&nbsp;Endodontist opens the gum tissue by the infected tooth to remove any damaged tissue and the very root tip (like shown in the x-ray above).&nbsp;&nbsp;This procedure is completed in hopes to save the tooth and avoid it from getting extracted.&lt;/p&gt;
+","2023-07-30 01:38:49",655208,141.154.10.177,1
+655239,18844,29456,33095,NULL,NULL,"&lt;p&gt;1. This is a radiograph of a spine.&lt;/p&gt;
+
+&lt;p&gt;2. What do you think&nbsp;this patient is presenting with?&lt;/p&gt;
+","2023-07-30 01:41:39",0,71.232.182.38,1
+655241,18844,29456,33091,NULL,NULL,"&lt;p&gt;I agree, it looks like somewhat severe&nbsp;decay in distal surface of #18.&nbsp;&lt;/p&gt;
+","2023-07-30 01:43:24",654698,192.210.21.181,1
+655242,18844,29456,33095,NULL,NULL,"&lt;p&gt;Wow, this is a very interesting image! I would imagine some type of construction accident with a nail gun, especially due to how deep into the brain the nails have embedded.&nbsp;&lt;/p&gt;
+","2023-07-30 01:43:28",655219,71.232.182.38,1
+655244,18844,29456,33078,NULL,NULL,"&lt;p&gt;Hi Alicia! Based on the S-like&nbsp;curvature of the spine in this x-ray, I would say this patient is presenting with Scoliosis.&nbsp;&lt;/p&gt;
+","2023-07-30 01:44:41",655239,141.154.10.177,1
+655245,18844,29456,33091,NULL,NULL,"&lt;p&gt;I agree! It looks like severe s-shaped scoliosis.&lt;/p&gt;
+","2023-07-30 01:45:01",655063,192.210.21.181,1
+655246,18844,29456,33095,NULL,NULL,"&lt;p&gt;I agree that this is a Barbie doll! However, there is no head to the doll present in this radiograph so I wonder if that was also ingested, or if it is located elsewhere in this individual&#039;s body.&nbsp;&lt;/p&gt;
+","2023-07-30 01:45:34",655132,71.232.182.38,1
+655263,18844,29456,33078,NULL,NULL,"&lt;p&gt;1) This is a radiograph of a partially impacted wisdom tooth.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2) What is the condition called that the black arrow is pointing to?&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-30 02:05:48",0,141.154.10.177,1
+655289,18844,29456,33100,NULL,NULL,"&lt;p&gt;I know I am looking at the brain. But I&#039;m not sure if that is a tumor? Moreso, I&#039;m very curious as to what each image is showing and how a radiologist is using it.&lt;/p&gt;
+","2023-07-30 02:27:31",0,73.159.63.25,1
+655290,18844,29456,32999,NULL,NULL,"&lt;p&gt;I would say depending on the positioning of the teeth it could affect the patient&#039;s ability to chew properly.&lt;/p&gt;
+","2023-07-30 02:28:00",654760,73.219.166.163,1
+655291,18844,29456,33100,NULL,NULL,"&lt;p&gt;This looks like the vertebra has been damaged or compressed.&nbsp;&lt;/p&gt;
+","2023-07-30 02:29:20",654417,73.159.63.25,1
+655293,18844,29456,32999,NULL,NULL,"&lt;p&gt;From what I can tell, there seems to be an infection or maybe resorption between the roots of #30 and some bone loss between #30 and #31.&nbsp;&lt;/p&gt;
+","2023-07-30 02:32:05",655189,73.219.166.163,1
+655296,18844,29456,33100,NULL,NULL,"&lt;p&gt;To me, it looks like there is an infection at the apex on #31. However, I am also noticing that tooth #30 has an infection as well. It could be either that the RCT was recently done and it could be healing? Or it could be that the patient needs retreatment on that tooth because an infection somehow got inside. However, I could be wrong on both accounts.&lt;/p&gt;
+","2023-07-30 02:33:00",654499,73.159.63.25,1
+655300,18844,29456,33098,NULL,NULL,"&lt;p&gt;60yr old mailman was recently diagnosed with a syndrome in his hands, can you name the most common syndrome one gets due to working with their hands most of the time?&nbsp;&lt;/p&gt;
+","2023-07-30 02:36:54",0,192.210.21.178,1
+655308,18844,29456,32999,NULL,NULL,"&lt;p&gt;1. This is an x-ray of the chest and lungs&lt;/p&gt;
+
+&lt;p&gt;2. What disease would correlate with this&nbsp;x-ray ?&lt;/p&gt;
+","2023-07-30 02:43:43",0,73.219.166.163,1
+655310,18844,29456,33098,NULL,NULL,"&lt;p&gt;I am going to give a generic answer, maybe because it is genetic?&lt;/p&gt;
+
+&lt;p&gt;Or is this a case of costochondritis?&nbsp;&lt;/p&gt;
+","2023-07-30 02:44:39",655036,192.210.21.178,1
+655326,18844,29456,33098,NULL,NULL,"&lt;p&gt;It looks like there is a lesion&nbsp;in&nbsp;the amygdala which could cause panic anxiety and among other things as well.&lt;/p&gt;
+","2023-07-30 02:57:22",654663,192.210.21.178,1
+655356,18844,29456,33105,NULL,NULL,"&lt;p&gt;This is a CT scan of a blowout fracture due to blunt force trauma to the face.&lt;/p&gt;
+
+&lt;p&gt;What sinus is circled in the image?&lt;/p&gt;
+","2023-07-30 03:47:33",0,73.61.152.136,1
+655358,18844,29456,33105,NULL,NULL,"&lt;p&gt;I&#039;m thinking arthritis!&lt;/p&gt;
+","2023-07-30 03:49:06",655300,73.61.152.136,1
+655360,18844,29456,33105,NULL,NULL,"&lt;p&gt;I would believe this is a patient presenting with cirrhosis of the liver!&lt;/p&gt;
+","2023-07-30 03:57:57",654675,73.61.152.136,1
+655361,18844,29456,33104,NULL,NULL,"&lt;p&gt;This looks like&nbsp;mandibular fractures due to injury&lt;/p&gt;
+","2023-07-30 03:58:09",654531,172.56.193.58,1
+655363,18844,29456,33104,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;An X-ray of a patient following a Bi-Maxillary Osteotomy (upper and lower jaw surgery)&quot; src=&quot;https://www.uhbristol.nhs.uk/media/2661496/surgical_stay_386x218.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. What is the name of this surgery on the jaw?&lt;/p&gt;
+
+&lt;p&gt;2. Why is this surgery needed?&nbsp;&lt;/p&gt;
+","2023-07-30 04:03:00",0,172.56.193.58,1
+655364,18844,29456,33104,NULL,NULL,"&lt;p&gt;I also think it&#039;s arthritis because of the erosion around the joints.&nbsp;&lt;/p&gt;
+","2023-07-30 04:05:00",655300,172.56.193.58,1
+655382,18844,29456,33108,NULL,NULL,"&lt;p&gt;1. This is a radiology image of the chest.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What is the problem/diagnosis here?&lt;/p&gt;
+","2023-07-30 04:24:08",0,73.234.88.64,1
+655384,18844,29456,33108,NULL,NULL,"&lt;p&gt;This looks like an examination of arthritis.&lt;/p&gt;
+","2023-07-30 04:24:58",654893,73.234.88.64,1
+655386,18844,29456,33108,NULL,NULL,"&lt;p&gt;This is definitely a significant decay!&lt;/p&gt;
+","2023-07-30 04:27:41",654698,73.234.88.64,1
+655391,18844,29456,33107,NULL,NULL,"&lt;p&gt;This is an x ray of someone&#039;s jaw.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What could be going on here?&lt;/p&gt;
+","2023-07-30 04:35:00",0,73.114.169.53,1
+655392,18844,29456,33107,NULL,NULL,"&lt;p&gt;It for sure looks like a curvature of their spine&lt;/p&gt;
+","2023-07-30 04:36:20",655239,73.114.169.53,1
+655394,18844,29456,33106,NULL,NULL,"&lt;p&gt;This person has received damage to his upper arm/shoulder.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What may have caused this injury?&lt;/p&gt;
+","2023-07-30 04:44:47",0,73.114.169.53,1
+655395,18844,29456,33106,NULL,NULL,"&lt;p&gt;Most likely arthritis.&lt;/p&gt;
+","2023-07-30 04:46:16",655300,73.114.169.53,1
+655403,18844,29456,33103,NULL,NULL,"&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/www.bauersmiles.com/wp-content/uploads/2018/10/calcified-lymph-nodes.jpg?ssl=1&quot; alt=&quot;calcified-lymph-nodes.jpg?ssl=1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pictured above is a panoramic radiograph and encircled in red is the lymph node. What occurrence do you all think has caused this soft tissue to be radiopaque in this x-ray?&lt;/p&gt;
+
+&lt;p&gt;(https://www.bauersmiles.com/2018/10/radiopaque-jaw-lesions.html/)&lt;/p&gt;
+","2023-07-30 13:06:58",0,NULL,1
+655405,18844,29456,33103,NULL,NULL,"&lt;p&gt;I hadn&#039;t heard about this case but immediately looked it up after seeing your post! As future healthcare providers it is extremely eye opening to see the difficult ethical dilemmas that we will have to face throughout our careers.&lt;/p&gt;
+","2023-07-30 13:12:24",654436,NULL,1
+655409,18844,29456,33103,NULL,NULL,"&lt;p&gt;I believe this is called orthognathic&nbsp;surgery. It is performed to&nbsp;improve the alignment of the jaw and proper occlusion.&lt;/p&gt;
+","2023-07-30 13:20:53",655363,NULL,1
+655427,18844,29456,33087,NULL,NULL,"&lt;p&gt;1. These&nbsp;are&nbsp;images of the&nbsp;brain. The left image depicts what would be considered normal while the right image is showing signs of abnormalities.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think the abnormality is?&nbsp;&lt;/p&gt;
+","2023-07-30 13:49:54",0,192.210.21.180,1
+655431,18844,29456,33087,NULL,NULL,"&lt;p&gt;I had COVID last summer and it was one of the worst experiences due to the symptoms that you mentioned. Luckily, I was able to recover well and did not need to get this type of x-ray!&lt;/p&gt;
+","2023-07-30 13:54:53",654741,192.210.21.180,1
+655445,18844,29456,33087,NULL,NULL,"&lt;p&gt;I believe this injury was caused by some kind of hard impact! A lot of sports related injuries can cause this issue as well.&nbsp;&lt;/p&gt;
+","2023-07-30 14:22:33",655394,192.210.21.180,1
+655468,18844,29456,33115,NULL,NULL,"&lt;p&gt;1. This is a radiologic&nbsp;image of a uterus.&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the prognosis large mass?&lt;/p&gt;
+","2023-07-30 14:48:27",0,174.169.33.143,1
+655471,18844,29456,33113,NULL,NULL,"&lt;p&gt;1. This is a radiograph of the skull.&lt;/p&gt;
+
+&lt;p&gt;2. This skull seems to have an increased number of what?&lt;/p&gt;
+","2023-07-30 14:51:31",0,71.235.186.58,1
+655475,18844,29456,33113,NULL,NULL,"&lt;p&gt;Tooth decay on #18 is caused by an impacted third molar (#17).&lt;/p&gt;
+","2023-07-30 14:53:35",654698,71.235.186.58,1
+655477,18844,29456,33113,NULL,NULL,"&lt;p&gt;Bright white/radiopacities&nbsp;will indicate either gold or amalgam.&nbsp;&lt;/p&gt;
+","2023-07-30 14:54:47",655081,71.235.186.58,1
+655479,18844,29456,33115,NULL,NULL,"&lt;p&gt;It seems like this is a case of untreated scoliosis due to the s-shaped curve of the spine.&lt;/p&gt;
+","2023-07-30 14:55:21",655063,174.169.33.143,1
+655480,18844,29456,33032,NULL,NULL,"&lt;p&gt;A patient presents with severe periodontitis and alveolar ridge atrophy.&lt;/p&gt;
+
+&lt;p&gt;What treatment plan would you recommend to restore&nbsp;both&nbsp;esthetics and function?&lt;/p&gt;
+","2023-07-30 14:56:21",0,71.232.162.108,1
+655486,18844,29456,33115,NULL,NULL,"&lt;p&gt;The circled sinus is the maxillary sinus&nbsp;&lt;/p&gt;
+","2023-07-30 14:59:50",655356,174.169.33.143,1
+655495,18844,29456,33119,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Multiple Bilateral 11 Supernumerary Teeth with Forth Molars in a  Non-Syndromic Patient: An Unusual Case Report&quot; src=&quot;https://austinpublishinggroup.com/dental-applications/fulltext/images/jda-v2-id1050-g003.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Image source:&nbsp;https://austinpublishinggroup.com/dental-applications/fulltext/jda-v2-id1050.php&lt;/p&gt;
+
+&lt;p&gt;This is a panoramic image containing supernumerary teeth. Supernumerary teeth are teeth that develop that are atypical to the traditional 32 teeth. Seen commonly in Hispanic populations, supernumerary teeth need either to be extracted or adjusted with orthodontic treatment depending on their location. They can cause extreme discomfort to the patient as they erupt outside of the occlusal plane. Complications may arise if they erupt in a way that may disrupt the roots of the 32 typical teeth, which is why many complicated cases are referred to oral surgeons.&nbsp;&lt;/p&gt;
+","2023-07-30 15:05:47",0,68.239.31.197,1
+655496,18844,29456,33102,NULL,NULL,"&lt;p&gt;This image shows damage to the brain that most commonly occurs from head trauma or intracranial aneurysms.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What is the diagnosis of the damage?&lt;/p&gt;
+","2023-07-30 15:10:47",0,73.69.153.122,1
+655499,18844,29456,33102,NULL,NULL,"&lt;p&gt;Smoking, secondhand smoke, and breathing in toxic substances&nbsp;are some activities that can promote the formation of lung cancer.&nbsp;&lt;/p&gt;
+","2023-07-30 15:15:48",655027,73.69.153.122,1
+655500,18844,29456,33032,NULL,NULL,"&lt;p&gt;The large&nbsp;mass is a uterine fibroid that should&nbsp;be surgically removed as soon as possible.&lt;/p&gt;
+","2023-07-30 15:15:48",655468,71.232.162.108,1
+655502,18844,29456,33119,NULL,NULL,"&lt;p&gt;For this case, the most ideal solution would be complete dentures, but let&#039;s talk about how miraculous it would be to see this case to completion.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Step one: most of these teeth are non-restorable. Most of these teeth are probably only supported by soft tissue or possibly calculus. Keeping them in the mouth poses a systematic issue to their health. Full mouth extraction is non-negotiable.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Step two: How to replace them is where things get tricky. The mandible has a better diagnosis than the maxilla in my opinion. We&#039;re playing the &quot;how much bone&quot; game at this point. The mandible has an excellent amount of residual bone structure remaining making this patient a great candidate for an all-on-four case (if reasonably affordable). Removable lowers are a pain for the doctor and the patient, so if finances are an issue and we need to pick an arch to invest in, this is the one. If necessary, it could be done, but fingers crossed for an implant-supported denture being reasonable for this patient. I&#039;d place full-sized implants at the former site of the canines and the first molars for ideal pressure tolerance during mastication. The patient is always at risk of nerve damage in this area, but the IAN seems to be reasonably low on this patient making this not a huge concern for me.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Step three: The maxilla is a completely different story. The maxillary sinuses have pneumatized incredibly. The remaining bone there is little to nothing. If possible, I&#039;d examine their CBCT to see if there is a chance of supporting these via zygomatic implants, but I would let the patient know that this is an incredibly guarded prognosis of success. This is assuming that I&#039;m a veteran oral surgeon. Frankly, a removable denture would probably be safer, but the patient would live a life of having it constantly adjusted as their bone level is going to get worse over time. They&#039;re not a good candidate for snap-in dentures (not that those are my favorites anyway) due to how advanced their case is.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Overall, a case this severe is just heartbreaking. For the patient behind this x-ray, I hope they are doing well and have a master dentist overseeing their case.&lt;/p&gt;
+","2023-07-30 15:16:27",655480,68.239.31.197,1
+655504,18844,29456,33119,NULL,NULL,"&lt;p&gt;As for the question I&#039;d like to pose, what do you think is the effect of supernumerary teeth on the patient&#039;s overall caries risk? Is it higher or lower? Why?&lt;/p&gt;
+","2023-07-30 15:17:24",655495,68.239.31.197,1
+655506,18844,29456,33102,NULL,NULL,"&lt;p&gt;This&nbsp;looks like scoliosis.&nbsp;&lt;/p&gt;
+","2023-07-30 15:20:32",655063,73.69.153.122,1
+655510,18844,29456,33119,NULL,NULL,"&lt;p&gt;This tooth&#039;s distal root is experiencing a fraction that has created bone loss at the furcation and below. This can be said with confidence as the distal root has unusual radiolucency near the cementoenamel junction, and the radiolucency at the furcation site has a J shape. This happens either due to bruxism, a failed RCT, a retreatment of an RCT that was already brittle, or just age. The suggested tx plan is EXT with bone removal, bone grafting, and implant-supported crown. If unable, I still would suggest replacing this tooth in general as #30 is a first molar, and I would like to avoid the mesial drift of #31. It already has a large filling, and its shifting would put it at a higher risk of an accelerated progression further down the tooth death spiral.&nbsp;&lt;/p&gt;
+","2023-07-30 15:23:50",655189,68.239.31.197,1
+655526,18844,29456,33117,NULL,NULL,"&lt;p&gt;1. This is a radiology image of the brain.&lt;/p&gt;
+
+&lt;p&gt;2. Where is the tumor located?&lt;/p&gt;
+","2023-07-30 15:39:46",0,73.126.2.251,1
+655529,18844,29456,33032,NULL,NULL,"&lt;p&gt;There&#039;s an increased&nbsp;number of sutures separating the skull into smaller pieces of bone.&lt;/p&gt;
+","2023-07-30 15:43:12",655471,71.232.162.108,1
+655531,18844,29456,33117,NULL,NULL,"&lt;p&gt;Epidural hematoma&lt;/p&gt;
+","2023-07-30 15:43:34",654329,73.126.2.251,1
+655533,18844,29456,33117,NULL,NULL,"&lt;p&gt;I agree with Richard, it could possibly be arthritis.&lt;/p&gt;
+","2023-07-30 15:45:20",654893,73.126.2.251,1
+655537,18844,29456,33120,NULL,NULL,"&lt;p&gt;1. This is an image of a butterfly fracture&lt;/p&gt;
+
+&lt;p&gt;2. What population do you think this is most common in?&lt;/p&gt;
+","2023-07-30 15:47:46",0,72.93.105.162,1
+655554,18844,29456,33116,NULL,NULL,"&lt;p&gt;I believe it is polydactyly which may&nbsp;be inherited or accompanied by other congenital syndromes (such as Down&nbsp;syndrome).&lt;/p&gt;
+","2023-07-30 15:59:14",654808,71.235.145.17,1
+655567,18844,29456,33122,NULL,NULL,"&lt;p&gt;This is a radiograph of the lungs.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Does anything seem wrong here?&lt;/p&gt;
+","2023-07-30 16:15:16",0,146.115.84.7,1
+655568,18844,29456,33122,NULL,NULL,"&lt;p&gt;I agree, this seems like tooth decay.&nbsp;&lt;/p&gt;
+","2023-07-30 16:16:14",654698,146.115.84.7,1
+655570,18844,29456,33122,NULL,NULL,"&lt;p&gt;It seems that this deformity might have came about&nbsp;pre-birth due to some mutation.&lt;/p&gt;
+","2023-07-30 16:17:45",654808,146.115.84.7,1
+655573,18844,29456,33116,NULL,NULL,"&lt;p&gt;I agree that it is Cranial Osteomyelitis&lt;/p&gt;
+","2023-07-30 16:19:38",654358,71.235.145.17,1
+655581,18844,29456,33116,NULL,NULL,"&lt;p&gt;This is a radiograph of the left and right hands. What could be causing the abnormality?&lt;/p&gt;
+","2023-07-30 16:36:50",0,71.235.145.17,1
+655596,18844,29456,33125,NULL,NULL,"&lt;p&gt;This is a radiograph on a person&#039;s broken clavicle.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Question- how could one go about helping this injury heal?&nbsp;&lt;/p&gt;
+","2023-07-30 16:49:51",0,173.48.26.100,1
+655599,18844,29456,33125,NULL,NULL,"&lt;p&gt;There seems to be a light colored mass in the person&#039;s left lung. It should be treated immedietley before it becomes a bigger problem!&lt;/p&gt;
+","2023-07-30 16:51:22",655567,173.48.26.100,1
+655603,18844,29456,33044,NULL,NULL,"&lt;p&gt;This image was obtained from the case archive&nbsp;from the Case Western Reserve University School of Dental Medicine. The context provided with this case was a panoramic radiograph of a 19-year-old female,&nbsp;&nbsp;that showed a well-defined, round, radiopaque supernumerary tooth distal to the third molar.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What is the likely diagnosis?&nbsp;&lt;/p&gt;
+","2023-07-30 16:58:19",0,71.235.186.58,1
+655607,18844,29456,33127,NULL,NULL,"&lt;p&gt;This is a radiograph of an individual&#039;s upper body/chest area. What would you diagnose this patient with?&lt;/p&gt;
+","2023-07-30 16:59:41",0,209.6.137.44,1
+655608,18844,29456,33125,NULL,NULL,"&lt;p&gt;To be it could be that&nbsp;this person has a collapsed lung.&nbsp;&lt;/p&gt;
+","2023-07-30 17:00:12",655382,173.48.26.100,1
+655609,18844,29456,33127,NULL,NULL,"&lt;p&gt;I agree with Maeve, I believe it is a healthy brain!&lt;/p&gt;
+","2023-07-30 17:00:34",654699,209.6.137.44,1
+655611,18844,29456,33127,NULL,NULL,"&lt;p&gt;I agree with everyone above, I believe it is an obstructive lung disease like pneumonia&lt;/p&gt;
+","2023-07-30 17:01:15",654450,209.6.137.44,1
+655613,18844,29456,33085,NULL,NULL,"&lt;p&gt;1. This is a radiograph of a brain.&lt;/p&gt;
+
+&lt;p&gt;2. What injury does the radiograph reveal?&lt;/p&gt;
+","2023-07-30 17:01:56",0,174.168.210.253,1
+655630,18844,29456,33129,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Swallowed Battery, X-ray Photograph by Du Cane Medical Imaging Ltd - Pixels&quot; src=&quot;https://images.fineartamerica.com/images-medium-large/swallowed-battery-x-ray-du-cane-medical-imaging-ltd.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. This radiology image was taken in the ER after a tool was accidentally ingested.&lt;/p&gt;
+
+&lt;p&gt;2. What do you think the item is?&lt;/p&gt;
+","2023-07-30 17:13:43",0,73.114.161.154,1
+655632,18844,29456,33129,NULL,NULL,"&lt;p&gt;I think this fracture might be most common in children.&lt;/p&gt;
+","2023-07-30 17:17:55",655537,73.114.161.154,1
+655633,18844,29456,33129,NULL,NULL,"&lt;p&gt;This tumor seems to be near the pituitary gland.&lt;/p&gt;
+","2023-07-30 17:20:28",655526,73.114.161.154,1
+655641,18844,29456,33121,NULL,NULL,"&lt;p&gt;1. This is a panoramic x-ray of a 58-year old female patient.&lt;/p&gt;
+
+&lt;p&gt;2. What is the possible diagnosis of&nbsp;the region indicated by the green arrow?&lt;/p&gt;
+","2023-07-30 17:31:29",0,71.232.59.4,1
+655643,18844,29456,33121,NULL,NULL,"&lt;p&gt;Maintaining good oral hygiene, and constant oral discomfort could be a possible issue!&lt;/p&gt;
+","2023-07-30 17:33:18",654760,71.232.59.4,1
+655646,18844,29456,33085,NULL,NULL,"&lt;p&gt;The abnormal structure appears to be an epidural hematoma.&nbsp;&lt;/p&gt;
+","2023-07-30 17:35:55",654329,174.168.210.253,1
+655651,18844,29456,33121,NULL,NULL,"&lt;p&gt;Cigarette smoking is definitely a main cause of lung cancer. Other things such as breathing second hand smoke or inhaling toxic substances can promote lung cancer as well.&lt;/p&gt;
+","2023-07-30 17:38:31",655027,71.232.59.4,1
+655657,18844,29456,33131,NULL,NULL,"&lt;p&gt;What is the screw in the middle of the picture?&nbsp;&lt;/p&gt;
+","2023-07-30 17:42:16",0,174.242.67.123,1
+655660,18844,29456,33131,NULL,NULL,"&lt;p&gt;Maybe they had a brain tumor?&lt;/p&gt;
+","2023-07-30 17:43:45",654403,174.242.67.123,1
+655661,18844,29456,33131,NULL,NULL,"&lt;p&gt;Maybe it is a Tb infection?&lt;/p&gt;
+","2023-07-30 17:44:16",654450,174.242.67.123,1
+655671,18844,29456,33085,NULL,NULL,"&lt;p&gt;I think this image of the brain depicts hydrocephalus, causing the lateral ventricles to be abnormally large.&nbsp;&lt;/p&gt;
+","2023-07-30 17:49:41",654817,174.168.210.253,1
+655672,18844,29456,33130,NULL,NULL,"&lt;p&gt;1. This radiograph features&nbsp;a lower jaw cyst.&lt;/p&gt;
+
+&lt;p&gt;2. Why do you think this may have developed?&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-30 17:49:42",0,71.232.60.175,1
+655674,18844,29456,33130,NULL,NULL,"&lt;p&gt;I agree. This looks like scoliosis.&nbsp;&lt;/p&gt;
+","2023-07-30 17:51:37",655239,71.232.60.175,1
+655676,18844,29456,33133,NULL,NULL,"&lt;p&gt;1. This is a radiograph of the elbow region.&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the diagnosis?&lt;/p&gt;
+","2023-07-30 17:52:49",0,73.114.161.56,1
+655679,18844,29456,33133,NULL,NULL,"&lt;p&gt;I think it is a dental implant&lt;/p&gt;
+","2023-07-30 17:56:10",655657,73.114.161.56,1
+655680,18844,29456,33130,NULL,NULL,"&lt;p&gt;Is that a button battery?&lt;/p&gt;
+","2023-07-30 17:57:50",655630,71.232.60.175,1
+655684,18844,29456,33133,NULL,NULL,"&lt;p&gt;I believe breathing in asbestos fibers can cause lung cancer as well.&nbsp;&lt;/p&gt;
+","2023-07-30 18:00:51",655027,73.114.161.56,1
+655693,18844,29456,33126,NULL,NULL,"&lt;p&gt;This is an image of an adult patient&#039;s swollen eye. She had&nbsp;been hit by a ball when she was 14 while she was playing and&nbsp;was wearing contact lenses. What do you think the arrow is pointing to?&nbsp;&lt;/p&gt;
+","2023-07-30 18:13:44",0,71.233.184.212,1
+655703,18844,29456,33126,NULL,NULL,"&lt;p&gt;There seems to be an increased number of sutures. This could be due to an abnormal development of the brain.&lt;/p&gt;
+","2023-07-30 18:25:05",655471,71.233.184.212,1
+655706,18844,29456,33101,NULL,NULL,"&lt;p&gt;1. This is the radiology of the brain, upper extremity, lower extremity, and spinal region.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think the diagnosis is? Hint: It isn&#039;t a curable case but a manageable one if caught early enough.&nbsp;&lt;/p&gt;
+","2023-07-30 18:27:38",0,38.42.207.104,1
+655709,18844,29456,33126,NULL,NULL,"&lt;p&gt;It could be a cyst.&lt;/p&gt;
+","2023-07-30 18:32:19",655263,71.233.184.212,1
+655711,18844,29456,33064,NULL,NULL,"&lt;p&gt;This looks like Scoliosis.&nbsp;&lt;/p&gt;
+","2023-07-30 18:36:06",655607,174.196.201.183,1
+655712,18844,29456,33064,NULL,NULL,"&lt;p&gt;1. This is a radiologic image of a horseshoe kidney.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the treatment plan for someone who has&nbsp;this type of kidney?&nbsp;&lt;/p&gt;
+","2023-07-30 18:37:55",0,174.196.201.183,1
+655713,18844,29456,33064,NULL,NULL,"&lt;p&gt;Could it maybe be from decay under the bridge?&nbsp;&lt;/p&gt;
+","2023-07-30 18:44:07",655672,174.196.201.183,1
+655722,18844,29456,33136,NULL,NULL,"&lt;p&gt;COVID pneumonia based on the ground glass pattern&lt;/p&gt;
+","2023-07-30 19:00:44",654450,73.126.161.63,1
+655723,18844,29456,33136,NULL,NULL,"&lt;p&gt;abcess or malignancy in lung&lt;/p&gt;
+","2023-07-30 19:01:00",654307,73.126.161.63,1
+655724,18844,29456,33136,NULL,NULL,"&lt;p&gt;This is a radiograph taken from below the mandible . What is this sign called?&lt;/p&gt;
+","2023-07-30 19:04:24",0,73.126.161.63,1
+655739,18844,29456,33139,NULL,NULL,"&lt;p&gt;1. This is a radiology image of the chest and lungs.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What is the diagnosis in this image?&lt;/p&gt;
+","2023-07-30 19:33:32",0,71.232.44.97,1
+655740,18844,29456,33139,NULL,NULL,"&lt;p&gt;This would be a epidural hematoma.&lt;/p&gt;
+","2023-07-30 19:34:07",654329,71.232.44.97,1
+655742,18844,29456,33139,NULL,NULL,"&lt;p&gt;This looks like a kidney stone&lt;/p&gt;
+","2023-07-30 19:35:17",654575,71.232.44.97,1
+655768,18844,29456,33141,NULL,NULL,"&lt;p&gt;1. This is a dental x-ray.&lt;/p&gt;
+
+&lt;p&gt;2. What is the arrow pointing to and what kind of dental treatment might be necessary?&lt;/p&gt;
+","2023-07-30 20:20:21",0,192.210.21.181,1
+655773,18844,29456,33141,NULL,NULL,"&lt;p&gt;If the patient develops kidney stones due to the horseshoe kidney, surgical intervention will be necessary.&nbsp;&lt;/p&gt;
+","2023-07-30 20:25:14",655712,192.210.21.181,1
+655776,18844,29456,33141,NULL,NULL,"&lt;p&gt;This looks like it may be a result of traumatic injury, such as a car accident or a possible sports injury.&lt;/p&gt;
+","2023-07-30 20:28:18",654417,192.210.21.181,1
+655813,18844,29456,33147,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Tibia fracture: Types, symptoms, and treatment&quot; src=&quot;https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/321642_2200-732x549.jpg&quot; /&gt;This is a tibia fracture! What are the types of fractures that tibias can have?&lt;/p&gt;
+","2023-07-30 20:51:07",0,75.69.88.165,1
+655815,18844,29456,33147,NULL,NULL,"&lt;p&gt;I&#039;m not super sure, but probably some speech difficulties, memory issues, and I&#039;d assume a lot of headache pains&lt;/p&gt;
+","2023-07-30 20:54:01",654902,75.69.88.165,1
+655818,18844,29456,33144,NULL,NULL,"&lt;p&gt;This is an xray of the chest. The arrows are pointing to two dangerous issues occurring. What are the arrows pointing to?&lt;/p&gt;
+","2023-07-30 20:55:16",0,75.69.151.230,1
+655820,18844,29456,33147,NULL,NULL,"&lt;p&gt;Hi Cathleen! I&#039;m thinking a sling to stabilize the arm and shoulder would probably help for the most part, or surgery in severe cases&lt;/p&gt;
+","2023-07-30 20:56:04",655596,75.69.88.165,1
+655821,18844,29456,33144,NULL,NULL,"&lt;p&gt;The arrow looks like it is pointing to an abscess. If so, then I think starting the patient on antibiotics would be the first course of action.&lt;/p&gt;
+","2023-07-30 20:56:35",655768,75.69.151.230,1
+655825,18844,29456,33144,NULL,NULL,"&lt;p&gt;I think it would cause the patient to have an issue with their bite, which could limit the occlusion needed for chewing their food.&lt;/p&gt;
+","2023-07-30 20:58:49",654760,75.69.151.230,1
+655830,18844,29456,33148,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;This Woman Broke a Bone in Her Eye Socket by Blowing Her Nose Too Hard |  Live Science&quot; src=&quot;https://cdn.mos.cms.futurecdn.net/p4G7Cs7sjNvvTw24W9MhKX-1200-80.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. This is a radiograph of the head.&lt;/p&gt;
+
+&lt;p&gt;2. What&nbsp;areas do you think were affected?&lt;/p&gt;
+","2023-07-30 21:03:11",0,209.6.249.242,1
+655832,18844,29456,33148,NULL,NULL,"&lt;p&gt;I think the arrow is pointing to a tooth infection and bone loss. A bone graft and dental implant might be necessary.&nbsp;&lt;/p&gt;
+","2023-07-30 21:06:24",655768,209.6.249.242,1
+655834,18844,29456,33148,NULL,NULL,"&lt;p&gt;I think some neck vertebrae have been fused together.&lt;/p&gt;
+","2023-07-30 21:07:18",655706,209.6.249.242,1
+655845,18844,29456,33114,NULL,NULL,"&lt;p&gt;&nbsp;Not sure what the cause of bone loss was for this patient but osteonecrosis of the jaw can lead to some tremendous bone loss if left untreated. This condition can happen due to complications with&nbsp;bisphosphonates.&nbsp;&lt;br /&gt;
+Regarding the panoramic x-ray you uploaded; I am surprised by the lack of posterior support in the lower left. I suspect that more dental implants would be placed in the future to stabilize the bite on those molars.&nbsp;&lt;/p&gt;
+","2023-07-30 21:17:42",655005,67.189.145.149,1
+655853,18844,29456,33114,NULL,NULL,"&lt;p&gt;I suspect that this is an example of a PA of&nbsp;pericoronitis on #17. This infection usually begins with food debris getting stuck under the tissue distal to the most posterior molars. If not remedied, this can result in bone loss around around the back of the tooth.&nbsp;&lt;/p&gt;
+","2023-07-30 21:24:18",655263,67.189.145.149,1
+655862,18844,29456,33138,NULL,NULL,"&lt;p&gt;This is an image of the knee.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What ligament is torn?&lt;/p&gt;
+","2023-07-30 21:30:29",0,73.234.216.233,1
+655871,18844,29456,33149,NULL,NULL,"&lt;p&gt;This dental radiograph shows many teeth! Anyone&nbsp;know why?&lt;/p&gt;
+","2023-07-30 21:35:25",0,71.232.47.20,1
+655872,18844,29456,33138,NULL,NULL,"&lt;p&gt;I think that this is a healthy brain.&nbsp;&lt;/p&gt;
+","2023-07-30 21:35:32",654699,73.234.216.233,1
+655873,18844,29456,33140,NULL,NULL,"&lt;p&gt;1. radiograph o fhand&lt;/p&gt;
+
+&lt;p&gt;2. where is the hand fracture?&nbsp;&lt;img alt=&quot;Hand Fractures - OrthoInfo - AAOS&quot; src=&quot;https://orthoinfo.aaos.org/link/17bf1bb52f644a1ea46039989ddfc71b.aspx&quot; /&gt;&lt;/p&gt;
+","2023-07-30 21:35:38",0,192.210.21.181,1
+655874,18844,29456,33140,NULL,NULL,"&lt;p&gt;it looks larger on one side!&nbsp;&lt;/p&gt;
+","2023-07-30 21:36:12",654386,192.210.21.181,1
+655875,18844,29456,33149,NULL,NULL,"&lt;p&gt;Definitely appears to be infection with 2 different instances of an abcess.&lt;/p&gt;
+","2023-07-30 21:36:24",654499,71.232.47.20,1
+655876,18844,29456,33114,NULL,NULL,"&lt;p&gt;This is a periapical x-ray of a dental implant experiencing peri-implantitis (Uploaded to ResearchGate by Gloria Cosoli). What are some examples of treatments for peri-implantitis?&nbsp;&lt;/p&gt;
+","2023-07-30 21:36:31",0,67.189.145.149,1
+655877,18844,29456,33143,NULL,NULL,"&lt;p&gt;This is a radiograph of the lungs.&lt;/p&gt;
+
+&lt;p&gt;What is a possible&nbsp;diagnosis for this patient?&lt;/p&gt;
+","2023-07-30 21:37:03",0,NULL,1
+655878,18844,29456,33138,NULL,NULL,"&lt;p&gt;Surgery or wearing a sling to hold the bones together in place, letting it heal naturally.&nbsp;&lt;/p&gt;
+","2023-07-30 21:37:36",655596,73.234.216.233,1
+655879,18844,29456,33149,NULL,NULL,"&lt;p&gt;Could be from poor maintenance and infection occurring.&nbsp;&lt;/p&gt;
+","2023-07-30 21:37:57",655672,71.232.47.20,1
+655880,18844,29456,33140,NULL,NULL,"&lt;p&gt;I would say it is a possibility that it can be uncomfortable to the patient and painful.&lt;/p&gt;
+","2023-07-30 21:38:16",654760,192.210.21.181,1
+655901,18844,29456,33143,NULL,NULL,"&lt;p&gt;If the bones are incorrectly positioned, they could heal in a bad alignment without surgery. The plate and screws will help hold them in place while it heals.&lt;/p&gt;
+","2023-07-30 21:59:21",655028,NULL,1
+655911,18844,29456,33097,NULL,NULL,"&lt;p&gt;I believe there is some type of formation of an abscess&nbsp;&lt;/p&gt;
+","2023-07-30 22:07:53",654307,98.118.104.23,1
+655912,18844,29456,33097,NULL,NULL,"&lt;p&gt;Maybe due to a cancerous tumor&nbsp;&lt;/p&gt;
+","2023-07-30 22:09:42",654403,98.118.104.23,1
+655915,18844,29456,33097,NULL,NULL,"&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;The image on the left is healthy normal scan. The right image shows a neurological disease common among geriatric patients, can you guess the name?&lt;img alt=&quot;5-Minute Brain MRI Can Reveal Risk for Alzheimer&#039;s Disease&quot; src=&quot;https://alzheimersnewstoday.com/wp-content/uploads/2014/10/WhiteMatterHyperintensities-1200x630-cropped.jpg&quot; /&gt;&lt;/p&gt;
+","2023-07-30 22:12:53",0,98.118.104.23,1
+655927,18844,29456,33153,NULL,NULL,"&lt;p&gt;Looks like a spiral fracture so maybe the patient&#039;s leg has been twisted and torn&lt;/p&gt;
+","2023-07-30 22:24:27",655813,75.232.165.27,1
+655931,18844,29456,33153,NULL,NULL,"&lt;p&gt;This surgery is also known as jaw surgery where the patient&#039;s jaw gets realigned to improve alignment. Some also decide to get the surgery to improve facial appearance&lt;/p&gt;
+","2023-07-30 22:29:18",655363,75.232.165.27,1
+655938,18844,29456,33135,NULL,NULL,"&lt;p&gt;This is are snapshots from&nbsp;a cbct scan published in the American Journal of Prosthodontics by my father. 9 years before this was taken the patient was attacked by a wild hyena where he lost both his nose and anterior maxilla. They were able to design a maxillofacial implant-supported&nbsp;design that accommodated childhood growth. The procedure was done over a decade ago, the results are still phenomenal and the patient is happy.&lt;/p&gt;
+
+&lt;p&gt;https://dentalimplants-usa.com/wp-content/uploads/2022/06/JOP2022-Balshi-9YrFollowUpMaxillofacialImplntSupportdFramewrk.pdf&lt;/p&gt;
+","2023-07-30 22:33:40",0,73.47.222.244,1
+655940,18844,29456,33153,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Scoliosis | Radiology Case | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/26589598/c0cf49ca6c8ba160a6ef932c0bd363_gallery.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&#039;s a picture of the spine.&lt;/p&gt;
+
+&lt;p&gt;1. What&#039;s the problem with this image?&lt;/p&gt;
+
+&lt;p&gt;2. How to treat this patient?&lt;/p&gt;
+","2023-07-30 22:34:03",0,75.232.165.27,1
+655944,18844,29456,33135,NULL,NULL,"&lt;p&gt;What do you think about the long-term prognosis of this treatment?&lt;/p&gt;
+","2023-07-30 22:35:22",655938,73.47.222.244,1
+655950,18844,29456,33135,NULL,NULL,"&lt;p&gt;orthognathic surgery isn&#039;t common enough,&nbsp;more people could benefit from receiving the surgery but don&#039;t want to go through all of it along with the financial commitment.&lt;/p&gt;
+","2023-07-30 22:37:23",654907,73.47.222.244,1
+655953,18844,29456,33044,NULL,NULL,"&lt;p&gt;It appears that the patient has scoliosis. Depending on the severity of the case, scoliosis is usually treated through bracing or surgery.&lt;/p&gt;
+","2023-07-30 22:40:55",655940,71.235.186.58,1
+655957,18844,29456,33135,NULL,NULL,"&lt;p&gt;Hard to tell from the quality of the panoramic x-ray what is really going on. One thing though is this patient could benefit from tissue-supported or implant-supported restorations in both their mandibular or maxillary arch before they develop issues within their TMJ.&lt;/p&gt;
+","2023-07-30 22:44:39",655137,73.47.222.244,1
+655958,18844,29456,33044,NULL,NULL,"&lt;p&gt;My guess is Alzheimer&#039;s!&lt;/p&gt;
+","2023-07-30 22:44:40",655915,71.235.186.58,1
+655960,18844,29456,33143,NULL,NULL,"&lt;p&gt;Everything seems good!&lt;/p&gt;
+","2023-07-30 22:45:16",654699,NULL,1
+655962,18844,29456,33159,NULL,NULL,"&lt;p&gt;1. this is a radiographic image of a spleen&lt;/p&gt;
+
+&lt;p&gt;2. what is the diagnosis?&lt;/p&gt;
+","2023-07-30 22:45:46",0,24.34.16.30,1
+655963,18844,29456,33155,NULL,NULL,"&lt;p&gt;From what you can tell, some type of trauma has led to?&lt;br /&gt;
+&lt;br /&gt;
+A) Compression of the lateral ventricle on the right side&lt;br /&gt;
+B) Compression of the lateral ventricle on the left side&lt;br /&gt;
+C) Enlargement of the lateral ventricle on the left side&lt;br /&gt;
+D) Herniation&nbsp;on the left side&lt;br /&gt;
+E) Herniation on the ride side&lt;/p&gt;
+","2023-07-30 22:46:44",0,NULL,1
+655966,18844,29456,33158,NULL,NULL,"&lt;p&gt;This is&nbsp;Polymicrogyria, which is long standing epilepsy.&nbsp;&lt;/p&gt;
+","2023-07-30 22:48:11",654475,24.91.215.117,1
+655967,18844,29456,33155,NULL,NULL,"&lt;p&gt;lateral side, 5th metacarpal&lt;/p&gt;
+","2023-07-30 22:48:37",655873,NULL,1
+655973,18844,29456,33158,NULL,NULL,"&lt;p&gt;There are many factors that may cause lung cancer, but cigarette smoke is the number one cause.&nbsp;&lt;/p&gt;
+","2023-07-30 22:50:40",655027,24.91.215.117,1
+655974,18844,29456,33159,NULL,NULL,"&lt;p&gt;there is a periapical abscess on 31 and on 1 of the roots for 30&lt;/p&gt;
+","2023-07-30 22:50:51",654499,24.34.16.30,1
+655976,18844,29456,33155,NULL,NULL,"&lt;p&gt;Terri Schiavo became significant to medicine due to the highly publicized and contentious legal case surrounding her end-of-life care. Her case raised numerous ethical, medical, legal, and societal questions, making it a landmark and precedent-setting case with far-reaching implications.&lt;/p&gt;
+","2023-07-30 22:51:08",654436,NULL,1
+655983,18844,29456,33159,NULL,NULL,"&lt;p&gt;there&#039;s decay on this tooth and the wisdom tooth is impacting the second molar&nbsp;&lt;/p&gt;
+","2023-07-30 22:53:51",654698,24.34.16.30,1
+655990,18844,29456,33158,NULL,NULL,"&lt;p&gt;This is a scan of a patient with ALS, a neurodegenerative disease that affects the nerve cells of the brain and the spinal cord. There are disease specific observations in the MRI that confirm the presence of the disease.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What are some symptoms that one may possess if they have ALS?&nbsp;&lt;/p&gt;
+","2023-07-30 22:57:57",0,24.91.215.117,1
+656004,18844,29456,33160,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Pulmonary hematoma in a 56-year-old man after an MVC. (a) Axial CT image (lung window) shows ground-glass opacities (arrowhead) representing contusion, with adjacent blood-filled laceration (arrow) representing hematoma. (b) Axial CT image (soft-tissue window) shows a well-defined soft-tissue area of attenuation (arrow) within the pulmonary parenchyma, consistent with hematoma. (c) Portable AP chest radiograph shows a masslike opacity (arrow) in the left lower lobe, corresponding to the pulmonary hematoma.&quot; src=&quot;https://pubs.rsna.org/cms/10.1148/rg.2021210042/asset/images/medium/rg.2021210042.fig5b.gif&quot; /&gt;&lt;img alt=&quot;Pulmonary hematoma in a 56-year-old man after an MVC. (a) Axial CT image (lung window) shows ground-glass opacities (arrowhead) representing contusion, with adjacent blood-filled laceration (arrow) representing hematoma. (b) Axial CT image (soft-tissue window) shows a well-defined soft-tissue area of attenuation (arrow) within the pulmonary parenchyma, consistent with hematoma. (c) Portable AP chest radiograph shows a masslike opacity (arrow) in the left lower lobe, corresponding to the pulmonary hematoma.&quot; src=&quot;https://pubs.rsna.org/cms/10.1148/rg.2021210042/asset/images/medium/rg.2021210042.fig5c.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. These two images are radiographs of the lungs.&lt;/p&gt;
+
+&lt;p&gt;2. The patient was involved in a motor vehicle collision. What is the arrow in each image pointing to and what do they collectively suggest as a diagnosis?&lt;/p&gt;
+","2023-07-30 23:03:07",0,73.186.60.92,1
+656006,18844,29456,33160,NULL,NULL,"&lt;p&gt;From what I can tell, the trauma has led to B) compression of the lateral ventricle on the left side.&lt;/p&gt;
+","2023-07-30 23:04:48",655963,73.186.60.92,1
+656016,18844,29456,33160,NULL,NULL,"&lt;p&gt;Some examples of treatments for peri-implantitis include antimicrobial therapy, surgical removal of infected tissue and bone, and even implant removal in the case of severe bone loss and implant mobility.&lt;/p&gt;
+","2023-07-30 23:09:35",655876,73.186.60.92,1
+656035,18844,29456,33157,NULL,NULL,"&lt;p&gt;Hi Michaela! It looks like&nbsp;some sort of lighter possibly.&lt;/p&gt;
+","2023-07-30 23:16:33",655630,38.42.241.177,1
+656044,18844,29456,33164,NULL,NULL,"&lt;p&gt;Looks healthy to me!&lt;/p&gt;
+","2023-07-30 23:29:31",654699,24.62.125.70,1
+656055,18844,29456,33157,NULL,NULL,"&lt;p&gt;Hi Jorge! This looks like a young patient with deciduous teeth, and we can see the permanent teeth beginning to erupt.&lt;/p&gt;
+","2023-07-30 23:34:58",655871,38.42.241.177,1
+656080,18844,29456,33164,NULL,NULL,"&lt;p&gt;1) This is a radiology of teeth&lt;/p&gt;
+
+&lt;p&gt;2) What is being examined?&lt;/p&gt;
+","2023-07-30 23:54:03",0,24.62.125.70,1
+656087,18844,29456,33146,NULL,NULL,"&lt;p&gt;I chose to share a radiograph of an anterior Maryland bridge on a central incisor, because I am missing tooth #7 and have a Maryland bride myself! I&#039;ve always felt self-conscious about this, mainly because of the graying around the interproximal&nbsp;teeth. My question to everyone is: do you have any dental restorations like the one shown here?&lt;/p&gt;
+","2023-07-30 23:57:20",0,72.85.175.228,1
+656092,18844,29456,33146,NULL,NULL,"&lt;p&gt;Hi Katherine, I believe these are third molars, or wisdom teeth!&lt;/p&gt;
+","2023-07-30 23:59:47",656080,72.85.175.228,1
+656110,18844,29456,33146,NULL,NULL,"&lt;p&gt;Speech, mastication, a many other daily motor functions would likely affect a patient with hyperdontia.&nbsp;&lt;/p&gt;
+","2023-07-31 00:08:38",654760,72.85.175.228,1
+656116,18844,29456,33132,NULL,NULL,"&lt;p&gt;This x-ray is fascinating because I&#039;ve never seen anything like it.&lt;/p&gt;
+
+&lt;p&gt;What is the diagnosis of the cavity-looking space in the mandibular area?&lt;/p&gt;
+","2023-07-31 00:10:39",0,71.233.187.159,1
+656131,18844,29456,33168,NULL,NULL,"&lt;p&gt;This is a radiograph of a patients bitewing. Can you find the problem?&lt;/p&gt;
+","2023-07-31 00:16:19",0,73.219.240.217,1
+656134,18844,29456,33168,NULL,NULL,"&lt;p&gt;looks like hypertrophy.&lt;/p&gt;
+","2023-07-31 00:16:57",654386,73.219.240.217,1
+656135,18844,29456,33168,NULL,NULL,"&lt;p&gt;Inflammation for sure.&nbsp;&lt;/p&gt;
+","2023-07-31 00:17:24",654312,73.219.240.217,1
+656139,18844,29456,33166,NULL,NULL,"&lt;p&gt;Pt came in with tooth pain. PA was taken.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What is the diagnosis ?&lt;/p&gt;
+","2023-07-31 00:19:14",0,73.114.90.228,1
+656143,18844,29456,33132,NULL,NULL,"&lt;p&gt;I&#039;m not sure if these are teeth #18,19 or #30,31 but both apical roots are infected and either need a new RCT or extraction to limit bone loss and encourage healing.&nbsp;&lt;/p&gt;
+","2023-07-31 00:21:40",654499,71.233.187.159,1
+656146,18844,29456,33166,NULL,NULL,"&lt;p&gt;The back tooth is severely infected and needs to be extracted. The tooth in front of it is a root canal treated tooth with a crown&nbsp;on it. There is an abscess present in the image.&nbsp;&lt;/p&gt;
+","2023-07-31 00:23:47",654499,73.114.90.228,1
+656151,18844,29456,33132,NULL,NULL,"&lt;p&gt;It looks like they are fractures from some sort of trauma that have not yet healed.&lt;/p&gt;
+","2023-07-31 00:25:03",654531,71.233.187.159,1
+656152,18844,29456,33166,NULL,NULL,"&lt;p&gt;The patients right jaw is fractured on the right side.&nbsp;&lt;/p&gt;
+","2023-07-31 00:25:24",654531,73.114.90.228,1
+656189,18844,29456,33101,NULL,NULL,"&lt;p&gt;This looks like a case of epidural hematoma&nbsp;&lt;/p&gt;
+","2023-07-31 00:45:05",654329,38.42.207.104,1
+656195,18844,29456,33145,NULL,NULL,"&lt;p&gt;this image is of the hand?&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Below is am image of a patient&#039;s hand that is swollen with &nbsp;limitations in movement. The patient has chronic renal failure and hemodialysis. In the radiograph what do you think are the clumps that have formed in the patient&#039;s hand? what are they? and what are they made of?&lt;/p&gt;
+","2023-07-31 00:47:37",0,141.154.83.44,1
+656198,18844,29456,33145,NULL,NULL,"&lt;p&gt;I think they are wisdom teeth as well!&lt;/p&gt;
+","2023-07-31 00:48:32",656080,141.154.83.44,1
+656200,18844,29456,33101,NULL,NULL,"&lt;p&gt;It&#039;s actually multiple myeloma stage 2! It resembles termites meaning it is eating&nbsp;away at the body. I feel like the arm and the leg shows&nbsp;the best radiograph of the case.&nbsp;Good guess though :)&lt;/p&gt;
+","2023-07-31 00:49:24",655706,38.42.207.104,1
+656203,18844,29456,33172,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Diagnostics | Free Full-Text | The Use of CBCT in Evaluating the Health and  Pathology of the Maxillary Sinus&quot; src=&quot;https://pub.mdpi-res.com/diagnostics/diagnostics-12-02819/article_deploy/html/images/diagnostics-12-02819-g005.png?1668590802&quot; /&gt;&lt;/p&gt;
+","2023-07-31 00:50:00",0,73.218.150.231,1
+656204,18844,29456,33145,NULL,NULL,"&lt;p&gt;I agree! The tooth has severe decay&nbsp;&lt;/p&gt;
+","2023-07-31 00:50:00",654698,141.154.83.44,1
+656208,18844,29456,33101,NULL,NULL,"&lt;p&gt;Definitely an enlargement on one side. Hypertrophy is more than likely the diagnosis&lt;/p&gt;
+","2023-07-31 00:51:03",654386,38.42.207.104,1
+656209,18844,29456,33172,NULL,NULL,"&lt;p&gt;Can you identify the area of the body that is affected by the pathology?&lt;/p&gt;
+","2023-07-31 00:51:30",656203,73.218.150.231,1
+656210,18844,29456,33056,NULL,NULL,"&lt;p&gt;I am thinking it could be a sign of epilepsy&nbsp;&lt;/p&gt;
+","2023-07-31 00:51:42",654403,108.49.177.71,1
+656217,18844,29456,33172,NULL,NULL,"&lt;p&gt;Trauma to the area that could result in posing a threat to the patients long term health.&nbsp;&lt;/p&gt;
+","2023-07-31 00:53:14",654403,73.218.150.231,1
+656221,18844,29456,33056,NULL,NULL,"&lt;p&gt;I would agree with Michaela, its on the pituitary gland.&nbsp;&lt;/p&gt;
+","2023-07-31 00:53:53",655526,108.49.177.71,1
+656239,18844,29456,33167,NULL,NULL,"&lt;p&gt;Hi Katherine! I believe the wisdom teeth are being examined.&lt;/p&gt;
+","2023-07-31 00:57:32",656080,76.24.254.244,1
+656246,18844,29456,33167,NULL,NULL,"&lt;p&gt;Hi Qiuyi! That appears to be a case of scoliosis. In addition to the use of a brace this can be treated with physical therapy.&lt;/p&gt;
+","2023-07-31 00:59:33",655940,76.24.254.244,1
+656247,18844,29456,33163,NULL,NULL,"&lt;p&gt;A 50-year-old female presents with dyspnea and weight loss. She had a right mastectomy last year. Chest x-ray below. Diagnosis?&lt;/p&gt;
+","2023-07-31 01:00:01",0,50.214.155.25,1
+656248,18844,29456,33173,NULL,NULL,"&lt;p&gt;Here is an image of the skull and brain. What could be the cause of this injury?&lt;/p&gt;
+","2023-07-31 01:00:14",0,96.237.107.189,1
+656249,18844,29456,33171,NULL,NULL,"&lt;p&gt;1. This is a CT scan of the&nbsp;patient&#039;s head.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the diagnosis?&nbsp;&lt;/p&gt;
+","2023-07-31 01:00:42",0,71.232.44.124,1
+656252,18844,29456,33163,NULL,NULL,"&lt;p&gt;Definitely an epidural hematoma.&lt;/p&gt;
+","2023-07-31 01:01:29",654329,50.214.155.25,1
+656264,18844,29456,33169,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Dentigerous cyst x-ray&quot; src=&quot;https://case.edu/dental/sites/case.edu.dental/files/2018-04/dentigerous_cyst.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This abnormality is known as dentigerous cyst. This radiology image shows a tooth with more than 5 mm of follicular space.&lt;/p&gt;
+","2023-07-31 01:05:02",0,73.219.240.217,1
+656265,18844,29456,33169,NULL,NULL,"&lt;p&gt;If you&#039;ve ever worked in a dental office, have you ever came across a patient with a dentigerous cyst or any sort of cyst?&lt;/p&gt;
+","2023-07-31 01:05:16",656264,73.219.240.217,1
+656266,18844,29456,33167,NULL,NULL,"&lt;p&gt;This radiograph depicts a patient that presents with recurrent rhinorrhea, swelling and pain. What is their condition?&lt;/p&gt;
+","2023-07-31 01:06:10",0,76.24.254.244,1
+656268,18844,29456,33157,NULL,NULL,"&lt;p&gt;The radiograph below shows a pediatric patient with interproximal carries. What are some methods to prevent carries in pediatric patients?&lt;/p&gt;
+","2023-07-31 01:06:16",0,38.42.241.177,1
+656269,18844,29456,33173,NULL,NULL,"&lt;p&gt;I would like to say this could be due to calcification. The patient&#039;s impaired renal function results in the accumulation of calcium in the body.&lt;/p&gt;
+","2023-07-31 01:06:34",656195,96.237.107.189,1
+656271,18844,29456,33169,NULL,NULL,"&lt;p&gt;This looks like a healthy brain!&nbsp;&lt;/p&gt;
+","2023-07-31 01:07:00",654699,73.219.240.217,1
+656272,18844,29456,33170,NULL,NULL,"&lt;p&gt;On the same wavelength as Katrina, not sure if these are #18-19 or #30-31, but I agree. It looks like 19/30 is a failed RCT with infection which needs either re-treatment or an extraction. Alongside #18/31 having an infection and needing a root canal or an extraction.&nbsp;&lt;/p&gt;
+","2023-07-31 01:07:09",654499,71.233.184.37,1
+656274,18844,29456,33163,NULL,NULL,"&lt;p&gt;I see so many problems from diastema, overcrowding, crooked teeth, pain,&nbsp;inflammation, infections, such as gingivitis, delayed eruption of permanent teeth, impaction of permanent incisors, abnormal root formation in nearby teeth and more.&lt;/p&gt;
+","2023-07-31 01:07:35",654760,50.214.155.25,1
+656276,18844,29456,33169,NULL,NULL,"&lt;p&gt;I agree with everyone else; this looks like a tooth decay.&nbsp;&lt;/p&gt;
+","2023-07-31 01:08:15",654698,73.219.240.217,1
+656278,18844,29456,33171,NULL,NULL,"&lt;p&gt;I think this image looks like a torn ACL with the PCL impacted too.&nbsp;&lt;/p&gt;
+","2023-07-31 01:08:41",655862,71.232.45.90,1
+656281,18844,29456,33173,NULL,NULL,"&lt;p&gt;The primary symptoms are&nbsp;muscle weakness and loss of control. Some implications include slurred speech and difficulty walking.&lt;/p&gt;
+","2023-07-31 01:09:55",655990,96.237.107.189,1
+656290,18844,29456,33170,NULL,NULL,"&lt;p&gt;It looks like #32 is severely impacted and is causing issues for the tooth in front of it. #31 has deep decay on the distal region of the tooth, which is also nearing the nerve highlighting potential need for a RCT down the line.&lt;/p&gt;
+","2023-07-31 01:12:15",654698,71.233.184.37,1
+656293,18844,29456,33086,NULL,NULL,"&lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/visualclassrooms/ad28594cede9533ae2b28b94e64e.webp&quot;&gt;380_386_310557.webp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I picked this radiograph specifically to note the difference between an Emax crown&nbsp;and a Zirconia crown. My question is: Based on the image can you tell me which crown is Zirconia and which crown is Emax?&lt;/p&gt;
+","2023-07-31 01:13:07",0,141.154.83.44,1
+656295,18844,29456,33171,NULL,NULL,"&lt;p&gt;I think this is some type of periodontal abscess.&nbsp;&lt;/p&gt;
+","2023-07-31 01:13:39",656139,71.232.44.124,1
+656299,18844,29456,33086,NULL,NULL,"&lt;p&gt;One of my best friends went through orthognathic surgery because she had a severe underbite.&lt;/p&gt;
+","2023-07-31 01:15:12",654907,141.154.83.44,1
+656300,18844,29456,33175,NULL,NULL,"&lt;p&gt;Radiology of hands. What is wrong with this image?&lt;/p&gt;
+","2023-07-31 01:15:14",0,73.60.236.41,1
+656302,18844,29456,33086,NULL,NULL,"&lt;p&gt;The bright white portions are different types of restorations, such as crowns and fillings.&lt;/p&gt;
+","2023-07-31 01:16:23",655081,141.154.83.44,1
+656322,18844,29456,33162,NULL,NULL,"&lt;p&gt;This radiograph is presented by a pediatric case of a 7 year old. I always find these radiographs very interesting&nbsp;as the transition period is shown very clearly. I did not have many pediatric cases while working in my dental office, and I am excited to learn more about this. I still have one baby tooth!!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Does anyone still have any&nbsp;baby teeth? Is it a genetic trait carried from a family member?&lt;/p&gt;
+","2023-07-31 01:25:23",0,76.118.27.206,1
+656323,18844,29456,33170,NULL,NULL,"&lt;p&gt;This is a PA of #29.&lt;/p&gt;
+
+&lt;p&gt;What&#039;s the diagnosis?&lt;/p&gt;
+","2023-07-31 01:25:50",0,71.233.184.37,1
+656326,18844,29456,33176,NULL,NULL,"&lt;p&gt;This is a pediatric panoramic radiograph.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;How old would you estimate this&nbsp;patient is?&lt;/p&gt;
+","2023-07-31 01:29:11",0,73.47.216.20,1
+656327,18844,29456,33112,NULL,NULL,"&lt;p&gt;1. this is an image of the Elbow.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What are the two bones in the forearm?&nbsp;&lt;/p&gt;
+","2023-07-31 01:29:33",0,71.26.172.209,1
+656331,18844,29456,33022,NULL,NULL,"&lt;p&gt;This looks like it may be an epidural hematoma&nbsp;&lt;/p&gt;
+","2023-07-31 01:31:51",654329,67.186.162.168,1
+656335,18844,29456,33162,NULL,NULL,"&lt;p&gt;Hi Jorge! I used the same image for my prompt showing the transition from baby to adult teeth. It is a great representation of a pediatric case, an area I have not gotten a lot of exposure on. I&nbsp;am excited to learn more about this!&nbsp;&lt;/p&gt;
+","2023-07-31 01:37:03",655871,76.118.27.206,1
+656337,18844,29456,33022,NULL,NULL,"&lt;p&gt;1. This is an image of a finger.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What is the problem or&nbsp;diagnosis here?&nbsp;&lt;/p&gt;
+","2023-07-31 01:37:51",0,67.186.162.168,1
+656338,18844,29456,33162,NULL,NULL,"&lt;p&gt;This image is a great representation of how impacted third molars can do more harm than&nbsp;good. Since #17 was not removed in this represented case, it is causing further problems and decay on #18.&nbsp;&lt;/p&gt;
+","2023-07-31 01:39:20",654698,76.118.27.206,1
+656348,18844,29456,33176,NULL,NULL,"&lt;p&gt;This appears to be severe decay on tooth #18 that could be exacerbated by the impaction of the wisdom tooth.&nbsp;&lt;/p&gt;
+","2023-07-31 01:45:08",654698,73.47.216.20,1
+656356,18844,29456,33176,NULL,NULL,"&lt;p&gt;It looks to me like the patient ingested a battery.&nbsp;&lt;/p&gt;
+","2023-07-31 01:49:40",655630,73.47.216.20,1
+656365,18844,29456,33179,NULL,NULL,"&lt;p&gt;I would guess a prosthetic eye&lt;/p&gt;
+","2023-07-31 01:55:02",654312,73.47.28.34,1
+656366,18844,29456,33179,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Subdural Hematoma: Background, Pathophysiology, Etiology&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9pcQPWmXX0ptPW6GmM4Z798rvmJ3dZw4SQ&amp;amp;usqp=CAU&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Image of the brain.&lt;/p&gt;
+
+&lt;p&gt;What is the diagnosis??&lt;/p&gt;
+","2023-07-31 01:56:39",0,73.47.28.34,1
+656369,18844,29456,33179,NULL,NULL,"&lt;p&gt;I would guess the multiple abcessed roots&lt;/p&gt;
+","2023-07-31 01:58:01",654499,73.47.28.34,1
+656384,18844,29456,33178,NULL,NULL,"&lt;p&gt;A very well-integrated implant, abutment, and implant-supported crown.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. How is it possible for the bone level to come up above the implant when it was initially placed at bone level, and how did it integrate to the level of the crown?&lt;/p&gt;
+","2023-07-31 02:14:06",0,76.152.206.186,1
+656386,18844,29456,33089,NULL,NULL,"&lt;p&gt;1. These are x-rays depicting the fingers and toes of a patient with Marfan syndrome.&lt;/p&gt;
+
+&lt;p&gt;2. What symptoms do you think might be associated with this condition?&lt;/p&gt;
+","2023-07-31 02:15:43",0,71.232.183.156,1
+656389,18844,29456,33089,NULL,NULL,"&lt;p&gt;There may be some sort of fracture here!&lt;/p&gt;
+","2023-07-31 02:17:02",656337,71.232.183.156,1
+656390,18844,29456,33178,NULL,NULL,"&lt;p&gt;Note: Had I had an issue with the file type, attached to this message is the image I meant to post.&lt;/p&gt;
+","2023-07-31 02:17:48",656384,76.152.206.186,1
+656391,18844,29456,33089,NULL,NULL,"&lt;p&gt;I&#039;m going to guess about 7 years old!&lt;/p&gt;
+","2023-07-31 02:17:59",656326,71.232.183.156,1
+656393,18844,29456,33052,NULL,NULL,"&lt;p&gt;The radiology image appears to be a pulmonary abscess of the left lung.&lt;/p&gt;
+","2023-07-31 02:19:04",654307,24.62.124.221,1
+656397,18844,29456,33052,NULL,NULL,"&lt;p&gt;This is an epidural hematoma due to head trauma&lt;/p&gt;
+","2023-07-31 02:20:16",654329,24.62.124.221,1
+656399,18844,29456,33178,NULL,NULL,"&lt;p&gt;If I had to guess, the patient is about ten years old. Also, they are missing their lower second bicuspids.&lt;/p&gt;
+","2023-07-31 02:21:43",656326,76.152.206.186,1
+656400,18844,29456,33052,NULL,NULL,"&lt;p&gt;The lesion is a mandibular fracture&lt;/p&gt;
+","2023-07-31 02:21:55",654531,24.62.124.221,1
+656402,18844,29456,33052,NULL,NULL,"&lt;p&gt;The bright white is an indication of restorations&lt;/p&gt;
+","2023-07-31 02:24:22",655081,24.62.124.221,1
+656403,18844,29456,33178,NULL,NULL,"&lt;p&gt;Blue arrow: RCT, possible extraction because tooth structure may not be solid enough to restore with a predictable result.&lt;/p&gt;
+","2023-07-31 02:25:55",655179,76.152.206.186,1
+656418,18844,29456,33110,NULL,NULL,"&lt;p&gt;This is a chest x-ray of a patient diagnosed with tuberculosis. Compared to a normal chest x-ray, what is different about this image?&lt;/p&gt;
+","2023-07-31 02:38:03",0,24.62.87.71,1
+656419,18844,29456,33182,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;EMRad: Radiologic Approach to the Traumatic Shoulder&quot; src=&quot;https://i0.wp.com/www.aliem.com/wp-content/uploads/2020/04/AP-view-shoulder.png?fit=1600%2C1494&amp;amp;ssl=1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1. How long is recovery time? Is surgery necessary?&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What kind of event would cause this kind of trauma?&nbsp;&lt;/p&gt;
+","2023-07-31 02:40:56",0,98.229.75.33,1
+656420,18844,29456,33110,NULL,NULL,"&lt;p&gt;The right image depicts a brain that has less brain mass when compared to a normal brain. The abnormality is something related to brain degeneration? Perhaps the patient suffers from Alzheimer or something similar.&lt;/p&gt;
+","2023-07-31 02:41:51",655427,24.62.87.71,1
+656421,18844,29456,33182,NULL,NULL,"&lt;p&gt;It looks as if the jaw has been dislocated&lt;/p&gt;
+","2023-07-31 02:42:53",655391,98.229.75.33,1
+656422,18844,29456,33181,NULL,NULL,"&lt;p&gt;1. This is a radiology image of the brain. The patient was diagnosed with dengue encephalitis, which results from infection of the&nbsp;central nervous system by the dengue virus.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What part&nbsp;of the brain might be implicated in the characteristic &quot;double-doughnut&quot; sign in the radiograph?&lt;/p&gt;
+","2023-07-31 02:43:10",0,24.91.169.200,1
+656423,18844,29456,33182,NULL,NULL,"&lt;p&gt;Hi Vivek,&nbsp;&lt;/p&gt;
+
+&lt;p&gt;There doesn&#039;t seem to be a problem with the brain. Looks healthy!&lt;/p&gt;
+","2023-07-31 02:43:39",654699,98.229.75.33,1
+656426,18844,29456,33110,NULL,NULL,"&lt;p&gt;This image depicts a brain that shows asymmetrical damage. This leads me to think that the person is suffering from a stroke or similar issue that injured only one hemisphere of the brain.&lt;/p&gt;
+","2023-07-31 02:46:31",655182,24.62.87.71,1
+656428,18844,29456,33181,NULL,NULL,"&lt;p&gt;Marfan syndrome is caused by a mutation&nbsp;in fibrillin and symptoms might include long thin fingers, tall stature, as well as crowded teeth!&lt;/p&gt;
+","2023-07-31 02:48:05",656386,24.91.169.200,1
+656430,18844,29456,33181,NULL,NULL,"&lt;p&gt;Flouride varnish can be applied to help prevent caries!&lt;/p&gt;
+","2023-07-31 02:49:06",656268,24.91.169.200,1
+656431,18844,29456,33134,NULL,NULL,"&lt;p&gt;1. this is an image of an abdominal radiograph.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think the arrow is showing?&nbsp;&lt;/p&gt;
+","2023-07-31 02:51:27",0,73.16.87.2,1
+656432,18844,29456,33134,NULL,NULL,"&lt;p&gt;looks like some kind of blunt force/trauma!&nbsp;&lt;/p&gt;
+","2023-07-31 02:52:17",654358,73.16.87.2,1
+656433,18844,29456,33134,NULL,NULL,"&lt;p&gt;looks like severe tooth decay!&lt;/p&gt;
+","2023-07-31 02:52:38",654698,73.16.87.2,1
+656434,18844,29456,33124,NULL,NULL,"&lt;p&gt;1. This is a radiograph of a brain.&lt;/p&gt;
+
+&lt;p&gt;2. What is the diagnosis?&lt;/p&gt;
+","2023-07-31 02:54:06",0,73.126.2.251,1
+656437,18844,29456,33081,NULL,NULL,"&lt;p&gt;looks like there could be some sort of fluid accumulating in the middle of the brain&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-31 02:56:43",654320,141.154.57.250,1
+656439,18844,29456,33181,NULL,NULL,"&lt;p&gt;The two bones in the forearm are the radius and ulna! In the standard anatomical position, the radius is lateral&nbsp;to the ulna.&lt;/p&gt;
+","2023-07-31 02:59:10",656327,24.91.169.200,1
+656441,18844,29456,33081,NULL,NULL,"&lt;p&gt;looks like distal carries of tooth #18 due to impaction of tooth #17&lt;/p&gt;
+
+&lt;p&gt;they should extract the wisdom tooth and possible due a root canal on tooth #18&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-07-31 03:00:57",654698,141.154.57.250,1
+656464,18844,29456,33180,NULL,NULL,"&lt;p&gt;1. This is a radiograph of the spinal cord.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. What do you think the diagnosis is that the arrow is showing?&nbsp;&lt;/p&gt;
+","2023-07-31 03:17:36",0,73.114.90.138,1
+656466,18844,29456,33180,NULL,NULL,"&lt;p&gt;I believe wisdom teeth are what the radiograph is showing and examining.&nbsp;&lt;/p&gt;
+","2023-07-31 03:19:12",656080,73.114.90.138,1
+656469,18844,29456,33180,NULL,NULL,"&lt;p&gt;I believe this is&nbsp;arthritis!&nbsp;&lt;/p&gt;
+","2023-07-31 03:22:12",655300,73.114.90.138,1
+656478,18844,29456,33183,NULL,NULL,"&lt;p&gt;This is a radiology scan of a stomach.&lt;/p&gt;
+
+&lt;p&gt;What do you think is the problem with the part that the arrow is pointing to?&lt;/p&gt;
+","2023-07-31 03:32:33",0,100.0.183.217,1
+656479,18844,29456,33183,NULL,NULL,"&lt;p&gt;I believe the issue is some sort of abscess in the left lung.&lt;/p&gt;
+","2023-07-31 03:33:17",654307,100.0.183.217,1
+656480,18844,29456,33183,NULL,NULL,"&lt;p&gt;This radiograph depicts epilepsy.&lt;/p&gt;
+","2023-07-31 03:34:47",654475,100.0.183.217,1
+656485,18844,29456,33124,NULL,NULL,"&lt;p&gt;I do think there is a difference between images of fractures. Depending on the break in the bone the image will present different characteristics that gives clues to the type of fracture.&lt;/p&gt;
+","2023-07-31 04:00:33",654671,73.126.2.251,1
+656486,18844,29456,33124,NULL,NULL,"&lt;p&gt;I think the patient has a prosthetic eye and there is inflammation around it.&lt;/p&gt;
+","2023-07-31 04:02:04",654312,73.126.2.251,1
+656500,18844,29456,33187,NULL,NULL,"&lt;p&gt;This image depicts something that quite a few women in my family have experienced. I take extra precautions for my future by&nbsp;making sure I exercise, eat healthy, and I will get checked when it&#039;s time. What do you think this image shows?&nbsp;&lt;/p&gt;
+","2023-07-31 04:26:29",0,38.42.206.20,1
+656502,18844,29456,33187,NULL,NULL,"&lt;p&gt;Hey Keisha!&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Is this a MRI for&nbsp;systemic lupus erythematosus?&lt;/p&gt;
+","2023-07-31 04:31:42",656434,38.42.206.20,1
+656503,18844,29456,33187,NULL,NULL,"&lt;p&gt;I think you and Keisha have the same MRI image. Is this an autoimmune disease? Systemic lupus?&lt;/p&gt;
+","2023-07-31 04:33:14",654320,38.42.206.20,1
+656517,18844,29456,33185,NULL,NULL,"&lt;p&gt;1. This x-ray was taken by a veterinary team at Paignton Zoo in England.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. Seeing the endoskeleton of a seahorse through this imaging is fascinating. How difficult do you think this image was to capture?&nbsp;&lt;/p&gt;
+","2023-07-31 04:58:17",0,73.249.36.241,1
+656520,18844,29456,33185,NULL,NULL,"&lt;p&gt;My guess is that it is a congenital abnormality.&nbsp;&lt;/p&gt;
+","2023-07-31 04:59:41",654808,73.249.36.241,1
+656523,18844,29456,33185,NULL,NULL,"&lt;p&gt;My guess is some sort of arthritis.&nbsp;&lt;/p&gt;
+","2023-07-31 05:01:45",655581,73.249.36.241,1
+656534,18844,29456,33188,NULL,NULL,"&lt;p&gt;1. Radiology image of teeth&lt;/p&gt;
+
+&lt;p&gt;2. What is the circle showing?&lt;/p&gt;
+","2023-07-31 05:10:09",0,67.186.162.168,1
+656536,18844,29456,33188,NULL,NULL,"&lt;p&gt;I think there is definitely some sort of&nbsp;inflammation&lt;/p&gt;
+","2023-07-31 05:12:19",654312,67.186.162.168,1
+656537,18844,29456,33186,NULL,NULL,"&lt;p&gt;I would always be impressed with myself getting a bitewing this good! Anyone else struggle with them for a long time too??&nbsp;&lt;/p&gt;
+","2023-07-31 05:12:33",0,73.119.3.104,1
+656539,18844,29456,33188,NULL,NULL,"&lt;p&gt;It appears to be a small&nbsp;object or possibly a kidney stone&lt;/p&gt;
+","2023-07-31 05:14:08",654575,67.186.162.168,1
+656550,18844,29456,33190,NULL,NULL,"&lt;p&gt;This is an xray of the brain. What do you think this radiograph is showing?&lt;/p&gt;
+","2023-07-31 05:29:00",0,73.218.208.230,1
+656551,18844,29456,33190,NULL,NULL,"&lt;p&gt;Image looks like the heart is enlarged. Maybe hypertrophy?&lt;/p&gt;
+","2023-07-31 05:31:21",654386,73.218.208.230,1
+656552,18844,29456,33190,NULL,NULL,"&lt;p&gt;Multiple Sclerosis?&lt;/p&gt;
+","2023-07-31 05:32:07",654475,73.218.208.230,1
+656560,18844,29456,33191,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Image related to Wrist Sprains&quot; src=&quot;https://deansmithmd.com/img/wrist-ligaments3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;This is an image of a normal wrist vs an abnormal wrist due to ligament rupture.&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What do you think could&#039;ve happened for the picture on the right to occur?&lt;/p&gt;
+","2023-07-31 05:53:09",0,38.42.201.104,1
+656561,18844,29456,33191,NULL,NULL,"&lt;p&gt;Possibly a cancerous growth that&#039;d spread or a possibly infection in the brain that was invasive.&lt;/p&gt;
+","2023-07-31 05:53:56",654403,38.42.201.104,1
+656562,18844,29456,33191,NULL,NULL,"&lt;p&gt;Based on the location and size, this would be a fracture on the mandible.&lt;/p&gt;
+","2023-07-31 05:55:05",654531,38.42.201.104,1
+656571,18844,29456,33192,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;ACL Tear - Knee &amp;amp; Sports - Orthobullets&quot; src=&quot;https://upload.orthobullets.com/topic/3008/images/cyclops_lesion..jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an Image of a knee.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;What happened to this person&#039;s knee?&nbsp;&lt;/p&gt;
+","2023-07-31 06:35:54",0,76.24.254.244,1
+656572,18844,29456,33192,NULL,NULL,"&lt;p&gt;This person swallowed a headless barbie.&lt;/p&gt;
+","2023-07-31 06:39:50",655132,76.24.254.244,1
+656573,18844,29456,33192,NULL,NULL,"&lt;p&gt;It is possible that the patient sprained their wrist by falling on it.&nbsp;&lt;/p&gt;
+","2023-07-31 06:43:33",656560,76.24.254.244,1
+656632,18844,29456,33195,NULL,NULL,"&lt;p&gt;1. This is a skull x-ray&lt;/p&gt;
+
+&lt;p&gt;2. What do you think is the diagnosis?&lt;/p&gt;
+","2023-07-31 12:35:15",0,73.218.102.12,1
+656634,18844,29456,33195,NULL,NULL,"&lt;p&gt;This could be an infection of temporal or occipital bone&nbsp;&lt;/p&gt;
+","2023-07-31 12:39:07",654358,73.218.102.12,1
+656635,18844,29456,33195,NULL,NULL,"&lt;p&gt;The lungs could be filled with fluids due to trauma.&lt;/p&gt;
+","2023-07-31 12:40:01",654558,73.218.102.12,1
+656643,18844,29456,33196,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;31 Funny X-Ray Images That Seem Too Ridiculous To Be Real&quot; src=&quot;https://allthatsinteresting.com/wordpress/wp-content/uploads/2016/06/weird-x-rays-fork-in-foot.jpg&quot; /&gt;&lt;/p&gt;
+","2023-07-31 13:03:27",0,192.210.21.181,1
+656651,18844,29456,33198,NULL,NULL,"&lt;p&gt;This image most likely shows breast cancer.&nbsp;&lt;/p&gt;
+","2023-07-31 19:20:05",656500,73.114.168.209,1
+656652,18844,29456,33198,NULL,NULL,"&lt;p&gt;That was probably super hard to capture. This is so cool because most fish do not have an exo-skeleton but seahorses do!&lt;/p&gt;
+","2023-07-31 19:24:14",656517,73.114.168.209,1
+656653,18844,29456,33198,NULL,NULL,"&lt;p&gt;This image shows a comparison. What is the problem in the left image.&nbsp;&lt;/p&gt;
+","2023-07-31 19:28:40",0,73.114.168.209,1
+656688,18844,29456,33199,NULL,NULL,"&lt;p&gt;1. This is a radiology of the lungs&lt;/p&gt;
+
+&lt;p&gt;2. What is the diagnosis/ or issue?&lt;/p&gt;
+","2023-08-01 01:26:00",0,172.58.219.18,1
+656689,18844,29456,33199,NULL,NULL,"&lt;p&gt;Periventricular nodular heterotopia?&nbsp;&lt;/p&gt;
+","2023-08-01 01:30:26",655915,172.58.219.18,1
+656732,18844,29456,33197,NULL,NULL,"&lt;p&gt;This X-ray illustrates a&nbsp;fracture of the left mandibular ramus. What type of trauma may have caused this fracture?&nbsp;&lt;/p&gt;
+","2023-08-04 02:48:48",0,71.233.190.22,1
+656733,18844,29456,33197,NULL,NULL,"&lt;p&gt;The&nbsp;spine appears to have considerable curvature, which may indicate scoliosis.&nbsp;&lt;/p&gt;
+","2023-08-04 02:53:07",655607,71.233.190.22,1
+656734,18844,29456,33197,NULL,NULL,"&lt;p&gt;This appears to be a dental implant on the lower right side.&nbsp;&lt;/p&gt;
+","2023-08-04 02:59:29",655657,71.233.190.22,1

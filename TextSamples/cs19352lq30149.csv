@@ -1,0 +1,745 @@
+id,class_session_id,lesson_question_id,user_id,group_id,logged_in_user,text,updated_on,parent_id,ip,visible
+698878,19352,30149,35022,NULL,NULL,,"2023-11-14 17:16:20",0,NULL,1
+699022,19352,30149,35024,NULL,NULL,"&lt;p&gt;&quot;This patient has a known diagnosis of metastatic ovarian carcinoma, having presented initially with a huge pelvic mass. The mass is visible on this PFA as a large soft tissue density structure extending into the abdomen from the pelvis, arrows. Note the displaced bowel loops. There are bilateral nephrostomy catheters, as the pelvic mass had obstructed both ureters.&quot;&lt;/p&gt;
+","2023-11-14 20:20:05",0,NULL,1
+699026,19352,30149,35025,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Duodenal Atresia | Pediatric Radiology Reference Article | Pediatric  Imaging | @pedsimaging&quot; src=&quot;https://pediatricimaging.files.wordpress.com/2019/02/duodenalatresia01jakaxrsupupsq.jpg&quot; /&gt;This patient has a duodenal atresia, which presents on an abdominal X-ray as a &quot;double-bubble&quot; sign (the black bubbles seen on the image).&lt;/p&gt;
+","2023-11-14 20:25:40",0,NULL,1
+699038,19352,30149,35025,NULL,NULL,"&lt;p&gt;Is this the double bubble sign seen with duodenal atresia?&nbsp;&lt;/p&gt;
+","2023-11-14 20:32:57",698878,NULL,1
+699039,19352,30149,35025,NULL,NULL,"&lt;p&gt;Wow, this is really interesting. I didn&#039;t expect an ovarian tumor to look like this on x-ray.&lt;/p&gt;
+","2023-11-14 20:33:38",699022,NULL,1
+699070,19352,30149,NULL,62283,35024,"&lt;p&gt;I haven&#039;t seen&nbsp;a double bubble sign before on x-ray, but this is super interesting.&lt;/p&gt;
+","2023-11-14 20:57:20",699026,NULL,1
+699076,19352,30149,NULL,62283,35024,"&lt;p&gt;Is this only a congenital condition or can it happen at any time?&lt;/p&gt;
+","2023-11-14 21:01:01",698878,NULL,1
+699111,19352,30149,35022,NULL,NULL,"&lt;p&gt;This is the&nbsp;Sentinel Loop Sign!&nbsp; &quot;Abdominal radiography showing dilated loops of small bowel, in a patient with an acute pancreatitis.&quot;&lt;/p&gt;
+","2023-11-14 22:20:15",698878,NULL,1
+699114,19352,30149,35022,NULL,NULL,"&lt;p&gt;It was interesting to see the nephrostomy catheters as well, and how they appear on imaging!&lt;/p&gt;
+","2023-11-14 22:24:29",699022,NULL,1
+699173,19352,30149,21886,NULL,NULL,,"2023-11-15 01:13:00",0,NULL,1
+699176,19352,30149,21886,NULL,NULL,"&lt;p&gt;A lot of the other x-rays I have seen have had some bubbles, but these seem bigger than any I&#039;ve scrolled through so far!&lt;/p&gt;
+","2023-11-15 01:15:34",699026,NULL,1
+699181,19352,30149,21886,NULL,NULL,"&lt;p&gt;I also thought this looked similar to the double-bubble sign. I wonder how similar they are and how you tell the difference between them.&lt;/p&gt;
+","2023-11-15 01:18:31",698878,NULL,1
+699187,19352,30149,35023,NULL,NULL,"&lt;p&gt;Normal pregnancy (23 weeks gestation) on CT following motor vehicle accident (sustained lower limb fractures). Though usually not ideal for pregnant people to get CTs done, the need to check for severe injuries&nbsp;following a notable accident outweighs the relatively tiny&nbsp;risk that it poses to the fetus.&lt;/p&gt;
+","2023-11-15 01:24:10",0,130.44.167.195,1
+699193,19352,30149,35023,NULL,NULL,"&lt;p&gt;I am interested to know what caused this.&nbsp;I can&#039;t tell if the fuzziness is impacted bowel or not, but there&#039;s also the pockets of air (or blood) and something about the ribs looks odd to me but I can&#039;t place much. Was it a blunt trauma cause?&nbsp;&lt;/p&gt;
+","2023-11-15 01:38:11",699173,130.44.167.195,1
+699194,19352,30149,35023,NULL,NULL,"&lt;p&gt;It&#039;s really interesting to see how medical devices appear on these images. Do you know what that dot/target shaped thing is in the upper left below the (10th?) rib?&nbsp;&lt;/p&gt;
+","2023-11-15 01:40:20",699022,130.44.167.195,1
+700249,19352,30149,35032,NULL,NULL,"&lt;p&gt;Abdominal X ray of small bowel obstruction.&lt;/p&gt;
+","2023-11-15 20:14:01",0,NULL,1
+700251,19352,30149,35032,NULL,NULL,"&lt;p&gt;Its neat to see how the body provides room for the placenta by moving other viscera around the cavity.&lt;/p&gt;
+","2023-11-15 20:16:09",699187,NULL,1
+700258,19352,30149,35032,NULL,NULL,"&lt;p&gt;Im interested in what the vertical&nbsp;object/structure on the left side of the first image is? Just an artifact of the Xray?&lt;/p&gt;
+","2023-11-15 20:19:18",699026,NULL,1
+700265,19352,30149,35036,NULL,NULL,"&lt;p&gt;It is really interesting to see how the other parts of the abdominal cavity move for the pregnancy&lt;/p&gt;
+","2023-11-15 20:22:31",699187,68.160.177.182,1
+700266,19352,30149,NULL,62322,35030,"&lt;p&gt;Foreign body&nbsp;&lt;/p&gt;
+","2023-11-15 20:22:48",0,NULL,1
+700268,19352,30149,35036,NULL,NULL,"&lt;p&gt;What is the bright white piece in the middle of the right side of the pelvis?&lt;/p&gt;
+","2023-11-15 20:23:30",699173,68.160.177.182,1
+700271,19352,30149,35033,NULL,NULL,"&lt;p&gt;This is an image of a 9 year old boy who has ingested magnets&lt;/p&gt;
+","2023-11-15 20:26:44",0,NULL,1
+700273,19352,30149,35036,NULL,NULL,,"2023-11-15 20:26:57",0,68.160.177.182,1
+700275,19352,30149,35033,NULL,NULL,"&lt;p&gt;This is really interesting because this happened to someone in my family who is also an interventional radiologist and now I can see what happened to him.&lt;/p&gt;
+","2023-11-15 20:27:54",700249,NULL,1
+700277,19352,30149,35033,NULL,NULL,"&lt;p&gt;It&rsquo;s really interesting to see all of the structures of the fetus because I have only ever seen them on ultrasound and this is so much clearer&lt;/p&gt;
+","2023-11-15 20:28:58",699187,NULL,1
+700326,19352,30149,35034,NULL,NULL,"&lt;p&gt;THis a&nbsp;small bowel obstruction with a distended stomach. You can see that the small bowel is larger than normal&nbsp;&lt;/p&gt;
+","2023-11-15 21:36:01",0,NULL,1
+700328,19352,30149,35034,NULL,NULL,"&lt;p&gt;I would think that a safety pin could perforate parts of the GI tract! Not sure what that would look like here.&nbsp;&lt;/p&gt;
+","2023-11-15 21:37:29",700266,NULL,1
+700330,19352,30149,35034,NULL,NULL,"&lt;p&gt;Im curious if if the size of the bubble is characteristic of this disease or if this has progressed to be this bad &nbsp;&lt;/p&gt;
+","2023-11-15 21:39:54",699026,NULL,1
+700337,19352,30149,35035,NULL,NULL,,"2023-11-15 22:06:21",0,73.186.73.99,1
+700339,19352,30149,35035,NULL,NULL,"&lt;p&gt;I was trying to guess what part of the GI tract the magnets are within, I would guess the jejunum but I am not totally sure.&nbsp;&lt;/p&gt;
+","2023-11-15 22:10:25",700271,73.186.73.99,1
+700344,19352,30149,35035,NULL,NULL,"&lt;p&gt;This. is super interesting to see just how distended the stomach and the small bowel are especially in reference to the portion of the liver that is visible in this image.&nbsp;&lt;/p&gt;
+","2023-11-15 22:15:57",700326,73.186.73.99,1
+700351,19352,30149,35037,NULL,NULL,"&lt;p&gt;https://radiopaedia.org/play/8905/entry/136509/case/21148/presentation?lang=us&lt;/p&gt;
+
+&lt;p&gt;This patient is a 25yo male presenting with RLQ pain and tenderness. Though this may be an obvious diagnosis, it&#039;s still really interesting to see it on the CT scan. This website provides an axial view, and coronal view.&nbsp;&lt;/p&gt;
+","2023-11-15 22:27:19",0,NULL,1
+700353,19352,30149,35037,NULL,NULL,"&lt;p&gt;This is really interesting because I remember being told as a kid that swallowing magnets was particularly dangerous. I looked up why, and the damage is largely caused because magnets can come together in through loops of intestine and cause bowel perforations. Additionally, the magnets can block part of the intestine and cause an obstruction and even necrosis.&nbsp;&lt;/p&gt;
+","2023-11-15 22:30:08",700271,NULL,1
+700354,19352,30149,35037,NULL,NULL,"&lt;p&gt;It&#039;s so cool to see the shift of the organs during pregnancy! I wonder if the organs go back to normal after birth or always are slightly displaced. Also- I wonder if all the black spaces are air or if it&#039;s normal spaces in the peritoneal cavity due to pregnancy?&nbsp;&lt;/p&gt;
+","2023-11-15 22:32:28",699187,NULL,1
+700380,19352,30149,35038,NULL,NULL,"&lt;p&gt;I thought that this X-ray was cool because the rugae in the stomach can be identified.&lt;/p&gt;
+","2023-11-15 23:36:15",0,NULL,1
+700426,19352,30149,35040,NULL,NULL,"&lt;p&gt;3 level spinal fusion from T12-L3&lt;/p&gt;
+","2023-11-16 01:53:17",0,NULL,1
+700428,19352,30149,35040,NULL,NULL,"&lt;p&gt;what&#039;s going on here brody&lt;/p&gt;
+","2023-11-16 01:54:01",700249,NULL,1
+700430,19352,30149,35040,NULL,NULL,"&lt;p&gt;You&#039;re right! Very clear rugae indeed, Olivia!&nbsp;&lt;/p&gt;
+","2023-11-16 01:55:00",700380,NULL,1
+700431,19352,30149,35040,NULL,NULL,"&lt;p&gt;Remarkable.&lt;/p&gt;
+","2023-11-16 01:55:56",699022,NULL,1
+700443,19352,30149,35041,NULL,NULL,"&lt;p&gt;I also wonder if it&nbsp;could perforate the intestines here. If wonder if the only way to remove the pin would be surgically...it might be risky to let it move the whole way through the GI tract. Glad I didn&#039;t eat that!&lt;/p&gt;
+","2023-11-16 02:37:33",700266,68.162.216.12,1
+700444,19352,30149,35041,NULL,NULL,"&lt;p&gt;The resolution on these scans is super high. Metals really do show radiopaque and all of the detailed grooves can be seen on the screws. Remarkable.&nbsp;&lt;/p&gt;
+","2023-11-16 02:39:04",700426,68.162.216.12,1
+700445,19352,30149,35041,NULL,NULL,"&lt;p&gt;bilateral pneumonia from a COVID infection&lt;/p&gt;
+","2023-11-16 02:44:19",0,68.162.216.12,1
+700755,19352,30149,35044,NULL,NULL,"&lt;p&gt;This image is an angiogram that demonstrates the blood vessels off of the common hepatic artery.&nbsp;https://radiopaedia.org/play/24339/entry/432979/case/36182/studies/37737?lang=us&lt;/p&gt;
+","2023-11-16 16:40:31",0,NULL,1
+700760,19352,30149,35044,NULL,NULL,"&lt;p&gt;That&#039;s very interesting! I didn&#039;t realize that would be discernable on CT&lt;/p&gt;
+","2023-11-16 16:41:55",700380,NULL,1
+700767,19352,30149,35044,NULL,NULL,"&lt;p&gt;It&#039;s interesting how far the abdominal organs are able to go into the thoracic cavity. I&#039;m surprised they can compress the lungs that much.&lt;/p&gt;
+","2023-11-16 16:45:19",700337,NULL,1
+700822,19352,30149,35043,NULL,NULL,"&lt;p&gt;This is really cool evidence of a previous procedure!&lt;/p&gt;
+","2023-11-16 17:16:42",700426,NULL,1
+700824,19352,30149,35047,NULL,NULL,"&lt;p&gt;I wonder if there are other intestinal abnormalities that can be seen with these patients&#039; imaging.&nbsp;&lt;/p&gt;
+","2023-11-16 17:17:37",699026,NULL,1
+700825,19352,30149,35043,NULL,NULL,"&lt;p&gt;I have never see imaging during pregnancy before and I never thought about how it would appear either. This is super cool!&lt;/p&gt;
+","2023-11-16 17:17:40",699187,NULL,1
+700826,19352,30149,35047,NULL,NULL,,"2023-11-16 17:19:31",0,NULL,1
+700827,19352,30149,35047,NULL,NULL,"&lt;p&gt;Is this showing enlargement of the liver? Hepatitis?&lt;/p&gt;
+","2023-11-16 17:20:15",700273,NULL,1
+700838,19352,30149,35043,NULL,NULL,"&lt;p&gt;&lt;a href=&quot;https://radiopaedia.org/cases/complicated-sigmoid-diverticulitis-with-colovesical-fistula?lang=us&quot;&gt;https://radiopaedia.org/cases/complicated-sigmoid-diverticulitis-with-colovesical-fistula?lang=us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Complicated sigmoid diverticulitis&nbsp;with colovesical fistula.&lt;/p&gt;
+","2023-11-16 17:29:04",0,NULL,1
+700942,19352,30149,NULL,62387,35058,"&lt;p&gt;Sagital CTA of aortic dissection&lt;/p&gt;
+","2023-11-16 18:22:41",0,NULL,1
+700946,19352,30149,NULL,62387,35058,"&lt;p&gt;This is a great example of visualization of hard wear postop! Really detailed to the point that you can see where in the vertebrate they drilled&lt;/p&gt;
+","2023-11-16 18:24:38",700426,NULL,1
+700950,19352,30149,NULL,62387,35058,"&lt;p&gt;Looks like maybe hepato and splenomegaly&lt;/p&gt;
+","2023-11-16 18:25:40",700273,NULL,1
+700951,19352,30149,35053,NULL,NULL,,"2023-11-16 18:26:00",0,NULL,1
+700952,19352,30149,35053,NULL,NULL,"&lt;p&gt;The organs protrude so far upward, I wonder how significant of respiratory issues this would cause and how long a patient could live with it&lt;/p&gt;
+","2023-11-16 18:27:54",700337,NULL,1
+700953,19352,30149,35053,NULL,NULL,"&lt;p&gt;It amazing how far the barium enema can illuminate the large colon&lt;/p&gt;
+","2023-11-16 18:28:53",700826,NULL,1
+700967,19352,30149,35062,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Abdominal radiography | Radiology Reference Article | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/12258310/f6e2217203e374db05d68f0c59202b_gallery.jpg&quot; /&gt;&lt;/p&gt;
+","2023-11-16 18:32:59",0,NULL,1
+701012,19352,30149,35049,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Abdominal CT: aortic aneurysm &bull; LITFL &bull; Radiology Library&quot; src=&quot;https://litfl.com/wp-content/uploads/2023/02/CT-abdomen-AAA-1-1024x515.png&quot; /&gt;&lt;/p&gt;
+","2023-11-16 18:45:59",0,NULL,1
+701016,19352,30149,35049,NULL,NULL,"&lt;p&gt;very neat&nbsp;to see the border of where the dissection is!&lt;/p&gt;
+","2023-11-16 18:47:40",700942,NULL,1
+701032,19352,30149,35049,NULL,NULL,"&lt;p&gt;I could see how this enhanced illumination could be useful!&lt;/p&gt;
+","2023-11-16 18:51:15",700826,NULL,1
+701089,19352,30149,35077,NULL,NULL,"&lt;p&gt;This is a picture I found of a Hiatal hernia. You can see the intestinal contents herniating above the diaphragm wall. This leads to Barrett&#039;s esophagus as well.&nbsp;&lt;img alt=&quot;Chest X-ray - Mediastinum and hilum - Hiatus hernia&quot; src=&quot;https://www.radiologymasterclass.co.uk/images/chest-images/gallery-mediastinum/hernia_1.jpg?mtime=20210304211316&amp;amp;focal=none&quot; /&gt;&lt;/p&gt;
+","2023-11-16 19:17:12",0,NULL,1
+701091,19352,30149,35077,NULL,NULL,"&lt;p&gt;This is pretty cool. You can see the 3 dimensional aspect of the x-ray.&nbsp;&lt;/p&gt;
+","2023-11-16 19:17:56",700967,NULL,1
+701095,19352,30149,35077,NULL,NULL,"&lt;p&gt;wow this is super interesting. Imagine if a magnet was in the large intestine and another was in the stomach and they were attracted to each other. Then it can cause the stomach to get attatched to the large intestine due to the magnetic force.&lt;/p&gt;
+","2023-11-16 19:19:27",700271,NULL,1
+701101,19352,30149,35070,NULL,NULL,"&lt;p&gt;This is called beaver tail liver, due to trauma. The left lobe of the liver is so elongated that it has wrapped around is touching the spleen (See the image with description). More distally, you can see that they are separate.&nbsp;&lt;/p&gt;
+","2023-11-16 19:25:52",0,NULL,1
+701109,19352,30149,35070,NULL,NULL,"&lt;p&gt;I like how the scale on this image indicates that the dissection is just larger than 3cm, but doesn&#039;t give the actual size. Seems bad.&nbsp;&lt;/p&gt;
+","2023-11-16 19:29:14",701012,NULL,1
+701110,19352,30149,35070,NULL,NULL,"&lt;p&gt;I wonder what type of manipulation they do to be able to see all of these layers&nbsp;&lt;/p&gt;
+","2023-11-16 19:29:48",700967,NULL,1
+701126,19352,30149,35076,NULL,NULL,"&lt;p&gt;This is am image of hepatocellular carcinoma.&nbsp;&lt;/p&gt;
+","2023-11-16 19:54:36",0,NULL,1
+701128,19352,30149,35076,NULL,NULL,"&lt;p&gt;Wow! Great to seem an image to connect to an anki card!&nbsp;&lt;/p&gt;
+","2023-11-16 19:55:57",699026,NULL,1
+701132,19352,30149,35076,NULL,NULL,"&lt;p&gt;I&#039;ve seen many patients in the ED with this. They have to place a nasogastric tube (NG Tube) to suction the contents that get stuck above the obstruction. I&#039;ve helped nurses place a few of them. Sometimes placing these is easy, but other times not so much. It&#039;s not the most pleasant experience for patients.&nbsp;&lt;/p&gt;
+","2023-11-16 19:59:45",700249,NULL,1
+701158,19352,30149,35082,NULL,NULL,"&lt;p&gt;That looks very well outlined&lt;/p&gt;
+","2023-11-16 20:15:32",701126,98.229.30.193,1
+701161,19352,30149,35082,NULL,NULL,"&lt;p&gt;Very cool how clear it is!&lt;/p&gt;
+","2023-11-16 20:16:47",700445,98.229.30.193,1
+701163,19352,30149,NULL,62389,35067,"&lt;p&gt;Inferior vena cava leiomyosarcoma&lt;/p&gt;
+","2023-11-16 20:17:27",0,NULL,1
+701166,19352,30149,35082,NULL,NULL,,"2023-11-16 20:19:30",0,98.229.30.193,1
+701169,19352,30149,NULL,62389,35067,"&lt;p&gt;I usually have a hard time distinguishing different radiological features - always interesting to see something so easily visible like a really defined fluid level.&lt;/p&gt;
+","2023-11-16 20:19:53",701089,NULL,1
+701175,19352,30149,NULL,62389,35067,"&lt;p&gt;Really cool to be able to see the complex vasculature that is hidden from view in the anatomy lab, especially vessels deep in the liver.&lt;/p&gt;
+","2023-11-16 20:24:56",700755,NULL,1
+701176,19352,30149,35088,NULL,NULL,,"2023-11-16 20:25:53",0,NULL,1
+701192,19352,30149,35084,NULL,NULL,"&lt;p&gt;This is an image of fatty liver disease. It&#039;s so interesting to be able to observe tissue differences in a specific organ on the X-Ray level.&lt;/p&gt;
+","2023-11-16 20:49:40",0,NULL,1
+701225,19352,30149,NULL,62404,35093,"&lt;p&gt;This is an unremarkable image of a neonate&#039;s abdomen which shows a normal gas pattern!&nbsp;&lt;/p&gt;
+","2023-11-16 21:27:00",0,NULL,1
+701228,19352,30149,NULL,62404,35093,"&lt;p&gt;This is really fascinating. I would not have guessed this was a duodenal abnormality.&nbsp;&lt;/p&gt;
+","2023-11-16 21:29:02",699026,NULL,1
+701231,19352,30149,NULL,62404,35093,"&lt;p&gt;We saw this image during our ER selective! Apparently it does not perforate any structure and you just wait for it to pass.&nbsp;&lt;/p&gt;
+","2023-11-16 21:30:48",700266,NULL,1
+701239,19352,30149,35104,NULL,NULL,"&lt;p&gt;Courtesy of the American Journal of Roengenology, this is an image of a child with a rare condition called pseudo-prune belly syndrome. It&nbsp;is similar in presentation to prune belly syndrome, which is abdominal distention caused by hypoplasia of abdominal musculature, though this conditions is not associated with weakened abdominal muscles and instead is associated with urinary tract defects,&nbsp;cryptochordism, and a variety of genetic and environmental conditions which contribute to abdominal distention. In this image, the distention of the abdomen is readily apparent.&lt;/p&gt;
+","2023-11-16 21:43:39",0,98.229.27.70,1
+701241,19352,30149,35104,NULL,NULL,"&lt;p&gt;The visibility of the fat deposits in this image&nbsp;is really interesting!&lt;/p&gt;
+","2023-11-16 21:44:42",701192,98.229.27.70,1
+701246,19352,30149,35104,NULL,NULL,"&lt;p&gt;Looks like potential air bubbles in the abdomen?&lt;/p&gt;
+","2023-11-16 21:45:57",701166,98.229.27.70,1
+701269,19352,30149,35110,NULL,NULL,"&lt;p&gt;Like other people have said, it&#039;s really interesting to see just how much the abdomen rearranges itself to accomodate&nbsp;pregnancy!&lt;/p&gt;
+","2023-11-16 22:02:43",699187,75.69.228.8,1
+701277,19352,30149,35110,NULL,NULL,"&lt;p&gt;It&#039;s interesting to see how much air is normally inside a neonate&#039;s abdomen!&lt;/p&gt;
+","2023-11-16 22:06:46",701225,75.69.228.8,1
+701288,19352,30149,35107,NULL,NULL,"&lt;p&gt;That&rsquo;s so cool to see, thank you for sharing Olivia!&lt;/p&gt;
+","2023-11-16 22:12:03",700380,NULL,1
+701292,19352,30149,35110,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Cureus | An Unfortunate Union: A Case of Multiple Magnet Ingestion in a  Pediatric Patient | Article&quot; src=&quot;https://assets.cureus.com/uploads/figure/file/296320/article_river_4b5ef5e0786411ecb77811199d7faa8d-figure-1-F.png&quot; /&gt;Pediatric patient who swallowed multiple magnetic balls. These can cause major issues when swallowed separately, as the magnets can be attracted to each other from different parts of the GI tract and cause perforations.&lt;/p&gt;
+","2023-11-16 22:13:15",0,75.69.228.8,1
+701296,19352,30149,35109,NULL,NULL,"&lt;p&gt;This is a very cool image. I&#039;m wondering what the image will look like if the disease progresses from fatty liver disease to liver cirrhosis.&nbsp;&lt;/p&gt;
+","2023-11-16 22:14:17",701192,NULL,1
+701297,19352,30149,35107,NULL,NULL,"&lt;p&gt;That&rsquo;s a huge tumor&mdash;it&rsquo;s interesting to see it so clearly!&lt;/p&gt;
+","2023-11-16 22:14:27",701163,NULL,1
+701300,19352,30149,NULL,62406,35108,"&lt;p&gt;this is a GI cancer metastasis to the liver.&nbsp;&lt;/p&gt;
+","2023-11-16 22:15:04",0,NULL,1
+701301,19352,30149,NULL,62406,35108,"&lt;p&gt;it looks different from an adult. very cool.&nbsp;&lt;/p&gt;
+","2023-11-16 22:16:15",701225,NULL,1
+701302,19352,30149,NULL,62406,35108,"&lt;p&gt;It&#039;s incredible to see the enlargement of the aorta with this aneurysm.&nbsp;&lt;/p&gt;
+","2023-11-16 22:17:12",701012,NULL,1
+701303,19352,30149,35107,NULL,NULL,"&lt;p&gt;Heptocellular Carcinoma&lt;/p&gt;
+","2023-11-16 22:17:27",0,NULL,1
+701304,19352,30149,NULL,62400,35063,"&lt;p&gt;Answers + Radiology finding attached!&nbsp;&lt;/p&gt;
+","2023-11-16 22:18:15",0,NULL,1
+701306,19352,30149,35109,NULL,NULL,"&lt;p&gt;CT without contrast in the axial view that shows protruding paraumbilical veins, which is a symptom of portal hypertension. This is known as Caput Medusa. Courtesy of Wiley Online Library.&nbsp;&lt;/p&gt;
+","2023-11-16 22:19:05",0,NULL,1
+701309,19352,30149,NULL,62397,35074,"&lt;p&gt;&lt;img alt=&quot;A322913_1_En_13_Fig2_HTML.jpg&quot; src=&quot;https://radiologykey.com/wp-content/uploads/2017/02/A322913_1_En_13_Fig2_HTML.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Gastrointestinal tract perforation of a pediatric patient with visible gas pockets&nbsp;&lt;/p&gt;
+","2023-11-16 22:21:07",0,NULL,1
+701312,19352,30149,35048,NULL,NULL,"&lt;p&gt;Traumatic diaphragmatic laceration with diaphragmatic hernia and bowel perforation&lt;/p&gt;
+","2023-11-16 22:22:11",0,NULL,1
+701314,19352,30149,NULL,62397,35074,"&lt;p&gt;Agree! Guessing its trapped gas bubbles released from a perforated bowel&lt;/p&gt;
+","2023-11-16 22:22:20",701166,NULL,1
+701315,19352,30149,35109,NULL,NULL,"&lt;p&gt;I wonder if there is any way you could visualize atherosclerosis on CT to see if this contributed to the patient&#039;s aortic dissection.&nbsp;&lt;/p&gt;
+","2023-11-16 22:22:38",700942,NULL,1
+701316,19352,30149,NULL,62400,35063,"&lt;p&gt;Something looks off with the splenic flexure of the colon?&lt;/p&gt;
+","2023-11-16 22:23:03",701176,NULL,1
+701323,19352,30149,NULL,62400,35063,"&lt;p&gt;I wonder why the bladder is lighting up!&lt;/p&gt;
+","2023-11-16 22:24:46",700826,NULL,1
+701324,19352,30149,NULL,62397,35074,"&lt;p&gt;It is interesting how different the density of the carcinoma presents&lt;/p&gt;
+","2023-11-16 22:25:37",701126,NULL,1
+701325,19352,30149,35038,NULL,NULL,"&lt;p&gt;Are these images both the same patient? It&#039;s really interesting how the bubbles are showing up in different locations in the two images.&lt;/p&gt;
+","2023-11-16 22:28:06",699026,NULL,1
+701327,19352,30149,35038,NULL,NULL,"&lt;p&gt;So interesting, I wonder why the organs in the fetus are not visible like the organs in the parent.&lt;/p&gt;
+","2023-11-16 22:29:09",699187,NULL,1
+701341,19352,30149,35106,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Plain abdominal X-ray showing swallowed spoon. | Download Scientific Diagram&quot; src=&quot;https://www.researchgate.net/publication/355268216/figure/fig1/AS:1082785150304261@1635167505669/Plain-abdominal-X-ray-showing-swallowed-spoon.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;I will leave this as a surprise for others to guess at the diagnosis.&nbsp;&lt;/p&gt;
+","2023-11-16 22:38:33",0,73.4.243.35,1
+701347,19352,30149,35106,NULL,NULL,"&lt;p&gt;I found this extremely fascinating, I wonder what prune belly syndrome would look like. What impacts does this have on daily life? I&#039;m also curious why it distended in that location, is the wall weaker around there?&lt;/p&gt;
+","2023-11-16 22:41:08",701239,73.4.243.35,1
+701353,19352,30149,35106,NULL,NULL,"&lt;p&gt;Great photo gummy stars ✨!&nbsp; I wonder how this entered the body. I also wonder if it needed to be surgically removed, or if it could pass on its own.&nbsp;&lt;/p&gt;
+","2023-11-16 22:42:05",700266,73.4.243.35,1
+701369,19352,30149,NULL,62401,35092,"&lt;p&gt;&quot;A 16-y-old boy swallowed multiple magnets and presented with abdominal pain and emesis&quot; Found to have magnetic malrotation with fistula and volvulus&lt;/p&gt;
+","2023-11-16 22:54:36",0,NULL,1
+701370,19352,30149,NULL,62402,35094,"&lt;p&gt;&lt;img alt=&quot;Diverticulosis&quot; src=&quot;https://www.stritch.luc.edu/lumen/meded/radio/curriculum/Mechanisms/MHD/CT_diverticula.bmp&quot; /&gt;&lt;/p&gt;
+","2023-11-16 22:55:55",0,24.61.184.86,1
+701375,19352,30149,NULL,62402,35094,"&lt;p&gt;This is really cool to see imaging of, but super scary for anyone with young kids!&lt;/p&gt;
+","2023-11-16 22:58:23",701292,24.61.184.86,1
+701379,19352,30149,NULL,62402,35094,"&lt;p&gt;Very cool to see Caput Medusae on CT since we&#039;ve seen/learned different views in lecture&nbsp;&lt;/p&gt;
+","2023-11-16 23:00:22",701306,24.61.184.86,1
+701398,19352,30149,35111,NULL,NULL,"&lt;p&gt;L5 S1 herniated disc - this isn&#039;t from my case, but this happened to me! Would not recommend&lt;/p&gt;
+","2023-11-16 23:09:22",0,73.149.18.103,1
+701404,19352,30149,NULL,62410,35086,"&lt;p&gt;It&#039;s interesting how clear the inflammation is in the bronchioles&lt;/p&gt;
+","2023-11-16 23:12:06",700445,108.49.141.196,1
+701409,19352,30149,NULL,62410,35086,"&lt;p&gt;Never thought you could see the caput medusa&nbsp;on a CT. It seems very evident&lt;/p&gt;
+","2023-11-16 23:14:27",701306,108.49.141.196,1
+701412,19352,30149,NULL,62410,35086,"&lt;p&gt;This is an abdominal x-ray with a gastric pace maker&lt;/p&gt;
+","2023-11-16 23:15:22",0,108.49.141.196,1
+701425,19352,30149,NULL,62388,35061,"&lt;p&gt;Remarkable.&lt;/p&gt;
+","2023-11-16 23:20:47",699022,NULL,1
+701426,19352,30149,NULL,62388,35061,"&lt;p&gt;Unbelievable.&lt;/p&gt;
+","2023-11-16 23:21:11",700826,NULL,1
+701434,19352,30149,NULL,62388,35061,"&lt;p&gt;We wonder what happened here&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Chainsaw through the neck isn&#039;t the first crazy X-Ray&quot; src=&quot;https://media.gannett-cdn.com/img/963482463001/201404/1380/963482463001_3423105556001_video-still-for-video-3422988240001.jpg?pubId=963482463001&amp;amp;width=660&amp;amp;height=371&amp;amp;format=pjpg&amp;amp;auto=webp&quot; /&gt;&lt;/p&gt;
+","2023-11-16 23:25:58",0,NULL,1
+701436,19352,30149,NULL,62388,35061,"&lt;p&gt;great work.&lt;/p&gt;
+","2023-11-16 23:26:24",701412,NULL,1
+701447,19352,30149,NULL,62407,35046,"&lt;p&gt;It is cool to see an image of this varicie. The paraumbilical veins look much bigger than we suspected.&nbsp;&lt;/p&gt;
+","2023-11-16 23:29:39",701306,NULL,1
+701451,19352,30149,35117,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Figure 2.&quot; src=&quot;https://www.ahajournals.org/cms/asset/fbc4d761-aea9-4b5c-88ba-9f781c31b4d2/zhc0431088700002.jpg&quot; /&gt;&lt;/p&gt;
+","2023-11-16 23:30:32",0,73.47.221.102,1
+701454,19352,30149,35117,NULL,NULL,"&lt;p&gt;Very interesting, Dwight. The bubbles are a lot clearer than I expected.&lt;/p&gt;
+","2023-11-16 23:31:12",699026,73.47.221.102,1
+701456,19352,30149,35120,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Trauma CT in pregnancy : r/Radiology&quot; src=&quot;https://i.imgur.com/YXTAbaE.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;CT of pregnant women as a result of MVC&lt;/p&gt;
+","2023-11-16 23:31:39",0,73.16.21.29,1
+701460,19352,30149,35117,NULL,NULL,"&lt;p&gt;This is very cool, I am glad they visualize as well as they do! I wonder if GI docs/surgeons can pull them out via endoscopy, or if they often require surgery.&lt;/p&gt;
+","2023-11-16 23:32:27",700271,73.47.221.102,1
+701463,19352,30149,NULL,62407,35046,"&lt;p&gt;It is really cool that the cancer metastasis can be so clearly differentiated like this. I wonder why it appears darker than the surrounding tissue?&lt;/p&gt;
+","2023-11-16 23:32:50",701300,NULL,1
+701467,19352,30149,35120,NULL,NULL,"&lt;p&gt;Being able to see the hardware used for that fusion so clearly is wild&lt;/p&gt;
+","2023-11-16 23:33:47",700426,73.16.21.29,1
+701473,19352,30149,35120,NULL,NULL,"&lt;p&gt;The color change is so subtle, I totally would have missed that&nbsp;&lt;/p&gt;
+","2023-11-16 23:37:11",701126,73.16.21.29,1
+701477,19352,30149,NULL,62407,35046,"&lt;p&gt;&lt;img src=&quot;https://prod-images-static.radiopaedia.org/images/563646/52efde963dcd4b55f4d31f81c386d8_big_gallery.jpg&quot; alt=&quot;52efde963dcd4b55f4d31f81c386d8_big_gallery.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Abdominal aortic aneurysm&lt;/p&gt;
+","2023-11-16 23:37:38",0,NULL,1
+701489,19352,30149,35127,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Jejunoileal atresia | Radiology Case | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/57026676/0._gallery.jpeg&quot; /&gt;&lt;/p&gt;
+","2023-11-16 23:41:54",0,73.68.2.169,1
+701490,19352,30149,35123,NULL,NULL,"&lt;p&gt;Severely calcified abdominal aortic aneurysm with degenerative disk disease and diffuse idiopathic skeletal hyperostosis.&lt;/p&gt;
+","2023-11-16 23:41:58",0,NULL,1
+701499,19352,30149,28648,NULL,NULL,"&lt;p&gt;Fetal MRI scans!&lt;/p&gt;
+","2023-11-16 23:47:10",0,73.69.152.211,1
+701500,19352,30149,35114,NULL,NULL,,"2023-11-16 23:47:31",0,NULL,1
+701505,19352,30149,28648,NULL,NULL,"&lt;p&gt;Interesting! I wonder what the makeup of the tumor is like that would change the color on the image.&lt;/p&gt;
+","2023-11-16 23:49:34",701126,73.69.152.211,1
+701511,19352,30149,28648,NULL,NULL,"&lt;p&gt;Wow! Almost looks like the bone with how much the vessel has calcified!&lt;/p&gt;
+","2023-11-16 23:50:59",701490,73.69.152.211,1
+701517,19352,30149,35129,NULL,NULL,"&lt;p&gt;My guess is this person is VERY constipated&nbsp;&lt;/p&gt;
+","2023-11-16 23:54:37",701489,NULL,1
+701524,19352,30149,35129,NULL,NULL,"&lt;p&gt;Woah...it&#039;s crazy to see how the left lung gets pushed up against the anterior chest wall&nbsp;&lt;/p&gt;
+","2023-11-16 23:56:36",701312,NULL,1
+701534,19352,30149,35129,NULL,NULL,,"2023-11-17 00:02:11",0,NULL,1
+701545,19352,30149,NULL,62414,35128,"&lt;p&gt;Hirschsprung&#039;s disease&lt;/p&gt;
+","2023-11-17 00:06:16",0,NULL,1
+701547,19352,30149,NULL,62413,35125,"&lt;p&gt;So Cool! We are wondering how many weeks along the pregnant woman is?&nbsp;&lt;/p&gt;
+","2023-11-17 00:06:52",701456,75.68.94.57,1
+701548,19352,30149,NULL,62413,35126,"&lt;p&gt;This patient has gallstones, which you can see as white calcifications in the gallbladder.&lt;/p&gt;
+","2023-11-17 00:07:43",0,75.68.94.57,1
+701555,19352,30149,NULL,62413,35126,"&lt;p&gt;We were surprised to see how distended with gas the abdomen is in a pediatric patient.&lt;/p&gt;
+","2023-11-17 00:09:31",701309,75.68.94.57,1
+701557,19352,30149,NULL,62414,35128,"&lt;p&gt;The colon appears very distended and more lateral than medial.&nbsp;&lt;/p&gt;
+","2023-11-17 00:11:07",701500,NULL,1
+701566,19352,30149,NULL,62414,35128,"&lt;p&gt;Wow, this is so fascinating! I wonder the reasoning for the CT scan. Wouldn&#039;t this expose the fetus to a lot of radiation?&nbsp;&lt;/p&gt;
+","2023-11-17 00:13:47",701456,NULL,1
+701575,19352,30149,35121,NULL,NULL,"&lt;p&gt;I am amazed by the clarity with which you can see the aortic dissection. I would be curious to know if there are features of aortic dissections viewable on CTA that can indicate the risk of dissections worsening or rupturing.&lt;/p&gt;
+","2023-11-17 00:18:36",700942,NULL,1
+701576,19352,30149,35121,NULL,NULL,"&lt;p&gt;The liver and spleen look large, and the spleen, in addition, to its size, looks misshapen. Can hepatosplenomegaly result in compression of, and eventual damage to, the liver and spleen?&lt;/p&gt;
+","2023-11-17 00:19:52",700273,NULL,1
+701592,19352,30149,35121,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;CT scan of hepatocellular carcinoma in right lobe of the liver ...&quot; src=&quot;https://www.researchgate.net/publication/230763754/figure/fig6/AS:667829623861264@1536234398494/CT-scan-of-hepatocellular-carcinoma-in-right-lobe-of-the-liver.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an image of a hepatocellular carcinoma in the right lobe of the liver. You can see the darkening of the tissue along the posterio-medial end of the liver.&lt;/p&gt;
+","2023-11-17 00:25:46",0,NULL,1
+701605,19352,30149,35137,NULL,NULL,"&lt;p&gt;Looks like hepatitis to me!&lt;/p&gt;
+","2023-11-17 00:31:07",700273,172.56.194.146,1
+701610,19352,30149,35124,NULL,NULL,"&lt;p&gt;&quot;The imaging features are those of a hypervascular tumor in a patient referred with a clinical history of both alpha-1 antitrypsin deficiency. The findings are highly concerning for a hepatocellular carcinoma. The patient went to surgical resection.&quot;&lt;/p&gt;
+","2023-11-17 00:32:42",0,NULL,1
+701613,19352,30149,35137,NULL,NULL,"&lt;p&gt;Interesting how clear these are using imaging!&lt;/p&gt;
+","2023-11-17 00:34:25",701548,172.56.194.146,1
+701617,19352,30149,35124,NULL,NULL,"&lt;p&gt;When talking about pregnancy, I have always heard people say that it pushes other organs to the sides. You can see in coronal view how the colon is pushed off to the patients left side!&lt;/p&gt;
+","2023-11-17 00:35:15",701499,NULL,1
+701623,19352,30149,NULL,62392,35071,,"2023-11-17 00:36:09",0,72.70.60.55,1
+701624,19352,30149,NULL,62392,35071,"&lt;p&gt;magnets causing bowel perforation!&lt;/p&gt;
+","2023-11-17 00:36:47",701623,72.70.60.55,1
+701632,19352,30149,35124,NULL,NULL,"&lt;p&gt;One of the magnets (I&#039;m assuming)&nbsp;you can clearly see by how radiopaque it is. I wonder why you can only see it localized to one place. Did all of the magnets stay together?&lt;/p&gt;
+","2023-11-17 00:38:53",701369,NULL,1
+701634,19352,30149,NULL,62392,35071,"&lt;p&gt;Was it swallowed closed or open?&lt;/p&gt;
+","2023-11-17 00:39:07",700266,72.70.60.55,1
+701635,19352,30149,NULL,62392,35071,"&lt;p&gt;Is the spine bulging? It looks so wide near the pelvis but maybe it is just overlapping structures.&lt;/p&gt;
+","2023-11-17 00:40:11",700967,72.70.60.55,1
+701649,19352,30149,NULL,62419,35122,"&lt;p&gt;&lt;img alt=&quot;Endoscopic Foreign Bodies The Gastrointestinalatlas -  gastrointestinalatlas.com&quot; src=&quot;https://www.gastrointestinalatlas.com/imagenes/Protessis_DWNTAL8L.jpg&quot; /&gt;&lt;/p&gt;
+","2023-11-17 00:44:19",0,NULL,1
+701652,19352,30149,NULL,62419,35122,"&lt;p&gt;wow... intense&lt;/p&gt;
+","2023-11-17 00:45:07",701398,NULL,1
+701654,19352,30149,NULL,62419,35139,"&lt;p&gt;Great image! I wonder the associated symptoms are.&nbsp;&lt;/p&gt;
+","2023-11-17 00:46:09",701101,NULL,1
+701655,19352,30149,35083,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Tetrahydrocannabinol (THC) cartridge ingestion - ScienceDirect&quot; src=&quot;https://ars.els-cdn.com/content/image/1-s2.0-S221357662030021X-gr1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;THC cartridge ingestion&lt;/p&gt;
+","2023-11-17 00:46:10",0,NULL,1
+701668,19352,30149,NULL,62415,35132,,"2023-11-17 00:53:27",0,74.213.236.14,1
+701684,19352,30149,NULL,62415,35113,"&lt;p&gt;That&#039;s pretty cool. I wonder what a multilevel fusion like that does in terms of transferring load to the segments above and below, though.&lt;/p&gt;
+","2023-11-17 01:02:25",700426,NULL,1
+701686,19352,30149,35130,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Abdominal CT: aortic aneurysm &bull; LITFL &bull; Radiology Library&quot; src=&quot;https://litfl.com/wp-content/uploads/2023/02/CT-abdomen-AAA-1-1024x515.png&quot; /&gt;Abdominal Aortic Aneurysm&lt;/p&gt;
+","2023-11-17 01:02:47",0,NULL,1
+701695,19352,30149,NULL,62415,35113,"&lt;p&gt;Wow, cool how you can see the intervertebral foramen on this view.&lt;/p&gt;
+","2023-11-17 01:06:43",701490,NULL,1
+701696,19352,30149,NULL,62417,35069,"&lt;p&gt;&lt;img alt=&quot;X-ray shows how man accidentally swallowed scissors&quot; src=&quot;https://www.telegraph.co.uk/multimedia/archive/01376/scissors_1376875c.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-11-17 01:07:05",0,98.229.69.67,1
+701698,19352,30149,NULL,62417,35069,"&lt;p&gt;WOW! How amazing that you can see the spine.&nbsp;&lt;/p&gt;
+","2023-11-17 01:07:31",699187,98.229.69.67,1
+701700,19352,30149,35130,NULL,NULL,"&lt;p&gt;It is not clear to me what is causing this distension. It looks like maybe part of the colon is in this? I wonder if this is a failure of the intestines to retract back into the abdominal cavity or if this is due to the intestines protruding outward after successfully retracting.&nbsp;&lt;/p&gt;
+","2023-11-17 01:08:16",701239,NULL,1
+701703,19352,30149,NULL,62417,35134,"&lt;p&gt;Crazy to see how much gas there is! It was probably very uncomfortable.&nbsp;&lt;/p&gt;
+","2023-11-17 01:09:59",701225,98.229.69.67,1
+701704,19352,30149,35130,NULL,NULL,"&lt;p&gt;It is interesting that metastases are a different color. I wonder if liver cancer could be detected or seen in a scan like this. Would the tumor be the same color and undetectable, or could you tell that there was a bulge if went outside of the expected lines of the liver.&lt;/p&gt;
+","2023-11-17 01:10:23",701300,NULL,1
+701733,19352,30149,35143,NULL,NULL,"&lt;p&gt;This is was really cool to see on an xray, I was also told that swallong magnets could really mess up your abdomen&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-11-17 01:24:54",700271,73.47.10.212,1
+701735,19352,30149,35143,NULL,NULL,"&lt;p&gt;The human body is amazing &amp;lt;3&lt;/p&gt;
+","2023-11-17 01:25:26",699187,73.47.10.212,1
+701743,19352,30149,35147,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Blood in the Belly: CT Findings of Hemoperitoneum | RadioGraphics&quot; src=&quot;https://pubs.rsna.org/cms/10.1148/rg.271065042/asset/images/medium/g07ja24g22x.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is blood in the peritoneal space&lt;/p&gt;
+","2023-11-17 01:28:40",0,73.219.233.239,1
+701744,19352,30149,35143,NULL,NULL,"&lt;p&gt;This is a pneumothorax&lt;/p&gt;
+","2023-11-17 01:29:08",0,73.47.10.212,1
+701747,19352,30149,35135,NULL,NULL,"&lt;p&gt;&quot;A 10-year-old boy presented with a 1-day history of recurrent vomiting and intermittent lower abdominal pain. Examination revealed lower abdominal tenderness. Inflammatory markers were normal with a negative urine dipstick. However, the child&#039;s pain worsened and he developed rebound tenderness and guarding... Anteroposterior and lateral abdominal radiographs revealed a radio-opaque, &lsquo;beaded&rsquo; foreign body&quot;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Consumed magnet beads!! &lt;a href=&quot;https://casereports.bmj.com/content/2014/bcr-2014-208083&quot;&gt;Here&#039;s &lt;/a&gt;the case report&lt;/p&gt;
+","2023-11-17 01:29:53",0,73.126.172.34,1
+701751,19352,30149,35135,NULL,NULL,"&lt;p&gt;I knew that Hirschsprung was serious, but this imaging made me audibly gasp!&lt;/p&gt;
+","2023-11-17 01:30:48",701545,73.126.172.34,1
+701752,19352,30149,35143,NULL,NULL,"&lt;p&gt;the difference in shade in interesting&lt;/p&gt;
+","2023-11-17 01:31:07",701592,73.47.10.212,1
+701757,19352,30149,35135,NULL,NULL,"&lt;p&gt;It&#039;s so jarring to see all of these bumps when the liver should be super smooth. Thanks for sharing!&lt;/p&gt;
+","2023-11-17 01:33:14",701192,73.126.172.34,1
+701782,19352,30149,35141,NULL,NULL,,"2023-11-17 01:41:29",0,24.218.148.184,1
+701785,19352,30149,35141,NULL,NULL,"&lt;p&gt;That&#039;s so interesting we can see it with that much detail on CT!&lt;/p&gt;
+","2023-11-17 01:42:36",701303,24.218.148.184,1
+701793,19352,30149,35141,NULL,NULL,"&lt;p&gt;Oh wow, I would have never considered how the magnets being attracted to each other could cause internal damage.&lt;/p&gt;
+","2023-11-17 01:45:42",701292,24.218.148.184,1
+701795,19352,30149,35146,NULL,NULL,"&lt;p&gt;I wonder how much trauma this little pin caused, and how it got there..&lt;/p&gt;
+","2023-11-17 01:46:21",700266,71.232.47.20,1
+701801,19352,30149,35146,NULL,NULL,"&lt;p&gt;wow this is wild, I wonder how this enlarged liver effects the physiology of the liver or if there&#039;s greater risk of injury from enlargement&nbsp;&lt;/p&gt;
+","2023-11-17 01:47:31",701101,71.232.47.20,1
+701804,19352,30149,35153,NULL,NULL,"&lt;p&gt;whoa super interesting that the tissue architecture is different enough that the tissue has a different shade in this scan!&lt;/p&gt;
+","2023-11-17 01:49:15",701592,NULL,1
+701807,19352,30149,35153,NULL,NULL,"&lt;p&gt;eek!! so cool to see the tiny baby in there and that the spinal cord is developing!&lt;/p&gt;
+","2023-11-17 01:49:51",699187,NULL,1
+701808,19352,30149,35146,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Gallstones top to toe: what the radiologist needs to know | Insights into  Imaging | Full Text&quot; src=&quot;https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13244-019-0825-4/MediaObjects/13244_2019_825_Fig5_HTML.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What gallstones look like on an MRI&lt;/p&gt;
+","2023-11-17 01:50:02",0,71.232.47.20,1
+701817,19352,30149,35153,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Small Bowel Crohn Disease at CT and MR Enterography: Imaging Atlas and  Glossary of Terms | RadioGraphics&quot; src=&quot;https://pubs.rsna.org/cms/10.1148/rg.2020190091/asset/images/medium/rg.2020190091.fig3.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;This is an image of someone with IBD (specifically Crohn&#039;s disease)!&lt;/p&gt;
+","2023-11-17 01:55:42",0,NULL,1
+701825,19352,30149,35144,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Cirrhosis | Radiology Key&quot; src=&quot;https://radiologykey.com/wp-content/uploads/2016/11/image07668.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the liver of someone with cirrhosis!&lt;/p&gt;
+","2023-11-17 01:59:38",0,73.114.169.28,1
+701829,19352,30149,35144,NULL,NULL,"&lt;p&gt;This is really cool! I&#039;ve never seen an x-ray of a fetus.... super interesting to see the bone development.&lt;/p&gt;
+","2023-11-17 02:02:33",701456,73.114.169.28,1
+701834,19352,30149,35144,NULL,NULL,"&lt;p&gt;That&#039;s huge! It&#039;s interesting how smooth of an edge the carcinoma has.&lt;/p&gt;
+","2023-11-17 02:03:23",701303,73.114.169.28,1
+701837,19352,30149,35078,NULL,NULL,"&lt;p&gt;&quot;CT demonstrates the large bowel mass is a grossly distended food-filled cecum that is not in the right iliac fossa but in the left side of the abdomen&quot;&nbsp;&lt;/p&gt;
+
+&lt;p&gt;Diagnosis: Cecal Volvulus&lt;/p&gt;
+","2023-11-17 02:05:11",0,209.94.140.7,1
+701854,19352,30149,35078,NULL,NULL,"&lt;p&gt;Wow, the nodules on this&nbsp;liver are so visible!&lt;/p&gt;
+","2023-11-17 02:08:47",701825,209.94.140.7,1
+701860,19352,30149,35078,NULL,NULL,"&lt;p&gt;How???&nbsp;&lt;/p&gt;
+","2023-11-17 02:10:07",701696,209.94.140.7,1
+701861,19352,30149,35022,NULL,NULL,"&lt;p&gt;It looks like the left diaphragm may be slightly displaced upwards as well. I wonder what the foreign object is on the upper left?&lt;/p&gt;
+","2023-11-17 02:10:19",701166,NULL,1
+701863,19352,30149,NULL,62420,35152,"&lt;p&gt;High yield image. I will remember the double bubble now. Thank you&lt;/p&gt;
+","2023-11-17 02:10:50",699026,72.93.105.25,1
+701867,19352,30149,NULL,62420,35150,"&lt;p&gt;Someone commented how the safety pin doesn&#039;t perforate the bowel. I wonder if this was a specific case or if it is unlikely for it to perforate the bowel due to how it moves through the intestine.&lt;/p&gt;
+","2023-11-17 02:12:40",700266,72.93.105.25,1
+701877,19352,30149,NULL,62420,35152,"&lt;p&gt;Attached is a CT scan of a a pt following blunt abdominal trauma. The caption of the image reads, &quot;Axial unenhanced CT image at the base of lung showing&nbsp;the herniation of right liver (arrow) abutting the posterior ribs, which is termed the &ldquo;dependent viscera sign.&quot; We thought seeing a herniation of the liver was cool.&lt;/p&gt;
+","2023-11-17 02:17:01",0,72.93.105.25,1
+701887,19352,30149,35138,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Ulcerative Colitis Imaging: Practice Essentials, Radiography, Computed  Tomography&quot; src=&quot;https://img.medscapestatic.com/pi/meds/ckb/23/18323tn.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ulcerative colitis :0&lt;/p&gt;
+","2023-11-17 02:20:22",0,NULL,1
+701899,19352,30149,35138,NULL,NULL,"&lt;p&gt;this is one of the clearest X-rays I&#039;ve ever seen !&nbsp;&nbsp;&lt;/p&gt;
+","2023-11-17 02:22:35",699026,NULL,1
+701905,19352,30149,35138,NULL,NULL,"&lt;p&gt;Wow ! this was something I almost tried doing as a kid. I&#039;m glad I didn&#039;t !&nbsp;&lt;/p&gt;
+","2023-11-17 02:24:37",700271,NULL,1
+701913,19352,30149,35105,NULL,NULL,"&lt;p&gt;Interesting Brody- thanks for sharing!&nbsp;&lt;/p&gt;
+","2023-11-17 02:26:28",700249,73.114.162.211,1
+701915,19352,30149,35105,NULL,NULL,"&lt;p&gt;Cool to see the hernia here&lt;/p&gt;
+","2023-11-17 02:27:32",701304,73.114.162.211,1
+701939,19352,30149,35162,NULL,NULL,"&lt;p&gt;Wow, that liver looks huge&lt;/p&gt;
+","2023-11-17 02:36:34",700273,NULL,1
+701940,19352,30149,35160,NULL,NULL,"&lt;p&gt;This is a 69 year male presenting with abdominal pain. He has history of end stage renal disease on hemodialysis. Upon questioning the patient, he admits to eating chalk. Geophagy (soil-eating) is a form of pica where individuals ingest earthy or soil like substances. Pica in the absence of mental disorder it is often reported in patients with anemia and mineral deficiency, most commonly in pregnant women and children.&nbsp; Pica, particularly &ldquo;ice pica&rdquo; is commonly seen in dialysis patients. In this case, geophagy pica was the diagnosis.&lt;/p&gt;
+","2023-11-17 02:36:38",0,24.2.175.180,1
+701948,19352,30149,NULL,62397,35075,"&lt;p&gt;&lt;img alt=&quot;Foreign body xray - MEDizzy&quot; src=&quot;https://cdn.medizzy.com/E90P54zRE_o2b_BOuRAJXNhZn1c=/680x680/img/posts/b5628cec-f9f5-4689-a28c-ecf9f5268971&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No comment&lt;/p&gt;
+","2023-11-17 02:39:39",0,73.143.162.248,1
+701950,19352,30149,35145,NULL,NULL,"&lt;p&gt;This is a liver teratoma!&lt;/p&gt;
+","2023-11-17 02:40:35",0,73.114.168.181,1
+701955,19352,30149,35145,NULL,NULL,"&lt;p&gt;I can&#039;t believe I have never seen an image like that!&lt;/p&gt;
+","2023-11-17 02:41:15",699187,73.114.168.181,1
+701956,19352,30149,NULL,62397,35075,"&lt;p&gt;Wow, this really puts this condition into perspective. Thanks for finding this!&lt;/p&gt;
+","2023-11-17 02:41:20",701545,73.143.162.248,1
+701959,19352,30149,35145,NULL,NULL,"&lt;p&gt;Angiograms look really spooky, but I can&#039;t explain why. Kinda looks like a tree&lt;/p&gt;
+","2023-11-17 02:42:22",700755,73.114.168.181,1
+701960,19352,30149,35155,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Scoliosis radiography | Radiology Reference Article | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/26589598/c0cf49ca6c8ba160a6ef932c0bd363_gallery.jpeg&quot; /&gt;&lt;/p&gt;
+","2023-11-17 02:42:47",699022,24.91.137.76,1
+701961,19352,30149,NULL,62397,35075,"&lt;p&gt;Is that a stent?&lt;/p&gt;
+","2023-11-17 02:43:03",701534,73.143.162.248,1
+701962,19352,30149,35155,NULL,NULL,"&lt;p&gt;wow I did not realize how big a mass like this could grow to, remarkable&lt;/p&gt;
+","2023-11-17 02:43:15",699022,24.91.137.76,1
+701964,19352,30149,NULL,62411,35098,,"2023-11-17 02:43:36",0,130.44.129.144,1
+701965,19352,30149,35155,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Scoliosis radiography | Radiology Reference Article | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/26589598/c0cf49ca6c8ba160a6ef932c0bd363_gallery.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Never realized scoliosis could look so obvious on abdominal CT!&lt;/p&gt;
+","2023-11-17 02:43:41",0,24.91.137.76,1
+701966,19352,30149,NULL,62411,35098,"&lt;p&gt;very ulcerative!&lt;/p&gt;
+","2023-11-17 02:43:57",701887,130.44.129.144,1
+701969,19352,30149,35155,NULL,NULL,"&lt;p&gt;It is remarkable how similar the safety pin looks to bone in the image in terms of intensity. Would not think they react with light in the same way as bone.&lt;/p&gt;
+","2023-11-17 02:44:31",700266,24.91.137.76,1
+701970,19352,30149,NULL,62411,35098,"&lt;p&gt;too much mcdonalds&lt;/p&gt;
+","2023-11-17 02:45:02",701489,130.44.129.144,1
+701974,19352,30149,NULL,62412,35118,"&lt;p&gt;&lt;img alt=&quot;Current status of imaging in nonalcoholic fatty liver disease&quot; src=&quot;https://f6publishing.blob.core.windows.net/866a896b-ec74-428a-943f-3a88c7f33e92/WJH-10-530-g005.jpg&quot; /&gt;&lt;/p&gt;
+","2023-11-17 02:48:29",0,73.4.109.35,1
+701976,19352,30149,NULL,62412,35118,"&lt;p&gt;This is super interesting to see on a scan. the displaced bowel loops are fascinating&lt;/p&gt;
+","2023-11-17 02:49:27",699022,73.4.109.35,1
+701979,19352,30149,NULL,62412,35118,"&lt;p&gt;I didn&#039;t know the liver could get this large!&lt;/p&gt;
+","2023-11-17 02:50:15",700273,73.4.109.35,1
+701982,19352,30149,35142,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Neuroblastoma presenting with symptoms of epidural compression at birth&quot; src=&quot;https://media-dynamed-com.ezproxy.library.tufts.edu/image/authenticated/t_carousel_view/EBSCOHealth/CCMS/Dynamed/images/I1568993142086&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Retroperitoneal neuroblastoma with intraspinal invasion. Left-sided large mass with dumbbell extension through widened neural foramina (a and b, white arrows) and marked compression and dislocation of the cauda (a, black arrow)&lt;/p&gt;
+","2023-11-17 02:53:10",0,NULL,1
+701986,19352,30149,35142,NULL,NULL,"&lt;p&gt;Very cool to see how clearly the foramens have opened&nbsp;post-operatively. How reassuring it must be for the patient to know that their surgery was successful!&lt;/p&gt;
+","2023-11-17 02:55:09",700426,NULL,1
+701987,19352,30149,35142,NULL,NULL,"&lt;p&gt;Curious to know how this presents on the patient in clinic! Would the areas with bubbles be tender? Thanks for sharing!&lt;/p&gt;
+","2023-11-17 02:55:53",699026,NULL,1
+701989,19352,30149,NULL,62424,35159,"&lt;p&gt;Fantastic work! Didn&#039;t know there were gastric pace makers! :)&lt;/p&gt;
+","2023-11-17 02:56:52",701412,NULL,1
+701992,19352,30149,NULL,62424,35159,"&lt;p&gt;That must&#039;ve hurt!&lt;/p&gt;
+","2023-11-17 02:59:38",701948,NULL,1
+701995,19352,30149,NULL,62423,35157,"&lt;p&gt;Wow that&#039;s such a cool radiograph!&nbsp;&lt;/p&gt;
+","2023-11-17 03:01:13",699187,174.168.107.59,1
+701998,19352,30149,NULL,62423,35158,"&lt;p&gt;Wow- this is such a clear view of the tumor.&nbsp;&lt;/p&gt;
+","2023-11-17 03:04:20",701163,71.232.44.80,1
+701999,19352,30149,NULL,62423,35156,"&lt;p&gt;&quot;Transverse view of CT scan. This view shows the bullet to be lodged postero medially to the left kidney.&quot;&lt;/p&gt;
+","2023-11-17 03:05:09",0,73.114.172.14,1
+702000,19352,30149,35151,NULL,NULL,"&lt;p&gt;the little baby&#039;s spine! wow the uterus expands so much and makes every other structure squish around it so much I have never seen a CT of someone during pregnancy.&lt;/p&gt;
+","2023-11-17 03:05:50",699187,71.235.129.130,1
+702004,19352,30149,35151,NULL,NULL,"&lt;p&gt;Woah I think i had these magnets as a kid they were called k&#039;nex. I am also glad I didnt eat them because that is scary, but luckily this kind of image would help the doctors know exactly where it is so they can remove it! It kind of looks like it is in the transverse colon to me&lt;/p&gt;
+","2023-11-17 03:08:35",700271,71.235.129.130,1
+702008,19352,30149,NULL,62381,35026,"&lt;p&gt;This image shows dilated small intestine resulting from obstruction. It also has clips in the upper right quadrant where a cholecystectomy was performed!&lt;/p&gt;
+","2023-11-17 03:10:06",0,71.232.47.195,1
+702016,19352,30149,35090,NULL,NULL,,"2023-11-17 03:15:34",0,38.42.224.192,1
+702018,19352,30149,35167,NULL,NULL,"&lt;p&gt;this looks intense&lt;/p&gt;
+","2023-11-17 03:16:33",701887,73.219.235.221,1
+702019,19352,30149,35151,NULL,NULL,"&lt;p&gt;seeing that tooth in the lung during lecture made me wonder if teeth ever make it into the intestines and yes it looks like they do. its on the left side of the abdomen at L3 vertebral level.&lt;/p&gt;
+","2023-11-17 03:16:39",0,71.235.129.130,1
+702021,19352,30149,35154,NULL,NULL,"&lt;p&gt;This is a contrast CT of a mass on the left adrenal gland of a boy who presented with vomiting. They saw the mass on xray but then used the ct scan for staging of what turned out to be a neuroblastoma.&nbsp;&lt;/p&gt;
+","2023-11-17 03:17:08",0,73.69.210.130,1
+702022,19352,30149,NULL,62381,35026,"&lt;p&gt;So cool to see this on imaging &mdash; wonder if any of the stones have traveled and caused obstructions!&lt;/p&gt;
+","2023-11-17 03:17:26",701548,71.232.47.195,1
+702026,19352,30149,35167,NULL,NULL,"&lt;p&gt;wow this is a large teratoma&lt;/p&gt;
+","2023-11-17 03:18:23",701950,73.219.235.221,1
+702031,19352,30149,35154,NULL,NULL,"&lt;p&gt;The color change makes me wonder if the original source of the tissue also presents that color in a scan or this current color is like a combination of the cancerous tissue and liver tissue.&nbsp;&lt;/p&gt;
+","2023-11-17 03:20:06",701126,73.69.210.130,1
+702034,19352,30149,NULL,62381,35026,"&lt;p&gt;So interesting to see how thickened/inflamed the bowel wall is!&lt;/p&gt;
+","2023-11-17 03:20:13",701817,71.232.47.195,1
+702038,19352,30149,35154,NULL,NULL,"&lt;p&gt;Woah, I did not realize it could be so pervasive throughout the entire colon like this, the patient must have had severe pain.&nbsp;&lt;/p&gt;
+","2023-11-17 03:21:15",701887,73.69.210.130,1
+702047,19352,30149,35164,NULL,NULL,"&lt;p&gt;wow interesting is that a watch???&lt;/p&gt;
+","2023-11-17 03:23:00",700951,71.184.250.121,1
+702057,19352,30149,35164,NULL,NULL,"&lt;p&gt;oh very interesting!!&lt;/p&gt;
+","2023-11-17 03:24:43",701225,71.184.250.121,1
+702068,19352,30149,35116,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Acute Pancreatitis Imaging: Practice Essentials, Radiography, Computed  Tomography&quot; src=&quot;https://img.medscapestatic.com/pi/meds/ckb/51/17951tn.jpg&quot; /&gt;&lt;/p&gt;
+","2023-11-17 03:31:30",0,98.229.30.193,1
+702072,19352,30149,35169,NULL,NULL,,"2023-11-17 03:32:29",0,73.89.28.249,1
+702074,19352,30149,35169,NULL,NULL,"&lt;p&gt;Agreed!&lt;/p&gt;
+","2023-11-17 03:33:03",700273,73.89.28.249,1
+702076,19352,30149,35169,NULL,NULL,"&lt;p&gt;Wow thanks for sharing!&lt;/p&gt;
+","2023-11-17 03:33:35",700271,73.89.28.249,1
+702077,19352,30149,NULL,62397,35073,"&lt;p&gt;The patient has an ovarian tumor&lt;/p&gt;
+","2023-11-17 03:33:37",0,73.100.28.25,1
+702082,19352,30149,35149,NULL,NULL,"&lt;p&gt;This is a tension pneumothorax in the patient&#039;s right lung. This coronal scan is pretty cool because you can pretty clearly see the collapsed right lung and the way that the trachea shifted.&nbsp;&lt;/p&gt;
+","2023-11-17 03:35:54",0,68.162.216.12,1
+702088,19352,30149,32608,NULL,NULL,"&lt;p&gt;Situs inversus totalis&nbsp;&lt;/p&gt;
+
+&lt;p&gt;CT in split-bolus excretory phase shows (a) liver, IVC on the left and spleen on the right (b) right gonadal vein opening into the right renal vein (arrow) and (c) tumour in the left lateral wall of the urinary bladder (arrowhead). IVC, inferior vena cava.&nbsp;&lt;/p&gt;
+","2023-11-17 03:38:08",0,71.233.218.244,1
+702091,19352,30149,35090,NULL,NULL,"&lt;p&gt;Wow! How did they even know to do imaging? (I feel like vomiting is common in kiddos)&lt;/p&gt;
+","2023-11-17 03:39:06",702021,38.42.224.192,1
+702096,19352,30149,35090,NULL,NULL,"&lt;p&gt;Yikes! Wonder what the survival rate is for a case like this.&nbsp;&lt;/p&gt;
+","2023-11-17 03:40:14",701686,38.42.224.192,1
+702097,19352,30149,32608,NULL,NULL,"&lt;p&gt;The enlargement is so interesting to see in comparision to the normal.&nbsp;&lt;/p&gt;
+","2023-11-17 03:40:15",701012,71.233.218.244,1
+702099,19352,30149,32608,NULL,NULL,"&lt;p&gt;Is this just after the injury or was there time to heal over?&nbsp;&lt;/p&gt;
+","2023-11-17 03:41:12",701999,71.233.218.244,1
+702101,19352,30149,35174,NULL,NULL,"&lt;p&gt;gasless right side of abdomen, what do you think this could be caused by?&nbsp;&lt;/p&gt;
+","2023-11-17 03:42:19",0,71.235.154.154,1
+702106,19352,30149,35174,NULL,NULL,"&lt;p&gt;Wow! You can clearly see the remnants of the chalk throughout this patient&#039;s intestines.&nbsp;&lt;/p&gt;
+","2023-11-17 03:43:58",701940,71.235.154.154,1
+702110,19352,30149,35174,NULL,NULL,"&lt;p&gt;I, like others, am curious to know whether this foreign body caused any damage or perforations.... and the story of how it ended up there.&nbsp;&lt;/p&gt;
+","2023-11-17 03:45:50",700266,71.235.154.154,1
+702144,19352,30149,NULL,62419,35122,"&lt;p&gt;vape too hard&lt;/p&gt;
+","2023-11-17 03:58:48",701655,73.16.33.71,1
+702157,19352,30149,35175,NULL,NULL,"&lt;p&gt;swollen lymph nodes of armpits and stomach. Lymphoma.&lt;/p&gt;
+","2023-11-17 04:04:37",0,24.2.201.69,1
+702181,19352,30149,35102,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Gastric cancer (summary) | Radiology Reference Article | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/1861761/d67ea6afa082bbfda097c4928b8e76_gallery.jpg&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:12:53",0,172.58.219.175,1
+702184,19352,30149,35181,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Left inguinal hernia on abdominal x-ray | Radiology Case | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/8007999/83bc901450a8227cd9f86e46c52eb1_gallery.jpeg&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:13:50",0,NULL,1
+702186,19352,30149,35181,NULL,NULL,"&lt;p&gt;wow, you can see those pretty clearly!&lt;/p&gt;
+","2023-11-17 04:14:33",702157,NULL,1
+702191,19352,30149,35181,NULL,NULL,"&lt;p&gt;I wonder if it&#039;s that obvious with visual observations as well&lt;/p&gt;
+","2023-11-17 04:15:29",701965,NULL,1
+702204,19352,30149,35102,NULL,NULL,"&lt;p&gt;Never have heard of this before, but definitely won&#039;t forget it&nbsp;&lt;/p&gt;
+","2023-11-17 04:17:30",699026,172.58.219.175,1
+702211,19352,30149,35102,NULL,NULL,"&lt;p&gt;Woah, definitely a lot of built up gas&lt;/p&gt;
+","2023-11-17 04:18:54",701225,172.58.219.175,1
+702234,19352,30149,32549,NULL,NULL,"&lt;p&gt;Very cool to see the outline of the small fetus skeleton!&lt;/p&gt;
+","2023-11-17 04:24:41",699187,75.69.146.164,1
+702236,19352,30149,35185,NULL,NULL,"&lt;p&gt;Very interesting to knowit doesn;t perforate the bowel&lt;/p&gt;
+","2023-11-17 04:25:31",700266,24.2.201.103,1
+702239,19352,30149,NULL,62428,35180,"&lt;p&gt;Oh wow what could&#039;ve caused this?&lt;/p&gt;
+","2023-11-17 04:27:16",702088,NULL,1
+702240,19352,30149,35165,NULL,NULL,"&lt;p&gt;I&#039;m guessing the large amount of grey is all the blood- but that definitely makes it hard to see anything else because it&#039;s all similar shades of grey.&lt;/p&gt;
+","2023-11-17 04:27:17",701477,73.16.33.71,1
+702242,19352,30149,NULL,62428,35180,"&lt;p&gt;Really clear view of the spine!&lt;/p&gt;
+","2023-11-17 04:27:50",700951,NULL,1
+702247,19352,30149,NULL,62428,35180,"&lt;p&gt;&lt;img alt=&quot;the abdominal Ct scan. one huge cystic tumor in homogeneous internal... |  Download Scientific Diagram&quot; src=&quot;https://www.researchgate.net/publication/227171232/figure/fig1/AS:454375408705546@1485342947737/the-abdominal-Ct-scan-one-huge-cystic-tumor-in-homogeneous-internal-attenuation-at.png&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:29:57",0,NULL,1
+702250,19352,30149,35176,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Buzz Lightyear X-Ray : r/WTF&quot; src=&quot;https://external-preview.redd.it/NID3Tjt6RATG1LGfnRJpQaBJii416QcVbl2zG3l-cTU.jpg?auto=webp&amp;amp;s=f4c6dfd604037c9bbd87bb7abe8d3934fa6a7df6&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:30:28",0,73.60.20.140,1
+702251,19352,30149,35176,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Buzz Lightyear X-Ray : r/WTF&quot; src=&quot;https://external-preview.redd.it/NID3Tjt6RATG1LGfnRJpQaBJii416QcVbl2zG3l-cTU.jpg?auto=webp&amp;amp;s=f4c6dfd604037c9bbd87bb7abe8d3934fa6a7df6&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:30:55",0,73.60.20.140,1
+702254,19352,30149,35165,NULL,NULL,"&lt;p&gt;I have so many questions and guesses about what this is. Is there contrast involved? What is this medical device? Hopefully it&#039;s a medical device&lt;/p&gt;
+","2023-11-17 04:32:27",702072,73.16.33.71,1
+702260,19352,30149,NULL,62425,35170,"&lt;p&gt;wow! I didn&#039;t realize how big a small intestine can become. its interesting to see how other organs of the body are affected as a consequence.&lt;/p&gt;
+","2023-11-17 04:34:57",702008,71.184.115.162,1
+702263,19352,30149,NULL,62425,35170,"&lt;p&gt;geez that is huge! look how small it makes the liver seem!&lt;/p&gt;
+","2023-11-17 04:37:03",702247,71.184.115.162,1
+702265,19352,30149,32549,NULL,NULL,"&lt;p&gt;infant suffering from Hirschsprung disease&lt;/p&gt;
+","2023-11-17 04:38:05",0,75.69.146.164,1
+702268,19352,30149,32549,NULL,NULL,"&lt;p&gt;Cool to see the precise placement of the screws in the spinal bone&lt;/p&gt;
+","2023-11-17 04:39:30",700426,75.69.146.164,1
+702279,19352,30149,35178,NULL,NULL,"&lt;p&gt;Looks like you can see the descending colon quite well!&lt;/p&gt;
+","2023-11-17 04:43:04",700249,73.16.21.29,1
+702283,19352,30149,35183,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Southwest Journal of Pulmonary, Critical Care and Sleep - Imaging - Medical  Image of the Month: Diaphragmatic Eventration&quot; src=&quot;https://www.swjpcc.com/storage/manuscripts/volume-21/issue-1-july-2020/036-20/036-20%20Figure%201.jpg?__SQUARESPACE_CACHEVERSION=1593022489410&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:43:41",0,73.114.162.38,1
+702284,19352,30149,35177,NULL,NULL,"&lt;p&gt;Great image Jess! It looks like there is some device and maybe something to do with the bladder or uterus? Very cool image&lt;/p&gt;
+","2023-11-17 04:44:03",702072,73.227.139.84,1
+702286,19352,30149,35165,NULL,NULL,"&lt;p&gt;Intestinal non-rotation (from embryology lecture&nbsp;today!)&lt;/p&gt;
+
+&lt;p&gt;See the small intestine on the patient&#039;s right and the large intestine on the patient&#039;s left&lt;/p&gt;
+","2023-11-17 04:44:06",0,73.16.33.71,1
+702287,19352,30149,35183,NULL,NULL,"&lt;p&gt;This is so interesting! I wonder if this is something they would need to surgically remove or if they wait for it to pass naturally?&nbsp;&lt;/p&gt;
+","2023-11-17 04:44:53",702019,73.114.162.38,1
+702288,19352,30149,35177,NULL,NULL,"&lt;p&gt;That is so interesting that you can see the stomach rugae. Thank you for posting and pointing it out!&lt;/p&gt;
+","2023-11-17 04:45:17",700380,73.227.139.84,1
+702290,19352,30149,NULL,62425,35170,"&lt;p&gt;wow look how big and distended this appendix got! this is appendicitis&lt;/p&gt;
+","2023-11-17 04:46:52",0,71.184.115.162,1
+702291,19352,30149,35184,NULL,NULL,"&lt;p&gt;Hirschsprung&#039;s disease?&lt;/p&gt;
+","2023-11-17 04:47:35",701500,73.114.175.185,1
+702292,19352,30149,35183,NULL,NULL,"&lt;p&gt;Wow I wonder if any part of this liver is still viable or if this patient would require a liver transplant!&lt;/p&gt;
+","2023-11-17 04:47:48",701825,73.114.162.38,1
+702293,19352,30149,35177,NULL,NULL,,"2023-11-17 04:48:07",0,73.227.139.84,1
+702296,19352,30149,35178,NULL,NULL,"&lt;p&gt;Yikes! But also great view of what looks to be the portal vein on the left image and the abdominal aorta right above its bifurcation in the right image&lt;/p&gt;
+","2023-11-17 04:48:51",701312,73.16.21.29,1
+702298,19352,30149,35184,NULL,NULL,"&lt;p&gt;is this an aortic aneurysm?&lt;/p&gt;
+","2023-11-17 04:50:42",701451,73.114.175.185,1
+702305,19352,30149,35178,NULL,NULL,"&lt;p&gt;Pepto-Bismol tablets lodged in cecum&nbsp;&lt;/p&gt;
+","2023-11-17 04:52:18",0,73.16.21.29,1
+702309,19352,30149,35184,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Cureus | Acute Cholecystitis Presenting With Atypical Radiologic or  Laboratory Findings: A Case Report | Article&quot; src=&quot;https://assets.cureus.com/uploads/figure/file/639353/article_river_b9008d70f75711ed84ba0337579b0ef5-Screenshot-2023-05-20-at-5.45.38-PM.png&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:54:19",0,73.114.175.185,1
+702314,19352,30149,35140,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Acute appendicitis | Radiology Case | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/395760/a86e6686f4046afb65fadd92e626d5_big_gallery.jpg&quot; /&gt;&lt;/p&gt;
+","2023-11-17 04:55:21",0,141.154.64.37,1
+702322,19352,30149,35091,NULL,NULL,"&lt;p&gt;This is an image of small tumor in the lungs. Its amazing to see how we can detect these, and I find it hard to understand how we can tell the different between this small tumor and the other surrounding areas.&lt;/p&gt;
+","2023-11-17 05:01:02",0,76.28.84.90,1
+702325,19352,30149,35091,NULL,NULL,"&lt;p&gt;It looks like some cutlery in the abdomen, but its hard to tell...&lt;/p&gt;
+","2023-11-17 05:02:48",701341,76.28.84.90,1
+702327,19352,30149,35091,NULL,NULL,"&lt;p&gt;Wow! And I wonder if these will attract each other and move around in the abdomen causing more issues...&lt;/p&gt;
+","2023-11-17 05:04:31",701747,76.28.84.90,1
+702329,19352,30149,35168,NULL,NULL,"&lt;p&gt;35M with a small bowel obstruction. Dilatation&nbsp;in left upper and mid abdomen and distended stomach.&lt;/p&gt;
+","2023-11-17 05:05:13",0,67.189.145.4,1
+702333,19352,30149,35168,NULL,NULL,"&lt;p&gt;So interesting, now I have a better idea of what diverticulitis looks like in imaging!&lt;/p&gt;
+","2023-11-17 05:06:41",700838,67.189.145.4,1
+702334,19352,30149,35168,NULL,NULL,"&lt;p&gt;crazy how you can actually see the inflammation on imaging&lt;/p&gt;
+","2023-11-17 05:07:31",701817,67.189.145.4,1
+702340,19352,30149,35163,NULL,NULL,"&lt;p&gt;&lt;/p&gt;
+","2023-11-17 05:11:25",0,24.62.137.1,1
+702341,19352,30149,35163,NULL,NULL,"&lt;p&gt;I did not know the small intestine could inflate so much, this is very interesting&lt;/p&gt;
+","2023-11-17 05:13:03",700326,24.62.137.1,1
+702346,19352,30149,35163,NULL,NULL,"&lt;p&gt;Very interesting photo, I am in awe at how clear you can see the baby growing inside the mother. I wonder if there are any other indications for CT scans for pregnant women aside from potential trauma, given the risk posed for the mother and the fetus&lt;/p&gt;
+","2023-11-17 05:15:04",699187,24.62.137.1,1
+702359,19352,30149,35182,NULL,NULL,"&lt;p&gt;See&nbsp;https://radiopaedia.org/cases/gallbladder-sludge-3?lang=us for the diagnosis&lt;/p&gt;
+","2023-11-17 05:36:27",0,24.34.140.154,1
+702360,19352,30149,35182,NULL,NULL,"&lt;p&gt;Illuminating choice of radiologic image!&lt;/p&gt;
+","2023-11-17 05:37:20",701948,24.34.140.154,1
+702362,19352,30149,29654,NULL,NULL,"&lt;p&gt;this is an enormous liver&lt;/p&gt;
+","2023-11-17 05:38:10",700273,24.147.8.18,1
+702363,19352,30149,35182,NULL,NULL,"&lt;p&gt;What would be the cause for the difference in shading?&lt;/p&gt;
+","2023-11-17 05:38:11",701592,24.34.140.154,1
+702365,19352,30149,35188,NULL,NULL,"&lt;p&gt;This is a scan showing a patient who has situs inversus totalis, a rare congenital condition where the abdominal and thoracic organs develop in the reversed positions of their normal anatomy. This&nbsp;why organs such as the liver can be seen in the left side of the patient&#039;s abdominal cavity rather than the right.&nbsp;&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-11-17 05:39:19",0,NULL,1
+702369,19352,30149,29654,NULL,NULL,"&lt;p&gt;When you see how much space the fetus takes up, it&#039;s super easy to understand why pregnant people complain about back pain and visceral discomfort!!&lt;/p&gt;
+","2023-11-17 05:42:37",699187,24.147.8.18,1
+702372,19352,30149,29654,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Abdominal compartment syndrome | Radiology Reference Article ...&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/47220032/d309fc87a6d92b125f13a09d4ae424_gallery.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This image shows abdominal compartment syndrome! You can tell because of the abdominal ratio- the AP axis is longer than normal. When this happens, the high intra-abdominal pressure can lead to multi-organ failure if not treated promptly.&lt;/p&gt;
+","2023-11-17 05:45:23",0,24.147.8.18,1
+702374,19352,30149,29654,NULL,NULL,"&lt;p&gt;is that a chainsaw???&lt;/p&gt;
+","2023-11-17 05:46:44",701434,24.147.8.18,1
+702377,19352,30149,35188,NULL,NULL,"&lt;p&gt;This is interesting. I wonder if the magnets were initially spread out and then joined together because of the attraction. It would be interesting&nbsp;if he was asymptomatic while they were spread out and then developed symptoms after the magnets joined.&lt;/p&gt;
+","2023-11-17 05:49:23",701369,NULL,1
+702378,19352,30149,35188,NULL,NULL,"&lt;p&gt;I would also be interested to know if the safety pin in this case perforated the bowel. I wonder if the patient would be at a lower risk of perforation if the safety pin was closed because then the sharp end of the pin wouldn&#039;t be as exposed as it is here in the open position.&lt;/p&gt;
+","2023-11-17 05:51:42",700266,NULL,1
+702390,19352,30149,35131,NULL,NULL,"&lt;p&gt;Hepatic metastases from colorectal cancer&lt;/p&gt;
+","2023-11-17 06:27:25",0,98.229.30.193,1
+702392,19352,30149,35131,NULL,NULL,"&lt;p&gt;That is enormous. Is it a tumor?&lt;/p&gt;
+","2023-11-17 06:29:43",702247,98.229.30.193,1
+702393,19352,30149,35187,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Thoracopagus Conjoined Twins | Circulation&quot; src=&quot;https://www.ahajournals.org/cms/asset/9cbe33db-c2dc-419e-8635-a1b8644dd154/20ff1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conjoined twins brings abdominal anatomy to level 100000.&lt;/p&gt;
+
+&lt;p&gt;This is referred to as&nbsp;thoracopagus conjoined twins. They are conjoined on their ventral abdominal walls, &lt;em&gt;generally&lt;/em&gt; sharing a liver and a diaphragm (unsure about the abdominal organs). Both twins have a heart that remains conjoined in an unbalanced manner. The image was taken post-mortem at an approximate gestational age of 22 weeks.&lt;/p&gt;
+","2023-11-17 06:31:53",0,73.218.234.251,1
+702395,19352,30149,35131,NULL,NULL,"&lt;p&gt;Interesting to see it from the transverse plane&lt;/p&gt;
+","2023-11-17 06:34:25",701743,98.229.30.193,1
+702404,19352,30149,35173,NULL,NULL,"&lt;p&gt;CT of diverticulitis- arrows show thickened sigmoid colon&nbsp;&lt;/p&gt;
+","2023-11-17 06:54:27",0,73.60.232.140,1
+702406,19352,30149,35173,NULL,NULL,"&lt;p&gt;I wonder if this can cause any discomfort and if so, how that might feel/present?&nbsp;&lt;/p&gt;
+","2023-11-17 06:57:50",702019,73.60.232.140,1
+702409,19352,30149,35191,NULL,NULL,"&lt;p&gt;Cervical Fracture&lt;/p&gt;
+","2023-11-17 07:03:37",0,71.192.2.42,1
+702410,19352,30149,35191,NULL,NULL,"&lt;p&gt;Never forgetting the double bubble&lt;/p&gt;
+","2023-11-17 07:04:13",699026,71.192.2.42,1
+702411,19352,30149,35191,NULL,NULL,"&lt;p&gt;Wonder if magnets can cause distortion of the intestines as they&#039;re passing through&lt;/p&gt;
+","2023-11-17 07:07:02",700271,71.192.2.42,1
+702412,19352,30149,35191,NULL,NULL,,"2023-11-17 07:08:33",0,71.192.2.42,1
+702424,19352,30149,12020,NULL,NULL,"&lt;p&gt;It always amazes me how large tumors can grow inside our bodies.&nbsp; When I first dissected the abdomen, I was amazed at how much &quot;fit&quot; in the abdominal pelvic cavity and it was hard to understand how there could be even more.&nbsp; When we get to the repro block, we will discuss the anatomical changes associated with pregnancy - the fetus takes up a lot of room and the body has to accommodate.&lt;/p&gt;
+","2023-11-17 11:51:00",699022,130.64.66.143,1
+702433,19352,30149,12020,NULL,NULL,"&lt;p&gt;I&#039;ll have to use this in a lecture!&nbsp; Thanks for the treasure.&lt;/p&gt;
+","2023-11-17 11:58:55",700380,130.64.66.143,1
+702436,19352,30149,12020,NULL,NULL,"&lt;p&gt;Great image - I don&#039;t think I&#039;ve ever seen a leiomyosarcoma of the IVC.&lt;/p&gt;
+","2023-11-17 12:01:46",701163,130.64.66.143,1
+702438,19352,30149,12020,NULL,NULL,"&lt;p&gt;Great image.&nbsp; There is not contrast in the bladder, it is actually in the rectum.&nbsp; The rectum, along with the stomach, are two places in the GI tract where contents can get &quot;stored&quot;.&nbsp; This is a distended rectum.&nbsp; In lab you will see varius sizes of rectum depending on how much fecal contents where stored when the person died.&lt;/p&gt;
+","2023-11-17 12:03:54",700826,130.64.66.143,1
+702439,19352,30149,12020,NULL,NULL,"&lt;p&gt;There is a case in lab - Table 16 I think - of a bowel perforation secondary to sigmoid diverticulitis.&nbsp;&nbsp;&lt;/p&gt;
+","2023-11-17 12:05:07",700838,130.64.66.143,1
+702440,19352,30149,12020,NULL,NULL,"&lt;p&gt;Very important to recognize COVID sequelae in radiology.&nbsp; Great image.&lt;/p&gt;
+","2023-11-17 12:05:41",700445,130.64.66.143,1
+702443,19352,30149,12020,NULL,NULL,"&lt;p&gt;This is an anatomic variant, sometimes also called a &quot;sliver of the liver&quot;.&nbsp; It can wrap around the spleen and make the liver and spleen difficult to differentiate on scans.&nbsp; It is an anatomic variant that most people never even know they have, but it can have some consequences&nbsp;- for example, it can be involved in blunt trauma and then mistaken for a splenic injury.&lt;/p&gt;
+","2023-11-17 12:09:49",701101,130.64.66.143,1
+702445,19352,30149,12020,NULL,NULL,"&lt;p&gt;Beautiful example of the &quot;classic&quot; radiologic finding.&lt;/p&gt;
+","2023-11-17 12:10:28",699026,130.64.66.143,1
+702452,19352,30149,12020,NULL,NULL,"&lt;p&gt;Amazing image.&nbsp; As I wrote in another post, we will discuss the anatomy of pregnancy in the repro block.&nbsp;&nbsp;&lt;/p&gt;
+","2023-11-17 12:24:27",699187,130.64.66.143,1
+702453,19352,30149,12020,NULL,NULL,"&lt;p&gt;What a terrific treasure hunt!&nbsp; I have lots of new cases and examples to use in future lectures and your discussions were filled with curiosity and insight.&nbsp; You did great!&lt;/p&gt;
+","2023-11-17 12:25:15",0,130.64.66.143,1
+702455,19352,30149,12020,NULL,NULL,"&lt;p&gt;We will see an example of this in lab.&nbsp;&nbsp;&lt;/p&gt;
+","2023-11-17 12:29:20",701126,130.64.66.143,1
+702457,19352,30149,35195,NULL,NULL,"&lt;p&gt;A 7-year-old girl was brought to the emergency department because of moderate pain on swallowing and mild upper abdominal discomfort.&nbsp;&lt;/p&gt;
+","2023-11-17 12:32:48",0,71.174.72.219,1
+702464,19352,30149,35166,NULL,NULL,"&lt;p&gt;Wow! My brother did this when he was younger- now I know what it might have looked like!&lt;/p&gt;
+","2023-11-17 12:41:06",700337,71.232.60.140,1
+702469,19352,30149,35194,NULL,NULL,"&lt;p&gt;Case courtesy of Jeremy Jones, &amp;lt;a href=&quot;https://radiopaedia.org/?lang=us&quot;&amp;gt;Radiopaedia.org&amp;lt;/a&amp;gt;. From the case &amp;lt;a href=&quot;https://radiopaedia.org/cases/6200?lang=us&quot;&amp;gt;rID: 6200&amp;lt;/a&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Colonic diverticula. Cool to see this on xray!&lt;/p&gt;
+
+&lt;p&gt;&nbsp;&lt;/p&gt;
+","2023-11-17 12:46:35",0,NULL,1
+702473,19352,30149,35194,NULL,NULL,"&lt;p&gt;Whoa look at those gall stones! Nice! Interesting how they&#039;re all hugging the same side of the gallbladder. Hard to visualize without a XR&lt;/p&gt;
+","2023-11-17 12:49:27",702309,NULL,1
+702474,19352,30149,35194,NULL,NULL,"&lt;p&gt;Interesting to see how the collapsed lung pushes everything downards!&lt;/p&gt;
+","2023-11-17 12:49:41",701744,NULL,1
+702492,19352,30149,35054,NULL,NULL,"&lt;p&gt;Very interesting Brody! Great find.&lt;/p&gt;
+","2023-11-17 13:05:42",700249,209.6.153.175,1
+702493,19352,30149,35054,NULL,NULL,"&lt;p&gt;Wow! Crazy you can see them so clearly.&nbsp;&lt;/p&gt;
+","2023-11-17 13:06:39",702305,209.6.153.175,1
+702495,19352,30149,35054,NULL,NULL,"&lt;p&gt;Scan of a man who swallowed&nbsp;his house key while intoxicated.&nbsp;&lt;/p&gt;
+","2023-11-17 13:10:03",0,209.6.153.175,1
+702551,19352,30149,35193,NULL,NULL,"&lt;p&gt;&lt;img alt=&quot;Subhepatic cecum | Radiology Case | Radiopaedia.org&quot; src=&quot;https://prod-images-static.radiopaedia.org/images/14342345/91a6620be4b31588a90ed70e52e064_gallery.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A case of&nbsp;Subhepatic appendicitis&lt;/p&gt;
+","2023-11-17 15:35:24",0,174.242.68.206,1
+702552,19352,30149,35193,NULL,NULL,"&lt;p&gt;He won&#039;t lose it for approximately 2 days!&lt;/p&gt;
+","2023-11-17 15:36:52",702495,174.242.68.206,1
+702558,19352,30149,35193,NULL,NULL,"&lt;p&gt;Why would the inflammation look lighter? I would think blood coming in would keep the medium gray coloration?&lt;/p&gt;
+","2023-11-17 15:39:56",701817,174.242.68.206,1
+702665,19352,30149,32608,NULL,NULL,"&lt;p&gt;They&#039;re born this way! So probably some flipping and flopping during the embryotic period.&nbsp;&lt;/p&gt;
+","2023-11-18 00:39:28",702088,71.233.218.244,1
+703165,19352,30149,35203,NULL,NULL,"&lt;p&gt;There is a wide necked right lower quadrant incisional hernia containing multiple distal small bowel loops.&lt;/p&gt;
+
+&lt;p&gt;[Likely through previous hysterectomy scar]&lt;/p&gt;
+","2023-11-27 05:48:33",0,NULL,1
