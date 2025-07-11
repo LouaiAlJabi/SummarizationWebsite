@@ -41,7 +41,7 @@ app.listen(port, () => {
 });
 
 // Functions from the provided code
-const filePath = "/Users/louai.aijabi/Desktop/Study/Spring2024/Internship/TextSamples/cs11448lq18426.csv";
+const filePath = "LouaiAlJabi/SummarizationWebsite/TextSamples/cs7272lq13253.csv";
 const huggingFaceModels = ['Xenova/bart-large-cnn', 'Xenova/distilbart-xsum-12-6', 'Xenova/distilbart-cnn-6-6'];
 
 function ExtractDecodeText(data, responses) {
